@@ -142,9 +142,9 @@ function renderEntry(entry) {
   node.querySelector('.badge').textContent = entry.review.status || 'draft';
 
   const fields = node.querySelector('.fields');
-  addField(fields, 'Sublema/Varian', renderSubentriesAndVariants(entry.subentries, entry.variants));
   addField(fields, 'Indonesia', entry.translations.join('; '));
   addField(fields, 'Contoh', renderExamples(entry.examples));
+  addField(fields, 'Sublema/Varian', renderSubentriesAndVariants(entry.subentries, entry.variants));
   return node;
 }
 
