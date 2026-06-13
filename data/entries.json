@@ -144,19 +144,7 @@
         "translation_id": "hidup di dunia tidak abadi"
       }
     ],
-    "variants": [
-      {
-        "label": "aba.di",
-        "part_of_speech": "adjective",
-        "translations": [
-          {
-            "language": "id",
-            "text": "abadi"
-          }
-        ],
-        "examples": []
-      }
-    ],
+    "variants": [],
     "subentries": [],
     "notes": "OCR page-028; parsed from original dictionary structure.",
     "source": {
@@ -168,7 +156,8 @@
       "status": "needs_review",
       "reviewed_by": null,
       "reviewed_at": null
-    }
+    },
+    "syllable_form": "aba.di"
   },
   {
     "id": "paser-000006",
@@ -187,19 +176,7 @@
         "translation_id": "dia baru belajar menulis"
       }
     ],
-    "variants": [
-      {
-        "label": "ab.jad",
-        "part_of_speech": "noun",
-        "translations": [
-          {
-            "language": "id",
-            "text": "abjad"
-          }
-        ],
-        "examples": []
-      }
-    ],
+    "variants": [],
     "subentries": [],
     "notes": "OCR page-028; parsed from original dictionary structure.",
     "source": {
@@ -211,7 +188,8 @@
       "status": "needs_review",
       "reviewed_by": null,
       "reviewed_at": null
-    }
+    },
+    "syllable_form": "ab.jad"
   },
   {
     "id": "paser-000007",
@@ -261,19 +239,7 @@
         "translation_id": "di rumahnya ada acara"
       }
     ],
-    "variants": [
-      {
-        "label": "aca.ra",
-        "part_of_speech": "noun",
-        "translations": [
-          {
-            "language": "id",
-            "text": "acara"
-          }
-        ],
-        "examples": []
-      }
-    ],
+    "variants": [],
     "subentries": [],
     "notes": "OCR page-028; parsed from original dictionary structure.",
     "source": {
@@ -285,7 +251,8 @@
       "status": "needs_review",
       "reviewed_by": null,
       "reviewed_at": null
-    }
+    },
+    "syllable_form": "aca.ra"
   },
   {
     "id": "paser-000009",
@@ -534,19 +501,7 @@
       }
     ],
     "examples": [],
-    "variants": [
-      {
-        "label": "Jadu",
-        "part_of_speech": "verb",
-        "translations": [
-          {
-            "language": "id",
-            "text": "rias; hias"
-          }
-        ],
-        "examples": []
-      }
-    ],
+    "variants": [],
     "subentries": [
       {
         "label": "ngeradu",
@@ -637,19 +592,7 @@
       }
     ],
     "examples": [],
-    "variants": [
-      {
-        "label": "2adu",
-        "part_of_speech": "adjective",
-        "translations": [
-          {
-            "language": "id",
-            "text": "kemas"
-          }
-        ],
-        "examples": []
-      }
-    ],
+    "variants": [],
     "subentries": [
       {
         "label": "nge.ra.du",
@@ -717,19 +660,7 @@
         "translation_id": "apa agamanya?"
       }
     ],
-    "variants": [
-      {
-        "label": "aga.ma",
-        "part_of_speech": "unknown",
-        "translations": [
-          {
-            "language": "id",
-            "text": "agama"
-          }
-        ],
-        "examples": []
-      }
-    ],
+    "variants": [],
     "subentries": [],
     "notes": "OCR page-029; parsed from original dictionary structure.",
     "source": {
@@ -741,7 +672,8 @@
       "status": "needs_review",
       "reviewed_by": null,
       "reviewed_at": null
-    }
+    },
+    "syllable_form": "aga.ma"
   },
   {
     "id": "paser-000017",
@@ -791,19 +723,7 @@
         "translation_id": "berbudi pekerti dengan ahlak yang baik"
       }
     ],
-    "variants": [
-      {
-        "label": "ah.lak",
-        "part_of_speech": "adjective",
-        "translations": [
-          {
-            "language": "id",
-            "text": "akhlak"
-          }
-        ],
-        "examples": []
-      }
-    ],
+    "variants": [],
     "subentries": [],
     "notes": "OCR page-029; parsed from original dictionary structure.",
     "source": {
@@ -815,7 +735,8 @@
       "status": "needs_review",
       "reviewed_by": null,
       "reviewed_at": null
-    }
+    },
+    "syllable_form": "ah.lak"
   },
   {
     "id": "paser-000019",
@@ -869,19 +790,7 @@
         "translation_id": "ahli sihir"
       }
     ],
-    "variants": [
-      {
-        "label": "ah.li",
-        "part_of_speech": "noun",
-        "translations": [
-          {
-            "language": "id",
-            "text": "ahli; pakar; spesialis"
-          }
-        ],
-        "examples": []
-      }
-    ],
+    "variants": [],
     "subentries": [],
     "notes": "OCR page-029; parsed from original dictionary structure.",
     "source": {
@@ -893,7 +802,8 @@
       "status": "needs_review",
       "reviewed_by": null,
       "reviewed_at": null
-    }
+    },
+    "syllable_form": "ah.li"
   },
   {
     "id": "paser-000021",
@@ -976,19 +886,7 @@
         "translation_id": "ajaib sekali dilihat"
       }
     ],
-    "variants": [
-      {
-        "label": "aja.ib",
-        "part_of_speech": "adjective",
-        "translations": [
-          {
-            "language": "id",
-            "text": "ajaib"
-          }
-        ],
-        "examples": []
-      }
-    ],
+    "variants": [],
     "subentries": [],
     "notes": "OCR page-030; parsed from original dictionary structure.",
     "source": {
@@ -1000,7 +898,8 @@
       "status": "needs_review",
       "reviewed_by": null,
       "reviewed_at": null
-    }
+    },
+    "syllable_form": "aja.ib"
   },
   {
     "id": "paser-000023",
@@ -1243,19 +1142,7 @@
         "translation_id": "selamat mo akhérat selamat di dunia"
       }
     ],
-    "variants": [
-      {
-        "label": "akhé.rat",
-        "part_of_speech": "noun",
-        "translations": [
-          {
-            "language": "id",
-            "text": "akhirat"
-          }
-        ],
-        "examples": []
-      }
-    ],
+    "variants": [],
     "subentries": [],
     "notes": "OCR page-030; parsed from original dictionary structure.",
     "source": {
@@ -1267,7 +1154,8 @@
       "status": "needs_review",
       "reviewed_by": null,
       "reviewed_at": null
-    }
+    },
+    "syllable_form": "akhé.rat"
   },
   {
     "id": "paser-000030",
@@ -1639,19 +1527,7 @@
         "translation_id": "di mana?"
       }
     ],
-    "variants": [
-      {
-        "label": "ala.mat",
-        "part_of_speech": "unknown",
-        "translations": [
-          {
-            "language": "id",
-            "text": "alamat"
-          }
-        ],
-        "examples": []
-      }
-    ],
+    "variants": [],
     "subentries": [],
     "notes": "OCR page-031; parsed from original dictionary structure.",
     "source": {
@@ -1663,7 +1539,8 @@
       "status": "needs_review",
       "reviewed_by": null,
       "reviewed_at": null
-    }
+    },
+    "syllable_form": "ala.mat"
   },
   {
     "id": "paser-000040",
@@ -1713,19 +1590,7 @@
         "translation_id": "banyak sekali alasannya"
       }
     ],
-    "variants": [
-      {
-        "label": "alas.an",
-        "part_of_speech": "noun",
-        "translations": [
-          {
-            "language": "id",
-            "text": "alasan"
-          }
-        ],
-        "examples": []
-      }
-    ],
+    "variants": [],
     "subentries": [],
     "notes": "OCR page-031; parsed from original dictionary structure.",
     "source": {
@@ -1737,7 +1602,8 @@
       "status": "needs_review",
       "reviewed_by": null,
       "reviewed_at": null
-    }
+    },
+    "syllable_form": "alas.an"
   },
   {
     "id": "paser-000042",
@@ -1824,19 +1690,7 @@
         "translation_id": "itu besar sekali badannya"
       }
     ],
-    "variants": [
-      {
-        "label": "al.go.jo",
-        "part_of_speech": "noun",
-        "translations": [
-          {
-            "language": "id",
-            "text": "algojo"
-          }
-        ],
-        "examples": []
-      }
-    ],
+    "variants": [],
     "subentries": [],
     "notes": "OCR page-031; parsed from original dictionary structure.",
     "source": {
@@ -1848,7 +1702,8 @@
       "status": "needs_review",
       "reviewed_by": null,
       "reviewed_at": null
-    }
+    },
+    "syllable_form": "al.go.jo"
   },
   {
     "id": "paser-000044",
@@ -1995,19 +1850,7 @@
         "translation_id": "dia sering alpa"
       }
     ],
-    "variants": [
-      {
-        "label": "al.pa",
-        "part_of_speech": "adjective",
-        "translations": [
-          {
-            "language": "id",
-            "text": "alpa; absen"
-          }
-        ],
-        "examples": []
-      }
-    ],
+    "variants": [],
     "subentries": [],
     "notes": "OCR page-032; parsed from original dictionary structure.",
     "source": {
@@ -2019,7 +1862,8 @@
       "status": "needs_review",
       "reviewed_by": null,
       "reviewed_at": null
-    }
+    },
+    "syllable_form": "al.pa"
   },
   {
     "id": "paser-000049",
@@ -2269,19 +2113,7 @@
         "translation_id": "ada wasiat dari orang tua"
       }
     ],
-    "variants": [
-      {
-        "label": "ama.nat",
-        "part_of_speech": "unknown",
-        "translations": [
-          {
-            "language": "id",
-            "text": "amanat; wasiat"
-          }
-        ],
-        "examples": []
-      }
-    ],
+    "variants": [],
     "subentries": [],
     "notes": "OCR page-032; parsed from original dictionary structure.",
     "source": {
@@ -2293,7 +2125,8 @@
       "status": "needs_review",
       "reviewed_by": null,
       "reviewed_at": null
-    }
+    },
+    "syllable_form": "ama.nat"
   },
   {
     "id": "paser-000056",
@@ -2312,19 +2145,7 @@
         "translation_id": "ada bayangan badan terkena sinar matahari"
       }
     ],
-    "variants": [
-      {
-        "label": "am.ba",
-        "part_of_speech": "noun",
-        "translations": [
-          {
-            "language": "id",
-            "text": "bayangan"
-          }
-        ],
-        "examples": []
-      }
-    ],
+    "variants": [],
     "subentries": [],
     "notes": "OCR page-032; parsed from original dictionary structure.",
     "source": {
@@ -2336,7 +2157,8 @@
       "status": "needs_review",
       "reviewed_by": null,
       "reviewed_at": null
-    }
+    },
+    "syllable_form": "am.ba"
   },
   {
     "id": "paser-000057",
@@ -2355,19 +2177,7 @@
         "translation_id": "dia karena tidak berani tinggal sendirian"
       }
     ],
-    "variants": [
-      {
-        "label": "am.bi",
-        "part_of_speech": "verb",
-        "translations": [
-          {
-            "language": "id",
-            "text": "jaga, temani"
-          }
-        ],
-        "examples": []
-      }
-    ],
+    "variants": [],
     "subentries": [
       {
         "label": "ngam.bi",
@@ -2396,7 +2206,8 @@
       "status": "needs_review",
       "reviewed_by": null,
       "reviewed_at": null
-    }
+    },
+    "syllable_form": "am.bi"
   },
   {
     "id": "paser-000058",
@@ -2458,19 +2269,7 @@
         "translation_id": "ambung tinggi-tinggi"
       }
     ],
-    "variants": [
-      {
-        "label": "am.bung",
-        "part_of_speech": "verb",
-        "translations": [
-          {
-            "language": "id",
-            "text": "ambung"
-          }
-        ],
-        "examples": []
-      }
-    ],
+    "variants": [],
     "subentries": [
       {
         "label": "ngam.bung",
@@ -2515,7 +2314,8 @@
       "status": "needs_review",
       "reviewed_by": null,
       "reviewed_at": null
-    }
+    },
+    "syllable_form": "am.bung"
   },
   {
     "id": "paser-000060",
@@ -2538,19 +2338,7 @@
         "translation_id": "dia menghambur beras"
       }
     ],
-    "variants": [
-      {
-        "label": "am.bur",
-        "part_of_speech": "verb",
-        "translations": [
-          {
-            "language": "id",
-            "text": "hambur"
-          }
-        ],
-        "examples": []
-      }
-    ],
+    "variants": [],
     "subentries": [
       {
         "label": "bam.bur",
@@ -2583,7 +2371,8 @@
       "status": "needs_review",
       "reviewed_by": null,
       "reviewed_at": null
-    }
+    },
+    "syllable_form": "am.bur"
   },
   {
     "id": "paser-000061",
@@ -2676,19 +2465,7 @@
         "translation_id": "terlebih dahulu supaya orang lain tidak membelinya!"
       }
     ],
-    "variants": [
-      {
-        "label": "am.pat",
-        "part_of_speech": "unknown",
-        "translations": [
-          {
-            "language": "id",
-            "text": "pesan (ttg barang)"
-          }
-        ],
-        "examples": []
-      }
-    ],
+    "variants": [],
     "subentries": [
       {
         "label": "ngam.pat",
@@ -2733,7 +2510,8 @@
       "status": "needs_review",
       "reviewed_by": null,
       "reviewed_at": null
-    }
+    },
+    "syllable_form": "am.pat"
   },
   {
     "id": "paser-000064",
@@ -2752,19 +2530,7 @@
         "translation_id": "paman membeli limpa sapi"
       }
     ],
-    "variants": [
-      {
-        "label": "am.pau",
-        "part_of_speech": "noun",
-        "translations": [
-          {
-            "language": "id",
-            "text": "limpa"
-          }
-        ],
-        "examples": []
-      }
-    ],
+    "variants": [],
     "subentries": [],
     "notes": "OCR page-033; parsed from original dictionary structure.",
     "source": {
@@ -2776,7 +2542,8 @@
       "status": "needs_review",
       "reviewed_by": null,
       "reviewed_at": null
-    }
+    },
+    "syllable_form": "am.pau"
   },
   {
     "id": "paser-000065",
@@ -2799,19 +2566,7 @@
         "translation_id": "di rumah?"
       }
     ],
-    "variants": [
-      {
-        "label": "am.pé",
-        "part_of_speech": "unknown",
-        "translations": [
-          {
-            "language": "id",
-            "text": "hingga; sampai; tiba"
-          }
-        ],
-        "examples": []
-      }
-    ],
+    "variants": [],
     "subentries": [
       {
         "label": "nyam.pe",
@@ -2856,7 +2611,8 @@
       "status": "needs_review",
       "reviewed_by": null,
       "reviewed_at": null
-    }
+    },
+    "syllable_form": "am.pé"
   },
   {
     "id": "paser-000066",
@@ -2883,19 +2639,7 @@
         "translation_id": "mertua laki-laki"
       }
     ],
-    "variants": [
-      {
-        "label": "am.pu",
-        "part_of_speech": "unknown",
-        "translations": [
-          {
-            "language": "id",
-            "text": "mertua"
-          }
-        ],
-        "examples": []
-      }
-    ],
+    "variants": [],
     "subentries": [],
     "notes": "OCR page-033; parsed from original dictionary structure.",
     "source": {
@@ -2907,7 +2651,8 @@
       "status": "needs_review",
       "reviewed_by": null,
       "reviewed_at": null
-    }
+    },
+    "syllable_form": "am.pu"
   },
   {
     "id": "paser-000067",
@@ -2926,19 +2671,7 @@
         "translation_id": "dia sudah minta maaf"
       }
     ],
-    "variants": [
-      {
-        "label": "am.pun",
-        "part_of_speech": "unknown",
-        "translations": [
-          {
-            "language": "id",
-            "text": "ampun; maaf"
-          }
-        ],
-        "examples": []
-      }
-    ],
+    "variants": [],
     "subentries": [
       {
         "label": "nam.pun",
@@ -2967,7 +2700,8 @@
       "status": "needs_review",
       "reviewed_by": null,
       "reviewed_at": null
-    }
+    },
+    "syllable_form": "am.pun"
   },
   {
     "id": "paser-000068",
@@ -3178,19 +2912,7 @@
         "translation_id": "dia ancam orang itu"
       }
     ],
-    "variants": [
-      {
-        "label": "an.cam",
-        "part_of_speech": "unknown",
-        "translations": [
-          {
-            "language": "id",
-            "text": "ancam"
-          }
-        ],
-        "examples": []
-      }
-    ],
+    "variants": [],
     "subentries": [
       {
         "label": "ngan.cam",
@@ -3235,7 +2957,8 @@
       "status": "needs_review",
       "reviewed_by": null,
       "reviewed_at": null
-    }
+    },
+    "syllable_form": "an.cam"
   },
   {
     "id": "paser-000071",
@@ -3254,19 +2977,7 @@
         "translation_id": "barang itu hancur karena sudah lama"
       }
     ],
-    "variants": [
-      {
-        "label": "an.cur",
-        "part_of_speech": "adjective",
-        "translations": [
-          {
-            "language": "id",
-            "text": "hancur"
-          }
-        ],
-        "examples": []
-      }
-    ],
+    "variants": [],
     "subentries": [
       {
         "label": "ngan.cur",
@@ -3311,7 +3022,8 @@
       "status": "needs_review",
       "reviewed_by": null,
       "reviewed_at": null
-    }
+    },
+    "syllable_form": "an.cur"
   },
   {
     "id": "paser-000072",
@@ -3330,19 +3042,7 @@
         "translation_id": "saya menjadi orang kaya"
       }
     ],
-    "variants": [
-      {
-        "label": "an.dai",
-        "part_of_speech": "noun",
-        "translations": [
-          {
-            "language": "id",
-            "text": "umpama; misal; andai"
-          }
-        ],
-        "examples": []
-      }
-    ],
+    "variants": [],
     "subentries": [],
     "notes": "OCR page-034; parsed from original dictionary structure.",
     "source": {
@@ -3354,7 +3054,8 @@
       "status": "needs_review",
       "reviewed_by": null,
       "reviewed_at": null
-    }
+    },
+    "syllable_form": "an.dai"
   },
   {
     "id": "paser-000073",
@@ -3373,19 +3074,7 @@
         "translation_id": "di terminal!"
       }
     ],
-    "variants": [
-      {
-        "label": "an.dék",
-        "part_of_speech": "verb",
-        "translations": [
-          {
-            "language": "id",
-            "text": "ambil; 2 jemput"
-          }
-        ],
-        "examples": []
-      }
-    ],
+    "variants": [],
     "subentries": [],
     "notes": "OCR page-034; parsed from original dictionary structure.",
     "source": {
@@ -3397,7 +3086,8 @@
       "status": "needs_review",
       "reviewed_by": null,
       "reviewed_at": null
-    }
+    },
+    "syllable_form": "an.dék"
   },
   {
     "id": "paser-000074",
@@ -3411,19 +3101,7 @@
       }
     ],
     "examples": [],
-    "variants": [
-      {
-        "label": "an.dék",
-        "part_of_speech": "verb",
-        "translations": [
-          {
-            "language": "id",
-            "text": "ambil; jemput"
-          }
-        ],
-        "examples": []
-      }
-    ],
+    "variants": [],
     "subentries": [
       {
         "label": "ngan.dék",
@@ -3476,7 +3154,8 @@
       "status": "needs_review",
       "reviewed_by": null,
       "reviewed_at": null
-    }
+    },
+    "syllable_form": "an.dék"
   },
   {
     "id": "paser-000075",
@@ -3490,19 +3169,7 @@
       }
     ],
     "examples": [],
-    "variants": [
-      {
-        "label": "an.dén",
-        "part_of_speech": "noun",
-        "translations": [
-          {
-            "language": "id",
-            "text": "gelar kebangsawanan masyarakat Paser"
-          }
-        ],
-        "examples": []
-      }
-    ],
+    "variants": [],
     "subentries": [],
     "notes": "OCR page-035; parsed from original dictionary structure.",
     "source": {
@@ -3514,7 +3181,8 @@
       "status": "needs_review",
       "reviewed_by": null,
       "reviewed_at": null
-    }
+    },
+    "syllable_form": "an.dén"
   },
   {
     "id": "paser-000076",
@@ -3533,19 +3201,7 @@
         "translation_id": "wajah kakak mirip dengan wajah adik"
       }
     ],
-    "variants": [
-      {
-        "label": "an.di",
-        "part_of_speech": "noun",
-        "translations": [
-          {
-            "language": "id",
-            "text": "kakak"
-          }
-        ],
-        "examples": []
-      }
-    ],
+    "variants": [],
     "subentries": [],
     "notes": "OCR page-035; parsed from original dictionary structure.",
     "source": {
@@ -3557,7 +3213,8 @@
       "status": "needs_review",
       "reviewed_by": null,
       "reviewed_at": null
-    }
+    },
+    "syllable_form": "an.di"
   },
   {
     "id": "paser-000077",
@@ -3576,19 +3233,7 @@
         "translation_id": "ambilkan handuk itu!"
       }
     ],
-    "variants": [
-      {
-        "label": "an.duk",
-        "part_of_speech": "unknown",
-        "translations": [
-          {
-            "language": "id",
-            "text": "handuk"
-          }
-        ],
-        "examples": []
-      }
-    ],
+    "variants": [],
     "subentries": [],
     "notes": "OCR page-035; parsed from original dictionary structure.",
     "source": {
@@ -3600,7 +3245,8 @@
       "status": "needs_review",
       "reviewed_by": null,
       "reviewed_at": null
-    }
+    },
+    "syllable_form": "an.duk"
   },
   {
     "id": "paser-000078",
@@ -3678,19 +3324,7 @@
         "translation_id": "tempat jenazah"
       }
     ],
-    "variants": [
-      {
-        "label": "ang.go.ngan",
-        "part_of_speech": "noun",
-        "translations": [
-          {
-            "language": "id",
-            "text": "keranda"
-          }
-        ],
-        "examples": []
-      }
-    ],
+    "variants": [],
     "subentries": [],
     "notes": "OCR page-035; parsed from original dictionary structure.",
     "source": {
@@ -3702,7 +3336,8 @@
       "status": "needs_review",
       "reviewed_by": null,
       "reviewed_at": null
-    }
+    },
+    "syllable_form": "ang.go.ngan"
   },
   {
     "id": "paser-000080",
@@ -3721,19 +3356,7 @@
         "translation_id": "kakek suka makan anggur"
       }
     ],
-    "variants": [
-      {
-        "label": "ang.gur",
-        "part_of_speech": "unknown",
-        "translations": [
-          {
-            "language": "id",
-            "text": "buah anggur"
-          }
-        ],
-        "examples": []
-      }
-    ],
+    "variants": [],
     "subentries": [],
     "notes": "OCR page-035; parsed from original dictionary structure.",
     "source": {
@@ -3745,7 +3368,8 @@
       "status": "needs_review",
       "reviewed_by": null,
       "reviewed_at": null
-    }
+    },
+    "syllable_form": "ang.gur"
   },
   {
     "id": "paser-000081",
@@ -3764,19 +3388,7 @@
         "translation_id": "angka satu"
       }
     ],
-    "variants": [
-      {
-        "label": "ang.ka",
-        "part_of_speech": "noun",
-        "translations": [
-          {
-            "language": "id",
-            "text": "angka"
-          }
-        ],
-        "examples": []
-      }
-    ],
+    "variants": [],
     "subentries": [],
     "notes": "OCR page-035; parsed from original dictionary structure.",
     "source": {
@@ -3788,7 +3400,8 @@
       "status": "needs_review",
       "reviewed_by": null,
       "reviewed_at": null
-    }
+    },
+    "syllable_form": "ang.ka"
   },
   {
     "id": "paser-000082",
@@ -3807,19 +3420,7 @@
         "translation_id": "dia masih dibutuhkan orang"
       }
     ],
-    "variants": [
-      {
-        "label": "ang.ket",
-        "part_of_speech": "verb",
-        "translations": [
-          {
-            "language": "id",
-            "text": "diperlukan, dibutuhkan, dipakai"
-          }
-        ],
-        "examples": []
-      }
-    ],
+    "variants": [],
     "subentries": [
       {
         "label": "nang.ket",
@@ -3848,7 +3449,8 @@
       "status": "needs_review",
       "reviewed_by": null,
       "reviewed_at": null
-    }
+    },
+    "syllable_form": "ang.ket"
   },
   {
     "id": "paser-000083",
@@ -3867,19 +3469,7 @@
         "translation_id": "berapa taksiran harganya?"
       }
     ],
-    "variants": [
-      {
-        "label": "ang.ko",
-        "part_of_speech": "noun",
-        "translations": [
-          {
-            "language": "id",
-            "text": "taksiran (tentang harga); anggaran"
-          }
-        ],
-        "examples": []
-      }
-    ],
+    "variants": [],
     "subentries": [
       {
         "label": "ngang.ko",
@@ -3924,7 +3514,8 @@
       "status": "needs_review",
       "reviewed_by": null,
       "reviewed_at": null
-    }
+    },
+    "syllable_form": "ang.ko"
   },
   {
     "id": "paser-000084",
@@ -3943,19 +3534,7 @@
         "translation_id": "dia memelihara angsa"
       }
     ],
-    "variants": [
-      {
-        "label": "ang.sa",
-        "part_of_speech": "unknown",
-        "translations": [
-          {
-            "language": "id",
-            "text": "angsa"
-          }
-        ],
-        "examples": []
-      }
-    ],
+    "variants": [],
     "subentries": [],
     "notes": "OCR page-035; parsed from original dictionary structure.",
     "source": {
@@ -3967,7 +3546,8 @@
       "status": "needs_review",
       "reviewed_by": null,
       "reviewed_at": null
-    }
+    },
+    "syllable_form": "ang.sa"
   },
   {
     "id": "paser-000085",
@@ -4060,19 +3640,7 @@
         "translation_id": "anak itu bermain engrang"
       }
     ],
-    "variants": [
-      {
-        "label": "an.ja",
-        "part_of_speech": "noun",
-        "translations": [
-          {
-            "language": "id",
-            "text": "engrang"
-          }
-        ],
-        "examples": []
-      }
-    ],
+    "variants": [],
     "subentries": [],
     "notes": "OCR page-035; parsed from original dictionary structure.",
     "source": {
@@ -4084,7 +3652,8 @@
       "status": "needs_review",
       "reviewed_by": null,
       "reviewed_at": null
-    }
+    },
+    "syllable_form": "an.ja"
   },
   {
     "id": "paser-000088",
@@ -4103,19 +3672,7 @@
         "translation_id": "tali itu panjang sekali sampai ke sana"
       }
     ],
-    "variants": [
-      {
-        "label": "an.jang",
-        "part_of_speech": "adjective",
-        "translations": [
-          {
-            "language": "id",
-            "text": "panjang"
-          }
-        ],
-        "examples": []
-      }
-    ],
+    "variants": [],
     "subentries": [
       {
         "label": "ma.mu.kan.jang",
@@ -4192,7 +3749,8 @@
       "status": "needs_review",
       "reviewed_by": null,
       "reviewed_at": null
-    }
+    },
+    "syllable_form": "an.jang"
   },
   {
     "id": "paser-000089",
@@ -4211,19 +3769,7 @@
         "translation_id": "nenek pandai membuat anjat"
       }
     ],
-    "variants": [
-      {
-        "label": "an.jat",
-        "part_of_speech": "noun",
-        "translations": [
-          {
-            "language": "id",
-            "text": "tempat barang sejenis ransel yang terbuat dari rotan berbentuk seperti keranjang"
-          }
-        ],
-        "examples": []
-      }
-    ],
+    "variants": [],
     "subentries": [],
     "notes": "OCR page-036; parsed from original dictionary structure.",
     "source": {
@@ -4235,7 +3781,8 @@
       "status": "needs_review",
       "reviewed_by": null,
       "reviewed_at": null
-    }
+    },
+    "syllable_form": "an.jat"
   },
   {
     "id": "paser-000090",
@@ -4254,19 +3801,7 @@
         "translation_id": "dia membayar dengan cara angsur"
       }
     ],
-    "variants": [
-      {
-        "label": "an.sur",
-        "part_of_speech": "verb",
-        "translations": [
-          {
-            "language": "id",
-            "text": "angsur; cicil"
-          }
-        ],
-        "examples": []
-      }
-    ],
+    "variants": [],
     "subentries": [
       {
         "label": "nansur",
@@ -4311,7 +3846,8 @@
       "status": "needs_review",
       "reviewed_by": null,
       "reviewed_at": null
-    }
+    },
+    "syllable_form": "an.sur"
   },
   {
     "id": "paser-000091",
@@ -4334,19 +3870,7 @@
         "translation_id": "berjalan (pergi) ke sana"
       }
     ],
-    "variants": [
-      {
-        "label": "an.ta",
-        "part_of_speech": "noun",
-        "translations": [
-          {
-            "language": "id",
-            "text": "nanti"
-          }
-        ],
-        "examples": []
-      }
-    ],
+    "variants": [],
     "subentries": [],
     "notes": "OCR page-036; parsed from original dictionary structure.",
     "source": {
@@ -4358,7 +3882,8 @@
       "status": "needs_review",
       "reviewed_by": null,
       "reviewed_at": null
-    }
+    },
+    "syllable_form": "an.ta"
   },
   {
     "id": "paser-000092",
@@ -4377,19 +3902,7 @@
         "translation_id": "bapak membeli antena"
       }
     ],
-    "variants": [
-      {
-        "label": "an.té.na",
-        "part_of_speech": "unknown",
-        "translations": [
-          {
-            "language": "id",
-            "text": "antena"
-          }
-        ],
-        "examples": []
-      }
-    ],
+    "variants": [],
     "subentries": [],
     "notes": "OCR page-036; parsed from original dictionary structure.",
     "source": {
@@ -4401,7 +3914,8 @@
       "status": "needs_review",
       "reviewed_by": null,
       "reviewed_at": null
-    }
+    },
+    "syllable_form": "an.té.na"
   },
   {
     "id": "paser-000093",
@@ -4424,19 +3938,7 @@
         "translation_id": "itu barang antik"
       }
     ],
-    "variants": [
-      {
-        "label": "an.tik",
-        "part_of_speech": "adjective",
-        "translations": [
-          {
-            "language": "id",
-            "text": "antik"
-          }
-        ],
-        "examples": []
-      }
-    ],
+    "variants": [],
     "subentries": [],
     "notes": "OCR page-036; parsed from original dictionary structure.",
     "source": {
@@ -4448,7 +3950,8 @@
       "status": "needs_review",
       "reviewed_by": null,
       "reviewed_at": null
-    }
+    },
+    "syllable_form": "an.tik"
   },
   {
     "id": "paser-000094",
@@ -4467,19 +3970,7 @@
         "translation_id": "anting-antingnya bagus dilihat"
       }
     ],
-    "variants": [
-      {
-        "label": "an.ting-an.ting",
-        "part_of_speech": "unknown",
-        "translations": [
-          {
-            "language": "id",
-            "text": "anting-anting"
-          }
-        ],
-        "examples": []
-      }
-    ],
+    "variants": [],
     "subentries": [],
     "notes": "OCR page-036; parsed from original dictionary structure.",
     "source": {
@@ -4491,7 +3982,8 @@
       "status": "needs_review",
       "reviewed_by": null,
       "reviewed_at": null
-    }
+    },
+    "syllable_form": "an.ting-an.ting"
   },
   {
     "id": "paser-000095",
@@ -4510,19 +4002,7 @@
         "translation_id": "itu!"
       }
     ],
-    "variants": [
-      {
-        "label": "an.tor",
-        "part_of_speech": "verb",
-        "translations": [
-          {
-            "language": "id",
-            "text": "antar"
-          }
-        ],
-        "examples": []
-      }
-    ],
+    "variants": [],
     "subentries": [
       {
         "label": "ngan.tor",
@@ -4567,7 +4047,8 @@
       "status": "needs_review",
       "reviewed_by": null,
       "reviewed_at": null
-    }
+    },
+    "syllable_form": "an.tor"
   },
   {
     "id": "paser-000096",
@@ -4586,19 +4067,7 @@
         "translation_id": "itu bau busuk"
       }
     ],
-    "variants": [
-      {
-        "label": "an.tu",
-        "part_of_speech": "noun",
-        "translations": [
-          {
-            "language": "id",
-            "text": "bangkai"
-          }
-        ],
-        "examples": []
-      }
-    ],
+    "variants": [],
     "subentries": [],
     "notes": "OCR page-036; parsed from original dictionary structure.",
     "source": {
@@ -4610,7 +4079,8 @@
       "status": "needs_review",
       "reviewed_by": null,
       "reviewed_at": null
-    }
+    },
+    "syllable_form": "an.tu"
   },
   {
     "id": "paser-000097",
@@ -5075,19 +4545,7 @@
         "translation_id": "paman akan menikah bulan April"
       }
     ],
-    "variants": [
-      {
-        "label": "Ap.til",
-        "part_of_speech": "noun",
-        "translations": [
-          {
-            "language": "id",
-            "text": "bulan April"
-          }
-        ],
-        "examples": []
-      }
-    ],
+    "variants": [],
     "subentries": [],
     "notes": "OCR page-038; parsed from original dictionary structure.",
     "source": {
@@ -5099,7 +4557,8 @@
       "status": "needs_review",
       "reviewed_by": null,
       "reviewed_at": null
-    }
+    },
+    "syllable_form": "Ap.til"
   },
   {
     "id": "paser-000110",
@@ -5118,19 +4577,7 @@
         "translation_id": "dia menghapus papan tulis"
       }
     ],
-    "variants": [
-      {
-        "label": "apus, na.pus",
-        "part_of_speech": "verb",
-        "translations": [
-          {
-            "language": "id",
-            "text": "menghapus"
-          }
-        ],
-        "examples": []
-      }
-    ],
+    "variants": [],
     "subentries": [
       {
         "label": "na.pus",
@@ -5175,7 +4622,8 @@
       "status": "needs_review",
       "reviewed_by": null,
       "reviewed_at": null
-    }
+    },
+    "syllable_form": "apus, na.pus"
   },
   {
     "id": "paser-000111",
@@ -5194,19 +4642,7 @@
         "translation_id": "dia datang pada hari Rabu"
       }
     ],
-    "variants": [
-      {
-        "label": "Ar.ba",
-        "part_of_speech": "noun",
-        "translations": [
-          {
-            "language": "id",
-            "text": "Rabu"
-          }
-        ],
-        "examples": []
-      }
-    ],
+    "variants": [],
     "subentries": [],
     "notes": "OCR page-038; parsed from original dictionary structure.",
     "source": {
@@ -5218,7 +4654,8 @@
       "status": "needs_review",
       "reviewed_by": null,
       "reviewed_at": null
-    }
+    },
+    "syllable_form": "Ar.ba"
   },
   {
     "id": "paser-000112",
@@ -5332,19 +4769,7 @@
         "translation_id": "merumput (membersihkan rumput) menggunakan arit"
       }
     ],
-    "variants": [
-      {
-        "label": "Jarét",
-        "part_of_speech": "noun",
-        "translations": [
-          {
-            "language": "id",
-            "text": "arit; sabit"
-          }
-        ],
-        "examples": []
-      }
-    ],
+    "variants": [],
     "subentries": [],
     "notes": "OCR page-038; parsed from original dictionary structure.",
     "source": {
@@ -5375,19 +4800,7 @@
         "translation_id": "supaya tidak marah"
       }
     ],
-    "variants": [
-      {
-        "label": "?arét",
-        "part_of_speech": "verb",
-        "translations": [
-          {
-            "language": "id",
-            "text": "menahan diri"
-          }
-        ],
-        "examples": []
-      }
-    ],
+    "variants": [],
     "subentries": [
       {
         "label": "nga.rét",
@@ -5482,19 +4895,7 @@
         "translation_id": "di tangan kiri"
       }
     ],
-    "variants": [
-      {
-        "label": "ar.lo.ji",
-        "part_of_speech": "noun",
-        "translations": [
-          {
-            "language": "id",
-            "text": "arloji (jam tangan)"
-          }
-        ],
-        "examples": []
-      }
-    ],
+    "variants": [],
     "subentries": [],
     "notes": "OCR page-038; parsed from original dictionary structure.",
     "source": {
@@ -5506,7 +4907,8 @@
       "status": "needs_review",
       "reviewed_by": null,
       "reviewed_at": null
-    }
+    },
+    "syllable_form": "ar.lo.ji"
   },
   {
     "id": "paser-000118",
@@ -5591,19 +4993,7 @@
         "translation_id": "mari kita doakan almarhum"
       }
     ],
-    "variants": [
-      {
-        "label": "aru.wah",
-        "part_of_speech": "noun",
-        "translations": [
-          {
-            "language": "id",
-            "text": "almarhum"
-          }
-        ],
-        "examples": []
-      }
-    ],
+    "variants": [],
     "subentries": [],
     "notes": "OCR page-038; parsed from original dictionary structure.",
     "source": {
@@ -5615,7 +5005,8 @@
       "status": "needs_review",
       "reviewed_by": null,
       "reviewed_at": null
-    }
+    },
+    "syllable_form": "aru.wah"
   },
   {
     "id": "paser-000121",
@@ -5771,19 +5162,7 @@
         "translation_id": "Ambilkan asbak itu!"
       }
     ],
-    "variants": [
-      {
-        "label": "as.bak",
-        "part_of_speech": "noun",
-        "translations": [
-          {
-            "language": "id",
-            "text": "asbak"
-          }
-        ],
-        "examples": []
-      }
-    ],
+    "variants": [],
     "subentries": [],
     "notes": "OCR page-039; parsed from original dictionary structure.",
     "source": {
@@ -5795,7 +5174,8 @@
       "status": "needs_review",
       "reviewed_by": null,
       "reviewed_at": null
-    }
+    },
+    "syllable_form": "as.bak"
   },
   {
     "id": "paser-000125",
@@ -5818,19 +5198,7 @@
         "translation_id": "barang ene tidak asli barang itu"
       }
     ],
-    "variants": [
-      {
-        "label": "ase.li",
-        "part_of_speech": "unknown",
-        "translations": [
-          {
-            "language": "id",
-            "text": "asli"
-          }
-        ],
-        "examples": []
-      }
-    ],
+    "variants": [],
     "subentries": [],
     "notes": "OCR page-039; parsed from original dictionary structure.",
     "source": {
@@ -5842,7 +5210,8 @@
       "status": "needs_review",
       "reviewed_by": null,
       "reviewed_at": null
-    }
+    },
+    "syllable_form": "ase.li"
   },
   {
     "id": "paser-000126",
@@ -5948,19 +5317,7 @@
         "translation_id": "dia membeli aspal"
       }
     ],
-    "variants": [
-      {
-        "label": "as.pal",
-        "part_of_speech": "noun",
-        "translations": [
-          {
-            "language": "id",
-            "text": "aspal"
-          }
-        ],
-        "examples": []
-      }
-    ],
+    "variants": [],
     "subentries": [
       {
         "label": "ngas.pal",
@@ -6005,7 +5362,8 @@
       "status": "needs_review",
       "reviewed_by": null,
       "reviewed_at": null
-    }
+    },
+    "syllable_form": "as.pal"
   },
   {
     "id": "paser-000129",
@@ -6403,19 +5761,7 @@
         "translation_id": "tidak usah saja: ena keo gawian autsio malan kalau lagi ada pekerjaan tidak usah pergi"
       }
     ],
-    "variants": [
-      {
-        "label": "aut.sio",
-        "part_of_speech": "adverb",
-        "translations": [
-          {
-            "language": "id",
-            "text": "tidak usah"
-          }
-        ],
-        "examples": []
-      }
-    ],
+    "variants": [],
     "subentries": [],
     "notes": "OCR page-040; parsed from original dictionary structure.",
     "source": {
@@ -6427,7 +5773,8 @@
       "status": "needs_review",
       "reviewed_by": null,
       "reviewed_at": null
-    }
+    },
+    "syllable_form": "aut.sio"
   },
   {
     "id": "paser-000138",
@@ -6532,19 +5879,7 @@
         "translation_id": "orangnya serakah sekali"
       }
     ],
-    "variants": [
-      {
-        "label": "aw.wa",
-        "part_of_speech": "adjective",
-        "translations": [
-          {
-            "language": "id",
-            "text": "serakah"
-          }
-        ],
-        "examples": []
-      }
-    ],
+    "variants": [],
     "subentries": [],
     "notes": "OCR page-040; parsed from original dictionary structure.",
     "source": {
@@ -6556,7 +5891,8 @@
       "status": "needs_review",
       "reviewed_by": null,
       "reviewed_at": null
-    }
+    },
+    "syllable_form": "aw.wa"
   },
   {
     "id": "paser-000141",
@@ -6655,19 +5991,7 @@
         "translation_id": "turut apa maunya!"
       }
     ],
-    "variants": [
-      {
-        "label": "Jaya",
-        "part_of_speech": "verb",
-        "translations": [
-          {
-            "language": "id",
-            "text": "turut"
-          }
-        ],
-        "examples": []
-      }
-    ],
+    "variants": [],
     "subentries": [
       {
         "label": "nga.ya",

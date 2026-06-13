@@ -86,7 +86,7 @@ function normalizeEntries(rawEntries) {
     definitions: asArray(entry.definitions).filter(Boolean),
     examples: asArray(entry.examples),
     subentries: asArray(entry.subentries).map(normalizeSubentry).filter((subentry) => subentry.label),
-    variants: asArray(entry.variants).map(normalizeVariant).filter((variant) => variant.label),
+    variants: asArray(entry.variants).map(normalizeVariant).filter(isVisibleVariant),
     notes: entry.notes || '',
     source: entry.source || {},
     review: entry.review || {}
@@ -240,19 +240,24 @@ function renderVariantDetail(parent, variant) {
 
 function normalizeVariant(variant) {
   if (typeof variant === 'string') {
-    return { label: variant, translations: [], examples: [], note: '' };
+    return { label: variant, kind: '', translations: [], examples: [], note: '' };
   }
 
   if (!variant || typeof variant !== 'object') {
-    return { label: '', translations: [], examples: [], note: '' };
+    return { label: '', kind: '', translations: [], examples: [], note: '' };
   }
 
   return {
     label: variant.headword || variant.label || variant.text || '',
+    kind: variant.kind || '',
     translations: asArray(variant.translations).map((item) => item.text || item).filter(Boolean),
     examples: asArray(variant.examples),
     note: variant.note || variant.notes || ''
   };
+}
+
+function isVisibleVariant(variant) {
+  return variant.label && variant.kind !== 'syllable';
 }
 
 function normalizeSubentry(subentry) {
