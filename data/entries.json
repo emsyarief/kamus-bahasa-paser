@@ -63670,27 +63670,14 @@
       {
         "text": "iyo ene kuli",
         "translation_id": "dia itu pekerja buruh"
+      },
+      {
+        "text": "kuli pelabuhan empu mongkar atok kepal",
+        "translation_id": "kuli pelabuhan sedang membongkar muatan kapal"
       }
     ],
     "variants": [],
-    "subentries": [
-      {
-        "label": "ku.li pe.la.buh.an",
-        "part_of_speech": "noun",
-        "translations": [
-          {
-            "language": "id",
-            "text": "kuli pelabuhan"
-          }
-        ],
-        "examples": [
-          {
-            "text": "kuli pelabuhan empu mongkar atok kepal",
-            "translation_id": "kuli pelabuhan sedang membongkar muatan kapal"
-          }
-        ]
-      }
-    ],
+    "subentries": [],
     "notes": "OCR page-152; parsed from original dictionary structure.",
     "source": {
       "file": "data/raw_ocr/page-152.txt",
@@ -63702,7 +63689,7 @@
       "reviewed_by": null,
       "reviewed_at": null
     },
-    "syllable_form": "ku.li",
+    "syllable_form": "kul.li",
     "id": "paser-001430"
   },
   {
@@ -63842,11 +63829,7 @@
     "translations": [
       {
         "language": "id",
-        "text": "campur aduk"
-      },
-      {
-        "language": "id",
-        "text": "baur"
+        "text": "campur aduk; baur"
       }
     ],
     "examples": [
@@ -63911,11 +63894,7 @@
     "translations": [
       {
         "language": "id",
-        "text": "kulup"
-      },
-      {
-        "language": "id",
-        "text": "tidak mau terbuka"
+        "text": "kulup; tidak mau terbuka"
       }
     ],
     "examples": [
@@ -63951,11 +63930,7 @@
     "translations": [
       {
         "language": "id",
-        "text": "kumal"
-      },
-      {
-        "language": "id",
-        "text": "kusut"
+        "text": "kumal; kusut"
       }
     ],
     "examples": [
@@ -64020,10 +63995,6 @@
       {
         "language": "id",
         "text": "nama tumbuhan"
-      },
-      {
-        "language": "id",
-        "text": "kumis kucing"
       }
     ],
     "examples": [
@@ -64055,15 +64026,7 @@
     "translations": [
       {
         "language": "id",
-        "text": "nama tumbuhan untuk membuat tikar"
-      },
-      {
-        "language": "id",
-        "text": "kumpai"
-      },
-      {
-        "language": "id",
-        "text": "gelagah"
+        "text": "tumbuhan untuk membuat tikar; kumpai; gelagah"
       }
     ],
     "examples": [
@@ -64237,11 +64200,7 @@
         "translations": [
           {
             "language": "id",
-            "text": "jalan ke sana-sini"
-          },
-          {
-            "language": "id",
-            "text": "tidak bisa diam"
+            "text": "jalan ke sana-sini; tidak bisa diam"
           }
         ],
         "examples": [
@@ -64273,7 +64232,7 @@
     "translations": [
       {
         "language": "id",
-        "text": "obok (tentang air supaya keruh sehingga ikan mabuk)"
+        "text": "obok"
       }
     ],
     "examples": [],
@@ -64285,7 +64244,7 @@
         "translations": [
           {
             "language": "id",
-            "text": "mengobok (tentang air)"
+            "text": "mengobok"
           }
         ],
         "examples": [
@@ -64301,7 +64260,7 @@
         "translations": [
           {
             "language": "id",
-            "text": "diobok (tentang air)"
+            "text": "diobok"
           }
         ],
         "examples": [
@@ -64333,11 +64292,7 @@
     "translations": [
       {
         "language": "id",
-        "text": "silat"
-      },
-      {
-        "language": "id",
-        "text": "beladiri (silat kuntau)"
+        "text": "silat; beladiri"
       }
     ],
     "examples": [
@@ -64429,11 +64384,7 @@
     "translations": [
       {
         "language": "id",
-        "text": "pohon petai"
-      },
-      {
-        "language": "id",
-        "text": "buah petai"
+        "text": "pohon, buah petai"
       }
     ],
     "examples": [
@@ -64536,41 +64487,14 @@
       {
         "text": "senyo mase kurang",
         "translation_id": "uangnya masih kurang"
+      },
+      {
+        "text": "peya ene kurang ajar depo ulun tuo",
+        "translation_id": "anak itu kurang ajar kepada orangtuanya"
       }
     ],
     "variants": [],
     "subentries": [
-      {
-        "label": "ku.rang a.jar",
-        "part_of_speech": "adjective",
-        "translations": [
-          {
-            "language": "id",
-            "text": "tidak tahu sopan santun"
-          },
-          {
-            "language": "id",
-            "text": "kurang ajar"
-          }
-        ],
-        "examples": [
-          {
-            "text": "peya ene kurang ajar depo ulun tuo",
-            "translation_id": "anak itu kurang ajar kepada orangtuanya"
-          }
-        ]
-      },
-      {
-        "label": "ku.rang le.be",
-        "part_of_speech": "adjective",
-        "translations": [
-          {
-            "language": "id",
-            "text": "kurang lebih"
-          }
-        ],
-        "examples": []
-      },
       {
         "label": "ngu.rang",
         "part_of_speech": "verb",
@@ -64625,11 +64549,7 @@
     "translations": [
       {
         "language": "id",
-        "text": "menang"
-      },
-      {
-        "language": "id",
-        "text": "unggul"
+        "text": "menang; unggul"
       }
     ],
     "examples": [
@@ -64697,11 +64617,7 @@
     "translations": [
       {
         "language": "id",
-        "text": "kurung"
-      },
-      {
-        "language": "id",
-        "text": "sangkar"
+        "text": "kurung; sangkar"
       }
     ],
     "examples": [
@@ -64750,11 +64666,7 @@
         "translations": [
           {
             "language": "id",
-            "text": "kurungan"
-          },
-          {
-            "language": "id",
-            "text": "sangkar"
+            "text": "kurungan; sangkar"
           }
         ],
         "examples": [
@@ -64791,7 +64703,7 @@
     ],
     "examples": [
       {
-        "text": "kurut miiet-miet tali ene",
+        "text": "kurut miet-miet tali ene",
         "translation_id": "pegang erat-erat tali itu"
       }
     ],
@@ -64867,11 +64779,7 @@
     "translations": [
       {
         "language": "id",
-        "text": "obrak-abrik"
-      },
-      {
-        "language": "id",
-        "text": "kusut masai"
+        "text": "obrak-abrik; kusut masai"
       }
     ],
     "examples": [
@@ -64969,7 +64877,7 @@
         ],
         "examples": [
           {
-            "text": "balo andi empu kenuseng",
+            "text": "balo andi kenuseng",
             "translation_id": "rambut kakak sedang dikeramas"
           }
         ]
@@ -64996,11 +64904,7 @@
     "translations": [
       {
         "language": "id",
-        "text": "singlet"
-      },
-      {
-        "language": "id",
-        "text": "kutang"
+        "text": "singlet; kutang"
       }
     ],
     "examples": [
@@ -65225,11 +65129,7 @@
     "translations": [
       {
         "language": "id",
-        "text": "monyet"
-      },
-      {
-        "language": "id",
-        "text": "kera"
+        "text": "monyet; kera"
       }
     ],
     "examples": [
@@ -65267,7 +65167,7 @@
     "examples": [
       {
         "text": "kuyung ka derum ene",
-        "translation_id": "kuras saja drum itu"
+        "translation_id": "kuras saja derum itu"
       }
     ],
     "variants": [],
@@ -65396,7 +65296,7 @@
     "examples": [
       {
         "text": "iyo laher mo Grogot",
-        "translation_id": "dia lahir di Grogot"
+        "translation_id": "lahir di Grogot"
       }
     ],
     "variants": [],
@@ -65423,10 +65323,6 @@
       {
         "language": "id",
         "text": "jenis ikan"
-      },
-      {
-        "language": "id",
-        "text": "ikan lais"
       }
     ],
     "examples": [
@@ -65458,11 +65354,7 @@
     "translations": [
       {
         "language": "id",
-        "text": "berantakan"
-      },
-      {
-        "language": "id",
-        "text": "morat-marit"
+        "text": "berantakan; morat-marit"
       }
     ],
     "examples": [
@@ -65494,11 +65386,7 @@
     "translations": [
       {
         "language": "id",
-        "text": "tidak ada rasa"
-      },
-      {
-        "language": "id",
-        "text": "hambar"
+        "text": "tidak ada rasa; hambar"
       }
     ],
     "examples": [
@@ -65595,11 +65483,7 @@
     "translations": [
       {
         "language": "id",
-        "text": "lakukan"
-      },
-      {
-        "language": "id",
-        "text": "kerjakan"
+        "text": "lakukan; kerjakan"
       }
     ],
     "examples": [
@@ -65696,11 +65580,7 @@
     "translations": [
       {
         "language": "id",
-        "text": "lewat"
-      },
-      {
-        "language": "id",
-        "text": "melalui"
+        "text": "lewat; melalui"
       }
     ],
     "examples": [
@@ -65710,7 +65590,7 @@
       },
       {
         "text": "iyo lalo boyan nyerembang",
-        "translation_id": "dia melalui jalan pintas"
+        "translation_id": "melalui jalan pintas"
       }
     ],
     "variants": [],
@@ -65721,11 +65601,7 @@
         "translations": [
           {
             "language": "id",
-            "text": "mendahului"
-          },
-          {
-            "language": "id",
-            "text": "melewati"
+            "text": "mendahului; melewati"
           }
         ],
         "examples": [
@@ -65741,15 +65617,7 @@
         "translations": [
           {
             "language": "id",
-            "text": "melewati"
-          },
-          {
-            "language": "id",
-            "text": "melalui"
-          },
-          {
-            "language": "id",
-            "text": "menjemputi"
+            "text": "melewati; melalui; menjemputi"
           }
         ],
         "examples": [
@@ -65773,11 +65641,7 @@
         "translations": [
           {
             "language": "id",
-            "text": "dilewati"
-          },
-          {
-            "language": "id",
-            "text": "didahului"
+            "text": "dilewati; didahului"
           }
         ],
         "examples": [
@@ -65801,6 +65665,38 @@
     },
     "syllable_form": "la.lo",
     "id": "paser-001472"
+  },
+  {
+    "headword": "laba-labi",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "laba-laba"
+      }
+    ],
+    "examples": [
+      {
+        "text": "laba-labi ene olai beta",
+        "translation_id": "laba-laba itu besar sekali"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-156; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-156.txt",
+      "page": 147,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "la.ba-la.bi",
+    "id": "paser-001473"
   },
   {
     "headword": "lambai",
@@ -65865,7 +65761,7 @@
       "reviewed_at": null
     },
     "syllable_form": "lam.bai",
-    "id": "paser-001473"
+    "id": "paser-001474"
   },
   {
     "headword": "lampu",
@@ -65914,7 +65810,7 @@
       "reviewed_at": null
     },
     "syllable_form": "lam.pu",
-    "id": "paser-001474"
+    "id": "paser-001475"
   },
   {
     "headword": "lana",
@@ -65946,7 +65842,7 @@
       "reviewed_at": null
     },
     "syllable_form": "la.na",
-    "id": "paser-001475"
+    "id": "paser-001476"
   },
   {
     "headword": "lancar",
@@ -65978,7 +65874,7 @@
       "reviewed_at": null
     },
     "syllable_form": "lan.car",
-    "id": "paser-001476"
+    "id": "paser-001477"
   },
   {
     "headword": "lancing",
@@ -65987,17 +65883,13 @@
     "translations": [
       {
         "language": "id",
-        "text": "laju"
-      },
-      {
-        "language": "id",
-        "text": "melesat"
+        "text": "laju; melesat"
       }
     ],
     "examples": [
       {
         "text": "lancing monsit",
-        "translation_id": "lari laju"
+        "translation_id": "lari laju, melesat"
       },
       {
         "text": "monsityo lancing beta",
@@ -66018,7 +65910,7 @@
       "reviewed_at": null
     },
     "syllable_form": "lan.cing",
-    "id": "paser-001477"
+    "id": "paser-001478"
   },
   {
     "headword": "landu",
@@ -66062,7 +65954,7 @@
       "reviewed_at": null
     },
     "syllable_form": "lan.du",
-    "id": "paser-001478"
+    "id": "paser-001479"
   },
   {
     "headword": "lang",
@@ -66081,30 +65973,7 @@
       }
     ],
     "variants": [],
-    "subentries": [
-      {
-        "label": "lang su.ang",
-        "part_of_speech": "particle",
-        "translations": [
-          {
-            "language": "id",
-            "text": "berada di dalam"
-          }
-        ],
-        "examples": []
-      },
-      {
-        "label": "lang ke.song",
-        "part_of_speech": "particle",
-        "translations": [
-          {
-            "language": "id",
-            "text": "di dalam hati"
-          }
-        ],
-        "examples": []
-      }
-    ],
+    "subentries": [],
     "notes": "OCR page-157; parsed from original dictionary structure.",
     "source": {
       "file": "data/raw_ocr/page-157.txt",
@@ -66117,7 +65986,7 @@
       "reviewed_at": null
     },
     "syllable_form": "lang",
-    "id": "paser-001479"
+    "id": "paser-001480"
   },
   {
     "headword": "langa",
@@ -66126,11 +65995,7 @@
     "translations": [
       {
         "language": "id",
-        "text": "lagian"
-      },
-      {
-        "language": "id",
-        "text": "sambilan"
+        "text": "lagian; sambilan"
       }
     ],
     "examples": [
@@ -66153,7 +66018,7 @@
       "reviewed_at": null
     },
     "syllable_form": "la.nga",
-    "id": "paser-001480"
+    "id": "paser-001481"
   },
   {
     "headword": "lange",
@@ -66185,7 +66050,7 @@
       "reviewed_at": null
     },
     "syllable_form": "la.nge",
-    "id": "paser-001481"
+    "id": "paser-001482"
   },
   {
     "headword": "langgar",
@@ -66217,7 +66082,7 @@
       "reviewed_at": null
     },
     "syllable_form": "lang.gar",
-    "id": "paser-001482"
+    "id": "paser-001483"
   },
   {
     "headword": "langgar",
@@ -66226,17 +66091,13 @@
     "translations": [
       {
         "language": "id",
-        "text": "langgar"
-      },
-      {
-        "language": "id",
-        "text": "tabrak"
+        "text": "langgar; tabrak"
       }
     ],
     "examples": [
       {
         "text": "iyo kono langgar",
-        "translation_id": "dia kena tabrak"
+        "translation_id": "kena tabrak"
       }
     ],
     "variants": [],
@@ -66247,11 +66108,7 @@
         "translations": [
           {
             "language": "id",
-            "text": "melanggar"
-          },
-          {
-            "language": "id",
-            "text": "menabrak"
+            "text": "melanggar; menabrak"
           }
         ],
         "examples": [
@@ -66267,17 +66124,13 @@
         "translations": [
           {
             "language": "id",
-            "text": "dilanggar"
-          },
-          {
-            "language": "id",
-            "text": "ditabrak"
+            "text": "dilanggar; ditabrak"
           }
         ],
         "examples": [
           {
             "text": "iyo nelanggar koe mobel",
-            "translation_id": "dia ditabrak mobil"
+            "translation_id": "ditabrak mobil"
           }
         ]
       }
@@ -66294,7 +66147,7 @@
       "reviewed_at": null
     },
     "syllable_form": "lang.gar",
-    "id": "paser-001483"
+    "id": "paser-001484"
   },
   {
     "headword": "langit",
@@ -66343,7 +66196,7 @@
       "reviewed_at": null
     },
     "syllable_form": "la.ngit",
-    "id": "paser-001484"
+    "id": "paser-001485"
   },
   {
     "headword": "lango",
@@ -66375,7 +66228,7 @@
       "reviewed_at": null
     },
     "syllable_form": "la.ngo",
-    "id": "paser-001485"
+    "id": "paser-001486"
   },
   {
     "headword": "langot",
@@ -66384,11 +66237,7 @@
     "translations": [
       {
         "language": "id",
-        "text": "panas"
-      },
-      {
-        "language": "id",
-        "text": "terik sinar matahari"
+        "text": "panas; terik sinar matahari"
       }
     ],
     "examples": [
@@ -66411,7 +66260,7 @@
       "reviewed_at": null
     },
     "syllable_form": "la.ngot",
-    "id": "paser-001486"
+    "id": "paser-001487"
   },
   {
     "headword": "lanjéng",
@@ -66420,11 +66269,7 @@
     "translations": [
       {
         "language": "id",
-        "text": "molor"
-      },
-      {
-        "language": "id",
-        "text": "memanjang"
+        "text": "molor; memanjang"
       }
     ],
     "examples": [
@@ -66447,10 +66292,10 @@
       "reviewed_at": null
     },
     "syllable_form": "lan.jéng",
-    "id": "paser-001487"
+    "id": "paser-001488"
   },
   {
-    "headword": "lansung",
+    "headword": "langsung",
     "language": "paser",
     "part_of_speech": "adverb",
     "translations": [
@@ -66479,7 +66324,7 @@
       "reviewed_at": null
     },
     "syllable_form": "lan.sung",
-    "id": "paser-001488"
+    "id": "paser-001489"
   },
   {
     "headword": "lantas",
@@ -66488,11 +66333,7 @@
     "translations": [
       {
         "language": "id",
-        "text": "tumbuhan semak yang biasa dibuat pagar"
-      },
-      {
-        "language": "id",
-        "text": "beluntas"
+        "text": "tumbuhan semak; beluntas"
       }
     ],
     "examples": [
@@ -66515,7 +66356,7 @@
       "reviewed_at": null
     },
     "syllable_form": "lan.tas",
-    "id": "paser-001489"
+    "id": "paser-001490"
   },
   {
     "headword": "lanting",
@@ -66524,11 +66365,7 @@
     "translations": [
       {
         "language": "id",
-        "text": "rakit di tepi sungai"
-      },
-      {
-        "language": "id",
-        "text": "tepian"
+        "text": "rakit di tepi sungai; tepian"
       }
     ],
     "examples": [
@@ -66551,7 +66388,7 @@
       "reviewed_at": null
     },
     "syllable_form": "lan.ting",
-    "id": "paser-001490"
+    "id": "paser-001491"
   },
   {
     "headword": "lantung",
@@ -66560,11 +66397,7 @@
     "translations": [
       {
         "language": "id",
-        "text": "sisa minyak"
-      },
-      {
-        "language": "id",
-        "text": "lilin warna hitam"
+        "text": "sisa minyak; lilin warna hitam"
       }
     ],
     "examples": [
@@ -66587,7 +66420,7 @@
       "reviewed_at": null
     },
     "syllable_form": "lan.tung",
-    "id": "paser-001491"
+    "id": "paser-001492"
   },
   {
     "headword": "laot",
@@ -66619,7 +66452,7 @@
       "reviewed_at": null
     },
     "syllable_form": "la.ot",
-    "id": "paser-001492"
+    "id": "paser-001493"
   },
   {
     "headword": "lapak",
@@ -66628,7 +66461,7 @@
     "translations": [
       {
         "language": "id",
-        "text": "sadel sepeda"
+        "text": "sadel"
       }
     ],
     "examples": [
@@ -66651,7 +66484,7 @@
       "reviewed_at": null
     },
     "syllable_form": "la.pak",
-    "id": "paser-001493"
+    "id": "paser-001494"
   },
   {
     "headword": "lapis",
@@ -66716,7 +66549,7 @@
       "reviewed_at": null
     },
     "syllable_form": "la.pis",
-    "id": "paser-001494"
+    "id": "paser-001495"
   },
   {
     "headword": "léptop",
@@ -66748,7 +66581,7 @@
       "reviewed_at": null
     },
     "syllable_form": "lép.top",
-    "id": "paser-001495"
+    "id": "paser-001496"
   },
   {
     "headword": "lara",
@@ -66757,11 +66590,7 @@
     "translations": [
       {
         "language": "id",
-        "text": "lerai"
-      },
-      {
-        "language": "id",
-        "text": "pisah"
+        "text": "lerai; pisah"
       }
     ],
     "examples": [
@@ -66817,7 +66646,7 @@
       "reviewed_at": null
     },
     "syllable_form": "la.ra",
-    "id": "paser-001496"
+    "id": "paser-001497"
   },
   {
     "headword": "larang",
@@ -66849,7 +66678,7 @@
       "reviewed_at": null
     },
     "syllable_form": "la.rang",
-    "id": "paser-001497"
+    "id": "paser-001498"
   },
   {
     "headword": "laris",
@@ -66881,7 +66710,7 @@
       "reviewed_at": null
     },
     "syllable_form": "la.ris",
-    "id": "paser-001498"
+    "id": "paser-001499"
   },
   {
     "headword": "lasu",
@@ -66890,11 +66719,7 @@
     "translations": [
       {
         "language": "id",
-        "text": "kulit terbakar"
-      },
-      {
-        "language": "id",
-        "text": "lepuh"
+        "text": "kulit terbakar; lepuh"
       }
     ],
     "examples": [
@@ -66917,7 +66742,7 @@
       "reviewed_at": null
     },
     "syllable_form": "la.su",
-    "id": "paser-001499"
+    "id": "paser-001500"
   },
   {
     "headword": "latak",
@@ -66949,7 +66774,7 @@
       "reviewed_at": null
     },
     "syllable_form": "la.tak",
-    "id": "paser-001500"
+    "id": "paser-001501"
   },
   {
     "headword": "latat",
@@ -66963,7 +66788,7 @@
     ],
     "examples": [
       {
-        "text": "sapo ene latat kono utut",
+        "text": "sapo ene latat kono utut api",
         "translation_id": "atap latat terkena asap api"
       }
     ],
@@ -66981,7 +66806,7 @@
       "reviewed_at": null
     },
     "syllable_form": "la.tat",
-    "id": "paser-001501"
+    "id": "paser-001502"
   },
   {
     "headword": "lati",
@@ -67000,23 +66825,7 @@
       }
     ],
     "variants": [],
-    "subentries": [
-      {
-        "label": "la.ti a.las",
-        "part_of_speech": "noun",
-        "translations": [
-          {
-            "language": "id",
-            "text": "hutan belantara"
-          },
-          {
-            "language": "id",
-            "text": "hutan rimba"
-          }
-        ],
-        "examples": []
-      }
-    ],
+    "subentries": [],
     "notes": "OCR page-159; parsed from original dictionary structure.",
     "source": {
       "file": "data/raw_ocr/page-159.txt",
@@ -67029,7 +66838,7 @@
       "reviewed_at": null
     },
     "syllable_form": "la.ti",
-    "id": "paser-001502"
+    "id": "paser-001503"
   },
   {
     "headword": "lati",
@@ -67104,7 +66913,7 @@
         "examples": [
           {
             "text": "dero latian pedatu",
-            "translation_id": "mereka latihan pidato"
+            "translation_id": "latihan pidato"
           }
         ]
       }
@@ -67121,7 +66930,7 @@
       "reviewed_at": null
     },
     "syllable_form": "la.ti",
-    "id": "paser-001503"
+    "id": "paser-001504"
   },
   {
     "headword": "latu",
@@ -67163,7 +66972,7 @@
         "translations": [
           {
             "language": "id",
-            "text": "orang yang menunggui buah-buahan yang jatuh"
+            "text": "menunggui buah-buahan yang jatuh"
           }
         ],
         "examples": [
@@ -67202,17 +67011,13 @@
       "reviewed_at": null
     },
     "syllable_form": "la.tu",
-    "id": "paser-001504"
+    "id": "paser-001505"
   },
   {
     "headword": "laung",
     "language": "paser",
     "part_of_speech": "noun",
     "translations": [
-      {
-        "language": "id",
-        "text": "kain sarung yang diikatkan di kepala untuk pemain kuda lumping atau upacara adat"
-      },
       {
         "language": "id",
         "text": "surban"
@@ -67238,7 +67043,7 @@
       "reviewed_at": null
     },
     "syllable_form": "la.ung",
-    "id": "paser-001505"
+    "id": "paser-001506"
   },
   {
     "headword": "lawai",
@@ -67270,7 +67075,7 @@
       "reviewed_at": null
     },
     "syllable_form": "la.wai",
-    "id": "paser-001506"
+    "id": "paser-001507"
   },
   {
     "headword": "lawan",
@@ -67285,7 +67090,7 @@
     "examples": [
       {
         "text": "dero lawan taka",
-        "translation_id": "mereka lawan kita"
+        "translation_id": "lawan kita"
       }
     ],
     "variants": [],
@@ -67335,7 +67140,7 @@
       "reviewed_at": null
     },
     "syllable_form": "la.wan",
-    "id": "paser-001507"
+    "id": "paser-001508"
   },
   {
     "headword": "lawang",
@@ -67344,11 +67149,7 @@
     "translations": [
       {
         "language": "id",
-        "text": "kosong"
-      },
-      {
-        "language": "id",
-        "text": "hampa"
+        "text": "kosong; hampa"
       }
     ],
     "examples": [
@@ -67375,7 +67176,7 @@
       "reviewed_at": null
     },
     "syllable_form": "la.wang",
-    "id": "paser-001508"
+    "id": "paser-001509"
   },
   {
     "headword": "lawe",
@@ -67401,13 +67202,13 @@
         "translations": [
           {
             "language": "id",
-            "text": "mencari atau mengevakuasi korban tenggelam dengan duri rotan"
+            "text": "mencari atau mengevakuasi korban tenggelam"
           }
         ],
         "examples": [
           {
             "text": "dero ngelawe ulun taping",
-            "translation_id": "mereka mencari orang hanyut"
+            "translation_id": "ngelawe orang hanyut"
           }
         ]
       }
@@ -67424,7 +67225,7 @@
       "reviewed_at": null
     },
     "syllable_form": "la.we",
-    "id": "paser-001509"
+    "id": "paser-001510"
   },
   {
     "headword": "layar",
@@ -67473,7 +67274,7 @@
       "reviewed_at": null
     },
     "syllable_form": "la.yar",
-    "id": "paser-001510"
+    "id": "paser-001511"
   },
   {
     "headword": "layo",
@@ -67505,7 +67306,7 @@
       "reviewed_at": null
     },
     "syllable_form": "la.yo",
-    "id": "paser-001511"
+    "id": "paser-001512"
   },
   {
     "headword": "layo-layo",
@@ -67514,11 +67315,7 @@
     "translations": [
       {
         "language": "id",
-        "text": "meriang"
-      },
-      {
-        "language": "id",
-        "text": "badan serasa mau sakit"
+        "text": "meriang; badan serasa mau sakit"
       }
     ],
     "examples": [
@@ -67541,7 +67338,7 @@
       "reviewed_at": null
     },
     "syllable_form": "la.yo-la.yo",
-    "id": "paser-001512"
+    "id": "paser-001513"
   },
   {
     "headword": "layong",
@@ -67561,17 +67358,6 @@
     ],
     "variants": [],
     "subentries": [
-      {
-        "label": "la.yong ku.lun",
-        "part_of_speech": "adjective",
-        "translations": [
-          {
-            "language": "id",
-            "text": "air suam-suam kuku"
-          }
-        ],
-        "examples": []
-      },
       {
         "label": "ma.mu.la.yong",
         "part_of_speech": "verb",
@@ -67617,7 +67403,7 @@
       "reviewed_at": null
     },
     "syllable_form": "la.yong",
-    "id": "paser-001513"
+    "id": "paser-001514"
   },
   {
     "headword": "layot",
@@ -67649,7 +67435,7 @@
       "reviewed_at": null
     },
     "syllable_form": "la.yot",
-    "id": "paser-001514"
+    "id": "paser-001515"
   },
   {
     "headword": "layot",
@@ -67681,7 +67467,7 @@
       "reviewed_at": null
     },
     "syllable_form": "la.yot",
-    "id": "paser-001515"
+    "id": "paser-001516"
   },
   {
     "headword": "léai",
@@ -67713,7 +67499,7 @@
       "reviewed_at": null
     },
     "syllable_form": "lé.ai",
-    "id": "paser-001516"
+    "id": "paser-001517"
   },
   {
     "headword": "lébak",
@@ -67722,7 +67508,7 @@
     "translations": [
       {
         "language": "id",
-        "text": "lebar (untuk daun)"
+        "text": "lebar untuk daun"
       }
     ],
     "examples": [
@@ -67745,7 +67531,7 @@
       "reviewed_at": null
     },
     "syllable_form": "lé.bak",
-    "id": "paser-001517"
+    "id": "paser-001518"
   },
   {
     "headword": "lebaran",
@@ -67759,7 +67545,7 @@
     ],
     "examples": [
       {
-        "text": "olo endo olo Lebaran",
+        "text": "olo endo olo lebaran",
         "translation_id": "hari ini hari Lebaran"
       }
     ],
@@ -67777,7 +67563,7 @@
       "reviewed_at": null
     },
     "syllable_form": "le.bar.an",
-    "id": "paser-001518"
+    "id": "paser-001519"
   },
   {
     "headword": "lebé",
@@ -67796,19 +67582,7 @@
       }
     ],
     "variants": [],
-    "subentries": [
-      {
-        "label": "ku.rang le.bé",
-        "part_of_speech": "adjective",
-        "translations": [
-          {
-            "language": "id",
-            "text": "kurang lebih"
-          }
-        ],
-        "examples": []
-      }
-    ],
+    "subentries": [],
     "notes": "OCR page-160; parsed from original dictionary structure.",
     "source": {
       "file": "data/raw_ocr/page-160.txt",
@@ -67821,7 +67595,7 @@
       "reviewed_at": null
     },
     "syllable_form": "le.bé",
-    "id": "paser-001519"
+    "id": "paser-001520"
   },
   {
     "headword": "lébong",
@@ -67853,7 +67627,7 @@
       "reviewed_at": null
     },
     "syllable_form": "lé.bong",
-    "id": "paser-001520"
+    "id": "paser-001521"
   },
   {
     "headword": "léga",
@@ -67911,13 +67685,13 @@
         "translations": [
           {
             "language": "id",
-            "text": "diperluas dengan cara membersihkan atau merapikan"
+            "text": "diperluas"
           }
         ],
         "examples": [
           {
             "text": "pinaléga gawi peya sekola dikut yo keo mo halaman sekola ene",
-            "translation_id": "dibersihkan oleh murid rumput yang ada di halaman sekolah itu"
+            "translation_id": "rumput yang ada di halaman sekolah itu dibersihkan sehingga tampak luas"
           }
         ]
       }
@@ -67934,7 +67708,7 @@
       "reviewed_at": null
     },
     "syllable_form": "lé.ga",
-    "id": "paser-001521"
+    "id": "paser-001522"
   },
   {
     "headword": "leka",
@@ -67943,11 +67717,7 @@
     "translations": [
       {
         "language": "id",
-        "text": "hanya karena"
-      },
-      {
-        "language": "id",
-        "text": "demi"
+        "text": "hanya karena; demi"
       }
     ],
     "examples": [
@@ -67974,7 +67744,7 @@
       "reviewed_at": null
     },
     "syllable_form": "le.ka",
-    "id": "paser-001522"
+    "id": "paser-001523"
   },
   {
     "headword": "lékum",
@@ -67984,10 +67754,6 @@
       {
         "language": "id",
         "text": "keliling"
-      },
-      {
-        "language": "id",
-        "text": "seputaran"
       }
     ],
     "examples": [
@@ -68010,7 +67776,7 @@
         "examples": [
           {
             "text": "aku ngelékum malan erai kota Grogot",
-            "translation_id": "saya pergi mengelilingi kota Grogot"
+            "translation_id": "saya pergi megelilingi kota Grogot"
           }
         ]
       },
@@ -68043,7 +67809,7 @@
       "reviewed_at": null
     },
     "syllable_form": "lé.kum",
-    "id": "paser-001523"
+    "id": "paser-001524"
   },
   {
     "headword": "leluasa",
@@ -68075,7 +67841,7 @@
       "reviewed_at": null
     },
     "syllable_form": "le.lu.asa",
-    "id": "paser-001524"
+    "id": "paser-001525"
   },
   {
     "headword": "lemak",
@@ -68107,7 +67873,7 @@
       "reviewed_at": null
     },
     "syllable_form": "le.mak",
-    "id": "paser-001525"
+    "id": "paser-001526"
   },
   {
     "headword": "lemang",
@@ -68139,7 +67905,7 @@
       "reviewed_at": null
     },
     "syllable_form": "le.mang",
-    "id": "paser-001526"
+    "id": "paser-001527"
   },
   {
     "headword": "lemari",
@@ -68171,7 +67937,7 @@
       "reviewed_at": null
     },
     "syllable_form": "le.ma.ri",
-    "id": "paser-001527"
+    "id": "paser-001528"
   },
   {
     "headword": "lemayan",
@@ -68203,7 +67969,7 @@
       "reviewed_at": null
     },
     "syllable_form": "le.ma.yan",
-    "id": "paser-001528"
+    "id": "paser-001529"
   },
   {
     "headword": "lembar",
@@ -68235,7 +68001,7 @@
       "reviewed_at": null
     },
     "syllable_form": "lem.bar",
-    "id": "paser-001529"
+    "id": "paser-001530"
   },
   {
     "headword": "lemboi",
@@ -68244,11 +68010,7 @@
     "translations": [
       {
         "language": "id",
-        "text": "tidak ada rasa"
-      },
-      {
-        "language": "id",
-        "text": "hambar"
+        "text": "tidak ada rasa; hambar"
       }
     ],
     "examples": [
@@ -68271,7 +68033,7 @@
       "reviewed_at": null
     },
     "syllable_form": "lem.boi",
-    "id": "paser-001530"
+    "id": "paser-001531"
   },
   {
     "headword": "lembu",
@@ -68303,7 +68065,7 @@
       "reviewed_at": null
     },
     "syllable_form": "lem.bu",
-    "id": "paser-001531"
+    "id": "paser-001532"
   },
   {
     "headword": "lembuér",
@@ -68335,7 +68097,7 @@
       "reviewed_at": null
     },
     "syllable_form": "lem.bu.ér",
-    "id": "paser-001532"
+    "id": "paser-001533"
   },
   {
     "headword": "lembukon",
@@ -68344,7 +68106,7 @@
     "translations": [
       {
         "language": "id",
-        "text": "burung punai berwarna hijau tua, bisa dimakan"
+        "text": "burung punai berwarna hijau tua"
       }
     ],
     "examples": [
@@ -68367,7 +68129,7 @@
       "reviewed_at": null
     },
     "syllable_form": "lem.bu.kon",
-    "id": "paser-001533"
+    "id": "paser-001534"
   },
   {
     "headword": "lembur",
@@ -68399,7 +68161,7 @@
       "reviewed_at": null
     },
     "syllable_form": "lem.bur",
-    "id": "paser-001534"
+    "id": "paser-001535"
   },
   {
     "headword": "lémit",
@@ -68431,6 +68193,6 @@
       "reviewed_at": null
     },
     "syllable_form": "lé.mit",
-    "id": "paser-001535"
+    "id": "paser-001536"
   }
 ]
