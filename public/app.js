@@ -83,13 +83,10 @@ function normalizeEntries(rawEntries) {
     language: entry.language || 'paser',
     partOfSpeech: entry.part_of_speech || entry.partOfSpeech || '',
     translations: asArray(entry.translations).map((item) => item.text || item).filter(Boolean),
-    definitions: asArray(entry.definitions).filter(Boolean),
     examples: asArray(entry.examples),
     subentries: asArray(entry.subentries).map(normalizeSubentry).filter((subentry) => subentry.label),
     variants: asArray(entry.variants).map(normalizeVariant).filter(isVisibleVariant),
-    notes: entry.notes || '',
-    source: entry.source || {},
-    review: entry.review || {}
+    notes: entry.notes || ''
     });
   });
 }
@@ -293,12 +290,6 @@ function renderExampleParts(paser, indonesia = '') {
 function splitExample(text) {
   const parts = text.split(' — ');
   return parts.length > 1 ? [parts[0], parts.slice(1).join(' — ')] : [text, ''];
-}
-
-function formatSource(source) {
-  return [source.file, source.page ? `hal. ${source.page}` : '', source.ocr_confidence ? `OCR ${source.ocr_confidence}` : '']
-    .filter(Boolean)
-    .join(' · ');
 }
 
 function searchableText(entry) {
