@@ -120042,5 +120042,5157 @@
     },
     "syllable_form": "sa.rak",
     "id": "paser-002854"
+  },
+  {
+    "id": "paser-002855",
+    "headword": "sarat",
+    "language": "paser",
+    "part_of_speech": "adjective",
+    "translations": [
+      {
+        "language": "id",
+        "text": "sarat"
+      },
+      {
+        "language": "id",
+        "text": "penuh dengan muatan"
+      }
+    ],
+    "examples": [
+      {
+        "text": "biduk ene sarat",
+        "translation_id": "perahu itu sarat, penuh dengan muatan"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-252; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-252.txt",
+      "page": 243,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "sa.rat"
+  },
+  {
+    "id": "paser-002856",
+    "headword": "saring",
+    "language": "paser",
+    "part_of_speech": "verb",
+    "translations": [
+      {
+        "language": "id",
+        "text": "saring"
+      }
+    ],
+    "examples": [],
+    "variants": [],
+    "subentries": [
+      {
+        "label": "nya.ring",
+        "part_of_speech": "verb",
+        "translations": [
+          {
+            "language": "id",
+            "text": "menyaring"
+          }
+        ],
+        "examples": [
+          {
+            "text": "inneku nyaring kelapa parut la beliku",
+            "translation_id": "ibuku menyaring kelapa parut di dapur"
+          }
+        ]
+      }
+    ],
+    "notes": "OCR page-252; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-252.txt",
+      "page": 243,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "sa.ring"
+  },
+  {
+    "id": "paser-002857",
+    "headword": "sarjana",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "sarjana"
+      }
+    ],
+    "examples": [
+      {
+        "text": "tempo endo ena kakan begawi serek harus sarjana",
+        "translation_id": "zaman sekarang jika mau cepat kerja harus sarjana"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-252; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-252.txt",
+      "page": 243,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "sar.ja.na"
+  },
+  {
+    "id": "paser-002858",
+    "headword": "tsaron",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "laron"
+      }
+    ],
+    "examples": [
+      {
+        "text": "deo tsaron koe uran",
+        "translation_id": "banyak laron karena hujan"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-252; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-252.txt",
+      "page": 243,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "tsa.ron"
+  },
+  {
+    "id": "paser-002859",
+    "headword": "saron",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "gambang besi"
+      }
+    ],
+    "examples": [
+      {
+        "text": "iyo nitik saron",
+        "translation_id": "dia membunyikan gambang besi"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-252; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-252.txt",
+      "page": 243,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "sa.ron"
+  },
+  {
+    "id": "paser-002860",
+    "headword": "saro",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "selingkuh"
+      }
+    ],
+    "examples": [
+      {
+        "text": "agama taka ngelarang saro",
+        "translation_id": "agama kita melarang selingkuh"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-252; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-252.txt",
+      "page": 243,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "sa.ro"
+  },
+  {
+    "id": "paser-002861",
+    "headword": "sastra",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "sastra"
+      }
+    ],
+    "examples": [
+      {
+        "text": "Doni tuju beguru sastra",
+        "translation_id": "Doni suka belajar sastra"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-252; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-252.txt",
+      "page": 243,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "sas.tra"
+  },
+  {
+    "id": "paser-002862",
+    "headword": "sate",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "satai"
+      }
+    ],
+    "examples": [
+      {
+        "text": "aku tuju kuman sate",
+        "translation_id": "saya suka makan satai"
+      }
+    ],
+    "variants": [],
+    "subentries": [
+      {
+        "label": "cucuk sate",
+        "part_of_speech": "noun",
+        "translations": [
+          {
+            "language": "id",
+            "text": "tusuk satai"
+          }
+        ],
+        "examples": [
+          {
+            "text": "cucuk sate penampa ket tolang",
+            "translation_id": "tusuk satai terbuat dari pohon bambu"
+          }
+        ]
+      },
+      {
+        "label": "nya.te",
+        "part_of_speech": "verb",
+        "translations": [
+          {
+            "language": "id",
+            "text": "makan satai"
+          }
+        ],
+        "examples": [
+          {
+            "text": "kain tuju nyate malam Minggu",
+            "translation_id": "kamu suka makan satai pada malam Minggu"
+          }
+        ]
+      }
+    ],
+    "notes": "OCR page-252; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-252.txt",
+      "page": 243,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "sa.te"
+  },
+  {
+    "id": "paser-002863",
+    "headword": "saung",
+    "language": "paser",
+    "part_of_speech": "verb",
+    "translations": [
+      {
+        "language": "id",
+        "text": "adu"
+      },
+      {
+        "language": "id",
+        "text": "sabung"
+      }
+    ],
+    "examples": [
+      {
+        "text": "dero tuju saung piak",
+        "translation_id": "mereka suka adu ayam"
+      }
+    ],
+    "variants": [],
+    "subentries": [
+      {
+        "label": "en.sa.ung",
+        "part_of_speech": "verb",
+        "translations": [
+          {
+            "language": "id",
+            "text": "beradu"
+          }
+        ],
+        "examples": [
+          {
+            "text": "keo piyak ensaung la natar",
+            "translation_id": "ada ayam beradu di halaman rumah"
+          }
+        ]
+      },
+      {
+        "label": "ngen.sa.ung",
+        "part_of_speech": "verb",
+        "translations": [
+          {
+            "language": "id",
+            "text": "beradu"
+          }
+        ],
+        "examples": [
+          {
+            "text": "keo piyak ngensaung la natar",
+            "translation_id": "ada ayam beradu di halaman rumah"
+          }
+        ]
+      },
+      {
+        "label": "nya.ung",
+        "part_of_speech": "verb",
+        "translations": [
+          {
+            "language": "id",
+            "text": "mengadu"
+          },
+          {
+            "language": "id",
+            "text": "menyabung"
+          }
+        ],
+        "examples": [
+          {
+            "text": "udaku tuju nyaung piak",
+            "translation_id": "pamanku suka menyabung ayam"
+          }
+        ]
+      },
+      {
+        "label": "se.na.ung",
+        "part_of_speech": "verb",
+        "translations": [
+          {
+            "language": "id",
+            "text": "diadu"
+          },
+          {
+            "language": "id",
+            "text": "disabung"
+          }
+        ],
+        "examples": [
+          {
+            "text": "peya masal ene senaung koe tuoyo",
+            "translation_id": "anak nakal itu diadu oleh orang tuanya"
+          }
+        ]
+      }
+    ],
+    "notes": "OCR page-252; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-252.txt",
+      "page": 243,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "sa.ung"
+  },
+  {
+    "id": "paser-002864",
+    "headword": "sawa",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "hilir"
+      },
+      {
+        "language": "id",
+        "text": "kota"
+      }
+    ],
+    "examples": [
+      {
+        "text": "iyo malan depo sawa",
+        "translation_id": "dia pergi ke hilir"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-252; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-252.txt",
+      "page": 243,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "sa.wa"
+  },
+  {
+    "id": "paser-002865",
+    "headword": "sawi",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "sawi"
+      }
+    ],
+    "examples": [
+      {
+        "text": "saya tuju kuman sawi",
+        "translation_id": "saya suka makan sawi"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-252; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-252.txt",
+      "page": 243,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "sa.wi"
+  },
+  {
+    "id": "paser-002866",
+    "headword": "saya",
+    "language": "paser",
+    "part_of_speech": "pronoun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "aku"
+      },
+      {
+        "language": "id",
+        "text": "saya"
+      }
+    ],
+    "examples": [
+      {
+        "text": "ye, saya",
+        "translation_id": "ya, saya"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-252; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-252.txt",
+      "page": 243,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "sa.ya"
+  },
+  {
+    "id": "paser-002867",
+    "headword": "sayum",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "ipar"
+      }
+    ],
+    "examples": [
+      {
+        "text": "sayum iyo",
+        "translation_id": "ipar dia"
+      }
+    ],
+    "variants": [],
+    "subentries": [
+      {
+        "label": "mang.ku.sa.yum",
+        "part_of_speech": "verb",
+        "translations": [
+          {
+            "language": "id",
+            "text": "saling beriparan"
+          }
+        ],
+        "examples": [
+          {
+            "text": "Dea diang Kania mangkusayum",
+            "translation_id": "Dea dan Kania saling beriparan"
+          }
+        ]
+      }
+    ],
+    "notes": "OCR page-253; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-253.txt",
+      "page": 244,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "sa.yum"
+  },
+  {
+    "id": "paser-002868",
+    "headword": "seak",
+    "language": "paser",
+    "part_of_speech": "adjective",
+    "translations": [
+      {
+        "language": "id",
+        "text": "mudah dibelah"
+      }
+    ],
+    "examples": [
+      {
+        "text": "kayu ene seak",
+        "translation_id": "kayu itu mudah dibelah"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-253; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-253.txt",
+      "page": 244,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "se.ak"
+  },
+  {
+    "id": "paser-002869",
+    "headword": "sean",
+    "language": "paser",
+    "part_of_speech": "adjective",
+    "translations": [
+      {
+        "language": "id",
+        "text": "sia-siakan"
+      },
+      {
+        "language": "id",
+        "text": "tidak menghargai"
+      },
+      {
+        "language": "id",
+        "text": "mubazir"
+      }
+    ],
+    "examples": [
+      {
+        "text": "sean diang reta",
+        "translation_id": "sia-siakan dengan harta"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-253; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-253.txt",
+      "page": 244,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "se.an"
+  },
+  {
+    "id": "paser-002870",
+    "headword": "sebekas",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "bunyi kaki ketika berjalan"
+      }
+    ],
+    "examples": [
+      {
+        "text": "belo dingo sebekas yo",
+        "translation_id": "tidak terdengar bunyi kakinya"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-253; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-253.txt",
+      "page": 244,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "se.be.kas"
+  },
+  {
+    "id": "paser-002871",
+    "headword": "sebelas",
+    "language": "paser",
+    "part_of_speech": "numeral",
+    "translations": [
+      {
+        "language": "id",
+        "text": "sebelas"
+      }
+    ],
+    "examples": [
+      {
+        "text": "iyo nomor jatus sebelas",
+        "translation_id": "dia nomor seratus sebelas"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-253; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-253.txt",
+      "page": 244,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "se.be.las"
+  },
+  {
+    "id": "paser-002872",
+    "headword": "sedang",
+    "language": "paser",
+    "part_of_speech": "adjective",
+    "translations": [
+      {
+        "language": "id",
+        "text": "cukup"
+      },
+      {
+        "language": "id",
+        "text": "pas"
+      },
+      {
+        "language": "id",
+        "text": "stop"
+      },
+      {
+        "language": "id",
+        "text": "berhenti"
+      }
+    ],
+    "examples": [
+      {
+        "text": "baju sedang mo kompu",
+        "translation_id": "baju pas di badan"
+      }
+    ],
+    "variants": [],
+    "subentries": [
+      {
+        "label": "nye.dang",
+        "part_of_speech": "verb",
+        "translations": [
+          {
+            "language": "id",
+            "text": "menyedangkan pakaian"
+          }
+        ],
+        "examples": [
+          {
+            "text": "aku nyedang pakaian te peyaku",
+            "translation_id": "saya menyedangkan pakaian untuk anakku"
+          }
+        ]
+      },
+      {
+        "label": "se.ne.dang",
+        "part_of_speech": "verb",
+        "translations": [
+          {
+            "language": "id",
+            "text": "disedangkan"
+          }
+        ],
+        "examples": [
+          {
+            "text": "baju bayu ijau ene senedang po aku koe pengosot",
+            "translation_id": "baju hijau baru itu disedangkan ke saya oleh penjahit"
+          }
+        ]
+      }
+    ],
+    "notes": "OCR page-253; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-253.txt",
+      "page": 244,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "se.dang"
+  },
+  {
+    "id": "paser-002873",
+    "headword": "sedea",
+    "language": "paser",
+    "part_of_speech": "particle",
+    "translations": [
+      {
+        "language": "id",
+        "text": "hampir"
+      }
+    ],
+    "examples": [
+      {
+        "text": "itak sedea pukan",
+        "translation_id": "nenek hampir saja jatuh"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-253; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-253.txt",
+      "page": 244,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "se.de.a"
+  },
+  {
+    "id": "paser-002874",
+    "headword": "sedeka",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "sedekah"
+      }
+    ],
+    "examples": [
+      {
+        "text": "iyo deo-deo miye sedeka",
+        "translation_id": "dia banyak-banyak memberi sedekah"
+      }
+    ],
+    "variants": [],
+    "subentries": [
+      {
+        "label": "nye.de.ka",
+        "part_of_speech": "verb",
+        "translations": [
+          {
+            "language": "id",
+            "text": "menyedekahkan"
+          }
+        ],
+        "examples": [
+          {
+            "text": "taka harus deo-deo nyedeka sen taka",
+            "translation_id": "kita harus banyak-banyak menyedekahkan uang kita"
+          }
+        ]
+      },
+      {
+        "label": "si.na.de.ka",
+        "part_of_speech": "verb",
+        "translations": [
+          {
+            "language": "id",
+            "text": "disedekahkan"
+          }
+        ],
+        "examples": [
+          {
+            "text": "diris yo pakaiku endo sinadeka koe udaku",
+            "translation_id": "sarung yang kupakai ini disedekahkan oleh pamanku"
+          }
+        ]
+      }
+    ],
+    "notes": "OCR page-253; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-253.txt",
+      "page": 244,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "se.de.ka"
+  },
+  {
+    "id": "paser-002875",
+    "headword": "derai",
+    "language": "paser",
+    "part_of_speech": "adjective",
+    "translations": [
+      {
+        "language": "id",
+        "text": "sendiri saja"
+      }
+    ],
+    "examples": [
+      {
+        "text": "aku tilo la mendo derai",
+        "translation_id": "saya tinggal di sini sendiri"
+      }
+    ],
+    "variants": [],
+    "subentries": [
+      {
+        "label": "nye.de.rai",
+        "part_of_speech": "verb",
+        "translations": [
+          {
+            "language": "id",
+            "text": "menyendiri"
+          }
+        ],
+        "examples": [
+          {
+            "text": "okongku kakan nyederai la tunden",
+            "translation_id": "adikku mau menyendiri di gunung"
+          }
+        ]
+      },
+      {
+        "label": "se.de.rai",
+        "part_of_speech": "adverb",
+        "translations": [
+          {
+            "language": "id",
+            "text": "sendirian"
+          }
+        ],
+        "examples": [
+          {
+            "text": "iyo ulet sederai",
+            "translation_id": "dia datang sendirian"
+          }
+        ]
+      }
+    ],
+    "notes": "OCR page-253; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-253.txt",
+      "page": 244,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "de.rai"
+  },
+  {
+    "id": "paser-002876",
+    "headword": "sedia",
+    "language": "paser",
+    "part_of_speech": "verb",
+    "translations": [
+      {
+        "language": "id",
+        "text": "sedia"
+      },
+      {
+        "language": "id",
+        "text": "saji"
+      },
+      {
+        "language": "id",
+        "text": "hidang"
+      }
+    ],
+    "examples": [
+      {
+        "text": "iyo tau sedia",
+        "translation_id": "dia tahunya sedia"
+      }
+    ],
+    "variants": [],
+    "subentries": [
+      {
+        "label": "be.se.di.a",
+        "part_of_speech": "verb",
+        "translations": [
+          {
+            "language": "id",
+            "text": "bersedia"
+          }
+        ],
+        "examples": [
+          {
+            "text": "ulun lou desung besedia",
+            "translation_id": "orang rumah sedang bersedia"
+          }
+        ]
+      },
+      {
+        "label": "nye.di.a",
+        "part_of_speech": "verb",
+        "translations": [
+          {
+            "language": "id",
+            "text": "menyediakan"
+          },
+          {
+            "language": "id",
+            "text": "menyiapkan"
+          },
+          {
+            "language": "id",
+            "text": "menghidangkan"
+          }
+        ],
+        "examples": [
+          {
+            "text": "dero nyedia pengokan",
+            "translation_id": "mereka menyediakan makanan"
+          }
+        ]
+      },
+      {
+        "label": "si.na.dia",
+        "part_of_speech": "verb",
+        "translations": [
+          {
+            "language": "id",
+            "text": "disediakan"
+          }
+        ],
+        "examples": [
+          {
+            "text": "pengokan-pengokan ene sinadia koe yo umpu lou",
+            "translation_id": "makanan-makanan itu disediakan oleh yang punya rumah"
+          }
+        ]
+      }
+    ],
+    "notes": "OCR page-253; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-253.txt",
+      "page": 244,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "se.di.a"
+  },
+  {
+    "id": "paser-002877",
+    "headword": "segar",
+    "language": "paser",
+    "part_of_speech": "adjective",
+    "translations": [
+      {
+        "language": "id",
+        "text": "sejuk"
+      }
+    ],
+    "examples": [
+      {
+        "text": "segar beta riut la mendo",
+        "translation_id": "sejuk sekali angin di sini"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-254; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-254.txt",
+      "page": 245,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "se.gar"
+  },
+  {
+    "id": "paser-002878",
+    "headword": "segot",
+    "language": "paser",
+    "part_of_speech": "adjective",
+    "translations": [
+      {
+        "language": "id",
+        "text": "kejam"
+      }
+    ],
+    "examples": [
+      {
+        "text": "ulunyo segot",
+        "translation_id": "orangnya kejam"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-254; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-254.txt",
+      "page": 245,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "se.got"
+  },
+  {
+    "id": "paser-002879",
+    "headword": "sego",
+    "language": "paser",
+    "part_of_speech": "adjective",
+    "translations": [
+      {
+        "language": "id",
+        "text": "bangga"
+      }
+    ],
+    "examples": [
+      {
+        "text": "nang iko sego beta dia diang pangkuli ko ene",
+        "translation_id": "jangan kamu bangga dengan pendapatmu itu"
+      }
+    ],
+    "variants": [],
+    "subentries": [
+      {
+        "label": "nyégo",
+        "part_of_speech": "verb",
+        "translations": [
+          {
+            "language": "id",
+            "text": "membanggakan"
+          }
+        ],
+        "examples": [
+          {
+            "text": "aku nyego kompuku yo tahan layong",
+            "translation_id": "saya membanggakan badanku yang tahan panas"
+          }
+        ]
+      },
+      {
+        "label": "keségo",
+        "part_of_speech": "noun",
+        "translations": [
+          {
+            "language": "id",
+            "text": "kebanggaan"
+          }
+        ],
+        "examples": [
+          {
+            "text": "kesego ulun tuo si pea yo se",
+            "translation_id": "kebanggaan orang tua kepada anaknya sendiri"
+          }
+        ]
+      }
+    ],
+    "notes": "OCR page-254; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-254.txt",
+      "page": 245,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "sé.go"
+  },
+  {
+    "id": "paser-002880",
+    "headword": "sehat",
+    "language": "paser",
+    "part_of_speech": "adjective",
+    "translations": [
+      {
+        "language": "id",
+        "text": "sehat"
+      }
+    ],
+    "examples": [],
+    "variants": [],
+    "subentries": [
+      {
+        "label": "nye.hat",
+        "part_of_speech": "verb",
+        "translations": [
+          {
+            "language": "id",
+            "text": "menyehatkan"
+          }
+        ],
+        "examples": [
+          {
+            "text": "danum berese nyehat kompu",
+            "translation_id": "air bersih menyehatkan tubuh"
+          }
+        ]
+      }
+    ],
+    "notes": "OCR page-254; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-254.txt",
+      "page": 245,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "se.hat"
+  },
+  {
+    "id": "paser-002881",
+    "headword": "seher",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "sihir"
+      }
+    ],
+    "examples": [
+      {
+        "text": "iyo kono seher",
+        "translation_id": "dia terkena sihir"
+      }
+    ],
+    "variants": [],
+    "subentries": [
+      {
+        "label": "nyi.hir",
+        "part_of_speech": "verb",
+        "translations": [
+          {
+            "language": "id",
+            "text": "menyihir"
+          }
+        ],
+        "examples": [
+          {
+            "text": "deo ulun kate nyihir la kampongku",
+            "translation_id": "banyak orang yang bisa menyihir di kampungku"
+          }
+        ]
+      },
+      {
+        "label": "se.né.hér",
+        "part_of_speech": "verb",
+        "translations": [
+          {
+            "language": "id",
+            "text": "disihir"
+          }
+        ],
+        "examples": [
+          {
+            "text": "peya ene kuto koe seneher",
+            "translation_id": "anak itu gila karena disihir"
+          }
+        ]
+      }
+    ],
+    "notes": "OCR page-254; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-254.txt",
+      "page": 245,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "sé.hér"
+  },
+  {
+    "id": "paser-002882",
+    "headword": "sei",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "kiri"
+      }
+    ],
+    "examples": [
+      {
+        "text": "motor ene siat depo sei",
+        "translation_id": "motor itu belok ke kiri"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-254; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-254.txt",
+      "page": 245,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "sei"
+  },
+  {
+    "id": "paser-002883",
+    "headword": "sejada",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "sajadah"
+      }
+    ],
+    "examples": [
+      {
+        "text": "sejada ene lapis sembayang",
+        "translation_id": "sajadah itu alas untuk salat"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-254; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-254.txt",
+      "page": 245,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "se.ja.da"
+  },
+  {
+    "id": "paser-002884",
+    "headword": "sejajar",
+    "language": "paser",
+    "part_of_speech": "adjective",
+    "translations": [
+      {
+        "language": "id",
+        "text": "sepadan"
+      },
+      {
+        "language": "id",
+        "text": "sebanding"
+      }
+    ],
+    "examples": [
+      {
+        "text": "aku diang nyindaiku sejajar",
+        "translation_id": "saya dan sepupuku sepadan"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-254; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-254.txt",
+      "page": 245,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "sejajar"
+  },
+  {
+    "id": "paser-002885",
+    "headword": "sekampung",
+    "language": "paser",
+    "part_of_speech": "verb",
+    "translations": [
+      {
+        "language": "id",
+        "text": "mengapung"
+      }
+    ],
+    "examples": [
+      {
+        "text": "biduk ene sekampung ombon danum",
+        "translation_id": "perahu itu mengapung di atas air"
+      }
+    ],
+    "variants": [],
+    "subentries": [
+      {
+        "label": "si.na.kam.pung",
+        "part_of_speech": "verb",
+        "translations": [
+          {
+            "language": "id",
+            "text": "diapungkan"
+          }
+        ],
+        "examples": [
+          {
+            "text": "batang kayu ene sinakampung",
+            "translation_id": "batang kayu itu diapungkan"
+          }
+        ]
+      }
+    ],
+    "notes": "OCR page-254; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-254.txt",
+      "page": 245,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "se.kam.pung"
+  },
+  {
+    "id": "paser-002886",
+    "headword": "sekat",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "sekat"
+      },
+      {
+        "language": "id",
+        "text": "partisi"
+      },
+      {
+        "language": "id",
+        "text": "dinding pembatas"
+      }
+    ],
+    "examples": [
+      {
+        "text": "ummaku nampa sekat kamar",
+        "translation_id": "ayahku membuat dinding pembatas kamar"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-254; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-254.txt",
+      "page": 245,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "se.kat"
+  },
+  {
+    "id": "paser-002887",
+    "headword": "sekema",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "bagan"
+      },
+      {
+        "language": "id",
+        "text": "rancangan bangunan"
+      }
+    ],
+    "examples": [
+      {
+        "text": "ene sekema lou yda",
+        "translation_id": "itu bagan rumah paman"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-254; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-254.txt",
+      "page": 245,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "sekéma"
+  },
+  {
+    "id": "paser-002888",
+    "headword": "sekejap",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "sekejap"
+      },
+      {
+        "language": "id",
+        "text": "sebentar"
+      }
+    ],
+    "examples": [
+      {
+        "text": "iyo mapos sekejap mato",
+        "translation_id": "dia hilang sekejap mata"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-255; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-255.txt",
+      "page": 246,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "se.ke.jap"
+  },
+  {
+    "id": "paser-002889",
+    "headword": "sekepeng",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "gapura"
+      },
+      {
+        "language": "id",
+        "text": "pintu gerbang"
+      }
+    ],
+    "examples": [
+      {
+        "text": "keo kode begenteng la sekepeng kauka luoku",
+        "translation_id": "ada monyet bergantung di gapura depan rumahku"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-255; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-255.txt",
+      "page": 246,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "se.ké.péng"
+  },
+  {
+    "id": "paser-002890",
+    "headword": "seketo",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "usaha"
+      },
+      {
+        "language": "id",
+        "text": "cari"
+      },
+      {
+        "language": "id",
+        "text": "mencari"
+      }
+    ],
+    "examples": [
+      {
+        "text": "malan seketo",
+        "translation_id": "jalan berusaha"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-255; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-255.txt",
+      "page": 246,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "se.ke.to"
+  },
+  {
+    "id": "paser-002891",
+    "headword": "sekijut",
+    "language": "paser",
+    "part_of_speech": "verb",
+    "translations": [
+      {
+        "language": "id",
+        "text": "bergerak sendiri"
+      }
+    ],
+    "examples": [
+      {
+        "text": "kompuyo sekijut",
+        "translation_id": "badannya bergerak-gerak sendiri"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-255; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-255.txt",
+      "page": 246,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "se.ki.jut"
+  },
+  {
+    "id": "paser-002892",
+    "headword": "sekola",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "sekolah"
+      }
+    ],
+    "examples": [
+      {
+        "text": "lou sekola ene bayu tinangkuwat",
+        "translation_id": "gedung sekolah itu baru dibangun"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-255; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-255.txt",
+      "page": 246,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "se.ko.la"
+  },
+  {
+    "id": "paser-002893",
+    "headword": "sekola yo’",
+    "language": "paser",
+    "part_of_speech": "adverb",
+    "translations": [
+      {
+        "language": "id",
+        "text": "selamanya"
+      }
+    ],
+    "examples": [
+      {
+        "text": "iko kate tilo la mendo sekola yo",
+        "translation_id": "kamu bisa tinggal di sini selamanya"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-255; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-255.txt",
+      "page": 246,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "se.ko.la yo’"
+  },
+  {
+    "id": "paser-002894",
+    "headword": "sekongkol",
+    "language": "paser",
+    "part_of_speech": "verb",
+    "translations": [
+      {
+        "language": "id",
+        "text": "bersekongkol"
+      }
+    ],
+    "examples": [
+      {
+        "text": "sekongkol dero duo",
+        "translation_id": "bersekongkol mereka berdua"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-255; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-255.txt",
+      "page": 246,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "se.kong,kol"
+  },
+  {
+    "id": "paser-002895",
+    "headword": "sekop",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "sekop"
+      }
+    ],
+    "examples": [
+      {
+        "text": "kain ngalek tana diang sekop",
+        "translation_id": "mengambil tanah dengan sekop"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-255; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-255.txt",
+      "page": 246,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "se.kop"
+  },
+  {
+    "id": "paser-002896",
+    "headword": "sekoya",
+    "language": "paser",
+    "part_of_speech": "verb",
+    "translations": [
+      {
+        "language": "id",
+        "text": "bicara"
+      },
+      {
+        "language": "id",
+        "text": "menceritakan rahasia"
+      }
+    ],
+    "examples": [
+      {
+        "text": "nang sekoya depo ulun",
+        "translation_id": "jangan menceritakan rahasia kepada orang lain"
+      }
+    ],
+    "variants": [],
+    "subentries": [
+      {
+        "label": "nyeng.ko.ya",
+        "part_of_speech": "verb",
+        "translations": [
+          {
+            "language": "id",
+            "text": "membicarakan"
+          }
+        ],
+        "examples": [
+          {
+            "text": "bawe akuruku tuju nyengkoya masala la lou",
+            "translation_id": "perempuan bertemu suka membicarakan masalah di rumah"
+          }
+        ]
+      },
+      {
+        "label": "seng.ko.ya",
+        "part_of_speech": "verb",
+        "translations": [
+          {
+            "language": "id",
+            "text": "bicarakan"
+          },
+          {
+            "language": "id",
+            "text": "ceritakan seseorang"
+          }
+        ],
+        "examples": [
+          {
+            "text": "sengkoya masala ene la lou",
+            "translation_id": "bicarakan masalah itu di rumah"
+          }
+        ]
+      }
+    ],
+    "notes": "OCR page-255; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-255.txt",
+      "page": 246,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "se.ko.ya"
+  },
+  {
+    "id": "paser-002897",
+    "headword": "sela",
+    "language": "paser",
+    "part_of_speech": "verb",
+    "translations": [
+      {
+        "language": "id",
+        "text": "sila"
+      }
+    ],
+    "examples": [],
+    "variants": [],
+    "subentries": [
+      {
+        "label": "be.se.la",
+        "part_of_speech": "verb",
+        "translations": [
+          {
+            "language": "id",
+            "text": "bersila"
+          }
+        ],
+        "examples": [
+          {
+            "text": "aku tunge besela la lou",
+            "translation_id": "saya duduk bersila di rumah"
+          }
+        ]
+      }
+    ],
+    "notes": "OCR page-255; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-255.txt",
+      "page": 246,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "sé.la"
+  },
+  {
+    "id": "paser-002898",
+    "headword": "selah",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "celah"
+      }
+    ],
+    "examples": [
+      {
+        "text": "eto selah yo",
+        "translation_id": "cari celahnya"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-255; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-255.txt",
+      "page": 246,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "se.lah"
+  },
+  {
+    "id": "paser-002899",
+    "headword": "selada",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "selada"
+      }
+    ],
+    "examples": [
+      {
+        "text": "uda ngulo selada la kebon",
+        "translation_id": "paman menanam selada di kebun"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-255; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-255.txt",
+      "page": 246,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "se.la.da"
+  },
+  {
+    "id": "paser-002900",
+    "headword": "selajur",
+    "language": "paser",
+    "part_of_speech": "numeral",
+    "translations": [
+      {
+        "language": "id",
+        "text": "sekalian"
+      }
+    ],
+    "examples": [
+      {
+        "text": "dero selajur malan",
+        "translation_id": "mereka sekalian berjalan"
+      }
+    ],
+    "variants": [],
+    "subentries": [
+      {
+        "label": "nye.la.jur",
+        "part_of_speech": "verb",
+        "translations": [
+          {
+            "language": "id",
+            "text": "menyekaliankan"
+          },
+          {
+            "language": "id",
+            "text": "sekaligus"
+          }
+        ],
+        "examples": [
+          {
+            "text": "dero nyelajur singgah la pasar",
+            "translation_id": "mereka sekaligus mampir ke pasar"
+          }
+        ]
+      },
+      {
+        "label": "si.na.la.jur",
+        "part_of_speech": "verb",
+        "translations": [
+          {
+            "language": "id",
+            "text": "disekaliankan"
+          }
+        ],
+        "examples": [
+          {
+            "text": "senku keo jatus ribu sinalajur ka penalunas",
+            "translation_id": "uangku ada seratus ribu jadi disekaliankan saja dilunasi"
+          }
+        ]
+      }
+    ],
+    "notes": "OCR page-255; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-255.txt",
+      "page": 246,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "se.la.jur"
+  },
+  {
+    "id": "paser-002901",
+    "headword": "selaka",
+    "language": "paser",
+    "part_of_speech": "adjective",
+    "translations": [
+      {
+        "language": "id",
+        "text": "celaka"
+      }
+    ],
+    "examples": [
+      {
+        "text": "selaka doli ena ketine",
+        "translation_id": "celaka jadinya kalau begitu"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-256; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-256.txt",
+      "page": 247,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "se.la.ka"
+  },
+  {
+    "id": "paser-002902",
+    "headword": "selamat",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "pemberian salam"
+      },
+      {
+        "language": "id",
+        "text": "terbebas dari bahaya"
+      }
+    ],
+    "examples": [
+      {
+        "text": "dato selamat engket bahaya",
+        "translation_id": "kakek selamat dari bahaya"
+      }
+    ],
+    "variants": [],
+    "subentries": [
+      {
+        "label": "selamat ma",
+        "part_of_speech": "noun",
+        "translations": [
+          {
+            "language": "id",
+            "text": "selamat pagi"
+          }
+        ],
+        "examples": []
+      },
+      {
+        "label": "selamat malom",
+        "part_of_speech": "noun",
+        "translations": [
+          {
+            "language": "id",
+            "text": "selamat malam"
+          }
+        ],
+        "examples": []
+      },
+      {
+        "label": "selamat nayap",
+        "part_of_speech": "noun",
+        "translations": [
+          {
+            "language": "id",
+            "text": "selamat sore"
+          }
+        ],
+        "examples": []
+      },
+      {
+        "label": "nyelamat",
+        "part_of_speech": "verb",
+        "translations": [
+          {
+            "language": "id",
+            "text": "mengadakan upacara selamatan"
+          },
+          {
+            "language": "id",
+            "text": "selamatan"
+          }
+        ],
+        "examples": [
+          {
+            "text": "taka kakan nyelamat motor bayu malam nindo",
+            "translation_id": "mau selamatan sepeda motor baru malam nanti"
+          }
+        ]
+      }
+    ],
+    "notes": "OCR page-256; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-256.txt",
+      "page": 247,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "se.la.mat"
+  },
+  {
+    "id": "paser-002903",
+    "headword": "selan",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "ganjal"
+      }
+    ],
+    "examples": [
+      {
+        "text": "selan botis meja ene",
+        "translation_id": "ganjal kaki meja itu"
+      }
+    ],
+    "variants": [],
+    "subentries": [
+      {
+        "label": "nyelan",
+        "part_of_speech": "verb",
+        "translations": [
+          {
+            "language": "id",
+            "text": "mengganjal"
+          }
+        ],
+        "examples": [
+          {
+            "text": "supir ene nyelan mobilyo dia te balok telion",
+            "translation_id": "supir itu mengganjal mobilnya dengan balok ulin"
+          }
+        ]
+      },
+      {
+        "label": "senelan",
+        "part_of_speech": "verb",
+        "translations": [
+          {
+            "language": "id",
+            "text": "diganjal"
+          }
+        ],
+        "examples": [
+          {
+            "text": "jawong la louku senelan diang batu",
+            "translation_id": "pintu di rumahku diganjal dengan batu"
+          }
+        ]
+      }
+    ],
+    "notes": "OCR page-256; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-256.txt",
+      "page": 247,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "se.lan"
+  },
+  {
+    "id": "paser-002904",
+    "headword": "selang",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "selang"
+      }
+    ],
+    "examples": [
+      {
+        "text": "selang danum",
+        "translation_id": "selang air"
+      }
+    ],
+    "variants": [],
+    "subentries": [
+      {
+        "label": "nye.lang",
+        "part_of_speech": "verb",
+        "translations": [
+          {
+            "language": "id",
+            "text": "menyelang"
+          }
+        ],
+        "examples": [
+          {
+            "text": "malam nindo kate be iko nyelang danum",
+            "translation_id": "malam nanti apakah kamu bisa menyelang air"
+          }
+        ]
+      },
+      {
+        "label": "se.ne.lang",
+        "part_of_speech": "verb",
+        "translations": [
+          {
+            "language": "id",
+            "text": "diselang"
+          }
+        ],
+        "examples": [
+          {
+            "text": "danum la tinan senelang mitek po lou",
+            "translation_id": "air di sumur diselang ke rumah"
+          }
+        ]
+      }
+    ],
+    "notes": "OCR page-256; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-256.txt",
+      "page": 247,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "se.lang"
+  },
+  {
+    "id": "paser-002905",
+    "headword": "selangga",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "tulang selangkangan"
+      }
+    ],
+    "examples": [
+      {
+        "text": "siet beta tulang selanggaku",
+        "translation_id": "sakit sekali tulang selangkanganku"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-256; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-256.txt",
+      "page": 247,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "se.lang.ga"
+  },
+  {
+    "id": "paser-002906",
+    "headword": "selangui",
+    "language": "paser",
+    "part_of_speech": "verb",
+    "translations": [
+      {
+        "language": "id",
+        "text": "berenang"
+      }
+    ],
+    "examples": [
+      {
+        "text": "dero undus selangui",
+        "translation_id": "mereka mandi berenang"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-256; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-256.txt",
+      "page": 247,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "se.la.ngui"
+  },
+  {
+    "id": "paser-002907",
+    "headword": "Selasa",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "Selasa"
+      }
+    ],
+    "examples": [
+      {
+        "text": "manin olo Selasa",
+        "translation_id": "besok hari Selasa"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-256; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-256.txt",
+      "page": 247,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "Se.la.sa"
+  },
+  {
+    "id": "paser-002908",
+    "headword": "selatan",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "selatan"
+      }
+    ],
+    "examples": [
+      {
+        "text": "pelanduk ene ende makat po selatan",
+        "translation_id": "kijang itu tadi lari ke selatan"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-256; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-256.txt",
+      "page": 247,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "se.la.tan"
+  },
+  {
+    "id": "paser-002909",
+    "headword": "selatan",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "makanan tersangkut di gigi"
+      }
+    ],
+    "examples": [
+      {
+        "text": "keo selatan kukut",
+        "translation_id": "ada makanan tersangkut di sela giginya"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-256; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-256.txt",
+      "page": 247,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "se.la.tan"
+  },
+  {
+    "id": "paser-002910",
+    "headword": "selau’",
+    "language": "paser",
+    "part_of_speech": "verb",
+    "translations": [
+      {
+        "language": "id",
+        "text": "keseleo"
+      }
+    ],
+    "examples": [
+      {
+        "text": "selau botisku",
+        "translation_id": "keseleo kakiku"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-256; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-256.txt",
+      "page": 247,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "se.la.u’"
+  },
+  {
+    "id": "paser-002911",
+    "headword": "selawu",
+    "language": "paser",
+    "part_of_speech": "adjective",
+    "translations": [
+      {
+        "language": "id",
+        "text": "lapar"
+      }
+    ],
+    "examples": [
+      {
+        "text": "buntung selawu",
+        "translation_id": "perut lapar"
+      }
+    ],
+    "variants": [],
+    "subentries": [
+      {
+        "label": "la.wu",
+        "part_of_speech": "noun",
+        "translations": [
+          {
+            "language": "id",
+            "text": "orang yang kelaparan"
+          }
+        ],
+        "examples": [
+          {
+            "text": "pengemis ene lawu",
+            "translation_id": "pengemis itu sangat kelaparan"
+          }
+        ]
+      }
+    ],
+    "notes": "OCR page-256; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-256.txt",
+      "page": 247,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "se.la.wu"
+  },
+  {
+    "id": "paser-002912",
+    "headword": "selekok",
+    "language": "paser",
+    "part_of_speech": "verb",
+    "translations": [
+      {
+        "language": "id",
+        "text": "tersedak"
+      }
+    ],
+    "examples": [
+      {
+        "text": "ene nolan iyo selekok",
+        "translation_id": "jika menelan dia tersedak"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-256; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-256.txt",
+      "page": 247,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "se.le.kok"
+  },
+  {
+    "id": "paser-002913",
+    "headword": "seleloi",
+    "language": "paser",
+    "part_of_speech": "adjective",
+    "translations": [
+      {
+        "language": "id",
+        "text": "selamat melewati rintangan"
+      }
+    ],
+    "examples": [
+      {
+        "text": "andiku buen seleloi sampe mo tiling",
+        "translation_id": "kakakku selamat sampai tujuan"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-257; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-257.txt",
+      "page": 248,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "se.le.loi"
+  },
+  {
+    "id": "paser-002914",
+    "headword": "selempang",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "sarung diletakkan di pundak"
+      }
+    ],
+    "examples": [
+      {
+        "text": "selempang diris",
+        "translation_id": "sarung diletakkan di pundak"
+      }
+    ],
+    "variants": [],
+    "subentries": [
+      {
+        "label": "si.na.lem.pang",
+        "part_of_speech": "verb",
+        "translations": [
+          {
+            "language": "id",
+            "text": "diselempangkan di pundak"
+          }
+        ],
+        "examples": [
+          {
+            "text": "dirisko en sinalempang la toing",
+            "translation_id": "sarungmu itu diselempangkan di pinggang"
+          }
+        ]
+      }
+    ],
+    "notes": "OCR page-257; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-257.txt",
+      "page": 248,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "se.lém.pang"
+  },
+  {
+    "id": "paser-002915",
+    "headword": "selendako",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "ibu jari"
+      }
+    ],
+    "examples": [
+      {
+        "text": "selendako pea ene kono popal",
+        "translation_id": "ibu jari anak itu kena pukul"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-257; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-257.txt",
+      "page": 248,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "se.len.da.ko"
+  },
+  {
+    "id": "paser-002916",
+    "headword": "selendang",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "selendang"
+      }
+    ],
+    "examples": [
+      {
+        "text": "ise yo umpu selendang lemit la penyekeke",
+        "translation_id": "siapa yang punya selendang kuning di jemuran"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-257; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-257.txt",
+      "page": 248,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "se.len.dang"
+  },
+  {
+    "id": "paser-002917",
+    "headword": "selepa",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "kotak kecil untuk sirih atau rokok"
+      }
+    ],
+    "examples": [
+      {
+        "text": "keo lewok mo selepa",
+        "translation_id": "ada sirih di dalam kotak"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-257; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-257.txt",
+      "page": 248,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "se.le.pa"
+  },
+  {
+    "id": "paser-002918",
+    "headword": "seleting",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "resleting"
+      }
+    ],
+    "examples": [
+      {
+        "text": "seleting seloaryo empengau",
+        "translation_id": "resleting celananya terbuka"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-257; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-257.txt",
+      "page": 248,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "se.le.ting"
+  },
+  {
+    "id": "paser-002919",
+    "headword": "seleweng",
+    "language": "paser",
+    "part_of_speech": "verb",
+    "translations": [
+      {
+        "language": "id",
+        "text": "menyeleweng"
+      }
+    ],
+    "examples": [
+      {
+        "text": "iyo tau seleweng",
+        "translation_id": "dia bisa menyeleweng"
+      }
+    ],
+    "variants": [],
+    "subentries": [
+      {
+        "label": "nye.le.weng",
+        "part_of_speech": "verb",
+        "translations": [
+          {
+            "language": "id",
+            "text": "menyeleweng"
+          }
+        ],
+        "examples": [
+          {
+            "text": "iyo tau nyeleweng",
+            "translation_id": "dia bisa menyeleweng"
+          }
+        ]
+      }
+    ],
+    "notes": "OCR page-257; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-257.txt",
+      "page": 248,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "se.le.weng"
+  },
+  {
+    "id": "paser-002920",
+    "headword": "selidik",
+    "language": "paser",
+    "part_of_speech": "adjective",
+    "translations": [
+      {
+        "language": "id",
+        "text": "selidik"
+      }
+    ],
+    "examples": [],
+    "variants": [],
+    "subentries": [
+      {
+        "label": "nye.li.dik",
+        "part_of_speech": "verb",
+        "translations": [
+          {
+            "language": "id",
+            "text": "menyelidik"
+          }
+        ],
+        "examples": [
+          {
+            "text": "kain nyoba nyelidik bekas toda beleso",
+            "translation_id": "mencoba menyelidiki bekas injakan tikus"
+          }
+        ]
+      },
+      {
+        "label": "si.na.li.dik",
+        "part_of_speech": "verb",
+        "translations": [
+          {
+            "language": "id",
+            "text": "diselidiki"
+          }
+        ],
+        "examples": [
+          {
+            "text": "ola aut kasus nenekku sinalidik",
+            "translation_id": "sudah lama masalah nenekku diselidiki"
+          }
+        ]
+      }
+    ],
+    "notes": "OCR page-257; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-257.txt",
+      "page": 248,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "se.li.dik"
+  },
+  {
+    "id": "paser-002921",
+    "headword": "selimput",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "selimut"
+      }
+    ],
+    "examples": [
+      {
+        "text": "ema moli selimput bayu",
+        "translation_id": "ibu membeli selimut baru"
+      }
+    ],
+    "variants": [],
+    "subentries": [
+      {
+        "label": "nye.lim.put",
+        "part_of_speech": "verb",
+        "translations": [
+          {
+            "language": "id",
+            "text": "menyelimuti"
+          }
+        ],
+        "examples": [
+          {
+            "text": "menaku nyelimput okong diang diris",
+            "translation_id": "bibiku menyelimuti adik dengan kain sarung"
+          }
+        ]
+      },
+      {
+        "label": "si.na.lim.put",
+        "part_of_speech": "verb",
+        "translations": [
+          {
+            "language": "id",
+            "text": "diselimuti"
+          }
+        ],
+        "examples": [
+          {
+            "text": "peyaku belo makai baju jadi sinalimput koe baweku",
+            "translation_id": "anakku tidak memakai baju jadi diselimuti oleh istriku"
+          }
+        ]
+      }
+    ],
+    "notes": "OCR page-257; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-257.txt",
+      "page": 248,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "se.lim.put"
+  },
+  {
+    "id": "paser-002922",
+    "headword": "selimut",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "selimut"
+      }
+    ],
+    "examples": [
+      {
+        "text": "selimutku lang kamar sae beta",
+        "translation_id": "selimutku di dalam kamar sangat tebal"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-257; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-257.txt",
+      "page": 248,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "se.li.mut"
+  },
+  {
+    "id": "paser-002923",
+    "headword": "selinop",
+    "language": "paser",
+    "part_of_speech": "verb",
+    "translations": [
+      {
+        "language": "id",
+        "text": "menyelinap"
+      }
+    ],
+    "examples": [
+      {
+        "text": "iyo selinop depo bika saku",
+        "translation_id": "dia menyelinap ke sebelah saya"
+      }
+    ],
+    "variants": [],
+    "subentries": [
+      {
+        "label": "nye.li.nop",
+        "part_of_speech": "verb",
+        "translations": [
+          {
+            "language": "id",
+            "text": "menyelinap"
+          }
+        ],
+        "examples": [
+          {
+            "text": "iyo nyelinop depo bika saku",
+            "translation_id": "dia menyelinap ke sebelah saya"
+          }
+        ]
+      }
+    ],
+    "notes": "OCR page-257; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-257.txt",
+      "page": 248,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "selinop"
+  },
+  {
+    "id": "paser-002924",
+    "headword": "selingking",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "kelingking"
+      }
+    ],
+    "examples": [
+      {
+        "text": "selingkingku kono isau",
+        "translation_id": "kelingkingku kena pisau"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-257; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-257.txt",
+      "page": 248,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "se.ling.king"
+  },
+  {
+    "id": "paser-002925",
+    "headword": "selingur",
+    "language": "paser",
+    "part_of_speech": "verb",
+    "translations": [
+      {
+        "language": "id",
+        "text": "berlindung"
+      }
+    ],
+    "examples": [
+      {
+        "text": "iyo selingur mo lou",
+        "translation_id": "dia berlindung di rumah"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-257; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-257.txt",
+      "page": 248,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "se.lingur"
+  },
+  {
+    "id": "paser-002926",
+    "headword": "selisi",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "selisih"
+      }
+    ],
+    "examples": [
+      {
+        "text": "selisi umanyo oro beta",
+        "translation_id": "selisih harganya jauh sekali"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-257; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-257.txt",
+      "page": 248,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "se.li.si"
+  },
+  {
+    "id": "paser-002927",
+    "headword": "seloar",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "celana"
+      }
+    ],
+    "examples": [
+      {
+        "text": "seloar yo rabak la penyekete mapos andek ulun",
+        "translation_id": "celana yang robek di jemuran hilang diambil orang"
+      }
+    ],
+    "variants": [],
+    "subentries": [
+      {
+        "label": "seloar anjang",
+        "part_of_speech": "noun",
+        "translations": [
+          {
+            "language": "id",
+            "text": "celana panjang"
+          }
+        ],
+        "examples": []
+      },
+      {
+        "label": "seloar idok",
+        "part_of_speech": "noun",
+        "translations": [
+          {
+            "language": "id",
+            "text": "celana pendek"
+          }
+        ],
+        "examples": []
+      },
+      {
+        "label": "seloar suwang",
+        "part_of_speech": "noun",
+        "translations": [
+          {
+            "language": "id",
+            "text": "celana dalam"
+          }
+        ],
+        "examples": []
+      }
+    ],
+    "notes": "OCR page-258; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-258.txt",
+      "page": 249,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "se.lo.ar"
+  },
+  {
+    "id": "paser-002928",
+    "headword": "selokoi",
+    "language": "paser",
+    "part_of_speech": "verb",
+    "translations": [
+      {
+        "language": "id",
+        "text": "istirahat"
+      }
+    ],
+    "examples": [
+      {
+        "text": "keo dodong begawi iyo selokoi dile",
+        "translation_id": "karena lelah bekerja, dia istirahat dahulu"
+      }
+    ],
+    "variants": [],
+    "subentries": [
+      {
+        "label": "si.na.lo.koi",
+        "part_of_speech": "verb",
+        "translations": [
+          {
+            "language": "id",
+            "text": "diistirahatkan"
+          }
+        ],
+        "examples": [
+          {
+            "text": "nang penaksa begawi kompu tongako sinalokoi dile",
+            "translation_id": "jangan dipaksa bekerja badanmu, diistirahatkan dulu"
+          }
+        ]
+      }
+    ],
+    "notes": "OCR page-258; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-258.txt",
+      "page": 249,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "se.lo.koi"
+  },
+  {
+    "id": "paser-002929",
+    "headword": "selom",
+    "language": "paser",
+    "part_of_speech": "verb",
+    "translations": [
+      {
+        "language": "id",
+        "text": "selam"
+      }
+    ],
+    "examples": [
+      {
+        "text": "iyo selom suang danum",
+        "translation_id": "dia menyelam dalam air"
+      }
+    ],
+    "variants": [],
+    "subentries": [
+      {
+        "label": "nye.lom",
+        "part_of_speech": "verb",
+        "translations": [
+          {
+            "language": "id",
+            "text": "menyelam"
+          }
+        ],
+        "examples": [
+          {
+            "text": "okongku tuju nyelom lang loak",
+            "translation_id": "adikku suka menyelam di sungai kecil"
+          }
+        ]
+      },
+      {
+        "label": "en.se.lom",
+        "part_of_speech": "verb",
+        "translations": [
+          {
+            "language": "id",
+            "text": "menyelam"
+          }
+        ],
+        "examples": [
+          {
+            "text": "okongku tuju enselom lang loak",
+            "translation_id": "adikku suka menyelam di sungai kecil"
+          }
+        ]
+      },
+      {
+        "label": "se.ne.lom",
+        "part_of_speech": "verb",
+        "translations": [
+          {
+            "language": "id",
+            "text": "diselam"
+          }
+        ],
+        "examples": [
+          {
+            "text": "esa ene tenangop diang senelom",
+            "translation_id": "ikan itu ditangkap dengan cara diselam"
+          }
+        ]
+      }
+    ],
+    "notes": "OCR page-258; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-258.txt",
+      "page": 249,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "se.lom"
+  },
+  {
+    "id": "paser-002930",
+    "headword": "selompong",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "makanan dilahap ke mulut"
+      }
+    ],
+    "examples": [
+      {
+        "text": "selompong yo okan ene",
+        "translation_id": "dilahapnya makanan itu"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-258; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-258.txt",
+      "page": 249,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "se.lom.pong"
+  },
+  {
+    "id": "paser-002931",
+    "headword": "selor",
+    "language": "paser",
+    "part_of_speech": "verb",
+    "translations": [
+      {
+        "language": "id",
+        "text": "tiarap"
+      }
+    ],
+    "examples": [
+      {
+        "text": "peya ene celor",
+        "translation_id": "anak bayi itu tiarap"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-258; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-258.txt",
+      "page": 249,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "se.lor"
+  },
+  {
+    "id": "paser-002932",
+    "headword": "seluang",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "seluang"
+      },
+      {
+        "language": "id",
+        "text": "jenis ikan"
+      }
+    ],
+    "examples": [
+      {
+        "text": "esa seluang buen kanamyo ena tenuna",
+        "translation_id": "ikan seluang enak rasanya bila dibakar"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-258; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-258.txt",
+      "page": 249,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "se.lu.ang"
+  },
+  {
+    "id": "paser-002933",
+    "headword": "semalir",
+    "language": "paser",
+    "part_of_speech": "verb",
+    "translations": [
+      {
+        "language": "id",
+        "text": "mengalir kecil"
+      }
+    ],
+    "examples": [
+      {
+        "text": "danum semalir",
+        "translation_id": "air mengalir kecil"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-258; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-258.txt",
+      "page": 249,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "se.ma.lir"
+  },
+  {
+    "id": "paser-002934",
+    "headword": "semangat",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "semangat"
+      }
+    ],
+    "examples": [
+      {
+        "text": "semangat harus tetap jenaga",
+        "translation_id": "semangat harus tetap dijaga"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-258; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-258.txt",
+      "page": 249,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "se.ma.ngat"
+  },
+  {
+    "id": "paser-002935",
+    "headword": "semangka",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "semangka"
+      }
+    ],
+    "examples": [
+      {
+        "text": "aku kakan kuman bua semangka",
+        "translation_id": "saya mau makan buah semangka"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-258; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-258.txt",
+      "page": 249,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "se.mang.ka"
+  },
+  {
+    "id": "paser-002936",
+    "headword": "sembah",
+    "language": "paser",
+    "part_of_speech": "verb",
+    "translations": [
+      {
+        "language": "id",
+        "text": "sembah"
+      }
+    ],
+    "examples": [],
+    "variants": [],
+    "subentries": [
+      {
+        "label": "nyem.bah",
+        "part_of_speech": "verb",
+        "translations": [
+          {
+            "language": "id",
+            "text": "menyembah"
+          }
+        ],
+        "examples": [
+          {
+            "text": "bai ulun oso nyembah sempetong",
+            "translation_id": "dahulu orang masih menyembah patung"
+          }
+        ]
+      },
+      {
+        "label": "se.nem.bah",
+        "part_of_speech": "verb",
+        "translations": [
+          {
+            "language": "id",
+            "text": "disembah"
+          }
+        ],
+        "examples": [
+          {
+            "text": "belo keo Tuhan senembah selain Allah",
+            "translation_id": "tiada Tuhan yang disembah selain Allah"
+          }
+        ]
+      }
+    ],
+    "notes": "OCR page-258; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-258.txt",
+      "page": 249,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "sem.bah"
+  },
+  {
+    "id": "paser-002937",
+    "headword": "sembarang",
+    "language": "paser",
+    "part_of_speech": "adjective",
+    "translations": [
+      {
+        "language": "id",
+        "text": "sembarang"
+      }
+    ],
+    "examples": [
+      {
+        "text": "nang sembarang begawi",
+        "translation_id": "jangan sembarang bekerja"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-258; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-258.txt",
+      "page": 249,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "sem.ba.rang"
+  },
+  {
+    "id": "paser-002938",
+    "headword": "sembayang",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "sembahyang"
+      },
+      {
+        "language": "id",
+        "text": "salat"
+      }
+    ],
+    "examples": [
+      {
+        "text": "sundok sembayang be iko",
+        "translation_id": "kamu sudah salat"
+      }
+    ],
+    "variants": [],
+    "subentries": [
+      {
+        "label": "nyem.ba.yang",
+        "part_of_speech": "verb",
+        "translations": [
+          {
+            "language": "id",
+            "text": "menyembahyangi"
+          },
+          {
+            "language": "id",
+            "text": "mensalati"
+          }
+        ],
+        "examples": [
+          {
+            "text": "taka nyembayang mayat la mesigid",
+            "translation_id": "menyalati jenazah di masjid"
+          }
+        ]
+      },
+      {
+        "label": "si.nam.ba.yang",
+        "part_of_speech": "verb",
+        "translations": [
+          {
+            "language": "id",
+            "text": "disembahyangi"
+          },
+          {
+            "language": "id",
+            "text": "disalati"
+          }
+        ],
+        "examples": [
+          {
+            "text": "mayat ene sundok sinambayang",
+            "translation_id": "jenazah itu sudah disalati"
+          }
+        ]
+      }
+    ],
+    "notes": "OCR page-258; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-258.txt",
+      "page": 249,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "sem.ba.yang"
+  },
+  {
+    "id": "paser-002939",
+    "headword": "sembele",
+    "language": "paser",
+    "part_of_speech": "verb",
+    "translations": [
+      {
+        "language": "id",
+        "text": "sembelih"
+      }
+    ],
+    "examples": [],
+    "variants": [],
+    "subentries": [
+      {
+        "label": "nyem.be.lé",
+        "part_of_speech": "verb",
+        "translations": [
+          {
+            "language": "id",
+            "text": "menyembelih"
+          }
+        ],
+        "examples": [
+          {
+            "text": "hari Raya Haji ulun Islam nyembele karewau",
+            "translation_id": "pada Iduladha orang Islam menyembelih kerbau"
+          }
+        ]
+      },
+      {
+        "label": "si.nam.be.lé",
+        "part_of_speech": "verb",
+        "translations": [
+          {
+            "language": "id",
+            "text": "disembelih"
+          }
+        ],
+        "examples": [
+          {
+            "text": "piak ene sinambele pakai lading",
+            "translation_id": "ayam itu disembelih memakai pisau"
+          }
+        ]
+      },
+      {
+        "label": "penyembelé",
+        "part_of_speech": "noun",
+        "translations": [
+          {
+            "language": "id",
+            "text": "algojo"
+          },
+          {
+            "language": "id",
+            "text": "penjagal"
+          }
+        ],
+        "examples": [
+          {
+            "text": "ulun ene penyembele",
+            "translation_id": "orang itu penjagal"
+          }
+        ]
+      }
+    ],
+    "notes": "OCR page-259; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-259.txt",
+      "page": 250,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "sem.be.lé"
+  },
+  {
+    "id": "paser-002940",
+    "headword": "sembiang",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "sembilu"
+      }
+    ],
+    "examples": [
+      {
+        "text": "iyo kono sembiang tolang",
+        "translation_id": "dia terkena sembilu bambu"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-259; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-259.txt",
+      "page": 250,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "sem.bi.ang"
+  },
+  {
+    "id": "paser-002941",
+    "headword": "sembingau",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "gema"
+      }
+    ],
+    "examples": [
+      {
+        "text": "sembingau embengen ene ries beta",
+        "translation_id": "gema suara nyaring sekali"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-259; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-259.txt",
+      "page": 250,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "sem.bi.ngau"
+  },
+  {
+    "id": "paser-002942",
+    "headword": "sembilat",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "kunang-kunang"
+      }
+    ],
+    "examples": [
+      {
+        "text": "sembilat tembiling malom",
+        "translation_id": "kunang-kunang terbang pada malam hari"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-259; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-259.txt",
+      "page": 250,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "sem.bi.lat"
+  },
+  {
+    "id": "paser-002943",
+    "headword": "sembolot",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "bisul"
+      }
+    ],
+    "examples": [
+      {
+        "text": "sembolot yo ngempo",
+        "translation_id": "bisulnya membengkak"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-259; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-259.txt",
+      "page": 250,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "sem.bo.lot"
+  },
+  {
+    "id": "paser-002944",
+    "headword": "sembula",
+    "language": "paser",
+    "part_of_speech": "verb",
+    "translations": [
+      {
+        "language": "id",
+        "text": "mulai dari awal"
+      }
+    ],
+    "examples": [
+      {
+        "text": "iyo sembula ono",
+        "translation_id": "dia mulai duluan"
+      }
+    ],
+    "variants": [],
+    "subentries": [
+      {
+        "label": "nyem.bu.la",
+        "part_of_speech": "verb",
+        "translations": [
+          {
+            "language": "id",
+            "text": "memulai"
+          }
+        ],
+        "examples": [
+          {
+            "text": "uda nyembula ngetam balok ene purung empe popendo",
+            "translation_id": "paman memulai mengetam balok itu dari ujung sampai kemari"
+          }
+        ]
+      },
+      {
+        "label": "si.nam.bula",
+        "part_of_speech": "verb",
+        "translations": [
+          {
+            "language": "id",
+            "text": "dimulai"
+          }
+        ],
+        "examples": [
+          {
+            "text": "gawianyo sundok sinambula",
+            "translation_id": "pekerjaan itu sudah dimulai"
+          }
+        ]
+      }
+    ],
+    "notes": "OCR page-259; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-259.txt",
+      "page": 250,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "sem.bu.la"
+  },
+  {
+    "id": "paser-002945",
+    "headword": "sembunit",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "bisul kecil di pinggir mata"
+      }
+    ],
+    "examples": [
+      {
+        "text": "keo sembunit mo matoyo",
+        "translation_id": "ada bisul kecil di matanya"
+      }
+    ],
+    "variants": [],
+    "subentries": [
+      {
+        "label": "sembunit mato",
+        "part_of_speech": "noun",
+        "translations": [
+          {
+            "language": "id",
+            "text": "bisul kecil di pinggir mata"
+          }
+        ],
+        "examples": []
+      }
+    ],
+    "notes": "OCR page-259; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-259.txt",
+      "page": 250,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "sem.bu.nit"
+  },
+  {
+    "id": "paser-002946",
+    "headword": "sembur",
+    "language": "paser",
+    "part_of_speech": "verb",
+    "translations": [
+      {
+        "language": "id",
+        "text": "sembur"
+      }
+    ],
+    "examples": [
+      {
+        "text": "sembur diang bowa",
+        "translation_id": "sembur menggunakan mulut"
+      }
+    ],
+    "variants": [],
+    "subentries": [
+      {
+        "label": "nyem.bur",
+        "part_of_speech": "verb",
+        "translations": [
+          {
+            "language": "id",
+            "text": "menyembur"
+          }
+        ],
+        "examples": [
+          {
+            "text": "datokku nyembur ulun keraton",
+            "translation_id": "kakekku menyembur orang sakit"
+          }
+        ]
+      },
+      {
+        "label": "se.nem.bur",
+        "part_of_speech": "verb",
+        "translations": [
+          {
+            "language": "id",
+            "text": "disembur"
+          }
+        ],
+        "examples": [
+          {
+            "text": "peya ene senembur danum",
+            "translation_id": "anak itu disembur air"
+          }
+        ]
+      }
+    ],
+    "notes": "OCR page-259; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-259.txt",
+      "page": 250,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "sem.bur"
+  },
+  {
+    "id": "paser-002947",
+    "headword": "semen",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "semen"
+      }
+    ],
+    "examples": [
+      {
+        "text": "uman semen dombo tempo endo",
+        "translation_id": "harga semen naik sekarang"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-259; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-259.txt",
+      "page": 250,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "se.men"
+  },
+  {
+    "id": "paser-002948",
+    "headword": "sementara",
+    "language": "paser",
+    "part_of_speech": "adverb",
+    "translations": [
+      {
+        "language": "id",
+        "text": "sementara"
+      }
+    ],
+    "examples": [
+      {
+        "text": "ente sementara ene tingen",
+        "translation_id": "untuk sementara itu saja"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-259; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-259.txt",
+      "page": 250,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "se.men.ta.ra"
+  },
+  {
+    "id": "paser-002949",
+    "headword": "semer",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "semir"
+      }
+    ],
+    "examples": [],
+    "variants": [],
+    "subentries": [
+      {
+        "label": "semer sepatu",
+        "part_of_speech": "noun",
+        "translations": [
+          {
+            "language": "id",
+            "text": "semir sepatu"
+          }
+        ],
+        "examples": [
+          {
+            "text": "aku moli semer sepatu",
+            "translation_id": "saya membeli semir sepatu"
+          }
+        ]
+      }
+    ],
+    "notes": "OCR page-260; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-260.txt",
+      "page": 251,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "se.mer"
+  },
+  {
+    "id": "paser-002950",
+    "headword": "sempa",
+    "language": "paser",
+    "part_of_speech": "verb",
+    "translations": [
+      {
+        "language": "id",
+        "text": "tendang"
+      },
+      {
+        "language": "id",
+        "text": "sepak"
+      }
+    ],
+    "examples": [
+      {
+        "text": "nang iko tuju sempa using",
+        "translation_id": "kamu jangan suka tendang kucing"
+      }
+    ],
+    "variants": [],
+    "subentries": [
+      {
+        "label": "nyém.pa",
+        "part_of_speech": "verb",
+        "translations": [
+          {
+            "language": "id",
+            "text": "menendang"
+          },
+          {
+            "language": "id",
+            "text": "menyepak"
+          }
+        ],
+        "examples": [
+          {
+            "text": "aku nyempa bola ene",
+            "translation_id": "saya menendang bola itu"
+          }
+        ]
+      }
+    ],
+    "notes": "OCR page-260; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-260.txt",
+      "page": 251,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "sém.pa"
+  },
+  {
+    "id": "paser-002951",
+    "headword": "sempak",
+    "language": "paser",
+    "part_of_speech": "adjective",
+    "translations": [
+      {
+        "language": "id",
+        "text": "boros"
+      }
+    ],
+    "examples": [
+      {
+        "text": "peya ene sempak beta",
+        "translation_id": "anak itu boros sekali"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-260; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-260.txt",
+      "page": 251,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "sem.pak"
+  },
+  {
+    "id": "paser-002952",
+    "headword": "sempat",
+    "language": "paser",
+    "part_of_speech": "verb",
+    "translations": [
+      {
+        "language": "id",
+        "text": "sempat"
+      }
+    ],
+    "examples": [
+      {
+        "text": "belo sempat",
+        "translation_id": "tidak sempat"
+      }
+    ],
+    "variants": [],
+    "subentries": [
+      {
+        "label": "se.nem.pat",
+        "part_of_speech": "verb",
+        "translations": [
+          {
+            "language": "id",
+            "text": "disempatkan"
+          }
+        ],
+        "examples": [
+          {
+            "text": "ena kate senempat singga dile po louku",
+            "translation_id": "jika bisa sempatkan mampir ke rumahku"
+          }
+        ]
+      }
+    ],
+    "notes": "OCR page-260; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-260.txt",
+      "page": 251,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "sem.pat"
+  },
+  {
+    "id": "paser-002953",
+    "headword": "sempering",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "sejenis rumput"
+      }
+    ],
+    "examples": [
+      {
+        "text": "sempering ene nerembas",
+        "translation_id": "rumput itu ditebas"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-260; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-260.txt",
+      "page": 251,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "sem.pe.ring"
+  },
+  {
+    "id": "paser-002954",
+    "headword": "semperong",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "semprong"
+      }
+    ],
+    "examples": [
+      {
+        "text": "kaca semperong ene potu",
+        "translation_id": "kaca semprong itu pecah"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-260; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-260.txt",
+      "page": 251,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "sem.pe.rong"
+  },
+  {
+    "id": "paser-002955",
+    "headword": "semperot",
+    "language": "paser",
+    "part_of_speech": "verb",
+    "translations": [
+      {
+        "language": "id",
+        "text": "semprot"
+      }
+    ],
+    "examples": [
+      {
+        "text": "semperot diang danum",
+        "translation_id": "semprot dengan air"
+      }
+    ],
+    "variants": [],
+    "subentries": [
+      {
+        "label": "nyem.pe.rot",
+        "part_of_speech": "verb",
+        "translations": [
+          {
+            "language": "id",
+            "text": "menyemprot"
+          }
+        ],
+        "examples": [
+          {
+            "text": "dero nyemperot api ene",
+            "translation_id": "mereka menyemprot api itu dengan air"
+          }
+        ]
+      },
+      {
+        "label": "si.nam.pe.rot",
+        "part_of_speech": "verb",
+        "translations": [
+          {
+            "language": "id",
+            "text": "disemprot"
+          }
+        ],
+        "examples": [
+          {
+            "text": "api ene sinamperot",
+            "translation_id": "api itu disemprot dengan air"
+          }
+        ]
+      }
+    ],
+    "notes": "OCR page-260; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-260.txt",
+      "page": 251,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "sem.pe.rot"
+  },
+  {
+    "id": "paser-002956",
+    "headword": "sempetong",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "patung"
+      }
+    ],
+    "examples": [
+      {
+        "text": "sempetong te dero tuan",
+        "translation_id": "patung menjadi Tuhan mereka"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-260; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-260.txt",
+      "page": 251,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "sem.pé.tong"
+  },
+  {
+    "id": "paser-002957",
+    "headword": "sempirang",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "linggis"
+      }
+    ],
+    "examples": [
+      {
+        "text": "osu pakai sempirang",
+        "translation_id": "lepas dengan menggunakan linggis"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-260; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-260.txt",
+      "page": 251,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "sem.pi.rang"
+  },
+  {
+    "id": "paser-002958",
+    "headword": "semponging",
+    "language": "paser",
+    "part_of_speech": "verb",
+    "translations": [
+      {
+        "language": "id",
+        "text": "berdengung"
+      }
+    ],
+    "examples": [
+      {
+        "text": "semponging telingoyo",
+        "translation_id": "berdengung telinganya"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-260; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-260.txt",
+      "page": 251,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "sem.po.nging"
+  },
+  {
+    "id": "paser-002959",
+    "headword": "sempuri",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "cerita"
+      },
+      {
+        "language": "id",
+        "text": "dongeng"
+      }
+    ],
+    "examples": [
+      {
+        "text": "sempuri bapa endu jenaka",
+        "translation_id": "cerita bapak itu lucu"
+      }
+    ],
+    "variants": [],
+    "subentries": [
+      {
+        "label": "nyem.pu.ri",
+        "part_of_speech": "verb",
+        "translations": [
+          {
+            "language": "id",
+            "text": "bercerita"
+          },
+          {
+            "language": "id",
+            "text": "mendongeng"
+          },
+          {
+            "language": "id",
+            "text": "berkisah"
+          }
+        ],
+        "examples": [
+          {
+            "text": "datoku nyempuri po opo-opoyo",
+            "translation_id": "kakekku bercerita ke cucu-cucunya"
+          }
+        ]
+      },
+      {
+        "label": "si.nam.pu.ri",
+        "part_of_speech": "verb",
+        "translations": [
+          {
+            "language": "id",
+            "text": "menceritakan"
+          }
+        ],
+        "examples": [
+          {
+            "text": "datok tuju sinampuri kesa po opoyo",
+            "translation_id": "kakek suka menceritakan kisah kepada cucunya"
+          }
+        ]
+      }
+    ],
+    "notes": "OCR page-260; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-260.txt",
+      "page": 251,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "sem.pu.ri"
+  },
+  {
+    "id": "paser-002960",
+    "headword": "sen",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "uang"
+      }
+    ],
+    "examples": [
+      {
+        "text": "deo sen",
+        "translation_id": "banyak uang"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-260; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-260.txt",
+      "page": 251,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "sén"
+  },
+  {
+    "id": "paser-002961",
+    "headword": "sinandiri",
+    "language": "paser",
+    "part_of_speech": "verb",
+    "translations": [
+      {
+        "language": "id",
+        "text": "disendirikan"
+      },
+      {
+        "language": "id",
+        "text": "dipisahkan"
+      }
+    ],
+    "examples": [
+      {
+        "text": "sinandiri awayo",
+        "translation_id": "disendirikan tempatnya"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-261; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-261.txt",
+      "page": 252,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "si.nan.di.ri"
+  },
+  {
+    "id": "paser-002962",
+    "headword": "senang",
+    "language": "paser",
+    "part_of_speech": "adjective",
+    "translations": [
+      {
+        "language": "id",
+        "text": "senang"
+      },
+      {
+        "language": "id",
+        "text": "riang"
+      },
+      {
+        "language": "id",
+        "text": "santai"
+      }
+    ],
+    "examples": [
+      {
+        "text": "kesong senang",
+        "translation_id": "hati senang"
+      }
+    ],
+    "variants": [],
+    "subentries": [
+      {
+        "label": "se.nang",
+        "part_of_speech": "adjective",
+        "translations": [
+          {
+            "language": "id",
+            "text": "santai"
+          }
+        ],
+        "examples": [
+          {
+            "text": "iyo senang belo deo gawi",
+            "translation_id": "dia santai tidak banyak bekerja"
+          }
+        ]
+      }
+    ],
+    "notes": "OCR page-261; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-261.txt",
+      "page": 252,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "se.nang"
+  },
+  {
+    "id": "paser-002963",
+    "headword": "senapan",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "senapan"
+      }
+    ],
+    "examples": [
+      {
+        "text": "udaku berburu diang senapan",
+        "translation_id": "pamanku berburu dengan senapan"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-261; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-261.txt",
+      "page": 252,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "se.na.pan"
+  },
+  {
+    "id": "paser-002964",
+    "headword": "senasap",
+    "language": "paser",
+    "part_of_speech": "verb",
+    "translations": [
+      {
+        "language": "id",
+        "text": "dikupas bagian luar"
+      }
+    ],
+    "examples": [
+      {
+        "text": "senasap apan solo",
+        "translation_id": "dikupas supaya bersih"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-261; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-261.txt",
+      "page": 252,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "se.na.sap"
+  },
+  {
+    "id": "paser-002965",
+    "headword": "sendikui",
+    "language": "paser",
+    "part_of_speech": "verb",
+    "translations": [
+      {
+        "language": "id",
+        "text": "menguntit"
+      }
+    ],
+    "examples": [
+      {
+        "text": "iyo sendikui engket sori",
+        "translation_id": "dia menguntit dari belakang"
+      }
+    ],
+    "variants": [],
+    "subentries": [
+      {
+        "label": "nyen.di.kui",
+        "part_of_speech": "verb",
+        "translations": [
+          {
+            "language": "id",
+            "text": "menguntit"
+          }
+        ],
+        "examples": [
+          {
+            "text": "kain nyendikui ulun bayu ane",
+            "translation_id": "menguntit orang baru itu"
+          }
+        ]
+      },
+      {
+        "label": "si.nan.di.kui",
+        "part_of_speech": "verb",
+        "translations": [
+          {
+            "language": "id",
+            "text": "dikuntit"
+          },
+          {
+            "language": "id",
+            "text": "diikuti"
+          }
+        ],
+        "examples": [
+          {
+            "text": "pengako ene tau si iyo sinandikui",
+            "translation_id": "pencuri itu tahu bahwa dia diikuti"
+          }
+        ]
+      }
+    ],
+    "notes": "OCR page-261; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-261.txt",
+      "page": 252,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "sen.di.kui"
+  },
+  {
+    "id": "paser-002966",
+    "headword": "sendipot",
+    "language": "paser",
+    "part_of_speech": "verb",
+    "translations": [
+      {
+        "language": "id",
+        "text": "sempatkan"
+      },
+      {
+        "language": "id",
+        "text": "mengejar waktu"
+      }
+    ],
+    "examples": [
+      {
+        "text": "dero sendipot takut malom",
+        "translation_id": "mereka mengejar waktu, takut kemalaman"
+      }
+    ],
+    "variants": [],
+    "subentries": [
+      {
+        "label": "nyen.di.pot",
+        "part_of_speech": "verb",
+        "translations": [
+          {
+            "language": "id",
+            "text": "menyempatkan"
+          }
+        ],
+        "examples": [
+          {
+            "text": "kakan kuman dile nyendipot kea waktu",
+            "translation_id": "mau makan dulu mumpung ada waktu"
+          }
+        ]
+      },
+      {
+        "label": "si.nan.di.pot",
+        "part_of_speech": "verb",
+        "translations": [
+          {
+            "language": "id",
+            "text": "disempatkan"
+          }
+        ],
+        "examples": [
+          {
+            "text": "ena iko kate sinandipot moli gula la pasar",
+            "translation_id": "jika kamu bisa disempatkan beli gula di pasar"
+          }
+        ]
+      }
+    ],
+    "notes": "OCR page-261; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-261.txt",
+      "page": 252,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "sen.di.pot"
+  },
+  {
+    "id": "paser-002967",
+    "headword": "sendongon",
+    "language": "paser",
+    "part_of_speech": "pronoun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "apa mungkin"
+      },
+      {
+        "language": "id",
+        "text": "masa iya"
+      }
+    ],
+    "examples": [
+      {
+        "text": "sendongon ketine",
+        "translation_id": "apa mungkin begitu"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-261; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-261.txt",
+      "page": 252,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "sen.do.ngon"
+  },
+  {
+    "id": "paser-002968",
+    "headword": "senduk",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "sendok"
+      }
+    ],
+    "examples": [
+      {
+        "text": "garu pakai senduk",
+        "translation_id": "aduk pakai sendok"
+      }
+    ],
+    "variants": [],
+    "subentries": [
+      {
+        "label": "senduk deli",
+        "part_of_speech": "noun",
+        "translations": [
+          {
+            "language": "id",
+            "text": "sendok sayur"
+          }
+        ],
+        "examples": []
+      }
+    ],
+    "notes": "OCR page-261; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-261.txt",
+      "page": 252,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "sen.duk"
+  },
+  {
+    "id": "paser-002969",
+    "headword": "Senen",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "Senin"
+      }
+    ],
+    "examples": [
+      {
+        "text": "olo endo Senen",
+        "translation_id": "hari ini Senin"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-261; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-261.txt",
+      "page": 252,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "Se.nen"
+  },
+  {
+    "id": "paser-002970",
+    "headword": "seng",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "seng"
+      }
+    ],
+    "examples": [
+      {
+        "text": "lou sapo seng",
+        "translation_id": "rumah atap seng"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-261; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-261.txt",
+      "page": 252,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "seng"
+  },
+  {
+    "id": "paser-002971",
+    "headword": "senggol",
+    "language": "paser",
+    "part_of_speech": "verb",
+    "translations": [
+      {
+        "language": "id",
+        "text": "senggol"
+      }
+    ],
+    "examples": [
+      {
+        "text": "iyo kono senggol",
+        "translation_id": "dia terkena senggol"
+      }
+    ],
+    "variants": [],
+    "subentries": [
+      {
+        "label": "be.seng.gol",
+        "part_of_speech": "verb",
+        "translations": [
+          {
+            "language": "id",
+            "text": "bersenggolan"
+          }
+        ],
+        "examples": [
+          {
+            "text": "dua kepal ene besenggol la muara",
+            "translation_id": "dua kapal itu bersenggolan di muara"
+          }
+        ]
+      },
+      {
+        "label": "se.neng.gol",
+        "part_of_speech": "verb",
+        "translations": [
+          {
+            "language": "id",
+            "text": "disenggol"
+          }
+        ],
+        "examples": [
+          {
+            "text": "baweku senenggol koe ulun dat keno ene",
+            "translation_id": "istriku disenggol oleh orang jahat itu"
+          }
+        ]
+      },
+      {
+        "label": "ta.ru seng.gol",
+        "part_of_speech": "verb",
+        "translations": [
+          {
+            "language": "id",
+            "text": "tersenggol"
+          }
+        ],
+        "examples": [
+          {
+            "text": "danum lang gelas rudak taru senggol koe okongku",
+            "translation_id": "air di gelas tumpah disenggol oleh adikku"
+          }
+        ]
+      }
+    ],
+    "notes": "OCR page-261; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-261.txt",
+      "page": 252,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "seng.gol"
   }
 ]
