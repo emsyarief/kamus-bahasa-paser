@@ -158406,5 +158406,1947 @@
       "reviewed_by": null,
       "reviewed_at": null
     }
+  },
+  {
+    "id": "paser-003707",
+    "headword": "volume",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "volume"
+      }
+    ],
+    "examples": [
+      {
+        "text": "nang kecang-kencang volume rediomu",
+        "translation_id": "jangan kencang-kencang volume radiomu"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-332; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-332.txt",
+      "page": 323,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "vo.lu.me"
+  },
+  {
+    "id": "paser-003708",
+    "headword": "wadi",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "lauk dari kulit cempedak"
+      }
+    ],
+    "examples": [],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-333; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-333.txt",
+      "page": 324,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "wa.di"
+  },
+  {
+    "id": "paser-003709",
+    "headword": "wadi",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "ikan diawetkan"
+      }
+    ],
+    "examples": [
+      {
+        "text": "aku tuju kuman wadi",
+        "translation_id": "saya suka makan ikan yg diawetkan"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-333; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-333.txt",
+      "page": 324,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "wa.di"
+  },
+  {
+    "id": "paser-003710",
+    "headword": "waé",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "wajah"
+      },
+      {
+        "language": "id",
+        "text": "rupa"
+      },
+      {
+        "language": "id",
+        "text": "raut wajah"
+      }
+    ],
+    "examples": [
+      {
+        "text": "buen nau waé peya ene",
+        "translation_id": "bagus bentuk wajah anak itu"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-333; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-333.txt",
+      "page": 324,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    }
+  },
+  {
+    "id": "paser-003711",
+    "headword": "wafat",
+    "language": "paser",
+    "part_of_speech": "verb",
+    "translations": [
+      {
+        "language": "id",
+        "text": "meninggal dunia"
+      },
+      {
+        "language": "id",
+        "text": "wafat"
+      }
+    ],
+    "examples": [
+      {
+        "text": "dato iyo sundok wafat",
+        "translation_id": "kakeknya sudah wafat"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-333; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-333.txt",
+      "page": 324,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "wa.fat"
+  },
+  {
+    "id": "paser-003712",
+    "headword": "wahyu",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "wahyu"
+      }
+    ],
+    "examples": [
+      {
+        "text": "wahyu engket langit",
+        "translation_id": "wahyu dari langit"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-333; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-333.txt",
+      "page": 324,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "wah.yu"
+  },
+  {
+    "id": "paser-003713",
+    "headword": "waja",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "baja"
+      }
+    ],
+    "examples": [
+      {
+        "text": "besi waja",
+        "translation_id": "besi baja"
+      },
+      {
+        "text": "waja nengkat",
+        "translation_id": "besi baja diangkat"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-333; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-333.txt",
+      "page": 324,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "wa.ja"
+  },
+  {
+    "id": "paser-003714",
+    "headword": "wajar",
+    "language": "paser",
+    "part_of_speech": "adjective",
+    "translations": [
+      {
+        "language": "id",
+        "text": "wajar"
+      }
+    ],
+    "examples": [
+      {
+        "text": "iyo wajar ketine",
+        "translation_id": "dia wajar begitu"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-333; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-333.txt",
+      "page": 324,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "wa.jar"
+  },
+  {
+    "id": "paser-003715",
+    "headword": "wajib",
+    "language": "paser",
+    "part_of_speech": "verb",
+    "translations": [
+      {
+        "language": "id",
+        "text": "wajib"
+      }
+    ],
+    "examples": [
+      {
+        "text": "taka wajib depo lane",
+        "translation_id": "kita wajib ke sana"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-333; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-333.txt",
+      "page": 324,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "wa.jib"
+  },
+  {
+    "id": "paser-003716",
+    "headword": "wajik",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "kue ketan wajik"
+      }
+    ],
+    "examples": [
+      {
+        "text": "aku tuju kuman wajik",
+        "translation_id": "saya suka makan kue wajik"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-333; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-333.txt",
+      "page": 324,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "wa.jik"
+  },
+  {
+    "id": "paser-003717",
+    "headword": "wala’",
+    "language": "paser",
+    "part_of_speech": "adjective",
+    "translations": [
+      {
+        "language": "id",
+        "text": "terang"
+      }
+    ],
+    "examples": [
+      {
+        "text": "lampu ene wala’ beta",
+        "translation_id": "lampu itu terang sekali"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-333; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-333.txt",
+      "page": 324,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "wa.la’"
+  },
+  {
+    "id": "paser-003718",
+    "headword": "walang",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "lintang"
+      },
+      {
+        "language": "id",
+        "text": "palang"
+      }
+    ],
+    "examples": [],
+    "variants": [],
+    "subentries": [
+      {
+        "label": "tu.wa.lang",
+        "part_of_speech": "verb",
+        "translations": [
+          {
+            "language": "id",
+            "text": "melintang"
+          }
+        ],
+        "examples": [
+          {
+            "text": "kayu ene tuwalang mo boyan",
+            "translation_id": "kayu itu melintang di jalan"
+          }
+        ]
+      },
+      {
+        "label": "ti.na.wa.lang",
+        "part_of_speech": "verb",
+        "translations": [
+          {
+            "language": "id",
+            "text": "dilintangkan"
+          }
+        ],
+        "examples": [
+          {
+            "text": "balok ene tinawalang mo jawong",
+            "translation_id": "balok itu dilintangkan di pintu"
+          }
+        ]
+      },
+      {
+        "label": "pa.ru.wa.lang",
+        "part_of_speech": "noun",
+        "translations": [
+          {
+            "language": "id",
+            "text": "kayu memalang tempat ayam tidur"
+          }
+        ],
+        "examples": [
+          {
+            "text": "piak turi mo paruwalang",
+            "translation_id": "ayam tidur di kayu memalang"
+          }
+        ]
+      }
+    ],
+    "notes": "OCR page-333; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-333.txt",
+      "page": 324,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "wa.lang"
+  },
+  {
+    "id": "paser-003719",
+    "headword": "walo",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "gusi"
+      }
+    ],
+    "examples": [
+      {
+        "text": "walo yo boar",
+        "translation_id": "gusinya sakit"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-333; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-333.txt",
+      "page": 324,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "wa.lo"
+  },
+  {
+    "id": "paser-003720",
+    "headword": "walu",
+    "language": "paser",
+    "part_of_speech": "numeral",
+    "translations": [
+      {
+        "language": "id",
+        "text": "delapan"
+      }
+    ],
+    "examples": [
+      {
+        "text": "umur peya ene walu taun",
+        "translation_id": "umur anak itu delapan tahun"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-333; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-333.txt",
+      "page": 324,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "wa.lu"
+  },
+  {
+    "id": "paser-003721",
+    "headword": "wanga",
+    "language": "paser",
+    "part_of_speech": "verb",
+    "translations": [
+      {
+        "language": "id",
+        "text": "terbuka"
+      }
+    ],
+    "examples": [
+      {
+        "text": "jawong ene wanga",
+        "translation_id": "pintu itu terbuka"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-333; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-333.txt",
+      "page": 324,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "wa.nga"
+  },
+  {
+    "id": "paser-003722",
+    "headword": "wangka",
+    "language": "paser",
+    "part_of_speech": "verb",
+    "translations": [
+      {
+        "language": "id",
+        "text": "sedang menyala"
+      }
+    ],
+    "examples": [
+      {
+        "text": "lampu ene wangka",
+        "translation_id": "lampu itu sedang menyala"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-333; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-333.txt",
+      "page": 324,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "wang.ka"
+  },
+  {
+    "id": "paser-003723",
+    "headword": "wangkang",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "perahu besar"
+      }
+    ],
+    "examples": [
+      {
+        "text": "uda nampa wangkang",
+        "translation_id": "paman membuat perahu besar"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-334; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-334.txt",
+      "page": 325,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "wang.kang"
+  },
+  {
+    "id": "paser-003724",
+    "headword": "wani",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "madu"
+      },
+      {
+        "language": "id",
+        "text": "lebah"
+      }
+    ],
+    "examples": [
+      {
+        "text": "mo lane deo wani",
+        "translation_id": "di sana banyak lebah"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-334; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-334.txt",
+      "page": 325,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "wa.ni"
+  },
+  {
+    "id": "paser-003725",
+    "headword": "wasiat",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "wasiat"
+      }
+    ],
+    "examples": [
+      {
+        "text": "keo wasiat engket dato",
+        "translation_id": "ada wasiat dari kakek"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-334; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-334.txt",
+      "page": 325,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "wa.si.at"
+  },
+  {
+    "id": "paser-003726",
+    "headword": "wasit",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "wasit"
+      }
+    ],
+    "examples": [
+      {
+        "text": "iyo wasit main bal",
+        "translation_id": "dia wasit sepak bola"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-334; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-334.txt",
+      "page": 325,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "wa.sit"
+  },
+  {
+    "id": "paser-003727",
+    "headword": "waspada",
+    "language": "paser",
+    "part_of_speech": "adjective",
+    "translations": [
+      {
+        "language": "id",
+        "text": "waspada"
+      }
+    ],
+    "examples": [
+      {
+        "text": "taka harus waspada",
+        "translation_id": "kita harus waspada"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-334; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-334.txt",
+      "page": 325,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "was.pa.da"
+  },
+  {
+    "id": "paser-003728",
+    "headword": "watak",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "watak"
+      }
+    ],
+    "examples": [
+      {
+        "text": "ketine watak yo",
+        "translation_id": "begitu wataknya"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-334; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-334.txt",
+      "page": 325,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "wa.tak"
+  },
+  {
+    "id": "paser-003729",
+    "headword": "watas",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "tanah milik"
+      }
+    ],
+    "examples": [
+      {
+        "text": "watas ulun",
+        "translation_id": "tanah milik orang"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-334; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-334.txt",
+      "page": 325,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "wa.tas"
+  },
+  {
+    "id": "paser-003730",
+    "headword": "watér",
+    "language": "paser",
+    "part_of_speech": "adjective",
+    "translations": [
+      {
+        "language": "id",
+        "text": "khawatir"
+      }
+    ],
+    "examples": [
+      {
+        "text": "aku watér mite rotonyo",
+        "translation_id": "saya khawatir melihat penyakitnya"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-334; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-334.txt",
+      "page": 325,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "wa.tér"
+  },
+  {
+    "id": "paser-003731",
+    "headword": "watun",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "pindah tempat"
+      },
+      {
+        "language": "id",
+        "text": "boyongan"
+      }
+    ],
+    "examples": [
+      {
+        "text": "iyo watun depo opai",
+        "translation_id": "dia boyongan ke seberang"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-334; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-334.txt",
+      "page": 325,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "wa.tun"
+  },
+  {
+    "id": "paser-003732",
+    "headword": "wayat",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "angin"
+      }
+    ],
+    "examples": [
+      {
+        "text": "wayat kencang beta",
+        "translation_id": "angin kencang sekali"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-334; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-334.txt",
+      "page": 325,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "wa.yat"
+  },
+  {
+    "id": "paser-003733",
+    "headword": "wayang",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "wayang"
+      }
+    ],
+    "examples": [
+      {
+        "text": "dero nonton wayang kulit",
+        "translation_id": "mereka menonton wayang kulit"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-334; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-334.txt",
+      "page": 325,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "wa.yang"
+  },
+  {
+    "id": "paser-003734",
+    "headword": "woyu",
+    "language": "paser",
+    "part_of_speech": "adjective",
+    "translations": [
+      {
+        "language": "id",
+        "text": "cemburu"
+      }
+    ],
+    "examples": [
+      {
+        "text": "baweku jono woyu",
+        "translation_id": "istriku sering cemburu"
+      }
+    ],
+    "variants": [],
+    "subentries": [
+      {
+        "label": "pa.ru.wo.yu",
+        "part_of_speech": "noun",
+        "translations": [
+          {
+            "language": "id",
+            "text": "pencemburu"
+          }
+        ],
+        "examples": [
+          {
+            "text": "ulun ene paruwoyu",
+            "translation_id": "orang itu pencemburu"
+          }
+        ]
+      }
+    ],
+    "notes": "OCR page-334; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-334.txt",
+      "page": 325,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "wo.yu"
+  },
+  {
+    "id": "paser-003735",
+    "headword": "wékar",
+    "language": "paser",
+    "part_of_speech": "verb",
+    "translations": [
+      {
+        "language": "id",
+        "text": "mekar"
+      },
+      {
+        "language": "id",
+        "text": "melar"
+      },
+      {
+        "language": "id",
+        "text": "melebar"
+      }
+    ],
+    "examples": [
+      {
+        "text": "kembang ene sundok wékar",
+        "translation_id": "kembang itu sudah mekar"
+      },
+      {
+        "text": "kono pakai wékar",
+        "translation_id": "karena dipakai (jadi) melar"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-334; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-334.txt",
+      "page": 325,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "wé.kar"
+  },
+  {
+    "id": "paser-003736",
+    "headword": "wéker",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "beker"
+      }
+    ],
+    "examples": [
+      {
+        "text": "aku moli jam wéker",
+        "translation_id": "saya membeli jam beker"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-334; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-334.txt",
+      "page": 325,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "wé.ker"
+  },
+  {
+    "id": "paser-003737",
+    "headword": "wéor",
+    "language": "paser",
+    "part_of_speech": "verb",
+    "translations": [
+      {
+        "language": "id",
+        "text": "bergeser"
+      }
+    ],
+    "examples": [
+      {
+        "text": "kederayo wéor",
+        "translation_id": "kursinya bergeser"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-334; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-334.txt",
+      "page": 325,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "wé.or"
+  },
+  {
+    "id": "paser-003738",
+    "headword": "wéré",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "nasib"
+      },
+      {
+        "language": "id",
+        "text": "keberuntungan"
+      }
+    ],
+    "examples": [
+      {
+        "text": "buen beta wéré yo",
+        "translation_id": "bagus sekali nasibnya"
+      },
+      {
+        "text": "belo buen wéré yo",
+        "translation_id": "tidak bagus nasibnya"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-334; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-334.txt",
+      "page": 325,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "wé.ré"
+  },
+  {
+    "id": "paser-003739",
+    "headword": "wéwét",
+    "language": "paser",
+    "part_of_speech": "verb",
+    "translations": [
+      {
+        "language": "id",
+        "text": "tumpah"
+      }
+    ],
+    "examples": [
+      {
+        "text": "danum wéwét",
+        "translation_id": "air tumpah"
+      }
+    ],
+    "variants": [],
+    "subentries": [
+      {
+        "label": "nge.wé.wét",
+        "part_of_speech": "verb",
+        "translations": [
+          {
+            "language": "id",
+            "text": "menumpahkan"
+          }
+        ],
+        "examples": [
+          {
+            "text": "peya alusku ngewéwét danum susuyo",
+            "translation_id": "anak kecilku menumpahkan air susunya"
+          }
+        ]
+      },
+      {
+        "label": "ki.na.wé.wét",
+        "part_of_speech": "verb",
+        "translations": [
+          {
+            "language": "id",
+            "text": "ditumpahkan"
+          }
+        ],
+        "examples": [
+          {
+            "text": "danum layong inneku kinawéwét koe okongku",
+            "translation_id": "air panas ibuku ditumpahkan oleh adikku"
+          }
+        ]
+      }
+    ],
+    "notes": "OCR page-334; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-334.txt",
+      "page": 325,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "wé.wét"
+  },
+  {
+    "id": "paser-003740",
+    "headword": "wisa’",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "bisa"
+      },
+      {
+        "language": "id",
+        "text": "racun"
+      }
+    ],
+    "examples": [
+      {
+        "text": "dato tawar wisa’ nipo",
+        "translation_id": "kakek mengobati bisa ular"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-334; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-334.txt",
+      "page": 325,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "wi.sa’"
+  },
+  {
+    "id": "paser-003741",
+    "headword": "wok",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "hantu"
+      }
+    ],
+    "examples": [
+      {
+        "text": "dat kati wok",
+        "translation_id": "jelek seperti hantu"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-334; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-334.txt",
+      "page": 325,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    }
+  },
+  {
+    "id": "paser-003742",
+    "headword": "wokas",
+    "language": "paser",
+    "part_of_speech": "verb",
+    "translations": [
+      {
+        "language": "id",
+        "text": "terlepas tali jebakan"
+      },
+      {
+        "language": "id",
+        "text": "lolos"
+      }
+    ],
+    "examples": [
+      {
+        "text": "wokas siret",
+        "translation_id": "terlepas (dari) ikatan"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-334; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-334.txt",
+      "page": 325,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "wo.kas"
+  },
+  {
+    "id": "paser-003743",
+    "headword": "wonga",
+    "language": "paser",
+    "part_of_speech": "adjective",
+    "translations": [
+      {
+        "language": "id",
+        "text": "mulai sembuh dari sakit"
+      }
+    ],
+    "examples": [
+      {
+        "text": "kawalku bayu wonga",
+        "translation_id": "temanku baru mulai sembuh"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-334; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-334.txt",
+      "page": 325,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "wo.nga"
+  },
+  {
+    "id": "paser-003744",
+    "headword": "wonyat",
+    "language": "paser",
+    "part_of_speech": "adjective",
+    "translations": [
+      {
+        "language": "id",
+        "text": "melar"
+      },
+      {
+        "language": "id",
+        "text": "fleksibel"
+      },
+      {
+        "language": "id",
+        "text": "mekar"
+      }
+    ],
+    "examples": [
+      {
+        "text": "geta ene wonyat",
+        "translation_id": "karet itu melar"
+      }
+    ],
+    "variants": [],
+    "subentries": [
+      {
+        "label": "no.nyat",
+        "part_of_speech": "verb",
+        "translations": [
+          {
+            "language": "id",
+            "text": "dimelarkan"
+          },
+          {
+            "language": "id",
+            "text": "dimekarkan"
+          }
+        ],
+        "examples": [
+          {
+            "text": "jaja nonyat erai malom bayu benentuk",
+            "translation_id": "kue dimekarkan selama satu malam baru dibentuk"
+          }
+        ]
+      }
+    ],
+    "notes": "OCR page-335; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-335.txt",
+      "page": 326,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "wo.nyat"
+  },
+  {
+    "id": "paser-003745",
+    "headword": "worét",
+    "language": "paser",
+    "part_of_speech": "verb",
+    "translations": [
+      {
+        "language": "id",
+        "text": "terlihat"
+      }
+    ],
+    "examples": [
+      {
+        "text": "senyo worét engket kantongyo",
+        "translation_id": "uangnya terlihat dari sakunya"
+      }
+    ],
+    "variants": [],
+    "subentries": [
+      {
+        "label": "ngo.rét",
+        "part_of_speech": "verb",
+        "translations": [
+          {
+            "language": "id",
+            "text": "perlihatkan"
+          }
+        ],
+        "examples": [
+          {
+            "text": "nang sampe iko ngorét kompuko",
+            "translation_id": "jangan sampai kamu perlihatkan tubuh-tubuhmu"
+          }
+        ]
+      },
+      {
+        "label": "no.rét",
+        "part_of_speech": "verb",
+        "translations": [
+          {
+            "language": "id",
+            "text": "diperlihatkan"
+          }
+        ],
+        "examples": [
+          {
+            "text": "gawianyo norét",
+            "translation_id": "pekerjaannya diperlihatkan"
+          }
+        ]
+      }
+    ],
+    "notes": "OCR page-335; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-335.txt",
+      "page": 326,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "wo.rét"
+  },
+  {
+    "id": "paser-003746",
+    "headword": "woring",
+    "language": "paser",
+    "part_of_speech": "adjective",
+    "translations": [
+      {
+        "language": "id",
+        "text": "rasa khawatir"
+      },
+      {
+        "language": "id",
+        "text": "rawan"
+      },
+      {
+        "language": "id",
+        "text": "ngeri"
+      }
+    ],
+    "examples": [
+      {
+        "text": "iyo woring mite depo iwa",
+        "translation_id": "dia ngeri melihat ke bawah"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-335; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-335.txt",
+      "page": 326,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "wo.ring"
+  },
+  {
+    "id": "paser-003747",
+    "headword": "yakin",
+    "language": "paser",
+    "part_of_speech": "adjective",
+    "translations": [
+      {
+        "language": "id",
+        "text": "yakin"
+      }
+    ],
+    "examples": [
+      {
+        "text": "aku pian yakin beta",
+        "translation_id": "saya belum yakin sekali"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-336; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-336.txt",
+      "page": 327,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "ya.kin"
+  },
+  {
+    "id": "paser-003748",
+    "headword": "yatim",
+    "language": "paser",
+    "part_of_speech": "adjective",
+    "translations": [
+      {
+        "language": "id",
+        "text": "yatim"
+      }
+    ],
+    "examples": [
+      {
+        "text": "iyo peya yatim",
+        "translation_id": "dia anak yatim"
+      },
+      {
+        "text": "peya ene yatim piatu",
+        "translation_id": "anak itu yatim piatu"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-336; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-336.txt",
+      "page": 327,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "ya.tim"
+  },
+  {
+    "id": "paser-003749",
+    "headword": "ye",
+    "language": "paser",
+    "part_of_speech": "particle",
+    "translations": [
+      {
+        "language": "id",
+        "text": "ya (terhadap orang yang lebih tua)"
+      }
+    ],
+    "examples": [
+      {
+        "text": "ye, uda",
+        "translation_id": "ya, paman"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-336; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-336.txt",
+      "page": 327,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    }
+  },
+  {
+    "id": "paser-003750",
+    "headword": "tyo",
+    "language": "paser",
+    "part_of_speech": "particle",
+    "translations": [
+      {
+        "language": "id",
+        "text": "ya (terhadap orang yang sebaya)"
+      }
+    ],
+    "examples": [
+      {
+        "text": "tyo beta ene",
+        "translation_id": "ya, betul itu"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-336; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-336.txt",
+      "page": 327,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    }
+  },
+  {
+    "id": "paser-003751",
+    "headword": "yo",
+    "language": "paser",
+    "part_of_speech": "particle",
+    "translations": [
+      {
+        "language": "id",
+        "text": "yang"
+      }
+    ],
+    "examples": [
+      {
+        "text": "eto baju yo buen",
+        "translation_id": "cari baju yang bagus"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-336; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-336.txt",
+      "page": 327,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    }
+  },
+  {
+    "id": "paser-003752",
+    "headword": "-yo",
+    "language": "paser",
+    "part_of_speech": "bound form",
+    "translations": [
+      {
+        "language": "id",
+        "text": "varian pronomina persona iyo (dia) dan pronomina benda yang menyatakan milik, pelaku, atau penerima"
+      }
+    ],
+    "examples": [
+      {
+        "text": "lou ene empuyo",
+        "translation_id": "rumah itu miliknya"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-336; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-336.txt",
+      "page": 327,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    }
+  },
+  {
+    "id": "paser-003753",
+    "headword": "yuta",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "juta"
+      }
+    ],
+    "examples": [
+      {
+        "text": "sen iyo erai yuta",
+        "translation_id": "uangnya satu juta"
+      }
+    ],
+    "variants": [],
+    "subentries": [
+      {
+        "label": "be.yu.ta-yu.ta",
+        "part_of_speech": "noun",
+        "translations": [
+          {
+            "language": "id",
+            "text": "berjuta-juta"
+          }
+        ],
+        "examples": [
+          {
+            "text": "senyo beyuta-yuta",
+            "translation_id": "uangnya berjuta-juta"
+          }
+        ]
+      }
+    ],
+    "notes": "OCR page-336; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-336.txt",
+      "page": 327,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "yu.ta"
+  },
+  {
+    "id": "paser-003754",
+    "headword": "zaman",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "zaman"
+      }
+    ],
+    "examples": [
+      {
+        "text": "zaman des endo barang-barang larang",
+        "translation_id": "zaman waktu ini barang-barang mahal"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-337; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-337.txt",
+      "page": 328,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "za.man"
+  },
+  {
+    "id": "paser-003755",
+    "headword": "zat",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "zat"
+      }
+    ],
+    "examples": [
+      {
+        "text": "ati-ati mo lane keo zat bahaya",
+        "translation_id": "hati-hati di sana ada zat berbahaya"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-337; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-337.txt",
+      "page": 328,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    }
+  },
+  {
+    "id": "paser-003756",
+    "headword": "zeriah",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "jariah"
+      }
+    ],
+    "examples": [
+      {
+        "text": "nyumbang ene amal zeriah",
+        "translation_id": "menyumbang itu amal jariah"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-337; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-337.txt",
+      "page": 328,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "ze.ri.ah"
+  },
+  {
+    "id": "paser-003757",
+    "headword": "ziara",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "ziarah"
+      }
+    ],
+    "examples": [
+      {
+        "text": "taka ziara depo lou uda",
+        "translation_id": "kami berziarah ke rumah paman"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-337; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-337.txt",
+      "page": 328,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "zia.ra"
+  },
+  {
+    "id": "paser-003758",
+    "headword": "zikir",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "zikir"
+      }
+    ],
+    "examples": [
+      {
+        "text": "zikir ene buen beta",
+        "translation_id": "zikir itu baik sekali"
+      }
+    ],
+    "variants": [],
+    "subentries": [
+      {
+        "label": "be.zi.kir",
+        "part_of_speech": "verb",
+        "translations": [
+          {
+            "language": "id",
+            "text": "berzikir"
+          }
+        ],
+        "examples": [
+          {
+            "text": "iyo rajin bezikir",
+            "translation_id": "dia rajin (suka) berzikir"
+          }
+        ]
+      }
+    ],
+    "notes": "OCR page-337; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-337.txt",
+      "page": 328,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "zi.kir"
+  },
+  {
+    "id": "paser-003759",
+    "headword": "zohor",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "zuhur"
+      }
+    ],
+    "examples": [
+      {
+        "text": "iyo ulet waktu zohor",
+        "translation_id": "dia datang waktu zuhur"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-337; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-337.txt",
+      "page": 328,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "zo.hor"
   }
 ]
