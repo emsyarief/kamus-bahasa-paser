@@ -136,7 +136,7 @@ function renderHelperState() {
   const title = document.createElement('h2');
   const text = document.createElement('p');
   title.textContent = 'Cari arti kata';
-  text.textContent = 'Masukkan kata Paser, arti Indonesia, atau definisi. Hasil akan muncul setelah Anda mengetik.';
+  text.textContent = 'Masukkan kata Paser atau arti Indonesia. Hasil akan muncul setelah Anda mengetik.';
   card.append(title, text);
   return card;
 }
@@ -149,7 +149,6 @@ function renderEntry(entry) {
 
   const fields = node.querySelector('.fields');
   addField(fields, 'Indonesia', entry.translations.join('; '));
-  addField(fields, 'Definisi', entry.definitions.join('; '));
   addField(fields, 'Contoh', renderExamples(entry.examples));
   addField(fields, 'Varian', renderVariants(entry.variants));
   return node;
@@ -232,9 +231,7 @@ function formatSource(source) {
 function searchableText(entry) {
   return normalizeText([
     entry.headword,
-    entry.variants.join(' '),
-    entry.translations.join(' '),
-    entry.definitions.join(' ')
+    entry.translations.join(' ')
   ].join(' '));
 }
 
