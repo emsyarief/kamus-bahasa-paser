@@ -11,14 +11,12 @@ const els = {
   search: document.querySelector('#searchInput'),
   clear: document.querySelector('#clearSearch'),
   count: document.querySelector('#entryCount'),
-  source: document.querySelector('#dataSource'),
   status: document.querySelector('#status'),
   results: document.querySelector('#results'),
   template: document.querySelector('#entryTemplate')
 };
 
 let entries = [];
-let loadedFrom = '';
 
 init();
 
@@ -26,8 +24,6 @@ async function init() {
   try {
     const loaded = await loadEntries();
     entries = normalizeEntries(loaded.entries);
-    loadedFrom = loaded.url;
-    els.source.textContent = `Sumber: ${loadedFrom}`;
     bindEvents();
     render();
   } catch (error) {

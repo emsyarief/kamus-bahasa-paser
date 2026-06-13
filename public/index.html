@@ -23,22 +23,12 @@
         </div>
         <div class="meta-row" aria-live="polite">
           <span id="entryCount">Memuat data…</span>
-          <span id="dataSource">Sumber: mencari data JSON</span>
         </div>
       </section>
 
       <section id="status" class="status" role="status"></section>
       <section id="results" class="results" aria-label="Daftar entri"></section>
 
-      <section class="panel note" aria-labelledby="source-title">
-        <h2 id="source-title">Catatan sumber & penggantian data</h2>
-        <p>App mencoba memuat <code>data/entries.json</code> dulu, lalu fallback ke <code>data/entries.sample.json</code>.</p>
-        <ol>
-          <li>Simpan hasil OCR final sebagai <code>data/entries.json</code>.</li>
-          <li>Gunakan struktur array JSON sama seperti <code>data/entries.sample.json</code>.</li>
-          <li>Refresh halaman; sample otomatis tergantikan jika file final tersedia.</li>
-        </ol>
-      </section>
     </main>
 
     <template id="entryTemplate">
