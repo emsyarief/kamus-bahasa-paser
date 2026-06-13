@@ -62,9 +62,24 @@ function bindEvents() {
 }
 
 function normalizeEntries(rawEntries) {
-  return rawEntries.map((entry, index) => ({
+  const headwordCounts = rawEntries.reduce((counts, entry) => {
+    const key = normalizeHeadwordKey(entry.headword || '(tanpa lema)');
+    counts.set(key, (counts.get(key) || 0) + 1);
+    return counts;
+  }, new Map());
+
+  const headwordOrdinals = new Map();
+  return rawEntries.map((entry, index) => {
+    const headword = entry.headword || '(tanpa lema)';
+    const headwordKey = normalizeHeadwordKey(headword);
+    const homonymCount = headwordCounts.get(headwordKey) || 0;
+    const homonymNumber = homonymCount > 1 ? (headwordOrdinals.get(headwordKey) || 0) + 1 : 0;
+    if (homonymNumber) headwordOrdinals.set(headwordKey, homonymNumber);
+
+    return ({
     id: entry.id || `entry-${index + 1}`,
-    headword: entry.headword || '(tanpa lema)',
+    headword,
+    homonymNumber,
     language: entry.language || 'paser',
     partOfSpeech: entry.part_of_speech || entry.partOfSpeech || '',
     translations: asArray(entry.translations).map((item) => item.text || item).filter(Boolean),
@@ -74,7 +89,8 @@ function normalizeEntries(rawEntries) {
     notes: entry.notes || '',
     source: entry.source || {},
     review: entry.review || {}
-  }));
+    });
+  });
 }
 
 function render() {
@@ -120,7 +136,7 @@ function renderHelperState() {
 
 function renderEntry(entry) {
   const node = els.template.content.cloneNode(true);
-  node.querySelector('.headword').textContent = entry.headword;
+  renderHeadword(node.querySelector('.headword'), entry);
   node.querySelector('.subline').textContent = [entry.language, entry.partOfSpeech].filter(Boolean).join(' · ');
   node.querySelector('.badge').textContent = entry.review.status || 'draft';
 
@@ -128,8 +144,17 @@ function renderEntry(entry) {
   addField(fields, 'Indonesia', entry.translations.join('; '));
   addField(fields, 'Definisi', entry.definitions.join('; '));
   addField(fields, 'Contoh', renderExamples(entry.examples));
-  addField(fields, 'Varian', entry.variants.join(', '));
+  addField(fields, 'Varian', renderVariants(entry.variants));
   return node;
+}
+
+function renderHeadword(parent, entry) {
+  parent.replaceChildren(document.createTextNode(entry.headword));
+  if (!entry.homonymNumber) return;
+  const marker = document.createElement('sup');
+  marker.className = 'homonym-number';
+  marker.textContent = entry.homonymNumber;
+  parent.appendChild(marker);
 }
 
 function addField(parent, label, value) {
@@ -154,6 +179,15 @@ function renderExamples(examples) {
     nodes.push(...example);
   });
   return nodes;
+}
+
+function renderVariants(variants) {
+  return variants.map((variant) => {
+    const chip = document.createElement('span');
+    chip.className = 'variant-chip';
+    chip.textContent = variant;
+    return chip;
+  });
 }
 
 function renderExample(item) {
@@ -195,6 +229,10 @@ function searchableText(entry) {
 
 function normalizeText(value) {
   return String(value || '').toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '').trim();
+}
+
+function normalizeHeadwordKey(value) {
+  return normalizeText(value);
 }
 
 function asArray(value) {

@@ -106,6 +106,13 @@ button:hover { background: var(--accent-dark); }
 .card { padding: 18px; }
 .card-head { display: flex; align-items: flex-start; justify-content: space-between; gap: 14px; }
 .card h2 { margin-bottom: 4px; font-size: clamp(1.35rem, 5vw, 2rem); letter-spacing: -0.03em; }
+.homonym-number {
+  margin-left: 0.08em;
+  color: var(--accent-dark);
+  font-size: 0.55em;
+  line-height: 0;
+  vertical-align: super;
+}
 .subline { margin-bottom: 0; color: var(--muted); }
 .badge {
   border-radius: 999px;
@@ -120,6 +127,15 @@ button:hover { background: var(--accent-dark); }
 .field { margin: 0; padding-top: 10px; border-top: 1px solid var(--line); }
 dt { color: var(--muted); font-size: 0.78rem; font-weight: 800; letter-spacing: 0.08em; text-transform: uppercase; }
 dd { margin: 5px 0 0; line-height: 1.55; }
+.variant-chip {
+  display: inline-block;
+  margin: 0 6px 6px 0;
+  border-radius: 999px;
+  padding: 3px 8px;
+  background: var(--chip);
+  color: var(--accent-dark);
+  font-weight: 700;
+}
 .note { margin-top: 24px; padding: 18px; color: var(--muted); }
 .note h2 { color: var(--ink); font-size: 1.1rem; }
 .note code { color: var(--accent-dark); font-weight: 800; }
