@@ -291,17 +291,8 @@ function splitExample(text) {
 function searchableText(entry) {
   return normalizeText([
     entry.headword,
-    entry.translations.join(' '),
-    entry.subentries.map(searchableVariantText).join(' '),
-    entry.variants.map(searchableVariantText).join(' ')
+    entry.translations.join(' ')
   ].join(' '));
-}
-
-function searchableVariantText(variant) {
-  return [
-    variant.label,
-    variant.translations.join(' ')
-  ].join(' ');
 }
 
 function normalizeText(value) {
