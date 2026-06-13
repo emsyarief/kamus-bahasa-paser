@@ -79,15 +79,24 @@ function normalizeEntries(rawEntries) {
 
 function render() {
   const query = normalizeText(els.search.value);
-  const filtered = query ? entries.filter((entry) => searchableText(entry).includes(query)) : entries;
+  const filtered = query ? entries.filter((entry) => searchableText(entry).includes(query)) : [];
 
-  els.count.textContent = `${filtered.length} dari ${entries.length} entri`;
   els.results.replaceChildren();
 
   if (!entries.length) {
+    els.count.textContent = 'Belum ada data kamus.';
     showStatus('Belum ada entri. Tambahkan data JSON untuk mulai.', false);
     return;
   }
+
+  if (!query) {
+    els.count.textContent = 'Ketik kata Paser atau Indonesia untuk mulai mencari.';
+    showStatus('Mulai ketik untuk melihat hasil kamus yang relevan.', false);
+    els.results.appendChild(renderHelperState());
+    return;
+  }
+
+  els.count.textContent = `${filtered.length} dari ${entries.length} entri cocok`;
 
   if (!filtered.length) {
     showStatus('Tidak ada hasil. Coba kata Paser/Indonesia lain.', false);
@@ -96,6 +105,17 @@ function render() {
 
   showStatus(query ? `Hasil untuk “${els.search.value}”` : 'Semua entri ditampilkan.', false);
   filtered.forEach((entry) => els.results.appendChild(renderEntry(entry)));
+}
+
+function renderHelperState() {
+  const card = document.createElement('article');
+  card.className = 'card helper-card';
+  const title = document.createElement('h2');
+  const text = document.createElement('p');
+  title.textContent = 'Cari arti kata';
+  text.textContent = 'Masukkan kata Paser, arti Indonesia, atau definisi. Hasil akan muncul setelah Anda mengetik.';
+  card.append(title, text);
+  return card;
 }
 
 function renderEntry(entry) {
