@@ -109,8 +109,6 @@ function renderEntry(entry) {
   addField(fields, 'Definisi', entry.definitions.join('; '));
   addField(fields, 'Contoh', formatExamples(entry.examples));
   addField(fields, 'Varian', entry.variants.join(', '));
-  addField(fields, 'Catatan', entry.notes);
-  addField(fields, 'Sumber', formatSource(entry.source));
   return node;
 }
 
@@ -142,14 +140,8 @@ function formatSource(source) {
 function searchableText(entry) {
   return normalizeText([
     entry.headword,
-    entry.language,
-    entry.partOfSpeech,
     entry.translations.join(' '),
-    entry.definitions.join(' '),
-    formatExamples(entry.examples),
-    entry.variants.join(' '),
-    entry.notes,
-    formatSource(entry.source)
+    entry.definitions.join(' ')
   ].join(' '));
 }
 
