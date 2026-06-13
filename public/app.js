@@ -85,6 +85,7 @@ function normalizeEntries(rawEntries) {
     translations: asArray(entry.translations).map((item) => item.text || item).filter(Boolean),
     definitions: asArray(entry.definitions).filter(Boolean),
     examples: asArray(entry.examples),
+    subentries: asArray(entry.subentries).map(normalizeSubentry).filter((subentry) => subentry.label),
     variants: asArray(entry.variants).map(normalizeVariant).filter((variant) => variant.label),
     notes: entry.notes || '',
     source: entry.source || {},
@@ -141,7 +142,7 @@ function renderEntry(entry) {
   node.querySelector('.badge').textContent = entry.review.status || 'draft';
 
   const fields = node.querySelector('.fields');
-  addField(fields, 'Varian', renderVariants(entry.variants));
+  addField(fields, 'Sublema/Varian', renderSubentriesAndVariants(entry.subentries, entry.variants));
   addField(fields, 'Indonesia', entry.translations.join('; '));
   addField(fields, 'Contoh', renderExamples(entry.examples));
   return node;
@@ -180,13 +181,14 @@ function renderExamples(examples) {
   return nodes;
 }
 
-function renderVariants(variants) {
-  if (!variants.length) return [];
+function renderSubentriesAndVariants(subentries, variants) {
+  const items = [...subentries, ...variants];
+  if (!items.length) return [];
 
   const list = document.createElement('div');
   list.className = 'variant-list';
 
-  variants.forEach((variant) => {
+  items.forEach((variant) => {
     const item = document.createElement('details');
     item.className = 'variant-item';
 
@@ -207,6 +209,13 @@ function renderVariants(variants) {
 
 function renderVariantDetail(parent, variant) {
   let hasDetail = false;
+
+  if (variant.partOfSpeech) {
+    const partOfSpeech = document.createElement('p');
+    partOfSpeech.textContent = `Kelas kata: ${variant.partOfSpeech}`;
+    parent.appendChild(partOfSpeech);
+    hasDetail = true;
+  }
 
   if (variant.translations.length) {
     const text = document.createElement('p');
@@ -246,6 +255,20 @@ function normalizeVariant(variant) {
   };
 }
 
+function normalizeSubentry(subentry) {
+  if (!subentry || typeof subentry !== 'object') {
+    return { label: '', partOfSpeech: '', translations: [], examples: [], note: '' };
+  }
+
+  return {
+    label: subentry.headword || subentry.label || subentry.text || '',
+    partOfSpeech: subentry.part_of_speech || subentry.partOfSpeech || '',
+    translations: asArray(subentry.translations).map((item) => item.text || item).filter(Boolean),
+    examples: asArray(subentry.examples),
+    note: subentry.note || subentry.notes || ''
+  };
+}
+
 function renderExample(item) {
   if (typeof item === 'string') return renderExampleParts(...splitExample(item));
   return renderExampleParts(item.text, item.translation_id || item.translation);
@@ -278,8 +301,19 @@ function formatSource(source) {
 function searchableText(entry) {
   return normalizeText([
     entry.headword,
-    entry.translations.join(' ')
+    entry.translations.join(' '),
+    entry.subentries.map(searchableVariantText).join(' '),
+    entry.variants.map(searchableVariantText).join(' ')
   ].join(' '));
+}
+
+function searchableVariantText(variant) {
+  return [
+    variant.label,
+    variant.partOfSpeech || '',
+    variant.translations.join(' '),
+    variant.examples.map((example) => typeof example === 'string' ? example : [example.text, example.translation_id || example.translation].join(' ')).join(' ')
+  ].join(' ');
 }
 
 function normalizeText(value) {
