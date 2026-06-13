@@ -101,19 +101,17 @@ function render() {
   els.results.replaceChildren();
 
   if (!entries.length) {
-    els.count.textContent = 'Belum ada data kamus.';
+    els.count.textContent = '';
     showStatus('Belum ada entri. Tambahkan data JSON untuk mulai.', false);
     return;
   }
 
   if (!query) {
-    els.count.textContent = 'Ketik kata Paser atau Indonesia untuk mulai mencari.';
+    els.count.textContent = '';
     showStatus('Mulai ketik untuk melihat hasil kamus yang relevan.', false);
     els.results.appendChild(renderHelperState());
     return;
   }
-
-  els.count.textContent = `${filtered.length} dari ${entries.length} entri cocok`;
 
   if (!filtered.length) {
     showStatus('Tidak ada hasil. Coba kata Paser/Indonesia lain.', false);
@@ -139,7 +137,7 @@ function renderEntry(entry) {
   const node = els.template.content.cloneNode(true);
   renderHeadword(node.querySelector('.headword'), entry);
   node.querySelector('.subline').textContent = [entry.language, entry.partOfSpeech].filter(Boolean).join(' · ');
-  node.querySelector('.badge').textContent = entry.review.status || 'draft';
+  node.querySelector('.badge').remove();
 
   const fields = node.querySelector('.fields');
   addField(fields, 'Indonesia', entry.translations.join('; '));
