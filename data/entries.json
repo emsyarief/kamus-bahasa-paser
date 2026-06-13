@@ -12,8 +12,8 @@
     ],
     "examples": [
       {
-        "text": "keo aba rotonyo olo endo benanding diang pore penyakitnya membaik hari dibanding- kan dengan kemarin",
-        "translation_id": null
+        "text": "keo aba rotonyo olo endo benanding diang pore",
+        "translation_id": "penyakitnya membaik hari dibandingkan dengan kemarin"
       }
     ],
     "variants": [],
@@ -43,8 +43,8 @@
     ],
     "examples": [
       {
-        "text": "aba-aba ka nau wae ulunyo lumayan cantik (ganteng) wajah orangnya",
-        "translation_id": null
+        "text": "aba-aba ka nau wae ulunyo",
+        "translation_id": "lumayan cantik (ganteng) wajah orangnya"
       }
     ],
     "variants": [],
@@ -74,8 +74,12 @@
     ],
     "examples": [
       {
-        "text": "abu janas des langot abu sisa keba- karan hutan pada saat musim kemarau; awa abu roko tempat abu rokok",
-        "translation_id": null
+        "text": "abu janas des langot",
+        "translation_id": "abu sisa kebakaran hutan pada saat musim kemarau"
+      },
+      {
+        "text": "awa abu roko",
+        "translation_id": "tempat abu rokok"
       }
     ],
     "variants": [],
@@ -105,8 +109,8 @@
     ],
     "examples": [
       {
-        "text": "baju cura abu-abu baju berwarna abu-abu",
-        "translation_id": null
+        "text": "baju cura abu-abu",
+        "translation_id": "baju berwarna abu-abu"
       }
     ],
     "variants": [],
@@ -136,8 +140,8 @@
     ],
     "examples": [
       {
-        "text": "bolum mo dunia belo abadi hidup di dunia tidak abadi",
-        "translation_id": null
+        "text": "bolum mo dunia belo abadi",
+        "translation_id": "hidup di dunia tidak abadi"
       }
     ],
     "variants": [
@@ -179,8 +183,8 @@
     ],
     "examples": [
       {
-        "text": "iyo bayu menau nulis abjad dia baru belajar menulis",
-        "translation_id": null
+        "text": "iyo bayu menau nulis abjad",
+        "translation_id": "dia baru belajar menulis"
       }
     ],
     "variants": [
@@ -222,8 +226,8 @@
     ],
     "examples": [
       {
-        "text": "kuman bias ulak acar makan nasi dengan acar",
-        "translation_id": null
+        "text": "kuman bias ulak acar",
+        "translation_id": "makan nasi dengan acar"
       }
     ],
     "variants": [],
@@ -253,8 +257,8 @@
     ],
     "examples": [
       {
-        "text": "mo louyo keo acara di rumahnya ada acara",
-        "translation_id": null
+        "text": "mo louyo keo acara",
+        "translation_id": "di rumahnya ada acara"
       }
     ],
     "variants": [
@@ -308,8 +312,8 @@
         ],
         "examples": [
           {
-            "text": "man taka ngadap Bupati ayo menghadap Bupati",
-            "translation_id": null
+            "text": "man taka ngadap Bupati",
+            "translation_id": "ayo menghadap Bupati"
           }
         ]
       },
@@ -324,8 +328,8 @@
         ],
         "examples": [
           {
-            "text": "nadap ulunyo dile ditemui orangnya terlebih dahulu",
-            "translation_id": null
+            "text": "nadap ulunyo dile",
+            "translation_id": "ditemui orangnya terlebih dahulu"
           }
         ]
       },
@@ -340,8 +344,8 @@
         ],
         "examples": [
           {
-            "text": "Udin diang Amat mangku adap Udin dan Amat berhadapan",
-            "translation_id": null
+            "text": "Udin diang Amat mangku adap",
+            "translation_id": "Udin dan Amat berhadapan"
           }
         ]
       }
@@ -371,8 +375,8 @@
     ],
     "examples": [
       {
-        "text": "deo beta adat mo kampong banyak sekali adat di kampung",
-        "translation_id": null
+        "text": "deo beta adat mo kampong",
+        "translation_id": "banyak sekali adat di kampung"
       }
     ],
     "variants": [],
@@ -402,8 +406,12 @@
     ],
     "examples": [
       {
-        "text": "a’da tulak oro akan berangkat jauh; iyo a’da ulet depo pendo dia akan datang ke sini",
-        "translation_id": null
+        "text": "a’da tulak oro",
+        "translation_id": "akan berangkat jauh"
+      },
+      {
+        "text": "iyo a’da ulet depo pendo",
+        "translation_id": "dia akan datang ke sini"
       }
     ],
     "variants": [],
@@ -433,8 +441,12 @@
     ],
     "examples": [
       {
-        "text": "ena embagi harus adél kalau membagi harus adil; belo adél ena belo kerai koyat tidak adil kalau tidak sama berat",
-        "translation_id": null
+        "text": "ena embagi harus adél",
+        "translation_id": "kalau membagi harus adil"
+      },
+      {
+        "text": "belo adél ena belo kerai koyat",
+        "translation_id": "tidak adil kalau tidak sama berat"
       }
     ],
     "variants": [],
@@ -476,8 +488,8 @@
         ],
         "examples": [
           {
-            "text": "uda ngado redioku paman memperbaiki radioku",
-            "translation_id": null
+            "text": "uda ngado redioku",
+            "translation_id": "paman memperbaiki radioku"
           }
         ]
       },
@@ -492,8 +504,8 @@
         ],
         "examples": [
           {
-            "text": "teve ene sudok nado televisi itu sudah diper- baiki",
-            "translation_id": null
+            "text": "teve ene sudok nado",
+            "translation_id": "televisi itu sudah diperbaiki"
           }
         ]
       }
@@ -547,8 +559,8 @@
         ],
         "examples": [
           {
-            "text": "desung ngeradu be iko? kamu sedang meriaskah?",
-            "translation_id": null
+            "text": "desung ngeradu be iko?",
+            "translation_id": "kamu sedang meriaskah?"
           }
         ]
       },
@@ -563,8 +575,8 @@
         ],
         "examples": [
           {
-            "text": "ema beradu kakan tama penganten ibu berhias mau ke undangan perkawinan",
-            "translation_id": null
+            "text": "ema beradu kakan tama penganten",
+            "translation_id": "ibu berhias mau ke undangan perkawinan"
           }
         ]
       },
@@ -579,8 +591,8 @@
         ],
         "examples": [
           {
-            "text": "penganten aso neradu pengantin sedang dihias",
-            "translation_id": null
+            "text": "penganten aso neradu",
+            "translation_id": "pengantin sedang dihias"
           }
         ]
       },
@@ -595,8 +607,8 @@
         ],
         "examples": [
           {
-            "text": "iyo pengadu ulun penganten dia perias penganten",
-            "translation_id": null
+            "text": "iyo pengadu ulun penganten",
+            "translation_id": "dia perias penganten"
           }
         ]
       }
@@ -650,8 +662,8 @@
         ],
         "examples": [
           {
-            "text": "iyo ngeradu barang-barang iyo dia mengemasi barang-barangnya",
-            "translation_id": null
+            "text": "iyo ngeradu barang-barang iyo",
+            "translation_id": "dia mengemasi barang-barangnya"
           }
         ]
       },
@@ -666,8 +678,12 @@
         ],
         "examples": [
           {
-            "text": "beradu kakan malan berkemas, bersiap-siap (untuk) berjalan; beradu malan bersiap-siap jalan",
-            "translation_id": null
+            "text": "beradu kakan malan",
+            "translation_id": "berkemas, bersiap-siap (untuk) berjalan"
+          },
+          {
+            "text": "beradu malan",
+            "translation_id": "bersiap-siap jalan"
           }
         ]
       }
@@ -697,8 +713,8 @@
     ],
     "examples": [
       {
-        "text": "ise agama iyo? apa agamanya?",
-        "translation_id": null
+        "text": "ise agama iyo?",
+        "translation_id": "apa agamanya?"
       }
     ],
     "variants": [
@@ -740,8 +756,8 @@
     ],
     "examples": [
       {
-        "text": "olo Ahad olo endo hari Minggu hari ini",
-        "translation_id": null
+        "text": "olo Ahad olo endo",
+        "translation_id": "hari Minggu hari ini"
       }
     ],
     "variants": [],
@@ -771,8 +787,8 @@
     ],
     "examples": [
       {
-        "text": "budi pekerti diang buen ahlak berbudi pekerti dengan ahlak yang baik",
-        "translation_id": null
+        "text": "budi pekerti diang buen ahlak",
+        "translation_id": "berbudi pekerti dengan ahlak yang baik"
       }
     ],
     "variants": [
@@ -814,8 +830,8 @@
     ],
     "examples": [
       {
-        "text": "aku embaca buku ene sampe ahér saya membaca buku itu sampai akhir",
-        "translation_id": null
+        "text": "aku embaca buku ene sampe ahér",
+        "translation_id": "saya membaca buku itu sampai akhir"
       }
     ],
     "variants": [],
@@ -845,8 +861,12 @@
     ],
     "examples": [
       {
-        "text": "ulunyo ahli nengkuen ena keo rusak orangnya ahli memperbaiki kalau ada yang rusak; ahli séhér ahli sihir",
-        "translation_id": null
+        "text": "ulunyo ahli nengkuen ena keo rusak",
+        "translation_id": "orangnya ahli memperbaiki kalau ada yang rusak"
+      },
+      {
+        "text": "ahli séhér",
+        "translation_id": "ahli sihir"
       }
     ],
     "variants": [
@@ -888,8 +908,8 @@
     ],
     "examples": [
       {
-        "text": "iyo kono - koe nakal dia kena azab karena nakal",
-        "translation_id": null
+        "text": "iyo kono koe nakal",
+        "translation_id": "dia kena azab karena nakal"
       }
     ],
     "variants": [],
@@ -905,8 +925,8 @@
         ],
         "examples": [
           {
-            "text": "Allah ngajab hamba-Nya apan delan Allah mengazab hamba-Nya supaya jera",
-            "translation_id": null
+            "text": "Allah ngajab hamba-Nya apan delan Allah mengazab hamba-Nya",
+            "translation_id": "supaya jera"
           }
         ]
       },
@@ -921,8 +941,8 @@
         ],
         "examples": [
           {
-            "text": "iyo kono najab koe sala dia diazab karena ada kesalahan.",
-            "translation_id": null
+            "text": "iyo kono najab koe sala",
+            "translation_id": "dia diazab karena ada kesalahan."
           }
         ]
       }
@@ -952,8 +972,8 @@
     ],
     "examples": [
       {
-        "text": "ajaib beta ente ite ajaib sekali dilihat",
-        "translation_id": null
+        "text": "ajaib beta ente ite",
+        "translation_id": "ajaib sekali dilihat"
       }
     ],
     "variants": [
@@ -995,8 +1015,8 @@
     ],
     "examples": [
       {
-        "text": "sampe ajal yo aut sudah sampai ajalnya",
-        "translation_id": null
+        "text": "sampe ajal yo aut",
+        "translation_id": "sudah sampai ajalnya"
       }
     ],
     "variants": [],
@@ -1026,8 +1046,8 @@
     ],
     "examples": [
       {
-        "text": "kurang ajar beta peya ene kurang sopan santun sekali anak itu",
-        "translation_id": null
+        "text": "kurang ajar beta peya ene",
+        "translation_id": "kurang sopan santun sekali anak itu"
       }
     ],
     "variants": [],
@@ -1057,8 +1077,8 @@
     ],
     "examples": [
       {
-        "text": "aji ene gelar bangsawan aji itu gelar bangsawan",
-        "translation_id": null
+        "text": "aji ene",
+        "translation_id": "gelar bangsawan aji itu gelar bangsawan"
       }
     ],
     "variants": [],
@@ -1088,8 +1108,8 @@
     ],
     "examples": [
       {
-        "text": "akai boar beta botisku aduh sakit sekali kakiku",
-        "translation_id": null
+        "text": "akai boar beta botisku",
+        "translation_id": "aduh sakit sekali kakiku"
       }
     ],
     "variants": [],
@@ -1119,8 +1139,12 @@
     ],
     "examples": [
       {
-        "text": "ulunyo ene deo akal orangnya itu banyak akal; akal keno akal pikiran",
-        "translation_id": null
+        "text": "ulunyo ene deo akal",
+        "translation_id": "orangnya itu banyak akal"
+      },
+      {
+        "text": "akal keno",
+        "translation_id": "akal pikiran"
       }
     ],
     "variants": [],
@@ -1136,8 +1160,8 @@
         ],
         "examples": [
           {
-            "text": "iyo tuju ngakal ulun dia suka mengakali (mengibuli) orang",
-            "translation_id": null
+            "text": "iyo tuju ngakal ulun",
+            "translation_id": "dia suka mengakali (mengibuli) orang"
           }
         ]
       }
@@ -1167,8 +1191,8 @@
     ],
     "examples": [
       {
-        "text": "peya ene bayu tau akat anak itu baru mulai bisa berdiri",
-        "translation_id": null
+        "text": "peya ene bayu tau akat",
+        "translation_id": "anak itu baru mulai bisa berdiri"
       }
     ],
     "variants": [],
@@ -1184,8 +1208,8 @@
         ],
         "examples": [
           {
-            "text": "lai ene pinakakat apan belo tempong pohon itu diberdirikan supaya tidak roboh",
-            "translation_id": null
+            "text": "lai ene pinakakat apan belo tempong",
+            "translation_id": "pohon itu diberdirikan supaya tidak roboh"
           }
         ]
       }
@@ -1215,8 +1239,8 @@
     ],
     "examples": [
       {
-        "text": "selamat mo denia selamat mo akhérat selamat di dunia",
-        "translation_id": null
+        "text": "selamat mo denia",
+        "translation_id": "selamat mo akhérat selamat di dunia"
       }
     ],
     "variants": [
@@ -1258,8 +1282,12 @@
     ],
     "examples": [
       {
-        "text": "bapa nyengkono aki mobel bapak membetulkan aki mobil akébat n akibat: bayu kono aki yo baru kena akibatnya; ene aki yo itu akibatnya",
-        "translation_id": null
+        "text": "bapa nyengkono aki mobel",
+        "translation_id": "bapak membetulkan aki mobil akébat n akibat: bayu kono aki yo baru kena akibatnya"
+      },
+      {
+        "text": "ene aki yo",
+        "translation_id": "itu akibatnya"
       }
     ],
     "variants": [],
@@ -1289,8 +1317,8 @@
     ],
     "examples": [
       {
-        "text": "ako lou ulun ene rumah orang itu kecurian",
-        "translation_id": null
+        "text": "ako lou ulun ene",
+        "translation_id": "rumah orang itu kecurian"
       }
     ],
     "variants": [],
@@ -1306,8 +1334,8 @@
         ],
         "examples": [
           {
-            "text": "nang ngako! jangan mencuri!",
-            "translation_id": null
+            "text": "nang ngako!",
+            "translation_id": "jangan mencuri!"
           }
         ]
       },
@@ -1322,8 +1350,8 @@
         ],
         "examples": [
           {
-            "text": "barangiyo nako gawi ulun barangnya dicuri oleh orang",
-            "translation_id": null
+            "text": "barangiyo nako gawi ulun",
+            "translation_id": "barangnya dicuri oleh orang"
           }
         ]
       },
@@ -1338,8 +1366,8 @@
         ],
         "examples": [
           {
-            "text": "pengako tenagop pelisi pencuri ditangkap polisi",
-            "translation_id": null
+            "text": "pengako tenagop pelisi",
+            "translation_id": "pencuri ditangkap polisi"
           }
         ]
       }
@@ -1369,8 +1397,8 @@
     ],
     "examples": [
       {
-        "text": "iyo ene akonku dia itu keponakan saya",
-        "translation_id": null
+        "text": "iyo ene akonku",
+        "translation_id": "dia itu keponakan saya"
       }
     ],
     "variants": [],
@@ -1400,8 +1428,8 @@
     ],
     "examples": [
       {
-        "text": "aku malan nowit okong saya jalan (pergi) mem- bawa adik",
-        "translation_id": null
+        "text": "aku malan nowit okong",
+        "translation_id": "saya jalan (pergi) membawa adik"
       }
     ],
     "variants": [],
@@ -1417,8 +1445,8 @@
         ],
         "examples": [
           {
-            "text": "dero nyarak saku mereka menghampiri saya",
-            "translation_id": null
+            "text": "dero nyarak saku mereka menghampiri",
+            "translation_id": "saya"
           }
         ]
       }
@@ -1448,8 +1476,8 @@
     ],
     "examples": [
       {
-        "text": "ala-ala beta nau iyo sok tahu sekali dia",
-        "translation_id": null
+        "text": "ala-ala beta nau iyo sok tahu sekali",
+        "translation_id": "dia"
       }
     ],
     "variants": [],
@@ -1479,8 +1507,8 @@
     ],
     "examples": [
       {
-        "text": "aso des bolum mo alam selama masih hidup di alam dunia",
-        "translation_id": null
+        "text": "aso des bolum mo alam selama",
+        "translation_id": "masih hidup di alam dunia"
       }
     ],
     "variants": [],
@@ -1510,8 +1538,8 @@
     ],
     "examples": [
       {
-        "text": "tiap bulan keo alan setiap bulan ada kondisi air yang tidak mengalami pasang surut, konda",
-        "translation_id": null
+        "text": "tiap bulan keo alan setiap bulan",
+        "translation_id": "ada kondisi air yang tidak mengalami pasang surut, konda"
       }
     ],
     "variants": [],
@@ -1541,8 +1569,12 @@
     ],
     "examples": [
       {
-        "text": "alang kono jagur hampir saja (nyaris) kena pukulan; taka alang sampe awayo kita hampir sampai di tem- patnya",
-        "translation_id": null
+        "text": "alang kono jagur hampir saja (nyaris)",
+        "translation_id": "kena pukulan"
+      },
+      {
+        "text": "taka alang sampe awayo kita hampir sampai",
+        "translation_id": "di tempatnya"
       }
     ],
     "variants": [],
@@ -1572,8 +1604,8 @@
     ],
     "examples": [
       {
-        "text": "alang-alang beta siye tanggung sekali dia memberi",
-        "translation_id": null
+        "text": "alang-alang beta siye tanggung sekali",
+        "translation_id": "dia memberi"
       }
     ],
     "variants": [],
@@ -1603,8 +1635,8 @@
     ],
     "examples": [
       {
-        "text": "alamat iko mo mone? alamatmu di mana?",
-        "translation_id": null
+        "text": "alamat iko mo mone? alamatmu",
+        "translation_id": "di mana?"
       }
     ],
     "variants": [
@@ -1646,8 +1678,8 @@
     ],
     "examples": [
       {
-        "text": "iyo meto kayu depo suang alas dia mencari kayu ke dalam hutan belantara",
-        "translation_id": null
+        "text": "iyo meto",
+        "translation_id": "kayu depo suang alas dia mencari kayu ke dalam hutan belantara"
       }
     ],
     "variants": [],
@@ -1677,8 +1709,8 @@
     ],
     "examples": [
       {
-        "text": "deo beta alasan yo banyak sekali alasannya",
-        "translation_id": null
+        "text": "deo beta alasan yo",
+        "translation_id": "banyak sekali alasannya"
       }
     ],
     "variants": [
@@ -1720,8 +1752,8 @@
     ],
     "examples": [
       {
-        "text": "alék ko awa bua ene! ambilkan tempat buah itu!",
-        "translation_id": null
+        "text": "alék ko awa bua ene!",
+        "translation_id": "ambilkan tempat buah itu!"
       }
     ],
     "variants": [],
@@ -1737,8 +1769,8 @@
         ],
         "examples": [
           {
-            "text": "aku ngalék erai bua saya mengambil satu buah",
-            "translation_id": null
+            "text": "aku ngalék erai bua",
+            "translation_id": "saya mengambil satu buah"
           }
         ]
       },
@@ -1753,8 +1785,12 @@
         ],
         "examples": [
           {
-            "text": "nang sekalék yo mak empuko! jangan mengambil sesuatu yg bukan milikmu!; (sekalék punya arti yg sama dng ngalék, hanya saja dianggap lebih halus) na.lek v diambil: sekalék engket awayo diambil dari tempatnya",
-            "translation_id": null
+            "text": "nang sekalék yo mak empuko!",
+            "translation_id": "jangan mengambil sesuatu yg bukan milikmu!"
+          },
+          {
+            "text": "(sekalék punya arti yg sama dng ngalék, hanya saja dianggap lebih halus) na.lek v",
+            "translation_id": "diambil: sekalék engket awayo diambil dari tempatnya"
           }
         ]
       }
@@ -1784,8 +1820,8 @@
     ],
     "examples": [
       {
-        "text": "algojo ene olai beta kompuyo algojo itu besar sekali badannya",
-        "translation_id": null
+        "text": "algojo ene olai beta kompuyo algojo",
+        "translation_id": "itu besar sekali badannya"
       }
     ],
     "variants": [
@@ -1827,8 +1863,8 @@
     ],
     "examples": [
       {
-        "text": "ulunyo alim beta orangnya alim sekali",
-        "translation_id": null
+        "text": "ulunyo alim beta",
+        "translation_id": "orangnya alim sekali"
       }
     ],
     "variants": [],
@@ -1858,8 +1894,12 @@
     ],
     "examples": [
       {
-        "text": "alis ombon mato alis ada di atas mata; alis mato alis mata",
-        "translation_id": null
+        "text": "alis ombon mato alis",
+        "translation_id": "ada di atas mata"
+      },
+      {
+        "text": "alis mato",
+        "translation_id": "alis mata"
       }
     ],
     "variants": [],
@@ -1889,8 +1929,8 @@
     ],
     "examples": [
       {
-        "text": "taka harus besukur depo Allah harus bersyukur kepada Allah",
-        "translation_id": null
+        "text": "taka harus besukur depo Allah",
+        "translation_id": "harus bersyukur kepada Allah"
       }
     ],
     "variants": [],
@@ -1920,8 +1960,8 @@
     ],
     "examples": [
       {
-        "text": "alo taka malan daripada tilo sebaiknya kita berjalan (pergi) daripada tinggal",
-        "translation_id": null
+        "text": "alo taka malan daripada tilo sebaiknya kita",
+        "translation_id": "berjalan (pergi) daripada tinggal"
       }
     ],
     "variants": [],
@@ -1951,8 +1991,8 @@
     ],
     "examples": [
       {
-        "text": "iyo jono alpa dia sering alpa",
-        "translation_id": null
+        "text": "iyo jono alpa",
+        "translation_id": "dia sering alpa"
       }
     ],
     "variants": [
@@ -1994,8 +2034,8 @@
     ],
     "examples": [
       {
-        "text": "iyo nutu pare pakai alu mo lisung dia menumbuk padi menggunakan alu di lesung",
-        "translation_id": null
+        "text": "iyo nutu pare pakai alu mo lisung",
+        "translation_id": "dia menumbuk padi menggunakan alu di lesung"
       }
     ],
     "variants": [],
@@ -2025,8 +2065,8 @@
     ],
     "examples": [
       {
-        "text": "alur endo meto siyo sekitar lokasi ini kita mencari dia",
-        "translation_id": null
+        "text": "alur endo meto siyo sekitar lokasi",
+        "translation_id": "ini kita mencari dia"
       }
     ],
     "variants": [],
@@ -2056,8 +2096,8 @@
     ],
     "examples": [
       {
-        "text": "alui danum loak ene kois beta arus air sungai itu sangat deras sekali",
-        "translation_id": null
+        "text": "alui danum loak ene kois beta arus air sungai",
+        "translation_id": "itu sangat deras sekali"
       }
     ],
     "variants": [],
@@ -2087,8 +2127,12 @@
     ],
     "examples": [
       {
-        "text": "alus beta ente ite kecil sekali dilihat; alus, belo ite halus, tidak kelihatan",
-        "translation_id": null
+        "text": "alus beta ente ite",
+        "translation_id": "kecil sekali dilihat"
+      },
+      {
+        "text": "alus, belo ite halus,",
+        "translation_id": "tidak kelihatan"
       }
     ],
     "variants": [],
@@ -2104,8 +2148,8 @@
         ],
         "examples": [
           {
-            "text": "ise moko kekalus kompu peya endo kenapa kok kecil sekali badan anak ini",
-            "translation_id": null
+            "text": "ise moko kekalus kompu peya endo kenapa kok",
+            "translation_id": "kecil sekali badan anak ini"
           }
         ]
       },
@@ -2120,8 +2164,8 @@
         ],
         "examples": [
           {
-            "text": "seloar peya ene pinakalus celana anak itu dikecilkan",
-            "translation_id": null
+            "text": "seloar peya ene pinakalus",
+            "translation_id": "celana anak itu dikecilkan"
           }
         ]
       }
@@ -2151,8 +2195,8 @@
     ],
     "examples": [
       {
-        "text": "alut becara iyo latah bicara dia (dia latah kalau bicara)",
-        "translation_id": null
+        "text": "alut becara iyo latah bicara",
+        "translation_id": "dia (dia latah kalau bicara)"
       }
     ],
     "variants": [],
@@ -2182,8 +2226,12 @@
     ],
     "examples": [
       {
-        "text": "mendo aman, belo keo pengako di aman, tidak ada pencuri; aman awa tilo aman tempat tinggal (ini)",
-        "translation_id": null
+        "text": "mendo aman, belo keo pengako",
+        "translation_id": "di aman, tidak ada pencuri"
+      },
+      {
+        "text": "aman awa tilo aman",
+        "translation_id": "tempat tinggal (ini)"
       }
     ],
     "variants": [],
@@ -2213,8 +2261,12 @@
     ],
     "examples": [
       {
-        "text": "amanat ulun tuo amanat orang tua; keo amanat ulun tuo ada wasiat dari orang tua",
-        "translation_id": null
+        "text": "amanat ulun tuo amanat",
+        "translation_id": "orang tua"
+      },
+      {
+        "text": "keo amanat ulun tuo",
+        "translation_id": "ada wasiat dari orang tua"
       }
     ],
     "variants": [
@@ -2256,8 +2308,8 @@
     ],
     "examples": [
       {
-        "text": "keo amba kompu kono langot ada bayangan badan terkena sinar matahari",
-        "translation_id": null
+        "text": "keo amba kompu kono langot",
+        "translation_id": "ada bayangan badan terkena sinar matahari"
       }
     ],
     "variants": [
@@ -2299,8 +2351,8 @@
     ],
     "examples": [
       {
-        "text": "ambi ko iyo, belo ronu tilo sederai temani dia karena tidak berani tinggal sendirian",
-        "translation_id": null
+        "text": "ambi ko iyo, belo ronu tilo sederai temani",
+        "translation_id": "dia karena tidak berani tinggal sendirian"
       }
     ],
     "variants": [
@@ -2328,8 +2380,8 @@
         ],
         "examples": [
           {
-            "text": "uda ngambi lou lawang paman menjaga rumah kosong;",
-            "translation_id": null
+            "text": "uda ngambi lou lawang",
+            "translation_id": "paman menjaga rumah kosong"
           }
         ]
       }
@@ -2359,8 +2411,8 @@
     ],
     "examples": [
       {
-        "text": "okong nambi keo belo ronu adik ditemani kerena tidak berani sendirian",
-        "translation_id": null
+        "text": "okong nambi keo belo ronu adik ditemani kerena",
+        "translation_id": "tidak berani sendirian"
       }
     ],
     "variants": [
@@ -2402,8 +2454,8 @@
     ],
     "examples": [
       {
-        "text": "ambung onbo-ombo ambung tinggi-tinggi",
-        "translation_id": null
+        "text": "ambung onbo-ombo",
+        "translation_id": "ambung tinggi-tinggi"
       }
     ],
     "variants": [
@@ -2431,8 +2483,8 @@
         ],
         "examples": [
           {
-            "text": "iyo ngambung depo ombo dia mengambung ke atas",
-            "translation_id": null
+            "text": "iyo ngambung depo ombo",
+            "translation_id": "dia mengambung ke atas"
           }
         ]
       },
@@ -2447,8 +2499,8 @@
         ],
         "examples": [
           {
-            "text": "nambung apan tembiling diambung supaya terbang",
-            "translation_id": null
+            "text": "nambung apan tembiling diambung",
+            "translation_id": "supaya terbang"
           }
         ]
       }
@@ -2478,8 +2530,12 @@
     ],
     "examples": [
       {
-        "text": "ambur bias lemit hambur beras kuning; ngam.bur menghambur: iyo ambur bias dia menghambur beras",
-        "translation_id": null
+        "text": "ambur bias lemit hambur",
+        "translation_id": "beras kuning"
+      },
+      {
+        "text": "ngam.bur menghambur: iyo ambur bias",
+        "translation_id": "dia menghambur beras"
       }
     ],
     "variants": [
@@ -2507,8 +2563,12 @@
         ],
         "examples": [
           {
-            "text": "bambur buti bias ombon meja terhambur butir nasi di atas meja; be.nam.bur, nam.bur v dihambur: bambur mie makan esa mo kolam dihambur makanan ikan (itu) di kolam",
-            "translation_id": null
+            "text": "bambur buti bias ombon meja terhambur butir nasi",
+            "translation_id": "di atas meja"
+          },
+          {
+            "text": "be.nam.bur, nam.bur v dihambur: bambur mie",
+            "translation_id": "makan esa mo kolam dihambur makanan ikan (itu) di kolam"
           }
         ]
       }
@@ -2538,8 +2598,8 @@
     ],
     "examples": [
       {
-        "text": "iyo gawi amil dia bekerja (sebagai) amil",
-        "translation_id": null
+        "text": "iyo gawi amil",
+        "translation_id": "dia bekerja (sebagai) amil"
       }
     ],
     "variants": [],
@@ -2581,8 +2641,8 @@
         ],
         "examples": [
           {
-            "text": "dero ngamin imam mereka mengamini doa imam",
-            "translation_id": null
+            "text": "dero ngamin imam",
+            "translation_id": "mereka mengamini doa imam"
           }
         ]
       }
@@ -2612,8 +2672,8 @@
     ],
     "examples": [
       {
-        "text": "ampat ono apan ulun belo moli siyo! pesan terlebih dahulu supaya orang lain tidak membelinya!",
-        "translation_id": null
+        "text": "ampat ono apan ulun belo moli siyo! pesan",
+        "translation_id": "terlebih dahulu supaya orang lain tidak membelinya!"
       }
     ],
     "variants": [
@@ -2641,8 +2701,8 @@
         ],
         "examples": [
           {
-            "text": "iyo ngampat lemari dia memesan lemari",
-            "translation_id": null
+            "text": "iyo ngampat lemari",
+            "translation_id": "dia memesan lemari"
           }
         ]
       },
@@ -2657,8 +2717,8 @@
         ],
         "examples": [
           {
-            "text": "barang ene sundok nampat barang itu sudah dipesan",
-            "translation_id": null
+            "text": "barang ene sundok nampat",
+            "translation_id": "barang itu sudah dipesan"
           }
         ]
       }
@@ -2688,8 +2748,8 @@
     ],
     "examples": [
       {
-        "text": "uda moli ampau sapi paman membeli limpa sapi",
-        "translation_id": null
+        "text": "uda moli ampau sapi",
+        "translation_id": "paman membeli limpa sapi"
       }
     ],
     "variants": [
@@ -2731,8 +2791,12 @@
     ],
     "examples": [
       {
-        "text": "ampé one aut taka malan? sudah sampai mana kita berjalan?; kola one - lou? kapan tiba di rumah?",
-        "translation_id": null
+        "text": "ampé one aut taka malan?",
+        "translation_id": "sudah sampai mana kita berjalan?"
+      },
+      {
+        "text": "kola one lou? kapan tiba",
+        "translation_id": "di rumah?"
       }
     ],
     "variants": [
@@ -2760,8 +2824,8 @@
         ],
         "examples": [
           {
-            "text": "aku nyampe pakotyo saya menyam- paikan pesannya",
-            "translation_id": null
+            "text": "aku nyampe pakotyo",
+            "translation_id": "saya menyampaikan pesannya"
           }
         ]
       },
@@ -2776,8 +2840,8 @@
         ],
         "examples": [
           {
-            "text": "senampe be aut pesanku ene nde disampai- kankah pesanku tadi?",
-            "translation_id": null
+            "text": "senampe be aut pesanku ene nde",
+            "translation_id": "disampaikankah pesanku tadi?"
           }
         ]
       }
@@ -2807,8 +2871,16 @@
     ],
     "examples": [
       {
-        "text": "ampu yo buen beta mertuanya baik sekali; ampu bawe mertua perempuan; ampu song mertua laki-laki",
-        "translation_id": null
+        "text": "ampu yo buen beta",
+        "translation_id": "mertuanya baik sekali"
+      },
+      {
+        "text": "ampu bawe",
+        "translation_id": "mertua perempuan"
+      },
+      {
+        "text": "ampu song",
+        "translation_id": "mertua laki-laki"
       }
     ],
     "variants": [
@@ -2850,8 +2922,8 @@
     ],
     "examples": [
       {
-        "text": "iyo sundok tindu ampun dia sudah minta maaf",
-        "translation_id": null
+        "text": "iyo sundok tindu ampun",
+        "translation_id": "dia sudah minta maaf"
       }
     ],
     "variants": [
@@ -2879,8 +2951,8 @@
         ],
         "examples": [
           {
-            "text": "ena keo sala nampun kalau ada salah diampuni",
-            "translation_id": null
+            "text": "ena keo sala nampun",
+            "translation_id": "kalau ada salah diampuni"
           }
         ]
       }
@@ -2910,8 +2982,8 @@
     ],
     "examples": [
       {
-        "text": "amu empelu pelihara burung",
-        "translation_id": null
+        "text": "amu empelu",
+        "translation_id": "pelihara burung"
       }
     ],
     "variants": [],
@@ -2927,8 +2999,8 @@
         ],
         "examples": [
           {
-            "text": "iyo tuju korik amu-amu dia suka binatang peliharaan",
-            "translation_id": null
+            "text": "iyo tuju korik amu-amu",
+            "translation_id": "dia suka binatang peliharaan"
           }
         ]
       },
@@ -2943,8 +3015,8 @@
         ],
         "examples": [
           {
-            "text": "okong ngamu using adik memelihara kucing",
-            "translation_id": null
+            "text": "okong ngamu using",
+            "translation_id": "adik memelihara kucing"
           }
         ]
       },
@@ -2959,8 +3031,8 @@
         ],
         "examples": [
           {
-            "text": "empulu ene namu koe andi burung itu dipelihara oleh kakak",
-            "translation_id": null
+            "text": "empulu ene namu koe andi burung",
+            "translation_id": "itu dipelihara oleh kakak"
           }
         ]
       },
@@ -2975,8 +3047,8 @@
         ],
         "examples": [
           {
-            "text": "ulun ene penyekamu orang itu pemelihara binatang amuk n amuk: penyekamu ulun amuk orang",
-            "translation_id": null
+            "text": "ulun ene penyekamu",
+            "translation_id": "orang itu pemelihara binatang amuk n amuk: penyekamu ulun amuk orang"
           }
         ]
       },
@@ -2991,8 +3063,8 @@
         ],
         "examples": [
           {
-            "text": "ngamuk iyo kono mara ulun dia mengamuk kena marah orang",
-            "translation_id": null
+            "text": "ngamuk iyo kono mara ulun",
+            "translation_id": "dia mengamuk kena marah orang"
           }
         ]
       },
@@ -3007,8 +3079,8 @@
         ],
         "examples": [
           {
-            "text": "iyo namuk koe dero dia diamuk oleh mereka",
-            "translation_id": null
+            "text": "iyo namuk koe dero",
+            "translation_id": "dia diamuk oleh mereka"
           }
         ]
       }
@@ -3038,8 +3110,24 @@
     ],
     "examples": [
       {
-        "text": "ise keo - sendo? anak siapa ini?; deo beta anak yo banyak sekali anaknya; anak akon keponakan; anak kokoi anak anjing; anak tere anak tiri; anak using anak kucing",
-        "translation_id": null
+        "text": "anak akon",
+        "translation_id": "keponakan"
+      },
+      {
+        "text": "deo beta anak yo",
+        "translation_id": "banyak sekali anaknya"
+      },
+      {
+        "text": "anak kokoi",
+        "translation_id": "anak anjing"
+      },
+      {
+        "text": "anak tere",
+        "translation_id": "anak tiri"
+      },
+      {
+        "text": "anak using",
+        "translation_id": "anak kucing"
       }
     ],
     "variants": [],
@@ -3055,8 +3143,8 @@
         ],
         "examples": [
           {
-            "text": "anakan deo jenual mo toko banyak boneka dijual di toko",
-            "translation_id": null
+            "text": "anakan deo jenual mo toko",
+            "translation_id": "banyak boneka dijual di toko"
           }
         ]
       }
@@ -3086,8 +3174,8 @@
     ],
     "examples": [
       {
-        "text": "iyo ancam ulunene dia ancam orang itu",
-        "translation_id": null
+        "text": "iyo ancam ulunene",
+        "translation_id": "dia ancam orang itu"
       }
     ],
     "variants": [
@@ -3115,8 +3203,8 @@
         ],
         "examples": [
           {
-            "text": "nang ngancam aku! jangan mengancam saya!",
-            "translation_id": null
+            "text": "nang ngancam aku! jangan mengancam",
+            "translation_id": "saya!"
           }
         ]
       },
@@ -3131,8 +3219,8 @@
         ],
         "examples": [
           {
-            "text": "iyo nancam koe perampok dia diancam oleh perampok",
-            "translation_id": null
+            "text": "iyo nancam koe perampok",
+            "translation_id": "dia diancam oleh perampok"
           }
         ]
       }
@@ -3162,8 +3250,8 @@
     ],
     "examples": [
       {
-        "text": "barang ene ancur koe usang aut barang itu hancur karena sudah lama",
-        "translation_id": null
+        "text": "barang ene ancur koe usang aut",
+        "translation_id": "barang itu hancur karena sudah lama"
       }
     ],
     "variants": [
@@ -3191,8 +3279,8 @@
         ],
         "examples": [
           {
-            "text": "iko ngancur bata ene kamu menghan- curkan bata itu",
-            "translation_id": null
+            "text": "iko ngancur bata ene",
+            "translation_id": "kamu menghancurkan bata itu"
           }
         ]
       },
@@ -3207,8 +3295,8 @@
         ],
         "examples": [
           {
-            "text": "nancur ka’ batu ene dihancurkan batu itu",
-            "translation_id": null
+            "text": "nancur ka’",
+            "translation_id": "batu ene dihancurkan batu itu"
           }
         ]
       }
@@ -3238,8 +3326,8 @@
     ],
     "examples": [
       {
-        "text": "andai aku jadi ulun kaya andai saya menjadi orang kaya",
-        "translation_id": null
+        "text": "andai aku jadi ulun kaya andai",
+        "translation_id": "saya menjadi orang kaya"
       }
     ],
     "variants": [
@@ -3281,8 +3369,8 @@
     ],
     "examples": [
       {
-        "text": "andék dero depo terminal! jemput mereka di terminal!;",
-        "translation_id": null
+        "text": "andék dero depo terminal! jemput mereka",
+        "translation_id": "di terminal!"
       }
     ],
     "variants": [
@@ -3348,8 +3436,12 @@
         ],
         "examples": [
           {
-            "text": "diang cara ise dero kuli ngandék barang endu dengan cara apa mereka dapat mengambil barang itu; 2 menjemput: iyo aso ngandék ulun dia masih menjemput orang",
-            "translation_id": null
+            "text": "diang cara ise dero kuli ngandék",
+            "translation_id": "barang endu dengan cara apa mereka dapat mengambil barang itu"
+          },
+          {
+            "text": "2 menjemput: iyo aso ngandék ulun",
+            "translation_id": "dia masih menjemput orang"
           }
         ]
       },
@@ -3364,8 +3456,12 @@
         ],
         "examples": [
           {
-            "text": "sundok nandék barang koe iyo enende sudah diambil oleh dia barang tadi; 2 dijemput: dato nandék depo lane kakek dijemput ke sana",
-            "translation_id": null
+            "text": "sundok nandék",
+            "translation_id": "barang koe iyo enende sudah diambil oleh dia barang tadi"
+          },
+          {
+            "text": "2 dijemput: dato nandék depo lane kakek dijemput",
+            "translation_id": "ke sana"
           }
         ]
       }
@@ -3433,8 +3529,8 @@
     ],
     "examples": [
       {
-        "text": "kerai nau wae andi diang okong wajah kakak mirip dengan wajah adik",
-        "translation_id": null
+        "text": "kerai nau wae andi diang okong",
+        "translation_id": "wajah kakak mirip dengan wajah adik"
       }
     ],
     "variants": [
@@ -3476,8 +3572,8 @@
     ],
     "examples": [
       {
-        "text": "alekko - endo! ambilkan handuk itu!",
-        "translation_id": null
+        "text": "alekko endo!",
+        "translation_id": "ambilkan handuk itu!"
       }
     ],
     "variants": [
@@ -3531,8 +3627,8 @@
         ],
         "examples": [
           {
-            "text": "mangang ferus koko ene menggonggong terus anjing itu",
-            "translation_id": null
+            "text": "mangang ferus koko ene menggonggong terus anjing",
+            "translation_id": "itu"
           }
         ]
       },
@@ -3547,8 +3643,8 @@
         ],
         "examples": [
           {
-            "text": "ulun ene nangang koko orang itu digong- gong anjing",
-            "translation_id": null
+            "text": "ulun ene nangang koko",
+            "translation_id": "orang itu digonggong anjing"
           }
         ]
       }
@@ -3578,8 +3674,8 @@
     ],
     "examples": [
       {
-        "text": "anggongan awa mayat keranda tempat jenazah",
-        "translation_id": null
+        "text": "anggongan awa mayat keranda",
+        "translation_id": "tempat jenazah"
       }
     ],
     "variants": [
@@ -3621,8 +3717,8 @@
     ],
     "examples": [
       {
-        "text": "dato tuju kuman anggur kakek suka makan anggur",
-        "translation_id": null
+        "text": "dato tuju kuman anggur",
+        "translation_id": "kakek suka makan anggur"
       }
     ],
     "variants": [
@@ -3664,8 +3760,8 @@
     ],
     "examples": [
       {
-        "text": "angka erai angka satu",
-        "translation_id": null
+        "text": "angka erai",
+        "translation_id": "angka satu"
       }
     ],
     "variants": [
@@ -3707,8 +3803,8 @@
     ],
     "examples": [
       {
-        "text": "iyo aso angket ulun dia masih dibutuhkan orang",
-        "translation_id": null
+        "text": "iyo aso angket ulun",
+        "translation_id": "dia masih dibutuhkan orang"
       }
     ],
     "variants": [
@@ -3736,8 +3832,8 @@
         ],
         "examples": [
           {
-            "text": "iyo aso nangket dia masih terpakai",
-            "translation_id": null
+            "text": "iyo aso nangket",
+            "translation_id": "dia masih terpakai"
           }
         ]
       }
@@ -3767,8 +3863,8 @@
     ],
     "examples": [
       {
-        "text": "tenu angko uman ene? berapa taksiran harganya?",
-        "translation_id": null
+        "text": "tenu angko uman ene?",
+        "translation_id": "berapa taksiran harganya?"
       }
     ],
     "variants": [
@@ -3796,8 +3892,8 @@
         ],
         "examples": [
           {
-            "text": "iyo ngangko uman lou ene dia menaksir harga rumah itu",
-            "translation_id": null
+            "text": "iyo ngangko uman lou ene",
+            "translation_id": "dia menaksir harga rumah itu"
           }
         ]
       },
@@ -3812,8 +3908,8 @@
         ],
         "examples": [
           {
-            "text": "lou ene nangko uman yo rumah itu ditaksir harganya",
-            "translation_id": null
+            "text": "lou ene nangko uman yo",
+            "translation_id": "rumah itu ditaksir harganya"
           }
         ]
       }
@@ -3843,8 +3939,8 @@
     ],
     "examples": [
       {
-        "text": "iyo ngamu angsa dia memelihara angsa",
-        "translation_id": null
+        "text": "iyo ngamu angsa",
+        "translation_id": "dia memelihara angsa"
       }
     ],
     "variants": [
@@ -3886,8 +3982,8 @@
     ],
     "examples": [
       {
-        "text": "angus kono sia hangus karena terbakar",
-        "translation_id": null
+        "text": "angus kono sia hangus",
+        "translation_id": "karena terbakar"
       }
     ],
     "variants": [],
@@ -3929,8 +4025,8 @@
         ],
         "examples": [
           {
-            "text": "ema ngani pare ibu mengetam padi",
-            "translation_id": null
+            "text": "ema ngani pare",
+            "translation_id": "ibu mengetam padi"
           }
         ]
       }
@@ -3960,8 +4056,8 @@
     ],
     "examples": [
       {
-        "text": "peya ene main anja anak itu bermain engrang",
-        "translation_id": null
+        "text": "peya ene main anja",
+        "translation_id": "anak itu bermain engrang"
       }
     ],
     "variants": [
@@ -4003,8 +4099,8 @@
     ],
     "examples": [
       {
-        "text": "taliene anjang beta sampe lane tali itu panjang sekali sampai ke sana",
-        "translation_id": null
+        "text": "taliene anjang beta sampe lane",
+        "translation_id": "tali itu panjang sekali sampai ke sana"
       }
     ],
     "variants": [
@@ -4032,8 +4128,8 @@
         ],
         "examples": [
           {
-            "text": "iyo mamukanjang tali ene dia me- manjangkan tali itu",
-            "translation_id": null
+            "text": "iyo mamukanjang",
+            "translation_id": "tali ene dia memanjangkan tali itu"
           }
         ]
       },
@@ -4048,8 +4144,8 @@
         ],
         "examples": [
           {
-            "text": "tali ene pinokanjang tali itu dipan- jangkan",
-            "translation_id": null
+            "text": "tali ene pinokanjang",
+            "translation_id": "tali itu dipanjangkan"
           }
         ]
       },
@@ -4064,8 +4160,8 @@
         ],
         "examples": [
           {
-            "text": "kanjang one eka-ekayo? sepanjang apa keselu- ruhannya?",
-            "translation_id": null
+            "text": "kanjang one eka-ekayo? sepanjang",
+            "translation_id": "apa keseluruhannya?"
           }
         ]
       },
@@ -4080,8 +4176,8 @@
         ],
         "examples": [
           {
-            "text": "kekanjang one depo lawae ene? seberapa panjang benang itu?",
-            "translation_id": null
+            "text": "kekanjang one depo lawae ene? seberapa panjang benang",
+            "translation_id": "itu?"
           }
         ]
       }
@@ -4111,8 +4207,8 @@
     ],
     "examples": [
       {
-        "text": "itak pintar nampa anjat nenek pandai membuat anjat",
-        "translation_id": null
+        "text": "itak pintar nampa anjat",
+        "translation_id": "nenek pandai membuat anjat"
       }
     ],
     "variants": [
@@ -4154,8 +4250,8 @@
     ],
     "examples": [
       {
-        "text": "iyo mayar pakai ansur dia membayar dengan cara angsur",
-        "translation_id": null
+        "text": "iyo mayar pakai ansur",
+        "translation_id": "dia membayar dengan cara angsur"
       }
     ],
     "variants": [
@@ -4183,8 +4279,8 @@
         ],
         "examples": [
           {
-            "text": "fenu iko nansur erai bulan? berapa mengansurnya sebulan?",
-            "translation_id": null
+            "text": "fenu iko nansur erai bulan?",
+            "translation_id": "berapa mengansurnya sebulan?"
           }
         ]
       },
@@ -4199,8 +4295,8 @@
         ],
         "examples": [
           {
-            "text": "lou ene benoli nansur rumah itu dibeli dengan cara diangsur",
-            "translation_id": null
+            "text": "lou ene benoli nansur",
+            "translation_id": "rumah itu dibeli dengan cara diangsur"
           }
         ]
       }
@@ -4230,8 +4326,12 @@
     ],
     "examples": [
       {
-        "text": "anta ola aso nanti lama lagi; anta taka malan depo lane nanti kita berjalan (pergi) ke sana",
-        "translation_id": null
+        "text": "anta ola aso nanti lama",
+        "translation_id": "lagi"
+      },
+      {
+        "text": "anta taka malan depo lane nanti kita",
+        "translation_id": "berjalan (pergi) ke sana"
       }
     ],
     "variants": [
@@ -4273,8 +4373,8 @@
     ],
     "examples": [
       {
-        "text": "bapa moli anténa bapak membeli antena",
-        "translation_id": null
+        "text": "bapa moli anténa",
+        "translation_id": "bapak membeli antena"
       }
     ],
     "variants": [
@@ -4316,8 +4416,12 @@
     ],
     "examples": [
       {
-        "text": "cincin ene antik nauyo cincin itu antik bentuknya; ene barang antik itu barang antik",
-        "translation_id": null
+        "text": "cincin ene antik nauyo",
+        "translation_id": "cincin itu antik bentuknya"
+      },
+      {
+        "text": "ene barang antik",
+        "translation_id": "itu barang antik"
       }
     ],
     "variants": [
@@ -4359,8 +4463,8 @@
     ],
     "examples": [
       {
-        "text": "anting-anting yo buen ente ite anting-antingnya bagus dilihat",
-        "translation_id": null
+        "text": "anting-anting yo buen ente ite",
+        "translation_id": "anting-antingnya bagus dilihat"
       }
     ],
     "variants": [
@@ -4402,8 +4506,8 @@
     ],
     "examples": [
       {
-        "text": "antor ko koran endo! antarkan koran itu!",
-        "translation_id": null
+        "text": "antor ko koran endo! antarkan koran",
+        "translation_id": "itu!"
       }
     ],
     "variants": [
@@ -4431,8 +4535,8 @@
         ],
         "examples": [
           {
-            "text": "iyo ngantor sampe awa dero dia mengantar sampai ke tempat mereka",
-            "translation_id": null
+            "text": "iyo ngantor sampe awa dero",
+            "translation_id": "dia mengantar sampai ke tempat mereka"
           }
         ]
       },
@@ -4447,8 +4551,8 @@
         ],
         "examples": [
           {
-            "text": "iyo nantor depo lane dia diantar ke sana",
-            "translation_id": null
+            "text": "iyo nantor depo lane",
+            "translation_id": "dia diantar ke sana"
           }
         ]
       }
@@ -4478,8 +4582,8 @@
     ],
     "examples": [
       {
-        "text": "antu beleso ene engus boto bangkai tikus itu bau busuk",
-        "translation_id": null
+        "text": "antu beleso ene engus boto bangkai tikus",
+        "translation_id": "itu bau busuk"
       }
     ],
     "variants": [
@@ -4521,8 +4625,8 @@
     ],
     "examples": [
       {
-        "text": "barang ene anu iyo barang itu (ke)punya(an) dia",
-        "translation_id": null
+        "text": "barang ene anu iyo",
+        "translation_id": "barang itu (ke)punya(an) dia"
       }
     ],
     "variants": [],
@@ -4552,8 +4656,8 @@
     ],
     "examples": [
       {
-        "text": "iyo anyal beta dia suka menanyakan berulang-ulang",
-        "translation_id": null
+        "text": "iyo anyal beta",
+        "translation_id": "dia suka menanyakan berulang-ulang"
       }
     ],
     "variants": [],
@@ -4595,8 +4699,8 @@
         ],
         "examples": [
           {
-            "text": "mobel ene ngaon tana mobil itu mengangkut tanah",
-            "translation_id": null
+            "text": "mobel ene ngaon tana mobil",
+            "translation_id": "itu mengangkut tanah"
           }
         ]
       }
@@ -4626,8 +4730,8 @@
     ],
     "examples": [
       {
-        "text": "keo engus apak ada bau apak",
-        "translation_id": null
+        "text": "keo engus apak",
+        "translation_id": "ada bau apak"
       }
     ],
     "variants": [],
@@ -4657,8 +4761,12 @@
     ],
     "examples": [
       {
-        "text": "okong Iumbi mo apai adik berebah di tikar; apai purun tikar dari bahan (rumput) purun.",
-        "translation_id": null
+        "text": "okong Iumbi mo apai adik berebah",
+        "translation_id": "di tikar"
+      },
+      {
+        "text": "apai purun tikar",
+        "translation_id": "dari bahan (rumput) purun."
       }
     ],
     "variants": [],
@@ -4688,8 +4796,8 @@
     ],
     "examples": [
       {
-        "text": "aku belo apal nau diang karan ulunyo saya tidak hafal wajah dan nama orangnya",
-        "translation_id": null
+        "text": "aku belo apal nau diang karan ulunyo",
+        "translation_id": "saya tidak hafal wajah dan nama orangnya"
       }
     ],
     "variants": [],
@@ -4705,8 +4813,8 @@
         ],
         "examples": [
           {
-            "text": "sesa beta ngapal buku pelajaran sejarah susah sekali menghafal buku pelajaran sejarah",
-            "translation_id": null
+            "text": "sesa beta ngapal buku pelajaran sejarah",
+            "translation_id": "susah sekali menghafal buku pelajaran sejarah"
           }
         ]
       },
@@ -4721,8 +4829,8 @@
         ],
         "examples": [
           {
-            "text": "napal apan nang kewot dihapal supaya tidak lupa",
-            "translation_id": null
+            "text": "napal apan nang kewot dihapal",
+            "translation_id": "supaya tidak lupa"
           }
         ]
       }
@@ -4752,8 +4860,8 @@
     ],
     "examples": [
       {
-        "text": "apam ene buen kanamyo kue apam itu enak rasanya",
-        "translation_id": null
+        "text": "apam ene buen kanamyo kue apam",
+        "translation_id": "itu enak rasanya"
       }
     ],
     "variants": [],
@@ -4783,8 +4891,12 @@
     ],
     "examples": [
       {
-        "text": "apan mompo supaya mendekat; apan kayang sampe ngawe agar tangan sampai meraih (ulurkan tangan agar dapat meraih)",
-        "translation_id": null
+        "text": "apan mompo",
+        "translation_id": "supaya mendekat"
+      },
+      {
+        "text": "apan kayang sampe ngawe",
+        "translation_id": "agar tangan sampai meraih (ulurkan tangan agar dapat meraih)"
       }
     ],
     "variants": [],
@@ -4814,8 +4926,8 @@
     ],
     "examples": [
       {
-        "text": "moli ko - erai kilo belikan apel satu kilo",
-        "translation_id": null
+        "text": "moli ko erai kilo",
+        "translation_id": "belikan apel satu kilo"
       }
     ],
     "variants": [],
@@ -4845,8 +4957,8 @@
     ],
     "examples": [
       {
-        "text": "dero lumpat - mo natar kantor mereka mengikuti upacara di halaman kantor",
-        "translation_id": null
+        "text": "dero lumpat mo natar kantor mereka mengikuti upacara",
+        "translation_id": "di halaman kantor"
       }
     ],
     "variants": [],
@@ -4876,8 +4988,8 @@
     ],
     "examples": [
       {
-        "text": "iko nang main api kamu jangan main api",
-        "translation_id": null
+        "text": "iko nang main api",
+        "translation_id": "kamu jangan main api"
       }
     ],
     "variants": [],
@@ -4893,8 +5005,12 @@
         ],
         "examples": [
           {
-            "text": "bayo api ene payak mo perapen bara api itu letakkan di perapian; ema nuna dupa mo perapen ibu membakar dupa di pedupaan",
-            "translation_id": null
+            "text": "bayo api ene payak mo perapen bara api",
+            "translation_id": "itu letakkan di perapian"
+          },
+          {
+            "text": "ema nuna dupa mo perapen",
+            "translation_id": "ibu membakar dupa di pedupaan"
           }
         ]
       }
@@ -4924,8 +5040,8 @@
     ],
     "examples": [
       {
-        "text": "ulunyo apik diang reta orangnya hemat dengan harta",
-        "translation_id": null
+        "text": "ulunyo apik diang reta",
+        "translation_id": "orangnya hemat dengan harta"
       }
     ],
     "variants": [],
@@ -4955,8 +5071,8 @@
     ],
     "examples": [
       {
-        "text": "uda kakan ngenika mo Aptil pamanakan menikah bulan April",
-        "translation_id": null
+        "text": "uda kakan ngenika mo Aptil",
+        "translation_id": "paman akan menikah bulan April"
       }
     ],
     "variants": [
@@ -4998,8 +5114,8 @@
     ],
     "examples": [
       {
-        "text": "iyo apus, napus papan tulis ene dia menghapus papan tulis",
-        "translation_id": null
+        "text": "iyo apus, napus papan tulis ene",
+        "translation_id": "dia menghapus papan tulis"
       }
     ],
     "variants": [
@@ -5027,8 +5143,8 @@
         ],
         "examples": [
           {
-            "text": "napus tulisan ene cepat-cepat dihapus tulisan itu cepat-cepat",
-            "translation_id": null
+            "text": "napus tulisan ene cepat-cepat dihapus tulisan",
+            "translation_id": "itu cepat-cepat"
           }
         ]
       },
@@ -5043,8 +5159,8 @@
         ],
         "examples": [
           {
-            "text": "tulisan ene taruhapus tulisan itu terhapus",
-            "translation_id": null
+            "text": "tulisan ene taruhapus tulisan",
+            "translation_id": "itu terhapus"
           }
         ]
       }
@@ -5074,8 +5190,8 @@
     ],
     "examples": [
       {
-        "text": "iyo ulet mo Arba dia datang pada hari Rabu",
-        "translation_id": null
+        "text": "iyo ulet mo Arba",
+        "translation_id": "dia datang pada hari Rabu"
       }
     ],
     "variants": [
@@ -5117,8 +5233,8 @@
     ],
     "examples": [
       {
-        "text": "kelapa ente arau kelapa untuk membuat minyak goreng",
-        "translation_id": null
+        "text": "kelapa ente arau kelapa",
+        "translation_id": "untuk membuat minyak goreng"
       }
     ],
     "variants": [],
@@ -5148,8 +5264,8 @@
     ],
     "examples": [
       {
-        "text": "aku aréng nginte mangga sampe olai saya menjaga dan menunggu mangga itu sampai besar",
-        "translation_id": null
+        "text": "aku aréng nginte mangga sampe olai",
+        "translation_id": "saya menjaga dan menunggu mangga itu sampai besar"
       }
     ],
     "variants": [],
@@ -5165,8 +5281,8 @@
         ],
         "examples": [
           {
-            "text": "iyo ngareng rembutan ene dia menjaga buah rambutan itu",
-            "translation_id": null
+            "text": "iyo ngareng rembutan ene",
+            "translation_id": "dia menjaga buah rambutan itu"
           }
         ]
       },
@@ -5181,8 +5297,8 @@
         ],
         "examples": [
           {
-            "text": "iyo nareng apan belo dia dijaga agar tidak diganggu",
-            "translation_id": null
+            "text": "iyo nareng apan belo",
+            "translation_id": "dia dijaga agar tidak diganggu"
           }
         ]
       }
@@ -5212,8 +5328,8 @@
     ],
     "examples": [
       {
-        "text": "ngerikut pakai arét merumput (membersihkan rumput) menggunakan arit",
-        "translation_id": null
+        "text": "ngerikut pakai arét",
+        "translation_id": "merumput (membersihkan rumput) menggunakan arit"
       }
     ],
     "variants": [
@@ -5255,8 +5371,8 @@
     ],
     "examples": [
       {
-        "text": "arét apan belo mara menahan diri supaya tidak marah",
-        "translation_id": null
+        "text": "arét apan belo mara menahan diri",
+        "translation_id": "supaya tidak marah"
       }
     ],
     "variants": [
@@ -5284,8 +5400,8 @@
         ],
         "examples": [
           {
-            "text": "ngarét kuman menahan diri (utk) makan",
-            "translation_id": null
+            "text": "ngarét kuman menahan diri (utk)",
+            "translation_id": "makan"
           }
         ]
       },
@@ -5300,8 +5416,8 @@
         ],
         "examples": [
           {
-            "text": "ena keo pengkakan narét kalau ada yang diinginkan ditahan keinginannya",
-            "translation_id": null
+            "text": "ena keo pengkakan narét",
+            "translation_id": "kalau ada yang diinginkan ditahan keinginannya"
           }
         ]
       }
@@ -5331,8 +5447,8 @@
     ],
     "examples": [
       {
-        "text": "iyo boar arip dia sakit paru-paru",
-        "translation_id": null
+        "text": "iyo boar arip",
+        "translation_id": "dia sakit paru-paru"
       }
     ],
     "variants": [],
@@ -5362,8 +5478,8 @@
     ],
     "examples": [
       {
-        "text": "arloji penakai mo kayang sei arloji dipakai di tangan kiri",
-        "translation_id": null
+        "text": "arloji penakai mo kayang sei arloji dipakai",
+        "translation_id": "di tangan kiri"
       }
     ],
     "variants": [
@@ -5405,8 +5521,12 @@
     ],
     "examples": [
       {
-        "text": "aro ka dero itu di sana; aro ka, dero aso oro itu di sana, mereka masih jauh",
-        "translation_id": null
+        "text": "aro ka dero",
+        "translation_id": "itu di sana"
+      },
+      {
+        "text": "aro ka, dero aso oro",
+        "translation_id": "itu di sana, mereka masih jauh"
       }
     ],
     "variants": [],
@@ -5436,8 +5556,8 @@
     ],
     "examples": [
       {
-        "text": "ema ngalek arong kayu ibu mengambil arang kayu",
-        "translation_id": null
+        "text": "ema ngalek arong",
+        "translation_id": "kayu ibu mengambil arang kayu"
       }
     ],
     "variants": [],
@@ -5467,8 +5587,8 @@
     ],
     "examples": [
       {
-        "text": "daro’ taka ngendo’a aruwah mari kita doakan almarhum",
-        "translation_id": null
+        "text": "daro’ taka ngendo’a aruwah",
+        "translation_id": "mari kita doakan almarhum"
       }
     ],
     "variants": [
@@ -5510,8 +5630,8 @@
     ],
     "examples": [
       {
-        "text": "kelapa ene taping botuk arus kelapaitu hanyut di tengah arus sungai",
-        "translation_id": null
+        "text": "kelapa ene taping botuk arus kelapaitu hanyut",
+        "translation_id": "di tengah arus sungai"
       }
     ],
     "variants": [],
@@ -5553,8 +5673,8 @@
         ],
         "examples": [
           {
-            "text": "iyo ngasa lading dia mengasah pisau",
-            "translation_id": null
+            "text": "iyo ngasa lading",
+            "translation_id": "dia mengasah pisau"
           }
         ]
       },
@@ -5569,8 +5689,8 @@
         ],
         "examples": [
           {
-            "text": "nasa lading ene apan narom diasah pisau itu supaya tajam",
-            "translation_id": null
+            "text": "nasa lading ene apan narom diasah",
+            "translation_id": "pisau itu supaya tajam"
           }
         ]
       },
@@ -5585,8 +5705,8 @@
         ],
         "examples": [
           {
-            "text": "uda moli pengasa paman membeli batu asah",
-            "translation_id": null
+            "text": "uda moli pengasa",
+            "translation_id": "paman membeli batu asah"
           }
         ]
       }
@@ -5616,8 +5736,8 @@
     ],
     "examples": [
       {
-        "text": "bapa nampa asap bapak membuat asap",
-        "translation_id": null
+        "text": "bapa nampa asap",
+        "translation_id": "bapak membuat asap"
       }
     ],
     "variants": [],
@@ -5647,8 +5767,8 @@
     ],
     "examples": [
       {
-        "text": "alekko - ene! Ambilkan asbak itu!",
-        "translation_id": null
+        "text": "alekko ene!",
+        "translation_id": "Ambilkan asbak itu!"
       }
     ],
     "variants": [
@@ -5690,8 +5810,12 @@
     ],
     "examples": [
       {
-        "text": "belo aseli tidak asli; belo aseli barang ene tidak asli barang itu",
-        "translation_id": null
+        "text": "belo aseli",
+        "translation_id": "tidak asli"
+      },
+      {
+        "text": "belo aseli",
+        "translation_id": "barang ene tidak asli barang itu"
       }
     ],
     "variants": [
@@ -5733,8 +5857,8 @@
     ],
     "examples": [
       {
-        "text": "keo - gawi olo endo tidak ada hasil pekerjaan hari ini",
-        "translation_id": null
+        "text": "keo gawi olo endo",
+        "translation_id": "tidak ada hasil pekerjaan hari ini"
       }
     ],
     "variants": [],
@@ -5750,8 +5874,12 @@
         ],
         "examples": [
           {
-            "text": "berasil matuk peya berhasil mengajari anak; berasil usahayo sukses usahanya",
-            "translation_id": null
+            "text": "berasil matuk peya",
+            "translation_id": "berhasil mengajari anak"
+          },
+          {
+            "text": "berasil usahayo",
+            "translation_id": "sukses usahanya"
           }
         ]
       }
@@ -5781,8 +5909,12 @@
     ],
     "examples": [
       {
-        "text": "aso kuman lagi makan; 2 masih: gedung sekolahyo aso buen gedung sekolahnya masih baik",
-        "translation_id": null
+        "text": "aso kuman",
+        "translation_id": "lagi makan"
+      },
+      {
+        "text": "2 masih: gedung sekolahyo aso buen gedung sekolahnya",
+        "translation_id": "masih baik"
       }
     ],
     "variants": [],
@@ -5812,8 +5944,8 @@
     ],
     "examples": [
       {
-        "text": "iyo moli aspal dia membeli aspal",
-        "translation_id": null
+        "text": "iyo moli aspal",
+        "translation_id": "dia membeli aspal"
       }
     ],
     "variants": [
@@ -5841,8 +5973,8 @@
         ],
         "examples": [
           {
-            "text": "dero ngaspal boyan mereka mengaspal jalanan",
-            "translation_id": null
+            "text": "dero ngaspal boyan mereka mengaspal",
+            "translation_id": "jalanan"
           }
         ]
       },
@@ -5857,8 +5989,8 @@
         ],
         "examples": [
           {
-            "text": "boyan ene naspal jalanan itu diaspal",
-            "translation_id": null
+            "text": "boyan ene naspal",
+            "translation_id": "jalanan itu diaspal"
           }
         ]
       }
@@ -5888,8 +6020,8 @@
     ],
     "examples": [
       {
-        "text": "bias deo ata yo beras banyak antahnya",
-        "translation_id": null
+        "text": "bias deo ata yo",
+        "translation_id": "beras banyak antahnya"
       }
     ],
     "variants": [],
@@ -5919,8 +6051,16 @@
     ],
     "examples": [
       {
-        "text": "iyo kuman até dia makan hati; 2 hati (sesuatu yg ada di dalam tubuh manusia yg dianggap sebagai tempat segala perasaan batin dan pengertian); até idik hati kecil: até belo kuli eta hati kecil tidak bisa bohong",
-        "translation_id": null
+        "text": "iyo kuman até",
+        "translation_id": "dia makan hati"
+      },
+      {
+        "text": "2 hati (sesuatu yg",
+        "translation_id": "ada di dalam tubuh manusia yg dianggap sebagai tempat segala perasaan batin dan pengertian)"
+      },
+      {
+        "text": "até idik",
+        "translation_id": "hati kecil: até belo kuli eta hati kecil tidak bisa bohong"
       }
     ],
     "variants": [],
@@ -5950,8 +6090,8 @@
     ],
     "examples": [
       {
-        "text": "ati-ati malan hati-hati berjalan",
-        "translation_id": null
+        "text": "ati-ati malan hati-hati",
+        "translation_id": "berjalan"
       }
     ],
     "variants": [],
@@ -5981,8 +6121,8 @@
     ],
     "examples": [
       {
-        "text": "ise atok lou ene? apa isi rumah itu?",
-        "translation_id": null
+        "text": "ise atok lou ene?",
+        "translation_id": "apa isi rumah itu?"
       }
     ],
     "variants": [],
@@ -5998,8 +6138,8 @@
         ],
         "examples": [
           {
-            "text": "kompuyo batok beta badannya berisi sekali",
-            "translation_id": null
+            "text": "kompuyo batok beta",
+            "translation_id": "badannya berisi sekali"
           }
         ]
       },
@@ -6014,8 +6154,8 @@
         ],
         "examples": [
           {
-            "text": "iyo ngatok awa ene apan ponu dia mengisi tempat itu supaya penuh;",
-            "translation_id": null
+            "text": "iyo ngatok awa ene apan ponu",
+            "translation_id": "dia mengisi tempat itu supaya penuh"
           }
         ]
       }
@@ -6045,8 +6185,8 @@
     ],
     "examples": [
       {
-        "text": "keranjang ene natok apan ponu keranjang itu diisi supaya penuh",
-        "translation_id": null
+        "text": "keranjang ene natok apan ponu keranjang",
+        "translation_id": "itu diisi supaya penuh"
       }
     ],
     "variants": [
@@ -6074,8 +6214,8 @@
         ],
         "examples": [
           {
-            "text": "pos ene taru atok dm ember itu terisi air",
-            "translation_id": null
+            "text": "pos ene taru atok dm",
+            "translation_id": "ember itu terisi air"
           }
         ]
       }
@@ -6105,8 +6245,8 @@
     ],
     "examples": [
       {
-        "text": "yo endo - yo endu? yang ini atau yang itu?",
-        "translation_id": null
+        "text": "yo endo yo endu? yang",
+        "translation_id": "ini atau yang itu?"
       }
     ],
     "variants": [],
@@ -6136,8 +6276,8 @@
     ],
     "examples": [
       {
-        "text": "atur kedera ene awa tunge! atur kursi itu untuk tempat duduk!",
-        "translation_id": null
+        "text": "atur kedera ene awa tunge! atur",
+        "translation_id": "kursi itu untuk tempat duduk!"
       }
     ],
     "variants": [],
@@ -6153,8 +6293,8 @@
         ],
         "examples": [
           {
-            "text": "iyo ngatur pinggan ene dia mengatur piring itu",
-            "translation_id": null
+            "text": "iyo ngatur pinggan ene",
+            "translation_id": "dia mengatur piring itu"
           }
         ]
       },
@@ -6169,8 +6309,8 @@
         ],
         "examples": [
           {
-            "text": "gelas ene sundok natur gelas itu sudah diatur",
-            "translation_id": null
+            "text": "gelas ene sundok natur",
+            "translation_id": "gelas itu sudah diatur"
           }
         ]
       },
@@ -6185,8 +6325,8 @@
         ],
         "examples": [
           {
-            "text": "ifak deoaturan nenek banyak aturan",
-            "translation_id": null
+            "text": "ifak deoaturan nenek",
+            "translation_id": "banyak aturan"
           }
         ]
       }
@@ -6216,8 +6356,16 @@
     ],
     "examples": [
       {
-        "text": "kain sundok kuman aut kami sudah selesai makan; boting aut buntung endo kenyang sudah (sudah kenyang) perut ini; iyo bayu aut kuman dia baru berhenti makan",
-        "translation_id": null
+        "text": "kain sundok kuman aut kami",
+        "translation_id": "sudah selesai makan"
+      },
+      {
+        "text": "boting aut buntung endo",
+        "translation_id": "kenyang sudah (sudah kenyang) perut ini"
+      },
+      {
+        "text": "iyo bayu aut kuman",
+        "translation_id": "dia baru berhenti makan"
       }
     ],
     "variants": [],
@@ -6247,8 +6395,12 @@
     ],
     "examples": [
       {
-        "text": "autsio malan depo lane tidak usah pergi ke sana; autsio ka tidak usah saja: ena keo gawian autsio malan kalau lagi ada pekerjaan tidak usah pergi",
-        "translation_id": null
+        "text": "autsio malan depo lane",
+        "translation_id": "tidak usah pergi ke sana"
+      },
+      {
+        "text": "autsio ka",
+        "translation_id": "tidak usah saja: ena keo gawian autsio malan kalau lagi ada pekerjaan tidak usah pergi"
       }
     ],
     "variants": [
@@ -6290,8 +6442,28 @@
     ],
     "examples": [
       {
-        "text": "alekko awa buah ene! ambilkan tempat buah!; awa mangkuruku tempat pertemuan; awa ngona tempat (wadah) menyimpan sesuatu; awa biyas tempat beras; awa dupa tempat pedupaan; awa ésa tempat ikan",
-        "translation_id": null
+        "text": "alekko awa buah ene!",
+        "translation_id": "ambilkan tempat buah!"
+      },
+      {
+        "text": "awa mangkuruku",
+        "translation_id": "tempat pertemuan"
+      },
+      {
+        "text": "awa ngona",
+        "translation_id": "tempat (wadah) menyimpan sesuatu"
+      },
+      {
+        "text": "awa biyas",
+        "translation_id": "tempat beras"
+      },
+      {
+        "text": "awa dupa",
+        "translation_id": "tempat pedupaan"
+      },
+      {
+        "text": "awa ésa",
+        "translation_id": "tempat ikan"
       }
     ],
     "variants": [],
@@ -6321,8 +6493,8 @@
     ],
     "examples": [
       {
-        "text": "mato aso awas yo mata masih jelas pengli- hatannya",
-        "translation_id": null
+        "text": "mato aso awas yo mata",
+        "translation_id": "masih jelas penglihatannya"
       }
     ],
     "variants": [],
@@ -6352,8 +6524,12 @@
     ],
     "examples": [
       {
-        "text": "ulun awwa orang yang serakah; ulunyo awwa beta orangnya serakah sekali",
-        "translation_id": null
+        "text": "ulun awwa",
+        "translation_id": "orang yang serakah"
+      },
+      {
+        "text": "ulunyo awwa beta",
+        "translation_id": "orangnya serakah sekali"
       }
     ],
     "variants": [
@@ -6395,8 +6571,8 @@
     ],
     "examples": [
       {
-        "text": "awat ulun tuo ene! bantu orang tua itu!",
-        "translation_id": null
+        "text": "awat ulun tuo ene! bantu",
+        "translation_id": "orang tua itu!"
       }
     ],
     "variants": [],
@@ -6412,8 +6588,8 @@
         ],
         "examples": [
           {
-            "text": "mendo aku ngawat siko di aku membantu kamu",
-            "translation_id": null
+            "text": "mendo aku ngawat siko",
+            "translation_id": "di aku membantu kamu"
           }
         ]
       },
@@ -6428,8 +6604,8 @@
         ],
         "examples": [
           {
-            "text": "ulun kao harus nawat orang miskin harus dibantu",
-            "translation_id": null
+            "text": "ulun kao",
+            "translation_id": "harus nawat orang miskin harus dibantu"
           }
         ]
       },
@@ -6444,8 +6620,8 @@
         ],
         "examples": [
           {
-            "text": "gawianyo pengawat mo lou bupati peker- jaannya pembantu di rumah bupati",
-            "translation_id": null
+            "text": "gawianyo pengawat mo lou bupati pekerjaannya",
+            "translation_id": "pembantu di rumah bupati"
           }
         ]
       }
@@ -6475,8 +6651,8 @@
     ],
     "examples": [
       {
-        "text": "aya ise kakanyo! turut apa maunya!",
-        "translation_id": null
+        "text": "aya ise kakanyo!",
+        "translation_id": "turut apa maunya!"
       }
     ],
     "variants": [
@@ -6504,8 +6680,8 @@
         ],
         "examples": [
           {
-            "text": "nang ngaya lenganyo jangan menuruti ucapannya;",
-            "translation_id": null
+            "text": "nang ngaya lenganyo jangan",
+            "translation_id": "menuruti ucapannya"
           }
         ]
       }
@@ -6535,8 +6711,8 @@
     ],
     "examples": [
       {
-        "text": "ena naya terus ketine walikyo kalau dituruti terus begitu jadinya",
-        "translation_id": null
+        "text": "ena naya terus ketine walikyo",
+        "translation_id": "kalau dituruti terus begitu jadinya"
       }
     ],
     "variants": [
@@ -6578,8 +6754,8 @@
     ],
     "examples": [
       {
-        "text": "’aya tali apan nang bekat buat tali ular (melilit seperti ular) agar tidak putus;",
-        "translation_id": null
+        "text": "’aya tali apan nang bekat buat",
+        "translation_id": "tali ular (melilit seperti ular) agar tidak putus"
       }
     ],
     "variants": [],
@@ -6609,8 +6785,8 @@
     ],
     "examples": [
       {
-        "text": "ayak iyo malan takut pukan tuntun dia (ber)jalan takut (nanti) jatuh",
-        "translation_id": null
+        "text": "ayak iyo malan takut pukan",
+        "translation_id": "tuntun dia (ber)jalan takut (nanti) jatuh"
       }
     ],
     "variants": [],
@@ -6626,8 +6802,8 @@
         ],
         "examples": [
           {
-            "text": "ngayak matuk peya malan menuntun (utk) mengajari anak berjalan",
-            "translation_id": null
+            "text": "ngayak matuk peya malan",
+            "translation_id": "menuntun (utk) mengajari anak berjalan"
           }
         ]
       },
@@ -6642,8 +6818,8 @@
         ],
         "examples": [
           {
-            "text": "nayak ka iyo malan dituntun saja dia berjalan",
-            "translation_id": null
+            "text": "nayak ka iyo malan dituntun saja",
+            "translation_id": "dia berjalan"
           }
         ]
       }
@@ -6673,8 +6849,8 @@
     ],
     "examples": [
       {
-        "text": "mo Jawa aso keo ayom di Jawa masih ada tering- giling",
-        "translation_id": null
+        "text": "mo Jawa aso keo ayom",
+        "translation_id": "di Jawa masih ada teringgiling"
       }
     ],
     "variants": [],
@@ -6704,8 +6880,8 @@
     ],
     "examples": [
       {
-        "text": "ayan ene nampa punsu rayap itu membuat sarang",
-        "translation_id": null
+        "text": "ayan ene nampa punsu",
+        "translation_id": "rayap itu membuat sarang"
       }
     ],
     "variants": [],
@@ -6735,8 +6911,8 @@
     ],
     "examples": [
       {
-        "text": "aku embaca kesa Ayus saya mebaca cerita tantang Ayus",
-        "translation_id": null
+        "text": "aku embaca kesa Ayus",
+        "translation_id": "saya mebaca cerita tantang Ayus"
       }
     ],
     "variants": [],
@@ -6766,8 +6942,12 @@
     ],
     "examples": [
       {
-        "text": "aku keringo embengen azan engket mesigid saya mende- ngar suara azan dari masjid; azan sembahyang azan untuk memanggil salat",
-        "translation_id": null
+        "text": "aku keringo embengen azan engket mesigid",
+        "translation_id": "saya mendengar suara azan dari masjid"
+      },
+      {
+        "text": "azan sembahyang",
+        "translation_id": "azan untuk memanggil salat"
       }
     ],
     "variants": [],
