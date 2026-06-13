@@ -300,9 +300,7 @@ function searchableText(entry) {
 function searchableVariantText(variant) {
   return [
     variant.label,
-    variant.partOfSpeech || '',
-    variant.translations.join(' '),
-    variant.examples.map((example) => typeof example === 'string' ? example : [example.text, example.translation_id || example.translation].join(' ')).join(' ')
+    variant.translations.join(' ')
   ].join(' ');
 }
 
