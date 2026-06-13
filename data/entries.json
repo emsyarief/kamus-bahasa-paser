@@ -135040,6 +135040,38 @@
     "syllable_form": "sung.kut"
   },
   {
+    "id": "paser-003180",
+    "headword": "senungkut",
+    "language": "paser",
+    "part_of_speech": "verb",
+    "translations": [
+      {
+        "language": "id",
+        "text": "menunduk"
+      }
+    ],
+    "examples": [
+      {
+        "text": "kompuku senungkut ena lalo ulun yo lebih tuo",
+        "translation_id": "badanku menunduk bila lewat orang yang lebih tua"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-282; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-282.txt",
+      "page": 273,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "se.nung.kut"
+  },
+  {
     "headword": "sungu",
     "language": "paser",
     "part_of_speech": "verb",
@@ -135104,7 +135136,7 @@
       "reviewed_at": null
     },
     "syllable_form": "su.ngu",
-    "id": "paser-003180"
+    "id": "paser-003181"
   },
   {
     "headword": "sungut",
@@ -135140,7 +135172,7 @@
       "reviewed_at": null
     },
     "syllable_form": "su.ngut",
-    "id": "paser-003181"
+    "id": "paser-003182"
   },
   {
     "headword": "suni",
@@ -135224,7 +135256,7 @@
       "reviewed_at": null
     },
     "syllable_form": "su.ni",
-    "id": "paser-003182"
+    "id": "paser-003183"
   },
   {
     "headword": "suok",
@@ -135291,7 +135323,7 @@
       "reviewed_at": null
     },
     "syllable_form": "su.ok",
-    "id": "paser-003183"
+    "id": "paser-003184"
   },
   {
     "headword": "supir",
@@ -135358,7 +135390,7 @@
       "reviewed_at": null
     },
     "syllable_form": "su.pir",
-    "id": "paser-003184"
+    "id": "paser-003185"
   },
   {
     "headword": "sura",
@@ -135450,7 +135482,7 @@
       "reviewed_at": null
     },
     "syllable_form": "su.ra",
-    "id": "paser-003185"
+    "id": "paser-003186"
   },
   {
     "headword": "surat",
@@ -135500,7 +135532,7 @@
       "reviewed_at": null
     },
     "syllable_form": "su.rat",
-    "id": "paser-003186"
+    "id": "paser-003187"
   },
   {
     "headword": "surau",
@@ -135536,7 +135568,7 @@
       "reviewed_at": null
     },
     "syllable_form": "su.rau",
-    "id": "paser-003187"
+    "id": "paser-003188"
   },
   {
     "headword": "suré",
@@ -135568,7 +135600,7 @@
       "reviewed_at": null
     },
     "syllable_form": "su.ré",
-    "id": "paser-003188"
+    "id": "paser-003189"
   },
   {
     "headword": "suruk",
@@ -135600,7 +135632,7 @@
       "reviewed_at": null
     },
     "syllable_form": "su.ruk",
-    "id": "paser-003189"
+    "id": "paser-003190"
   },
   {
     "headword": "surut",
@@ -135632,7 +135664,7 @@
       "reviewed_at": null
     },
     "syllable_form": "su.rut",
-    "id": "paser-003190"
+    "id": "paser-003191"
   },
   {
     "headword": "susa",
@@ -135668,7 +135700,7 @@
       "reviewed_at": null
     },
     "syllable_form": "su.sa",
-    "id": "paser-003191"
+    "id": "paser-003192"
   },
   {
     "headword": "susu",
@@ -135700,7 +135732,7 @@
       "reviewed_at": null
     },
     "syllable_form": "su.su",
-    "id": "paser-003192"
+    "id": "paser-003193"
   },
   {
     "headword": "susu’",
@@ -135732,7 +135764,7 @@
       "reviewed_at": null
     },
     "syllable_form": "su.su’",
-    "id": "paser-003193"
+    "id": "paser-003194"
   },
   {
     "headword": "susuk",
@@ -135764,7 +135796,7 @@
       "reviewed_at": null
     },
     "syllable_form": "su.suk",
-    "id": "paser-003194"
+    "id": "paser-003195"
   },
   {
     "headword": "susun",
@@ -135843,7 +135875,7 @@
       "reviewed_at": null
     },
     "syllable_form": "su.sun",
-    "id": "paser-003195"
+    "id": "paser-003196"
   },
   {
     "headword": "susut",
@@ -135914,7 +135946,7 @@
       "reviewed_at": null
     },
     "syllable_form": "su.sut",
-    "id": "paser-003196"
+    "id": "paser-003197"
   },
   {
     "headword": "suwa’",
@@ -135981,7 +136013,7 @@
       "reviewed_at": null
     },
     "syllable_form": "su.wa’",
-    "id": "paser-003197"
+    "id": "paser-003198"
   },
   {
     "headword": "suwau",
@@ -136013,7 +136045,7 @@
       "reviewed_at": null
     },
     "syllable_form": "su.wau",
-    "id": "paser-003198"
+    "id": "paser-003199"
   },
   {
     "headword": "suyu",
@@ -136080,7 +136112,7 @@
       "reviewed_at": null
     },
     "syllable_form": "su.yu",
-    "id": "paser-003199"
+    "id": "paser-003200"
   },
   {
     "headword": "suyung",
@@ -136116,7 +136148,7 @@
       "reviewed_at": null
     },
     "syllable_form": "su.yung",
-    "id": "paser-003200"
+    "id": "paser-003201"
   },
   {
     "headword": "syarat",
@@ -136166,7 +136198,7 @@
       "reviewed_at": null
     },
     "syllable_form": "sya.rat",
-    "id": "paser-003201"
+    "id": "paser-003202"
   },
   {
     "headword": "taat",
@@ -136216,7 +136248,7 @@
       "reviewed_at": null
     },
     "syllable_form": "ta.at",
-    "id": "paser-003202"
+    "id": "paser-003203"
   },
   {
     "headword": "taba",
@@ -136248,7 +136280,7 @@
       "reviewed_at": null
     },
     "syllable_form": "ta.ba",
-    "id": "paser-003203"
+    "id": "paser-003204"
   },
   {
     "headword": "tabé",
@@ -136280,7 +136312,7 @@
       "reviewed_at": null
     },
     "syllable_form": "ta.bé",
-    "id": "paser-003204"
+    "id": "paser-003205"
   },
   {
     "headword": "tada",
@@ -136320,7 +136352,7 @@
       "reviewed_at": null
     },
     "syllable_form": "ta.da",
-    "id": "paser-003205"
+    "id": "paser-003206"
   },
   {
     "headword": "tada",
@@ -136352,7 +136384,7 @@
       "reviewed_at": null
     },
     "syllable_form": "ta.da",
-    "id": "paser-003206"
+    "id": "paser-003207"
   },
   {
     "headword": "tage",
@@ -136419,7 +136451,7 @@
       "reviewed_at": null
     },
     "syllable_form": "ta.ge",
-    "id": "paser-003207"
+    "id": "paser-003208"
   },
   {
     "headword": "tahajud",
@@ -136451,7 +136483,7 @@
       "reviewed_at": null
     },
     "syllable_form": "ta.ha.jud",
-    "id": "paser-003208"
+    "id": "paser-003209"
   },
   {
     "headword": "tahan",
@@ -136522,7 +136554,7 @@
       "reviewed_at": null
     },
     "syllable_form": "ta.han",
-    "id": "paser-003209"
+    "id": "paser-003210"
   },
   {
     "headword": "tahap",
@@ -136572,7 +136604,7 @@
       "reviewed_at": null
     },
     "syllable_form": "ta.hap",
-    "id": "paser-003210"
+    "id": "paser-003211"
   },
   {
     "headword": "tahu",
@@ -136604,7 +136636,7 @@
       "reviewed_at": null
     },
     "syllable_form": "ta.hu",
-    "id": "paser-003211"
+    "id": "paser-003212"
   },
   {
     "headword": "tai",
@@ -136640,7 +136672,7 @@
       "reviewed_at": null
     },
     "syllable_form": "tai",
-    "id": "paser-003212"
+    "id": "paser-003213"
   },
   {
     "headword": "tajak",
@@ -136711,7 +136743,7 @@
       "reviewed_at": null
     },
     "syllable_form": "ta.jak",
-    "id": "paser-003213"
+    "id": "paser-003214"
   },
   {
     "headword": "taji",
@@ -136743,7 +136775,7 @@
       "reviewed_at": null
     },
     "syllable_form": "ta.ji",
-    "id": "paser-003214"
+    "id": "paser-003215"
   },
   {
     "headword": "tajong",
@@ -136775,7 +136807,7 @@
       "reviewed_at": null
     },
     "syllable_form": "ta.jong",
-    "id": "paser-003215"
+    "id": "paser-003216"
   },
   {
     "headword": "taka",
@@ -136807,7 +136839,7 @@
       "reviewed_at": null
     },
     "syllable_form": "ta.ka",
-    "id": "paser-003216"
+    "id": "paser-003217"
   },
   {
     "headword": "takar",
@@ -136874,7 +136906,7 @@
       "reviewed_at": null
     },
     "syllable_form": "ta.kar",
-    "id": "paser-003217"
+    "id": "paser-003218"
   },
   {
     "headword": "taket",
@@ -136962,7 +136994,7 @@
       "reviewed_at": null
     },
     "syllable_form": "ta.ket",
-    "id": "paser-003218"
+    "id": "paser-003219"
   },
   {
     "headword": "takin",
@@ -137046,7 +137078,7 @@
       "reviewed_at": null
     },
     "syllable_form": "ta.kin",
-    "id": "paser-003219"
+    "id": "paser-003220"
   },
   {
     "headword": "takser",
@@ -137121,7 +137153,7 @@
       "reviewed_at": null
     },
     "syllable_form": "tak.ser",
-    "id": "paser-003220"
+    "id": "paser-003221"
   },
   {
     "headword": "takut",
@@ -137209,7 +137241,7 @@
       "reviewed_at": null
     },
     "syllable_form": "ta.kut",
-    "id": "paser-003221"
+    "id": "paser-003222"
   },
   {
     "headword": "talam",
@@ -137241,7 +137273,7 @@
       "reviewed_at": null
     },
     "syllable_form": "ta.lam",
-    "id": "paser-003222"
+    "id": "paser-003223"
   },
   {
     "headword": "tali",
@@ -137273,7 +137305,7 @@
       "reviewed_at": null
     },
     "syllable_form": "ta.li",
-    "id": "paser-003223"
+    "id": "paser-003224"
   },
   {
     "headword": "tama",
@@ -137305,7 +137337,7 @@
       "reviewed_at": null
     },
     "syllable_form": "ta.ma",
-    "id": "paser-003224"
+    "id": "paser-003225"
   },
   {
     "headword": "tama’",
@@ -137337,7 +137369,7 @@
       "reviewed_at": null
     },
     "syllable_form": "ta.ma’",
-    "id": "paser-003225"
+    "id": "paser-003226"
   },
   {
     "headword": "tamba",
@@ -137404,7 +137436,7 @@
       "reviewed_at": null
     },
     "syllable_form": "tam.ba",
-    "id": "paser-003226"
+    "id": "paser-003227"
   },
   {
     "headword": "tambak",
@@ -137436,7 +137468,7 @@
       "reviewed_at": null
     },
     "syllable_form": "tam.bak",
-    "id": "paser-003227"
+    "id": "paser-003228"
   },
   {
     "headword": "tambal",
@@ -137520,7 +137552,7 @@
       "reviewed_at": null
     },
     "syllable_form": "tam.bal",
-    "id": "paser-003228"
+    "id": "paser-003229"
   },
   {
     "headword": "tambang",
@@ -137570,7 +137602,7 @@
       "reviewed_at": null
     },
     "syllable_form": "tam.bang",
-    "id": "paser-003229"
+    "id": "paser-003230"
   },
   {
     "headword": "tambi",
@@ -137614,7 +137646,7 @@
       "reviewed_at": null
     },
     "syllable_form": "tam.bi",
-    "id": "paser-003230"
+    "id": "paser-003231"
   },
   {
     "headword": "tambulasat",
@@ -137646,7 +137678,7 @@
       "reviewed_at": null
     },
     "syllable_form": "tam.bu.la.sat",
-    "id": "paser-003231"
+    "id": "paser-003232"
   },
   {
     "headword": "tampar",
@@ -137678,7 +137710,7 @@
       "reviewed_at": null
     },
     "syllable_form": "tam.par",
-    "id": "paser-003232"
+    "id": "paser-003233"
   },
   {
     "headword": "tampok",
@@ -137710,7 +137742,7 @@
       "reviewed_at": null
     },
     "syllable_form": "tam.pok",
-    "id": "paser-003233"
+    "id": "paser-003234"
   },
   {
     "headword": "tampung",
@@ -137777,7 +137809,7 @@
       "reviewed_at": null
     },
     "syllable_form": "tam.pung",
-    "id": "paser-003234"
+    "id": "paser-003235"
   },
   {
     "headword": "tamsel",
@@ -137817,7 +137849,7 @@
       "reviewed_at": null
     },
     "syllable_form": "tam.sel",
-    "id": "paser-003235"
+    "id": "paser-003236"
   },
   {
     "headword": "tan",
@@ -137909,7 +137941,7 @@
       "reviewed_at": null
     },
     "syllable_form": "tan",
-    "id": "paser-003236"
+    "id": "paser-003237"
   },
   {
     "headword": "tana",
@@ -137990,7 +138022,7 @@
       "reviewed_at": null
     },
     "syllable_form": "ta.na",
-    "id": "paser-003237"
+    "id": "paser-003238"
   },
   {
     "headword": "tanda",
@@ -138057,7 +138089,7 @@
       "reviewed_at": null
     },
     "syllable_form": "tan.da",
-    "id": "paser-003238"
+    "id": "paser-003239"
   },
   {
     "headword": "tandeng",
@@ -138089,7 +138121,7 @@
       "reviewed_at": null
     },
     "syllable_form": "tan.deng",
-    "id": "paser-003239"
+    "id": "paser-003240"
   },
   {
     "headword": "tanding",
@@ -138134,7 +138166,7 @@
       "reviewed_at": null
     },
     "syllable_form": "tan.ding",
-    "id": "paser-003240"
+    "id": "paser-003241"
   },
   {
     "headword": "tanduk",
@@ -138184,7 +138216,7 @@
       "reviewed_at": null
     },
     "syllable_form": "tan.duk",
-    "id": "paser-003241"
+    "id": "paser-003242"
   },
   {
     "headword": "tanjal",
@@ -138216,7 +138248,7 @@
       "reviewed_at": null
     },
     "syllable_form": "tan.jal",
-    "id": "paser-003242"
+    "id": "paser-003243"
   },
   {
     "headword": "tanjung",
@@ -138248,7 +138280,7 @@
       "reviewed_at": null
     },
     "syllable_form": "tan.jung",
-    "id": "paser-003243"
+    "id": "paser-003244"
   },
   {
     "headword": "tang",
@@ -138284,7 +138316,7 @@
       "reviewed_at": null
     },
     "syllable_form": "tang",
-    "id": "paser-003244"
+    "id": "paser-003245"
   },
   {
     "headword": "tangai",
@@ -138355,7 +138387,7 @@
       "reviewed_at": null
     },
     "syllable_form": "ta.ngai",
-    "id": "paser-003245"
+    "id": "paser-003246"
   },
   {
     "headword": "tangga",
@@ -138387,7 +138419,7 @@
       "reviewed_at": null
     },
     "syllable_form": "tang.ga",
-    "id": "paser-003246"
+    "id": "paser-003247"
   },
   {
     "headword": "tanggal",
@@ -138419,7 +138451,7 @@
       "reviewed_at": null
     },
     "syllable_form": "tang.gal",
-    "id": "paser-003247"
+    "id": "paser-003248"
   },
   {
     "headword": "tanggo",
@@ -138498,7 +138530,7 @@
       "reviewed_at": null
     },
     "syllable_form": "tang.go",
-    "id": "paser-003248"
+    "id": "paser-003249"
   },
   {
     "headword": "tanggoi",
@@ -138530,7 +138562,7 @@
       "reviewed_at": null
     },
     "syllable_form": "tang.goi",
-    "id": "paser-003249"
+    "id": "paser-003250"
   },
   {
     "headword": "tanggok",
@@ -138566,7 +138598,7 @@
       "reviewed_at": null
     },
     "syllable_form": "tang.gok",
-    "id": "paser-003250"
+    "id": "paser-003251"
   },
   {
     "headword": "tanggung",
@@ -138611,7 +138643,7 @@
       "reviewed_at": null
     },
     "syllable_form": "tang.gung",
-    "id": "paser-003251"
+    "id": "paser-003252"
   },
   {
     "headword": "tangis",
@@ -138695,7 +138727,7 @@
       "reviewed_at": null
     },
     "syllable_form": "ta.ngis",
-    "id": "paser-003252"
+    "id": "paser-003253"
   },
   {
     "headword": "tangka",
@@ -138727,7 +138759,7 @@
       "reviewed_at": null
     },
     "syllable_form": "tang.ka",
-    "id": "paser-003253"
+    "id": "paser-003254"
   },
   {
     "headword": "tangkai",
@@ -138759,7 +138791,7 @@
       "reviewed_at": null
     },
     "syllable_form": "tang.kai",
-    "id": "paser-003254"
+    "id": "paser-003255"
   },
   {
     "headword": "tangki",
@@ -138791,7 +138823,7 @@
       "reviewed_at": null
     },
     "syllable_form": "tang.ki",
-    "id": "paser-003255"
+    "id": "paser-003256"
   },
   {
     "headword": "tangkis",
@@ -138866,7 +138898,7 @@
       "reviewed_at": null
     },
     "syllable_form": "tang.kis",
-    "id": "paser-003256"
+    "id": "paser-003257"
   },
   {
     "headword": "tanggoi",
@@ -138898,7 +138930,7 @@
       "reviewed_at": null
     },
     "syllable_form": "tang.goi",
-    "id": "paser-003257"
+    "id": "paser-003258"
   },
   {
     "headword": "tangkup",
@@ -138969,7 +139001,7 @@
       "reviewed_at": null
     },
     "syllable_form": "tang.kup",
-    "id": "paser-003258"
+    "id": "paser-003259"
   },
   {
     "headword": "tangop",
@@ -139036,7 +139068,7 @@
       "reviewed_at": null
     },
     "syllable_form": "ta.ngop",
-    "id": "paser-003259"
+    "id": "paser-003260"
   },
   {
     "headword": "tantai",
@@ -139115,7 +139147,7 @@
       "reviewed_at": null
     },
     "syllable_form": "tan.tai",
-    "id": "paser-003260"
+    "id": "paser-003261"
   },
   {
     "headword": "taon",
@@ -139147,7 +139179,7 @@
       "reviewed_at": null
     },
     "syllable_form": "ta.on",
-    "id": "paser-003261"
+    "id": "paser-003262"
   },
   {
     "headword": "taos",
@@ -139214,7 +139246,7 @@
       "reviewed_at": null
     },
     "syllable_form": "ta.os",
-    "id": "paser-003262"
+    "id": "paser-003263"
   },
   {
     "headword": "tapa",
@@ -139259,7 +139291,7 @@
       "reviewed_at": null
     },
     "syllable_form": "ta.pa",
-    "id": "paser-003263"
+    "id": "paser-003264"
   },
   {
     "headword": "tapai",
@@ -139316,7 +139348,7 @@
       "reviewed_at": null
     },
     "syllable_form": "ta.pai",
-    "id": "paser-003264"
+    "id": "paser-003265"
   },
   {
     "headword": "tapé",
@@ -139400,7 +139432,7 @@
       "reviewed_at": null
     },
     "syllable_form": "ta.pé",
-    "id": "paser-003265"
+    "id": "paser-003266"
   },
   {
     "headword": "tapi",
@@ -139432,7 +139464,7 @@
       "reviewed_at": null
     },
     "syllable_form": "ta.pi",
-    "id": "paser-003266"
+    "id": "paser-003267"
   },
   {
     "headword": "tapi",
@@ -139486,7 +139518,7 @@
       "reviewed_at": null
     },
     "syllable_form": "ta.pi",
-    "id": "paser-003267"
+    "id": "paser-003268"
   },
   {
     "headword": "taping",
@@ -139522,7 +139554,7 @@
       "reviewed_at": null
     },
     "syllable_form": "ta.ping",
-    "id": "paser-003268"
+    "id": "paser-003269"
   },
   {
     "headword": "tapo",
@@ -139589,7 +139621,7 @@
       "reviewed_at": null
     },
     "syllable_form": "ta.po",
-    "id": "paser-003269"
+    "id": "paser-003270"
   },
   {
     "headword": "tapol",
@@ -139656,7 +139688,7 @@
       "reviewed_at": null
     },
     "syllable_form": "ta.pol",
-    "id": "paser-003270"
+    "id": "paser-003271"
   },
   {
     "headword": "tarik",
@@ -139688,7 +139720,7 @@
       "reviewed_at": null
     },
     "syllable_form": "ta.rik",
-    "id": "paser-003271"
+    "id": "paser-003272"
   },
   {
     "headword": "taris",
@@ -139759,7 +139791,7 @@
       "reviewed_at": null
     },
     "syllable_form": "ta.ris",
-    "id": "paser-003272"
+    "id": "paser-003273"
   },
   {
     "headword": "taro’",
@@ -139809,7 +139841,7 @@
       "reviewed_at": null
     },
     "syllable_form": "ta.ro’",
-    "id": "paser-003273"
+    "id": "paser-003274"
   },
   {
     "headword": "taru",
@@ -139853,7 +139885,7 @@
       "reviewed_at": null
     },
     "syllable_form": "ta.ru",
-    "id": "paser-003274"
+    "id": "paser-003275"
   },
   {
     "headword": "taru",
@@ -139889,7 +139921,7 @@
       "reviewed_at": null
     },
     "syllable_form": "ta.ru",
-    "id": "paser-003275"
+    "id": "paser-003276"
   },
   {
     "headword": "tarom",
@@ -139921,6 +139953,6 @@
       "reviewed_at": null
     },
     "syllable_form": "ta.rom",
-    "id": "paser-003276"
+    "id": "paser-003277"
   }
 ]
