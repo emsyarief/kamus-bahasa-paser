@@ -61,13 +61,6 @@ function bindEvents() {
   });
 }
 
-function searchVariant(variant) {
-  els.search.value = variant;
-  els.search.focus();
-  render();
-  els.search.scrollIntoView({ behavior: 'smooth', block: 'start' });
-}
-
 function normalizeEntries(rawEntries) {
   const headwordCounts = rawEntries.reduce((counts, entry) => {
     const key = normalizeHeadwordKey(entry.headword || '(tanpa lema)');
@@ -92,7 +85,7 @@ function normalizeEntries(rawEntries) {
     translations: asArray(entry.translations).map((item) => item.text || item).filter(Boolean),
     definitions: asArray(entry.definitions).filter(Boolean),
     examples: asArray(entry.examples),
-    variants: asArray(entry.variants).filter(Boolean),
+    variants: asArray(entry.variants).map(normalizeVariant).filter((variant) => variant.label),
     notes: entry.notes || '',
     source: entry.source || {},
     review: entry.review || {}
@@ -148,9 +141,9 @@ function renderEntry(entry) {
   node.querySelector('.badge').textContent = entry.review.status || 'draft';
 
   const fields = node.querySelector('.fields');
+  addField(fields, 'Varian', renderVariants(entry.variants));
   addField(fields, 'Indonesia', entry.translations.join('; '));
   addField(fields, 'Contoh', renderExamples(entry.examples));
-  addField(fields, 'Varian', renderVariants(entry.variants));
   return node;
 }
 
@@ -188,15 +181,69 @@ function renderExamples(examples) {
 }
 
 function renderVariants(variants) {
-  return variants.map((variant) => {
-    const chip = document.createElement('button');
-    chip.type = 'button';
-    chip.className = 'variant-chip';
-    chip.textContent = variant;
-    chip.setAttribute('aria-label', `Cari varian ${variant}`);
-    chip.addEventListener('click', () => searchVariant(variant));
-    return chip;
+  if (!variants.length) return [];
+
+  const list = document.createElement('div');
+  list.className = 'variant-list';
+
+  variants.forEach((variant) => {
+    const item = document.createElement('details');
+    item.className = 'variant-item';
+
+    const summary = document.createElement('summary');
+    summary.className = 'variant-summary';
+    summary.textContent = variant.label;
+
+    const detail = document.createElement('div');
+    detail.className = 'variant-detail';
+    renderVariantDetail(detail, variant);
+
+    item.append(summary, detail);
+    list.appendChild(item);
   });
+
+  return [list];
+}
+
+function renderVariantDetail(parent, variant) {
+  let hasDetail = false;
+
+  if (variant.translations.length) {
+    const text = document.createElement('p');
+    text.textContent = `Indonesia: ${variant.translations.join('; ')}`;
+    parent.appendChild(text);
+    hasDetail = true;
+  }
+
+  if (variant.examples.length) {
+    const examples = document.createElement('p');
+    examples.append(document.createTextNode('Contoh: '), ...renderExamples(variant.examples));
+    parent.appendChild(examples);
+    hasDetail = true;
+  }
+
+  if (!hasDetail) {
+    const fallback = document.createElement('p');
+    fallback.textContent = variant.note || 'Detail varian belum diparse dari OCR';
+    parent.appendChild(fallback);
+  }
+}
+
+function normalizeVariant(variant) {
+  if (typeof variant === 'string') {
+    return { label: variant, translations: [], examples: [], note: '' };
+  }
+
+  if (!variant || typeof variant !== 'object') {
+    return { label: '', translations: [], examples: [], note: '' };
+  }
+
+  return {
+    label: variant.headword || variant.label || variant.text || '',
+    translations: asArray(variant.translations).map((item) => item.text || item).filter(Boolean),
+    examples: asArray(variant.examples),
+    note: variant.note || variant.notes || ''
+  };
 }
 
 function renderExample(item) {

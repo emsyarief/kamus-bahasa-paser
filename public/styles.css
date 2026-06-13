@@ -127,23 +127,30 @@ button:hover { background: var(--accent-dark); }
 .field { margin: 0; padding-top: 10px; border-top: 1px solid var(--line); }
 dt { color: var(--muted); font-size: 0.78rem; font-weight: 800; letter-spacing: 0.08em; text-transform: uppercase; }
 dd { margin: 5px 0 0; line-height: 1.55; }
-.variant-chip {
-  display: inline-block;
-  margin: 0 6px 6px 0;
-  border: 0;
-  border-radius: 999px;
-  padding: 3px 8px;
-  background: var(--chip);
+.variant-list { display: grid; gap: 8px; }
+.variant-item {
+  border: 1px solid var(--line);
+  border-radius: 14px;
+  background: #fffaf0;
+}
+.variant-summary {
+  padding: 9px 12px;
   color: var(--accent-dark);
-  font: inherit;
-  font-weight: 700;
+  font-weight: 800;
   cursor: pointer;
 }
-.variant-chip:hover,
-.variant-chip:focus-visible {
+.variant-summary:focus-visible {
   outline: 2px solid var(--accent-dark);
-  outline-offset: 2px;
+  outline-offset: 3px;
+  border-radius: 12px;
 }
+.variant-detail {
+  display: grid;
+  gap: 6px;
+  padding: 0 12px 12px 28px;
+  color: var(--muted);
+}
+.variant-detail p { margin: 0; }
 .note { margin-top: 24px; padding: 18px; color: var(--muted); }
 .note h2 { color: var(--ink); font-size: 1.1rem; }
 .note code { color: var(--accent-dark); font-weight: 800; }
