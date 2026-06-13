@@ -97653,5 +97653,6227 @@
     },
     "syllable_form": "pe.lu.ko",
     "id": "paser-002338"
+  },
+  {
+    "id": "paser-002339",
+    "headword": "pelulo",
+    "language": "paser",
+    "part_of_speech": "adjective",
+    "translations": [
+      {
+        "language": "id",
+        "text": "yatim, yatim piatu"
+      }
+    ],
+    "examples": [
+      {
+        "text": "peya ene pelulo",
+        "translation_id": "anak itu yatim piatu"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-212; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-212.txt",
+      "page": 203,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "pe.lu.lo"
+  },
+  {
+    "id": "paser-002340",
+    "headword": "peluser",
+    "language": "paser",
+    "part_of_speech": "verb",
+    "translations": [
+      {
+        "language": "id",
+        "text": "pelintir"
+      }
+    ],
+    "examples": [],
+    "variants": [],
+    "subentries": [
+      {
+        "label": "meluser",
+        "part_of_speech": "verb",
+        "translations": [
+          {
+            "language": "id",
+            "text": "memelintir"
+          }
+        ],
+        "examples": [
+          {
+            "text": "dato meluser telingo peya ene",
+            "translation_id": "kakek memelintir kuping anak itu"
+          }
+        ],
+        "variants": [],
+        "syllable_form": "me.lu.ser"
+      },
+      {
+        "label": "pinaluser",
+        "part_of_speech": "verb",
+        "translations": [
+          {
+            "language": "id",
+            "text": "dipelintir"
+          }
+        ],
+        "examples": [
+          {
+            "text": "kayangyo pinaluser",
+            "translation_id": "tangannya dipelintir"
+          }
+        ],
+        "variants": [],
+        "syllable_form": "pi.na.lu.ser"
+      }
+    ],
+    "notes": "OCR page-212; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-212.txt",
+      "page": 203,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "pe.lu.ser"
+  },
+  {
+    "id": "paser-002341",
+    "headword": "pemakot",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "firman"
+      }
+    ],
+    "examples": [
+      {
+        "text": "nang main-main diang pemakot Tuhan",
+        "translation_id": "jangan main-main dengan firman Tuhan"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-212; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-212.txt",
+      "page": 203,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "pe.ma.kot"
+  },
+  {
+    "id": "paser-002342",
+    "headword": "pemalu",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "pemukul"
+      }
+    ],
+    "examples": [
+      {
+        "text": "pemalu ene tepok",
+        "translation_id": "pemukul itu patah"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-212; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-212.txt",
+      "page": 203,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "pe.ma.lu"
+  },
+  {
+    "id": "paser-002343",
+    "headword": "pemandangan",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "pemandangan"
+      }
+    ],
+    "examples": [
+      {
+        "text": "aku tuju mite pemandangan ene",
+        "translation_id": "saya suka melihat pemandangan itu"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-212; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-212.txt",
+      "page": 203,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "pe.man.da.ngan"
+  },
+  {
+    "id": "paser-002344",
+    "headword": "pembakal",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "pak lurah; pak desa; kepala kampung"
+      }
+    ],
+    "examples": [
+      {
+        "text": "ene kantor pembakal",
+        "translation_id": "itu kantor kepala desa"
+      }
+    ],
+    "variants": [],
+    "subentries": [
+      {
+        "label": "pembekal",
+        "part_of_speech": "noun",
+        "translations": [
+          {
+            "language": "id",
+            "text": "pak lurah; pak desa; kepala kampung"
+          }
+        ],
+        "examples": [],
+        "variants": [],
+        "syllable_form": "pem.be.kal"
+      }
+    ],
+    "notes": "OCR page-212; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-212.txt",
+      "page": 203,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "pem.ba.kal"
+  },
+  {
+    "id": "paser-002345",
+    "headword": "pemedas",
+    "language": "paser",
+    "part_of_speech": "verb",
+    "translations": [
+      {
+        "language": "id",
+        "text": "jahe"
+      }
+    ],
+    "examples": [
+      {
+        "text": "uda ngulo pemedas",
+        "translation_id": "paman menanam jahe"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-212; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-212.txt",
+      "page": 203,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "pe.me.das"
+  },
+  {
+    "id": "paser-002346",
+    "headword": "pemus",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "bubungan atap"
+      }
+    ],
+    "examples": [
+      {
+        "text": "piak ene ombon pemus",
+        "translation_id": "ayam itu berada di atas bubungan"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-212; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-212.txt",
+      "page": 203,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "pe.mus"
+  },
+  {
+    "id": "paser-002347",
+    "headword": "pemura",
+    "language": "paser",
+    "part_of_speech": "adjective",
+    "translations": [
+      {
+        "language": "id",
+        "text": "pemurah"
+      }
+    ],
+    "examples": [
+      {
+        "text": "ulun ene pemura",
+        "translation_id": "orang itu pemurah"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-212; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-212.txt",
+      "page": 203,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "pe.mu.ra"
+  },
+  {
+    "id": "paser-002348",
+    "headword": "pén",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "pulpen"
+      }
+    ],
+    "examples": [
+      {
+        "text": "aku nulis pakai pén",
+        "translation_id": "saya menulis menggunakan pulpen"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-212; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-212.txt",
+      "page": 203,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    }
+  },
+  {
+    "id": "paser-002349",
+    "headword": "penalau",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "benalu"
+      }
+    ],
+    "examples": [
+      {
+        "text": "penalau ene ngerusak ulo-ulo",
+        "translation_id": "benalu itu merusak tanaman"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-212; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-212.txt",
+      "page": 203,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "pe.na.lau"
+  },
+  {
+    "id": "paser-002350",
+    "headword": "pencak silat",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "pencak silat"
+      }
+    ],
+    "examples": [
+      {
+        "text": "peyaku balajar pencak silat",
+        "translation_id": "anakku belajar pencak silat"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-212; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-212.txt",
+      "page": 203,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "pen.cak si.lat"
+  },
+  {
+    "id": "paser-002351",
+    "headword": "pendam",
+    "language": "paser",
+    "part_of_speech": "verb",
+    "translations": [
+      {
+        "language": "id",
+        "text": "pendam"
+      }
+    ],
+    "examples": [
+      {
+        "text": "iyo pendam lang kesong kabar ene",
+        "translation_id": "dia pendam dalam hati berita itu"
+      }
+    ],
+    "variants": [],
+    "subentries": [
+      {
+        "label": "mendam",
+        "part_of_speech": "verb",
+        "translations": [
+          {
+            "language": "id",
+            "text": "terdiam"
+          }
+        ],
+        "examples": [
+          {
+            "text": "okongku mendam ka",
+            "translation_id": "adikku terdiam saja"
+          }
+        ],
+        "variants": [],
+        "syllable_form": "men.dam"
+      }
+    ],
+    "notes": "OCR page-212; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-212.txt",
+      "page": 203,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "pen.dam"
+  },
+  {
+    "id": "paser-002352",
+    "headword": "pendekar",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "pendekar; orang yang ahli silat"
+      }
+    ],
+    "examples": [
+      {
+        "text": "ulun ene pendekar",
+        "translation_id": "orang itu pendekar"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-212; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-212.txt",
+      "page": 203,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "pen.de.kar"
+  },
+  {
+    "id": "paser-002353",
+    "headword": "pendéng",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "sabuk"
+      }
+    ],
+    "examples": [
+      {
+        "text": "pendéng mo toing",
+        "translation_id": "sabuk di pinggang"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-212; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-212.txt",
+      "page": 203,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "pen.déng"
+  },
+  {
+    "id": "paser-002354",
+    "headword": "pendéta",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "pendeta"
+      }
+    ],
+    "examples": [
+      {
+        "text": "ulun ene pendéta",
+        "translation_id": "orang itu pendeta"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-212; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-212.txt",
+      "page": 203,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "pen.dé.ta"
+  },
+  {
+    "id": "paser-002355",
+    "headword": "pendo",
+    "language": "paser",
+    "part_of_speech": "adverb",
+    "translations": [
+      {
+        "language": "id",
+        "text": "ke sini"
+      }
+    ],
+    "examples": [
+      {
+        "text": "iyo malan pendo",
+        "translation_id": "dia jalan ke sini"
+      }
+    ],
+    "variants": [],
+    "subentries": [
+      {
+        "label": "mendo",
+        "part_of_speech": "adverb",
+        "translations": [
+          {
+            "language": "id",
+            "text": "di sini"
+          }
+        ],
+        "examples": [
+          {
+            "text": "iyo mendo",
+            "translation_id": "dia di sini"
+          }
+        ],
+        "variants": [],
+        "syllable_form": "men.do"
+      },
+      {
+        "label": "mo’mendo",
+        "part_of_speech": "adverb",
+        "translations": [
+          {
+            "language": "id",
+            "text": "di sini"
+          }
+        ],
+        "examples": [
+          {
+            "text": "iyo mo’mendo",
+            "translation_id": "dia di sini"
+          }
+        ],
+        "variants": [],
+        "syllable_form": "mo’.men.do"
+      },
+      {
+        "label": "polando",
+        "part_of_speech": "adverb",
+        "translations": [
+          {
+            "language": "id",
+            "text": "ke sini; kemari"
+          }
+        ],
+        "examples": [
+          {
+            "text": "man polando",
+            "translation_id": "ayo ke sini"
+          }
+        ],
+        "variants": [],
+        "syllable_form": "po.lan.do"
+      },
+      {
+        "label": "po’pendo",
+        "part_of_speech": "adverb",
+        "translations": [
+          {
+            "language": "id",
+            "text": "ke sini; kemari"
+          }
+        ],
+        "examples": [
+          {
+            "text": "man po’pendo",
+            "translation_id": "ayo ke sini"
+          }
+        ],
+        "variants": [],
+        "syllable_form": "po’.pen.do"
+      }
+    ],
+    "notes": "OCR page-212; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-212.txt",
+      "page": 203,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "pen.do"
+  },
+  {
+    "id": "paser-002356",
+    "headword": "penduduk",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "penduduk"
+      }
+    ],
+    "examples": [
+      {
+        "text": "penduduk mendo sundok deo",
+        "translation_id": "penduduk di sini sudah banyak"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-212; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-212.txt",
+      "page": 203,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "pen.du.duk"
+  },
+  {
+    "id": "paser-002357",
+    "headword": "penetak",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "deret"
+      }
+    ],
+    "examples": [
+      {
+        "text": "dero tunge penetak",
+        "translation_id": "mereka duduk berderet"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-212; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-212.txt",
+      "page": 203,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "pe.ne.tak"
+  },
+  {
+    "id": "paser-002358",
+    "headword": "pengabesan",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "penghabisan"
+      }
+    ],
+    "examples": [
+      {
+        "text": "ene pengabesan aut",
+        "translation_id": "itu penghabisan sudah"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-213; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-213.txt",
+      "page": 204,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "pe.nga.be.san"
+  },
+  {
+    "id": "paser-002359",
+    "headword": "pengalaman",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "pengalaman"
+      }
+    ],
+    "examples": [
+      {
+        "text": "iyo deo pengalaman",
+        "translation_id": "dia banyak pengalaman"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-213; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-213.txt",
+      "page": 204,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "pe.nga.la.man"
+  },
+  {
+    "id": "paser-002360",
+    "headword": "pengantén",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "pengantin"
+      }
+    ],
+    "examples": [
+      {
+        "text": "ulun pengantén",
+        "translation_id": "orang pengantin"
+      }
+    ],
+    "variants": [],
+    "subentries": [
+      {
+        "label": "pinangantén",
+        "part_of_speech": "verb",
+        "translations": [
+          {
+            "language": "id",
+            "text": "dinikahkan"
+          }
+        ],
+        "examples": [
+          {
+            "text": "penganten ene pinangantén pore",
+            "translation_id": "pengantin itu dinikahkan kemarin"
+          }
+        ],
+        "variants": [],
+        "syllable_form": "pi.na.ngan.tén"
+      }
+    ],
+    "notes": "OCR page-213; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-213.txt",
+      "page": 204,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "pe.ngan.tén"
+  },
+  {
+    "id": "paser-002361",
+    "headword": "pengaro",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "pengaruh"
+      }
+    ],
+    "examples": [
+      {
+        "text": "iyo kala pengaro",
+        "translation_id": "dia kalah pengaruh"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-213; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-213.txt",
+      "page": 204,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "pe.nga.ro"
+  },
+  {
+    "id": "paser-002362",
+    "headword": "pengasu",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "pemburu bertombak"
+      }
+    ],
+    "examples": [
+      {
+        "text": "iyo pengasu",
+        "translation_id": "dia pemburu bertombak"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-213; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-213.txt",
+      "page": 204,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "pe.nga.su"
+  },
+  {
+    "id": "paser-002363",
+    "headword": "pengemai",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "kemaluan"
+      }
+    ],
+    "examples": [
+      {
+        "text": "pengemai peya ene boar",
+        "translation_id": "kemaluan anak itu sakit"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-213; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-213.txt",
+      "page": 204,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "pe.nge.mai"
+  },
+  {
+    "id": "paser-002364",
+    "headword": "pengéran",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "pangeran"
+      }
+    ],
+    "examples": [
+      {
+        "text": "iyo pengéran yo buen kesong",
+        "translation_id": "dia pangeran yang baik hati"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-213; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-213.txt",
+      "page": 204,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "pe.ngé.ran"
+  },
+  {
+    "id": "paser-002365",
+    "headword": "pengerat",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "balok untuk kuda-kuda bangunan"
+      }
+    ],
+    "examples": [
+      {
+        "text": "bapak masang pengerat",
+        "translation_id": "bapak memasang pengerat"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-213; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-213.txt",
+      "page": 204,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "pe.nge.rat"
+  },
+  {
+    "id": "paser-002366",
+    "headword": "penggawa",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "punggawa; pengusaha"
+      }
+    ],
+    "examples": [
+      {
+        "text": "ulun ene penggawa",
+        "translation_id": "orang itu pengusaha"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-213; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-213.txt",
+      "page": 204,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "pe.ng.ga.wa"
+  },
+  {
+    "id": "paser-002367",
+    "headword": "pengisa",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "perajuk"
+      }
+    ],
+    "examples": [
+      {
+        "text": "ulun iyo pengisa",
+        "translation_id": "orangnya perajuk"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-213; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-213.txt",
+      "page": 204,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "pe.ngi.sa"
+  },
+  {
+    "id": "paser-002368",
+    "headword": "pengkaté",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "daya upaya"
+      }
+    ],
+    "examples": [
+      {
+        "text": "iyo berasil diang pengkaté yo",
+        "translation_id": "dia sukses dengan daya upayanya"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-213; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-213.txt",
+      "page": 204,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "peng.ka.té"
+  },
+  {
+    "id": "paser-002369",
+    "headword": "pengkono",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "orang yang kena musibah"
+      }
+    ],
+    "examples": [],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-213; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-213.txt",
+      "page": 204,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "peng.ko.no"
+  },
+  {
+    "id": "paser-002370",
+    "headword": "pengorus",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "penggerus"
+      }
+    ],
+    "examples": [
+      {
+        "text": "alat ene pengorus",
+        "translation_id": "alat itu penggerus"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-213; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-213.txt",
+      "page": 204,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "pe.ngo.rus"
+  },
+  {
+    "id": "paser-002371",
+    "headword": "pengulu",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "penghulu"
+      }
+    ],
+    "examples": [
+      {
+        "text": "pengulu ente begawi ente ngenika ulun",
+        "translation_id": "penghulu bertugas untuk menikahkan orang"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-213; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-213.txt",
+      "page": 204,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "pe.ngu.lu"
+  },
+  {
+    "id": "paser-002372",
+    "headword": "pengumuman",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "pengumuman"
+      }
+    ],
+    "examples": [
+      {
+        "text": "aku embaca pengumuman",
+        "translation_id": "saya membaca pengumuman"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-213; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-213.txt",
+      "page": 204,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "pe.ngu.mu.man"
+  },
+  {
+    "id": "paser-002373",
+    "headword": "penjaluk",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "galah"
+      }
+    ],
+    "examples": [
+      {
+        "text": "udah nampa penjaluk",
+        "translation_id": "paman membuat galah"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-213; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-213.txt",
+      "page": 204,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "pen.ja.luk"
+  },
+  {
+    "id": "paser-002374",
+    "headword": "penting",
+    "language": "paser",
+    "part_of_speech": "adjective",
+    "translations": [
+      {
+        "language": "id",
+        "text": "penting"
+      }
+    ],
+    "examples": [
+      {
+        "text": "penting beta kabar ene",
+        "translation_id": "penting sekali berita itu"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-213; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-213.txt",
+      "page": 204,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "pen.ting"
+  },
+  {
+    "id": "paser-002375",
+    "headword": "penyakap",
+    "language": "paser",
+    "part_of_speech": "adjective",
+    "translations": [
+      {
+        "language": "id",
+        "text": "kikir; pelit"
+      }
+    ],
+    "examples": [
+      {
+        "text": "ulun iyo penyakap",
+        "translation_id": "orangnya kikir"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-213; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-213.txt",
+      "page": 204,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "pe.nya.kap"
+  },
+  {
+    "id": "paser-002376",
+    "headword": "penyek",
+    "language": "paser",
+    "part_of_speech": "adjective",
+    "translations": [
+      {
+        "language": "id",
+        "text": "penyok"
+      }
+    ],
+    "examples": [
+      {
+        "text": "penyek kono toda",
+        "translation_id": "penyok kena injak"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-213; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-213.txt",
+      "page": 204,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "pe.nyek"
+  },
+  {
+    "id": "paser-002377",
+    "headword": "penyeliput",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "selimut"
+      }
+    ],
+    "examples": [
+      {
+        "text": "aku turi makai penyeliput",
+        "translation_id": "saya tidur memakai selimut"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-213; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-213.txt",
+      "page": 204,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "pe.nye.li.put"
+  },
+  {
+    "id": "paser-002378",
+    "headword": "penyu",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "penyu"
+      }
+    ],
+    "examples": [
+      {
+        "text": "aku ngamu penyu",
+        "translation_id": "saya memelihara penyu"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-213; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-213.txt",
+      "page": 204,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "pe.nyu"
+  },
+  {
+    "id": "paser-002379",
+    "headword": "penyusu",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "sutil"
+      }
+    ],
+    "examples": [
+      {
+        "text": "mena moli penyusu",
+        "translation_id": "bibi membeli sutil"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-213; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-213.txt",
+      "page": 204,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "pe.nyu.su"
+  },
+  {
+    "id": "paser-002380",
+    "headword": "pépai",
+    "language": "paser",
+    "part_of_speech": "adjective",
+    "translations": [
+      {
+        "language": "id",
+        "text": "datar"
+      }
+    ],
+    "examples": [
+      {
+        "text": "tanayo pépai",
+        "translation_id": "tanahnya datar"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-213; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-213.txt",
+      "page": 204,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "pé.pai"
+  },
+  {
+    "id": "paser-002381",
+    "headword": "pepek",
+    "language": "paser",
+    "part_of_speech": "verb",
+    "translations": [
+      {
+        "language": "id",
+        "text": "pukul pada paku"
+      }
+    ],
+    "examples": [
+      {
+        "text": "pepek paku ene",
+        "translation_id": "pukul paku itu"
+      }
+    ],
+    "variants": [],
+    "subentries": [
+      {
+        "label": "mepek",
+        "part_of_speech": "verb",
+        "translations": [
+          {
+            "language": "id",
+            "text": "memukul paku; memaku"
+          }
+        ],
+        "examples": [
+          {
+            "text": "uda mepek dinding",
+            "translation_id": "paman memaku dinding"
+          }
+        ],
+        "variants": [],
+        "syllable_form": "me.pek"
+      },
+      {
+        "label": "penepek",
+        "part_of_speech": "verb",
+        "translations": [
+          {
+            "language": "id",
+            "text": "dipukul paku; dipaku"
+          }
+        ],
+        "examples": [
+          {
+            "text": "enjele ene penepek",
+            "translation_id": "jendela itu dipaku"
+          }
+        ],
+        "variants": [],
+        "syllable_form": "pe.ne.pek"
+      }
+    ],
+    "notes": "OCR page-214; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-214.txt",
+      "page": 205,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "pe.pek"
+  },
+  {
+    "id": "paser-002382",
+    "headword": "pér",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "per; pegas"
+      }
+    ],
+    "examples": [
+      {
+        "text": "bapa moli pér mobel",
+        "translation_id": "bapak membeli per mobil"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-214; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-214.txt",
+      "page": 205,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    }
+  },
+  {
+    "id": "paser-002383",
+    "headword": "perada",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "cat"
+      }
+    ],
+    "examples": [
+      {
+        "text": "perada mea",
+        "translation_id": "cat warna merah"
+      }
+    ],
+    "variants": [],
+    "subentries": [
+      {
+        "label": "merada",
+        "part_of_speech": "verb",
+        "translations": [
+          {
+            "language": "id",
+            "text": "mengecat"
+          }
+        ],
+        "examples": [
+          {
+            "text": "aku merada lou dato",
+            "translation_id": "saya mengecat rumah kakek"
+          }
+        ],
+        "variants": [],
+        "syllable_form": "me.ra.da"
+      },
+      {
+        "label": "pinarada",
+        "part_of_speech": "verb",
+        "translations": [
+          {
+            "language": "id",
+            "text": "dicat"
+          }
+        ],
+        "examples": [
+          {
+            "text": "pagar ene pinarada bura",
+            "translation_id": "pagar itu dicat putih"
+          }
+        ],
+        "variants": [],
+        "syllable_form": "pi.na.ra.da"
+      }
+    ],
+    "notes": "OCR page-214; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-214.txt",
+      "page": 205,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "pe.ra.da"
+  },
+  {
+    "id": "paser-002384",
+    "headword": "perai",
+    "language": "paser",
+    "part_of_speech": "verb",
+    "translations": [
+      {
+        "language": "id",
+        "text": "libur"
+      }
+    ],
+    "examples": [
+      {
+        "text": "olo perai",
+        "translation_id": "hari libur"
+      }
+    ],
+    "variants": [],
+    "subentries": [
+      {
+        "label": "penerai",
+        "part_of_speech": "verb",
+        "translations": [
+          {
+            "language": "id",
+            "text": "diliburkan"
+          }
+        ],
+        "examples": [
+          {
+            "text": "peya sekola penerai",
+            "translation_id": "anak sekolah diliburkan"
+          }
+        ],
+        "variants": [],
+        "syllable_form": "pe.ne.rai"
+      }
+    ],
+    "notes": "OCR page-214; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-214.txt",
+      "page": 205,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "pe.rai"
+  },
+  {
+    "id": "paser-002385",
+    "headword": "perak",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "perak"
+      }
+    ],
+    "examples": [
+      {
+        "text": "guci ene tenampa perak",
+        "translation_id": "guci itu terbuat dari perak"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-214; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-214.txt",
+      "page": 205,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "pe.rak"
+  },
+  {
+    "id": "paser-002386",
+    "headword": "peram",
+    "language": "paser",
+    "part_of_speech": "verb",
+    "translations": [
+      {
+        "language": "id",
+        "text": "simpan supaya masak; memeram"
+      }
+    ],
+    "examples": [
+      {
+        "text": "peram apan ensak",
+        "translation_id": "peram supaya masak"
+      }
+    ],
+    "variants": [],
+    "subentries": [
+      {
+        "label": "meram",
+        "part_of_speech": "verb",
+        "translations": [
+          {
+            "language": "id",
+            "text": "memeram"
+          }
+        ],
+        "examples": [
+          {
+            "text": "aku meram mangga",
+            "translation_id": "saya memeram mangga"
+          }
+        ],
+        "variants": [],
+        "syllable_form": "me.ram"
+      },
+      {
+        "label": "peneram",
+        "part_of_speech": "verb",
+        "translations": [
+          {
+            "language": "id",
+            "text": "diperam"
+          }
+        ],
+        "examples": [
+          {
+            "text": "nangka belanda ene peneram",
+            "translation_id": "sirsak itu diperam"
+          }
+        ],
+        "variants": [],
+        "syllable_form": "pe.ne.ram"
+      }
+    ],
+    "notes": "OCR page-214; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-214.txt",
+      "page": 205,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "pe.ram"
+  },
+  {
+    "id": "paser-002387",
+    "headword": "perampu",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "barang; perkakas"
+      }
+    ],
+    "examples": [
+      {
+        "text": "bapa moli perampu",
+        "translation_id": "bapak membeli perkakas"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-214; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-214.txt",
+      "page": 205,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "pe.ram.pu"
+  },
+  {
+    "id": "paser-002388",
+    "headword": "perang",
+    "language": "paser",
+    "part_of_speech": "verb",
+    "translations": [
+      {
+        "language": "id",
+        "text": "perang"
+      }
+    ],
+    "examples": [
+      {
+        "text": "perang baku tembak",
+        "translation_id": "perang saling tembak"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-214; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-214.txt",
+      "page": 205,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "pe.rang"
+  },
+  {
+    "id": "paser-002389",
+    "headword": "perangai",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "watak; sifat; tingkah laku; tabiat"
+      }
+    ],
+    "examples": [
+      {
+        "text": "buen perangai yo",
+        "translation_id": "bagus sifatnya"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-214; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-214.txt",
+      "page": 205,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "pe.ra.ngai"
+  },
+  {
+    "id": "paser-002390",
+    "headword": "perangko",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "perangko"
+      }
+    ],
+    "examples": [
+      {
+        "text": "surat itu pakai perangko",
+        "translation_id": "surat itu pakai perangko"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-214; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-214.txt",
+      "page": 205,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "pe.rang.ko"
+  },
+  {
+    "id": "paser-002391",
+    "headword": "pérasat",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "firasat"
+      }
+    ],
+    "examples": [
+      {
+        "text": "keo pérasat botok",
+        "translation_id": "ada firasat buruk"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-214; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-214.txt",
+      "page": 205,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "pé.ra.sat"
+  },
+  {
+    "id": "paser-002392",
+    "headword": "perau",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "perahu; biduk"
+      }
+    ],
+    "examples": [
+      {
+        "text": "iyo takut dombo perau",
+        "translation_id": "dia takut naik perahu"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-214; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-214.txt",
+      "page": 205,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "pe.ra.u"
+  },
+  {
+    "id": "paser-002393",
+    "headword": "percaya",
+    "language": "paser",
+    "part_of_speech": "verb",
+    "translations": [
+      {
+        "language": "id",
+        "text": "percaya"
+      }
+    ],
+    "examples": [
+      {
+        "text": "belo percaya entang ulun",
+        "translation_id": "tidak percaya kata orang"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-214; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-214.txt",
+      "page": 205,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "per.ca.ya"
+  },
+  {
+    "id": "paser-002394",
+    "headword": "percik",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "percikan"
+      }
+    ],
+    "examples": [
+      {
+        "text": "kono percik danum",
+        "translation_id": "kena percikan air"
+      }
+    ],
+    "variants": [],
+    "subentries": [
+      {
+        "label": "mamurecik",
+        "part_of_speech": "verb",
+        "translations": [
+          {
+            "language": "id",
+            "text": "memercik"
+          }
+        ],
+        "examples": [
+          {
+            "text": "dukun mamurecik danum yo tenangai po ulun mekom",
+            "translation_id": "dukun itu memercik air yang sudah dimantrai kepada orang sakit"
+          }
+        ],
+        "variants": [],
+        "syllable_form": "ma.mu.re.cik"
+      },
+      {
+        "label": "pinarecik",
+        "part_of_speech": "verb",
+        "translations": [
+          {
+            "language": "id",
+            "text": "dipercik"
+          }
+        ],
+        "examples": [
+          {
+            "text": "ulun ene pinarecik danum koe dukun",
+            "translation_id": "orang itu dipercik air oleh dukun"
+          }
+        ],
+        "variants": [],
+        "syllable_form": "pi.na.re.cik"
+      }
+    ],
+    "notes": "OCR page-214; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-214.txt",
+      "page": 205,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "per.cik"
+  },
+  {
+    "id": "paser-002395",
+    "headword": "percis",
+    "language": "paser",
+    "part_of_speech": "adjective",
+    "translations": [
+      {
+        "language": "id",
+        "text": "persis"
+      }
+    ],
+    "examples": [
+      {
+        "text": "percis beta nauyo",
+        "translation_id": "persis sekali wajahnya"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-215; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-215.txt",
+      "page": 206,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "per.cis"
+  },
+  {
+    "id": "paser-002396",
+    "headword": "perdu",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "fardu; wajib"
+      }
+    ],
+    "examples": [
+      {
+        "text": "sembayang perdu",
+        "translation_id": "sembahyang fardu wajib"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-215; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-215.txt",
+      "page": 206,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "per.du"
+  },
+  {
+    "id": "paser-002397",
+    "headword": "peregam",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "burung pergam"
+      }
+    ],
+    "examples": [
+      {
+        "text": "andi ngamu peregam",
+        "translation_id": "kakak memelihara burung pergam"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-215; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-215.txt",
+      "page": 206,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "pe.re.gam"
+  },
+  {
+    "id": "paser-002398",
+    "headword": "perékét",
+    "language": "paser",
+    "part_of_speech": "adjective",
+    "translations": [
+      {
+        "language": "id",
+        "text": "merekat; lengket"
+      }
+    ],
+    "examples": [
+      {
+        "text": "perékét kono lem",
+        "translation_id": "merekat kena lem"
+      }
+    ],
+    "variants": [],
+    "subentries": [
+      {
+        "label": "merékét",
+        "part_of_speech": "adjective",
+        "translations": [
+          {
+            "language": "id",
+            "text": "merekat; melengket"
+          }
+        ],
+        "examples": [
+          {
+            "text": "buyang ene merékét mo meja",
+            "translation_id": "kertas itu melengket di meja"
+          }
+        ],
+        "variants": [],
+        "syllable_form": "me.ré.két"
+      },
+      {
+        "label": "pinarékét",
+        "part_of_speech": "adjective",
+        "translations": [
+          {
+            "language": "id",
+            "text": "direkatkan; dilengketkan"
+          }
+        ],
+        "examples": [
+          {
+            "text": "gambar ene pinarékét mo dinding",
+            "translation_id": "gambar itu direkatkan di dinding"
+          }
+        ],
+        "variants": [],
+        "syllable_form": "pi.na.ré.két"
+      }
+    ],
+    "notes": "OCR page-215; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-215.txt",
+      "page": 206,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "pe.ré.két"
+  },
+  {
+    "id": "paser-002399",
+    "headword": "perekung",
+    "language": "paser",
+    "part_of_speech": "verb",
+    "translations": [
+      {
+        "language": "id",
+        "text": "bekuk"
+      }
+    ],
+    "examples": [
+      {
+        "text": "iyo kono perekung",
+        "translation_id": "dia kena bekuk"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-215; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-215.txt",
+      "page": 206,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "pe.re.kung"
+  },
+  {
+    "id": "paser-002400",
+    "headword": "peren",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "umpama; ibarat; misal; contoh"
+      }
+    ],
+    "examples": [
+      {
+        "text": "peren yo",
+        "translation_id": "umpamanya"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-215; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-215.txt",
+      "page": 206,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "pe.ren"
+  },
+  {
+    "id": "paser-002401",
+    "headword": "peréndé",
+    "language": "paser",
+    "part_of_speech": "verb",
+    "translations": [
+      {
+        "language": "id",
+        "text": "igau; mengigau"
+      }
+    ],
+    "examples": [
+      {
+        "text": "ulun ene ena turi peréndé",
+        "translation_id": "orang itu kalau tidur mengigau"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-215; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-215.txt",
+      "page": 206,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "pe.rén.dé"
+  },
+  {
+    "id": "paser-002402",
+    "headword": "peréntah",
+    "language": "paser",
+    "part_of_speech": "verb",
+    "translations": [
+      {
+        "language": "id",
+        "text": "perintah"
+      }
+    ],
+    "examples": [
+      {
+        "text": "peréntah ulun",
+        "translation_id": "perintah orang"
+      }
+    ],
+    "variants": [],
+    "subentries": [
+      {
+        "label": "meréntah",
+        "part_of_speech": "verb",
+        "translations": [
+          {
+            "language": "id",
+            "text": "memerintah"
+          }
+        ],
+        "examples": [
+          {
+            "text": "pembakal meréntah pananyo ente empolo",
+            "translation_id": "Pak Lurah memerintah warga untuk gotong royong"
+          }
+        ],
+        "variants": [],
+        "syllable_form": "me.rén.tah"
+      },
+      {
+        "label": "pinoréntah",
+        "part_of_speech": "verb",
+        "translations": [
+          {
+            "language": "id",
+            "text": "diperintah"
+          }
+        ],
+        "examples": [
+          {
+            "text": "ena pinoréntah bayu kakan begawi",
+            "translation_id": "kalau diperintah baru mau bekerja"
+          }
+        ],
+        "variants": [],
+        "syllable_form": "pi.no.rén.tah"
+      },
+      {
+        "label": "pemeréntah",
+        "part_of_speech": "noun",
+        "translations": [
+          {
+            "language": "id",
+            "text": "pemerintah"
+          }
+        ],
+        "examples": [
+          {
+            "text": "kantor ene tinangkuwat koe pemeréntah",
+            "translation_id": "kantor itu dibangun oleh pemerintah"
+          }
+        ],
+        "variants": [],
+        "syllable_form": "pe.me.rén.tah"
+      }
+    ],
+    "notes": "OCR page-215; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-215.txt",
+      "page": 206,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "pe.rén.tah"
+  },
+  {
+    "id": "paser-002403",
+    "headword": "perenye",
+    "language": "paser",
+    "part_of_speech": "adjective",
+    "translations": [
+      {
+        "language": "id",
+        "text": "cengeng; suka menangis"
+      }
+    ],
+    "examples": [
+      {
+        "text": "peyayo perenye",
+        "translation_id": "anaknya cengeng"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-215; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-215.txt",
+      "page": 206,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "pe.re.nye"
+  },
+  {
+    "id": "paser-002404",
+    "headword": "pérés",
+    "language": "paser",
+    "part_of_speech": "verb",
+    "translations": [
+      {
+        "language": "id",
+        "text": "iris; sayat"
+      }
+    ],
+    "examples": [],
+    "variants": [],
+    "subentries": [
+      {
+        "label": "mirés",
+        "part_of_speech": "verb",
+        "translations": [
+          {
+            "language": "id",
+            "text": "mengiris; menyayat"
+          }
+        ],
+        "examples": [
+          {
+            "text": "ema mirés bawang",
+            "translation_id": "ibu mengiris bawang"
+          }
+        ],
+        "variants": [],
+        "syllable_form": "mi.rés"
+      }
+    ],
+    "notes": "OCR page-215; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-215.txt",
+      "page": 206,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "pé.rés"
+  },
+  {
+    "id": "paser-002405",
+    "headword": "peresa",
+    "language": "paser",
+    "part_of_speech": "verb",
+    "translations": [
+      {
+        "language": "id",
+        "text": "periksa; koreksi; sensor"
+      }
+    ],
+    "examples": [
+      {
+        "text": "iyo masang alat peresa",
+        "translation_id": "dia memasang alat sensor"
+      }
+    ],
+    "variants": [],
+    "subentries": [
+      {
+        "label": "mesa",
+        "part_of_speech": "verb",
+        "translations": [
+          {
+            "language": "id",
+            "text": "memeriksa; mengoreksi"
+          }
+        ],
+        "examples": [
+          {
+            "text": "pak guru mesa soal ujian",
+            "translation_id": "pak guru memeriksa soal ujian"
+          }
+        ],
+        "variants": [],
+        "syllable_form": "me.sa"
+      },
+      {
+        "label": "memesa",
+        "part_of_speech": "verb",
+        "translations": [
+          {
+            "language": "id",
+            "text": "memeriksa; mengoreksi"
+          }
+        ],
+        "examples": [
+          {
+            "text": "pak guru memesa soal ujian",
+            "translation_id": "pak guru memeriksa soal ujian"
+          }
+        ],
+        "variants": [],
+        "syllable_form": "me.me.sa"
+      },
+      {
+        "label": "pinoresa",
+        "part_of_speech": "verb",
+        "translations": [
+          {
+            "language": "id",
+            "text": "diperiksa; dikoreksi"
+          }
+        ],
+        "examples": [
+          {
+            "text": "ulun ene pinoresa pelisi",
+            "translation_id": "orang itu diperiksa polisi"
+          }
+        ],
+        "variants": [],
+        "syllable_form": "pi.no.re.sa"
+      }
+    ],
+    "notes": "OCR page-215; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-215.txt",
+      "page": 206,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "pe.re.sa"
+  },
+  {
+    "id": "paser-002406",
+    "headword": "peresekot",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "persekot; panjar"
+      }
+    ],
+    "examples": [
+      {
+        "text": "iyo tindu peresekot",
+        "translation_id": "dia meminta persekot"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-216; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-216.txt",
+      "page": 207,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "pe.re.se.kot"
+  },
+  {
+    "id": "paser-002407",
+    "headword": "perétél",
+    "language": "paser",
+    "part_of_speech": "verb",
+    "translations": [
+      {
+        "language": "id",
+        "text": "pereteli"
+      }
+    ],
+    "examples": [
+      {
+        "text": "perétél mesen mobel ene",
+        "translation_id": "pereteli mesin mobil itu"
+      }
+    ],
+    "variants": [],
+    "subentries": [
+      {
+        "label": "merétél",
+        "part_of_speech": "verb",
+        "translations": [
+          {
+            "language": "id",
+            "text": "mereteli"
+          }
+        ],
+        "examples": [
+          {
+            "text": "iyo merétél sepedayo",
+            "translation_id": "dia memereteli sepedanya"
+          }
+        ],
+        "variants": [],
+        "syllable_form": "me.ré.tél"
+      },
+      {
+        "label": "pinorétél",
+        "part_of_speech": "verb",
+        "translations": [
+          {
+            "language": "id",
+            "text": "dipereteli"
+          }
+        ],
+        "examples": [
+          {
+            "text": "redio ene pinorétél",
+            "translation_id": "radio itu dipereteli"
+          }
+        ],
+        "variants": [],
+        "syllable_form": "pi.no.ré.tél"
+      }
+    ],
+    "notes": "OCR page-216; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-216.txt",
+      "page": 207,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "pe.ré.tél"
+  },
+  {
+    "id": "paser-002408",
+    "headword": "péri",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "feri"
+      }
+    ],
+    "examples": [
+      {
+        "text": "dero dombo péri po Balikpapan",
+        "translation_id": "mereka naik feri ke Balikpapan"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-216; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-216.txt",
+      "page": 207,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "pé.ri"
+  },
+  {
+    "id": "paser-002409",
+    "headword": "peria",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "peria"
+      }
+    ],
+    "examples": [
+      {
+        "text": "itak tuju kuman deli peria",
+        "translation_id": "nenek suka makan sayur peria"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-216; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-216.txt",
+      "page": 207,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "pe.ri.a"
+  },
+  {
+    "id": "paser-002410",
+    "headword": "petibasa",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "peribahasa"
+      }
+    ],
+    "examples": [
+      {
+        "text": "aku nyusun petibasa Paser",
+        "translation_id": "saya menyusun peribahasa Paser"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-216; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-216.txt",
+      "page": 207,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "pe.ti.ba.sa"
+  },
+  {
+    "id": "paser-002411",
+    "headword": "perijak",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "pohon atau buah kemiri"
+      }
+    ],
+    "examples": [
+      {
+        "text": "mena nutu perijak",
+        "translation_id": "bibi menumbuk buah kemiri"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-216; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-216.txt",
+      "page": 207,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "pe.ri.jak"
+  },
+  {
+    "id": "paser-002412",
+    "headword": "pering",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "bambu paring"
+      }
+    ],
+    "examples": [
+      {
+        "text": "bapa notou pering",
+        "translation_id": "bapak menebang bambu pering"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-216; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-216.txt",
+      "page": 207,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "pe.ring"
+  },
+  {
+    "id": "paser-002413",
+    "headword": "periuk",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "periuk"
+      }
+    ],
+    "examples": [
+      {
+        "text": "periuk kenceng ene boncor",
+        "translation_id": "periuk nasi itu bocor"
+      }
+    ],
+    "variants": [],
+    "subentries": [
+      {
+        "label": "periyuk",
+        "part_of_speech": "noun",
+        "translations": [
+          {
+            "language": "id",
+            "text": "periuk"
+          }
+        ],
+        "examples": [
+          {
+            "text": "periyuk kenceng ene boncor",
+            "translation_id": "periuk nasi itu bocor"
+          }
+        ],
+        "variants": [],
+        "syllable_form": "pe.ri.yuk"
+      }
+    ],
+    "notes": "OCR page-216; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-216.txt",
+      "page": 207,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "pe.ri.uk"
+  },
+  {
+    "id": "paser-002414",
+    "headword": "perkara",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "perkara"
+      }
+    ],
+    "examples": [
+      {
+        "text": "perkara ene sulit beta",
+        "translation_id": "perkara itu sulit sekali"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-216; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-216.txt",
+      "page": 207,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "per.ka.ra"
+  },
+  {
+    "id": "paser-002415",
+    "headword": "perkosa",
+    "language": "paser",
+    "part_of_speech": "verb",
+    "translations": [
+      {
+        "language": "id",
+        "text": "perkosa"
+      }
+    ],
+    "examples": [],
+    "variants": [],
+    "subentries": [
+      {
+        "label": "merkosa",
+        "part_of_speech": "verb",
+        "translations": [
+          {
+            "language": "id",
+            "text": "memerkosa"
+          }
+        ],
+        "examples": [
+          {
+            "text": "iyo merkosa bawe burok",
+            "translation_id": "dia memerkosa anak gadis"
+          }
+        ],
+        "variants": [],
+        "syllable_form": "mer.ko.sa"
+      },
+      {
+        "label": "pinarkosa",
+        "part_of_speech": "verb",
+        "translations": [
+          {
+            "language": "id",
+            "text": "diperkosa"
+          }
+        ],
+        "examples": [
+          {
+            "text": "bawe burok ene pinarkosa",
+            "translation_id": "anak gadis itu diperkosa"
+          }
+        ],
+        "variants": [],
+        "syllable_form": "pi.nar.ko.sa"
+      }
+    ],
+    "notes": "OCR page-216; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-216.txt",
+      "page": 207,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "per.ko.sa"
+  },
+  {
+    "id": "paser-002416",
+    "headword": "perlu",
+    "language": "paser",
+    "part_of_speech": "adverb",
+    "translations": [
+      {
+        "language": "id",
+        "text": "perlu"
+      }
+    ],
+    "examples": [
+      {
+        "text": "ene pian perlu",
+        "translation_id": "itu belum perlu"
+      }
+    ],
+    "variants": [],
+    "subentries": [
+      {
+        "label": "perelu",
+        "part_of_speech": "adverb",
+        "translations": [
+          {
+            "language": "id",
+            "text": "perlu"
+          }
+        ],
+        "examples": [
+          {
+            "text": "ene pian perelu",
+            "translation_id": "itu belum perlu"
+          }
+        ],
+        "variants": [],
+        "syllable_form": "pe.re.lu"
+      },
+      {
+        "label": "keperluan",
+        "part_of_speech": "noun",
+        "translations": [
+          {
+            "language": "id",
+            "text": "kebutuhan"
+          }
+        ],
+        "examples": [
+          {
+            "text": "deo keperluanyo",
+            "translation_id": "banyak kebutuhannya"
+          }
+        ],
+        "variants": [],
+        "syllable_form": "ke.per.lu.an"
+      }
+    ],
+    "notes": "OCR page-216; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-216.txt",
+      "page": 207,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "per.lu"
+  },
+  {
+    "id": "paser-002417",
+    "headword": "peroda",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "jeratan; jebakan"
+      }
+    ],
+    "examples": [
+      {
+        "text": "uda nampa peroda empulu",
+        "translation_id": "paman membuat jeratan burung"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-216; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-216.txt",
+      "page": 207,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "pe.ro.da"
+  },
+  {
+    "id": "paser-002418",
+    "headword": "perot",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "bentuk tidak lurus"
+      }
+    ],
+    "examples": [
+      {
+        "text": "perot pelengkok",
+        "translation_id": "bentuk bengkok-bengkok tidak lurus"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-216; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-216.txt",
+      "page": 207,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "pe.rot"
+  },
+  {
+    "id": "paser-002419",
+    "headword": "perotés",
+    "language": "paser",
+    "part_of_speech": "verb",
+    "translations": [
+      {
+        "language": "id",
+        "text": "protes"
+      }
+    ],
+    "examples": [
+      {
+        "text": "kono perotés",
+        "translation_id": "kena protes"
+      }
+    ],
+    "variants": [],
+    "subentries": [
+      {
+        "label": "merotés",
+        "part_of_speech": "verb",
+        "translations": [
+          {
+            "language": "id",
+            "text": "memprotes"
+          }
+        ],
+        "examples": [
+          {
+            "text": "panan merotés pembakal",
+            "translation_id": "warga memprotes kepala desa"
+          }
+        ],
+        "variants": [],
+        "syllable_form": "me.ro.tés"
+      },
+      {
+        "label": "pinarotés",
+        "part_of_speech": "verb",
+        "translations": [
+          {
+            "language": "id",
+            "text": "diprotes"
+          }
+        ],
+        "examples": [
+          {
+            "text": "dero pinarotés",
+            "translation_id": "mereka diprotes"
+          }
+        ],
+        "variants": [],
+        "syllable_form": "pi.na.ro.tés"
+      }
+    ],
+    "notes": "OCR page-216; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-216.txt",
+      "page": 207,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "pe.ro.tés"
+  },
+  {
+    "id": "paser-002420",
+    "headword": "perunggu",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "perunggu"
+      }
+    ],
+    "examples": [
+      {
+        "text": "cincinyo perunggu",
+        "translation_id": "cincinnya dari perunggu"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-217; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-217.txt",
+      "page": 208,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "pe.rung.gu"
+  },
+  {
+    "id": "paser-002421",
+    "headword": "perupuk",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "jenis tumbuhan seperti bambu kecil dan pendek"
+      }
+    ],
+    "examples": [
+      {
+        "text": "bapa ngulo perupuk",
+        "translation_id": "bapak menanam perupuk"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-217; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-217.txt",
+      "page": 208,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "pe.ru.puk"
+  },
+  {
+    "id": "paser-002422",
+    "headword": "peruru",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "pusaran rambut"
+      }
+    ],
+    "examples": [
+      {
+        "text": "peruru duo",
+        "translation_id": "pusaran rambut dua"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-217; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-217.txt",
+      "page": 208,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "pe.ru.ru"
+  },
+  {
+    "id": "paser-002423",
+    "headword": "perutung",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "ikan dibakar di bara api"
+      }
+    ],
+    "examples": [
+      {
+        "text": "dato tuju kumanesa perutung",
+        "translation_id": "kakek suka makan ikan perutung"
+      }
+    ],
+    "variants": [],
+    "subentries": [
+      {
+        "label": "pinarutung",
+        "part_of_speech": "verb",
+        "translations": [
+          {
+            "language": "id",
+            "text": "dibakar pada bara api"
+          }
+        ],
+        "examples": [
+          {
+            "text": "esa ene pinarutung",
+            "translation_id": "ikan itu dibakar dengan bara api"
+          }
+        ],
+        "variants": [],
+        "syllable_form": "pi.na.ru.tung"
+      }
+    ],
+    "notes": "OCR page-217; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-217.txt",
+      "page": 208,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "pe.ru.tung"
+  },
+  {
+    "id": "paser-002424",
+    "headword": "perutung",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "pengeroyokan"
+      }
+    ],
+    "examples": [
+      {
+        "text": "dero perutung ulun",
+        "translation_id": "mereka pengeroyokan orang"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-217; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-217.txt",
+      "page": 208,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "pe.ru.tung"
+  },
+  {
+    "id": "paser-002425",
+    "headword": "pesaka",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "pusaka"
+      }
+    ],
+    "examples": [
+      {
+        "text": "aku ngedamet pesaka dato",
+        "translation_id": "saya mendapat pusaka dari kakek"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-217; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-217.txt",
+      "page": 208,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "pe.sa.ka"
+  },
+  {
+    "id": "paser-002426",
+    "headword": "pe’san",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "alat pemeras tebu"
+      }
+    ],
+    "examples": [
+      {
+        "text": "uda moli pe’san",
+        "translation_id": "paman membeli pe’san"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-217; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-217.txt",
+      "page": 208,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "pe’.san"
+  },
+  {
+    "id": "paser-002427",
+    "headword": "pesek",
+    "language": "paser",
+    "part_of_speech": "adjective",
+    "translations": [
+      {
+        "language": "id",
+        "text": "pesek"
+      }
+    ],
+    "examples": [
+      {
+        "text": "urungyo pesek",
+        "translation_id": "hidungnya pesek"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-217; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-217.txt",
+      "page": 208,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "pe.sek"
+  },
+  {
+    "id": "paser-002428",
+    "headword": "peseu",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "tongkol pisang"
+      }
+    ],
+    "examples": [
+      {
+        "text": "ema ngansok deli peseu",
+        "translation_id": "ibu memasak sayur tongkol pisang"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-217; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-217.txt",
+      "page": 208,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "pe.se.u"
+  },
+  {
+    "id": "paser-002429",
+    "headword": "pesikang",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "koreng"
+      }
+    ],
+    "examples": [
+      {
+        "text": "pesikang yo penuli",
+        "translation_id": "korengnya diobati"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-217; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-217.txt",
+      "page": 208,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "pe.si.kang"
+  },
+  {
+    "id": "paser-002430",
+    "headword": "pestul",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "pistol"
+      }
+    ],
+    "examples": [
+      {
+        "text": "pelisi nembak pakai pestul",
+        "translation_id": "polisi menembak menggunakan pistol"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-217; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-217.txt",
+      "page": 208,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "pes.tul"
+  },
+  {
+    "id": "paser-002431",
+    "headword": "pesusan",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "alat pemanas besi"
+      }
+    ],
+    "examples": [
+      {
+        "text": "uda moli pesusan",
+        "translation_id": "paman membeli pemanas besi"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-217; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-217.txt",
+      "page": 208,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "pe.su.san"
+  },
+  {
+    "id": "paser-002432",
+    "headword": "pesoro",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "pesuruh"
+      }
+    ],
+    "examples": [
+      {
+        "text": "iyo pesoro sekola",
+        "translation_id": "dia pesuruh sekolah"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-217; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-217.txt",
+      "page": 208,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "pe.so.ro"
+  },
+  {
+    "id": "paser-002433",
+    "headword": "peta",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "peta"
+      }
+    ],
+    "examples": [
+      {
+        "text": "buyang ene peta boyan",
+        "translation_id": "kertas itu peta jalan"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-217; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-217.txt",
+      "page": 208,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "pe.ta"
+  },
+  {
+    "id": "paser-002434",
+    "headword": "petai",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "petai"
+      }
+    ],
+    "examples": [
+      {
+        "text": "mena tuju kuman petai",
+        "translation_id": "bibi suka makan petai"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-217; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-217.txt",
+      "page": 208,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "pe.tai"
+  },
+  {
+    "id": "paser-002435",
+    "headword": "petak",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "ikan lele"
+      }
+    ],
+    "examples": [
+      {
+        "text": "bapa nangop petak",
+        "translation_id": "bapak menangkap ikan lele"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-217; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-217.txt",
+      "page": 208,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "pe.tak"
+  },
+  {
+    "id": "paser-002436",
+    "headword": "petau",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "pematang sawah"
+      }
+    ],
+    "examples": [
+      {
+        "text": "uda nampa petau umo",
+        "translation_id": "paman membuat pematang sawah"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-217; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-217.txt",
+      "page": 208,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "pe.tau"
+  },
+  {
+    "id": "paser-002437",
+    "headword": "petelot",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "potlot; pensil"
+      }
+    ],
+    "examples": [
+      {
+        "text": "iyo nulis pakai petelot",
+        "translation_id": "dia menulis menggunakan pensil"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-217; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-217.txt",
+      "page": 208,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "pe.te.lot"
+  },
+  {
+    "id": "paser-002438",
+    "headword": "peterum",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "selongsong peluru"
+      }
+    ],
+    "examples": [
+      {
+        "text": "aku ngedamet peterum peluru",
+        "translation_id": "saya menemukan selongsong peluru"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-217; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-217.txt",
+      "page": 208,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "pe.te.rum"
+  },
+  {
+    "id": "paser-002439",
+    "headword": "petés",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "petis"
+      }
+    ],
+    "examples": [
+      {
+        "text": "petés udang ene buen kanam",
+        "translation_id": "petis udang itu enak"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-218; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-218.txt",
+      "page": 209,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "pe.tés"
+  },
+  {
+    "id": "paser-002440",
+    "headword": "petete",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "titian kayu; jembatan"
+      }
+    ],
+    "examples": [
+      {
+        "text": "dero malan lalo petete",
+        "translation_id": "mereka jalan melalui titian kayu"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-218; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-218.txt",
+      "page": 209,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "pe.te.te"
+  },
+  {
+    "id": "paser-002441",
+    "headword": "peti",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "peti"
+      }
+    ],
+    "examples": [
+      {
+        "text": "peti ene awa barang",
+        "translation_id": "peti itu tempat barang"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-218; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-218.txt",
+      "page": 209,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "pe.ti"
+  },
+  {
+    "id": "paser-002442",
+    "headword": "petik",
+    "language": "paser",
+    "part_of_speech": "verb",
+    "translations": [
+      {
+        "language": "id",
+        "text": "menabur untuk sesajian"
+      }
+    ],
+    "examples": [
+      {
+        "text": "petik bias lemit",
+        "translation_id": "menebar beras kuning"
+      }
+    ],
+    "variants": [],
+    "subentries": [
+      {
+        "label": "metik",
+        "part_of_speech": "verb",
+        "translations": [
+          {
+            "language": "id",
+            "text": "menaburkan sesajian"
+          }
+        ],
+        "examples": [
+          {
+            "text": "dero metik",
+            "translation_id": "mereka menaburkan sesajian"
+          }
+        ],
+        "variants": [],
+        "syllable_form": "me.tik"
+      },
+      {
+        "label": "penetik",
+        "part_of_speech": "verb",
+        "translations": [
+          {
+            "language": "id",
+            "text": "ditaburkan sesajian"
+          }
+        ],
+        "examples": [
+          {
+            "text": "mo loak ene penetik",
+            "translation_id": "di sungai itu ditaburkan sesajian"
+          }
+        ],
+        "variants": [],
+        "syllable_form": "pe.ne.tik"
+      }
+    ],
+    "notes": "OCR page-218; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-218.txt",
+      "page": 209,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "pe.tik"
+  },
+  {
+    "id": "paser-002443",
+    "headword": "petikang",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "koreng; borok"
+      }
+    ],
+    "examples": [
+      {
+        "text": "keo petikang mo botisyo",
+        "translation_id": "ada borok di kakinya"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-218; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-218.txt",
+      "page": 209,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "pe.ti.kang"
+  },
+  {
+    "id": "paser-002444",
+    "headword": "petikas",
+    "language": "paser",
+    "part_of_speech": "verb",
+    "translations": [
+      {
+        "language": "id",
+        "text": "melakukan sekuat tenaga"
+      }
+    ],
+    "examples": [
+      {
+        "text": "petikas kuman",
+        "translation_id": "makan sekuatnya"
+      }
+    ],
+    "variants": [],
+    "subentries": [
+      {
+        "label": "metikas",
+        "part_of_speech": "verb",
+        "translations": [
+          {
+            "language": "id",
+            "text": "melakukan sekuatnya"
+          }
+        ],
+        "examples": [
+          {
+            "text": "iyo begawi metikas",
+            "translation_id": "dia bekerja sekuat tenaga"
+          }
+        ],
+        "variants": [],
+        "syllable_form": "me.ti.kas"
+      },
+      {
+        "label": "pinatikas",
+        "part_of_speech": "verb",
+        "translations": [
+          {
+            "language": "id",
+            "text": "dilakukan sekuatnya"
+          }
+        ],
+        "examples": [
+          {
+            "text": "gawiyo pinatikas",
+            "translation_id": "pekerjaannya dilakukan sekuatnya"
+          }
+        ],
+        "variants": [],
+        "syllable_form": "pi.na.ti.kas"
+      }
+    ],
+    "notes": "OCR page-218; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-218.txt",
+      "page": 209,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "pe.ti.kas"
+  },
+  {
+    "id": "paser-002445",
+    "headword": "petiling",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "ilmu teluh; santet"
+      }
+    ],
+    "examples": [
+      {
+        "text": "iyo kono petiling",
+        "translation_id": "dia kena santet"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-218; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-218.txt",
+      "page": 209,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "pe.ti.ling"
+  },
+  {
+    "id": "paser-002446",
+    "headword": "petuah",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "petuah"
+      }
+    ],
+    "examples": [
+      {
+        "text": "aku ngeringo petuah dato",
+        "translation_id": "saya mendengar petuah kakek"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-218; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-218.txt",
+      "page": 209,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "pe.tu.ah"
+  },
+  {
+    "id": "paser-002447",
+    "headword": "péya",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "anak masih kecil; putra"
+      }
+    ],
+    "examples": [
+      {
+        "text": "okong aso péya",
+        "translation_id": "adik masih kecil bayi"
+      }
+    ],
+    "variants": [],
+    "subentries": [
+      {
+        "label": "péya-péya",
+        "part_of_speech": "noun",
+        "translations": [
+          {
+            "language": "id",
+            "text": "anak-anak"
+          }
+        ],
+        "examples": [
+          {
+            "text": "péya-péya empu main bal",
+            "translation_id": "anak-anak sedang bermain bola"
+          }
+        ],
+        "variants": [],
+        "syllable_form": "pé.ya-pé.ya"
+      },
+      {
+        "label": "nempéya",
+        "part_of_speech": "noun",
+        "translations": [
+          {
+            "language": "id",
+            "text": "ibu yang masih menyusui bayi"
+          }
+        ],
+        "examples": [
+          {
+            "text": "iyo tunge diang nempéya",
+            "translation_id": "dia duduk dengan ibu yang masih menyusui bayi"
+          }
+        ],
+        "variants": [],
+        "syllable_form": "nem.pé.ya"
+      },
+      {
+        "label": "tinampéya",
+        "part_of_speech": "verb",
+        "translations": [
+          {
+            "language": "id",
+            "text": "diperlakukan seperti anak-anak"
+          }
+        ],
+        "examples": [
+          {
+            "text": "iyo tinampéya",
+            "translation_id": "dia diperlakukan seperti anak-anak"
+          }
+        ],
+        "variants": [],
+        "syllable_form": "tinam.pé.ya"
+      }
+    ],
+    "notes": "OCR page-218; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-218.txt",
+      "page": 209,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "pé.ya"
+  },
+  {
+    "id": "paser-002448",
+    "headword": "peyang",
+    "language": "paser",
+    "part_of_speech": "adjective",
+    "translations": [
+      {
+        "language": "id",
+        "text": "warna pirang"
+      }
+    ],
+    "examples": [
+      {
+        "text": "baloyo peyang",
+        "translation_id": "rambutnya pirang"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-218; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-218.txt",
+      "page": 209,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "pe.yang"
+  },
+  {
+    "id": "paser-002449",
+    "headword": "pia",
+    "language": "paser",
+    "part_of_speech": "verb",
+    "translations": [
+      {
+        "language": "id",
+        "text": "peras"
+      }
+    ],
+    "examples": [
+      {
+        "text": "pia baju bosa ene apan koreng",
+        "translation_id": "peras baju basah itu supaya kering"
+      }
+    ],
+    "variants": [],
+    "subentries": [
+      {
+        "label": "mia",
+        "part_of_speech": "verb",
+        "translations": [
+          {
+            "language": "id",
+            "text": "memeras"
+          }
+        ],
+        "examples": [
+          {
+            "text": "eme mia kelapa",
+            "translation_id": "ibu memeras kelapa"
+          }
+        ],
+        "variants": [],
+        "syllable_form": "mi.a"
+      },
+      {
+        "label": "penia",
+        "part_of_speech": "verb",
+        "translations": [
+          {
+            "language": "id",
+            "text": "diperas"
+          }
+        ],
+        "examples": [
+          {
+            "text": "kelapa ene sundok penia",
+            "translation_id": "kelapa itu sudah diperas"
+          }
+        ],
+        "variants": [],
+        "syllable_form": "pe.ni.a"
+      }
+    ],
+    "notes": "OCR page-218; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-218.txt",
+      "page": 209,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "pi.a"
+  },
+  {
+    "id": "paser-002450",
+    "headword": "piak",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "ayam"
+      }
+    ],
+    "examples": [
+      {
+        "text": "piak ku bayu noli limo bua",
+        "translation_id": "ayamku baru bertelur lima biji"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-219; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-219.txt",
+      "page": 210,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "pi.ak"
+  },
+  {
+    "id": "paser-002451",
+    "headword": "piala",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "piala"
+      }
+    ],
+    "examples": [
+      {
+        "text": "andiku ngedamet piala",
+        "translation_id": "kakakku mendapat piala"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-219; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-219.txt",
+      "page": 210,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "pi.a.la"
+  },
+  {
+    "id": "paser-002452",
+    "headword": "pian",
+    "language": "paser",
+    "part_of_speech": "adverb",
+    "translations": [
+      {
+        "language": "id",
+        "text": "belum"
+      }
+    ],
+    "examples": [
+      {
+        "text": "iyo belo pian komas mekom",
+        "translation_id": "dia masih belum sembuh dari sakit"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-219; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-219.txt",
+      "page": 210,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "pi.an"
+  },
+  {
+    "id": "paser-002453",
+    "headword": "piara",
+    "language": "paser",
+    "part_of_speech": "verb",
+    "translations": [
+      {
+        "language": "id",
+        "text": "mengasuh; piara"
+      }
+    ],
+    "examples": [
+      {
+        "text": "uda piara peya pelulo",
+        "translation_id": "paman mengasuh anak yatim piatu"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-219; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-219.txt",
+      "page": 210,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "pi.a.ra"
+  },
+  {
+    "id": "paser-002454",
+    "headword": "pidana",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "pidana"
+      }
+    ],
+    "examples": [
+      {
+        "text": "ulun ene kono pidana",
+        "translation_id": "orang itu kena pidana"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-219; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-219.txt",
+      "page": 210,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "pi.da.na"
+  },
+  {
+    "id": "paser-002455",
+    "headword": "pikir",
+    "language": "paser",
+    "part_of_speech": "verb",
+    "translations": [
+      {
+        "language": "id",
+        "text": "pikir"
+      }
+    ],
+    "examples": [],
+    "variants": [],
+    "subentries": [
+      {
+        "label": "bepikir",
+        "part_of_speech": "verb",
+        "translations": [
+          {
+            "language": "id",
+            "text": "berpikir"
+          }
+        ],
+        "examples": [
+          {
+            "text": "iyo empu bepikir",
+            "translation_id": "dia sedang berpikir"
+          }
+        ],
+        "variants": [],
+        "syllable_form": "be.pi.kir"
+      },
+      {
+        "label": "mikir",
+        "part_of_speech": "verb",
+        "translations": [
+          {
+            "language": "id",
+            "text": "memikirkan"
+          }
+        ],
+        "examples": [
+          {
+            "text": "bapa mikir gawiyo",
+            "translation_id": "bapak memikirkan pekerjaannya"
+          }
+        ],
+        "variants": [],
+        "syllable_form": "mi.kir"
+      },
+      {
+        "label": "penikir",
+        "part_of_speech": "verb",
+        "translations": [
+          {
+            "language": "id",
+            "text": "dipikir"
+          }
+        ],
+        "examples": [
+          {
+            "text": "penikir dile bayu enggawi",
+            "translation_id": "dipikir dahulu baru mengerjakan"
+          }
+        ],
+        "variants": [],
+        "syllable_form": "pe.ni.kir"
+      }
+    ],
+    "notes": "OCR page-219; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-219.txt",
+      "page": 210,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "pi-kir"
+  },
+  {
+    "id": "paser-002456",
+    "headword": "pikot",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "lalat pengisap darah besar agak kebiruan"
+      }
+    ],
+    "examples": [
+      {
+        "text": "deo pikot mo lane",
+        "translation_id": "banyak pikot di sana"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-219; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-219.txt",
+      "page": 210,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "pi-kot"
+  },
+  {
+    "id": "paser-002457",
+    "headword": "pili",
+    "language": "paser",
+    "part_of_speech": "verb",
+    "translations": [
+      {
+        "language": "id",
+        "text": "pilih"
+      }
+    ],
+    "examples": [
+      {
+        "text": "pili iyo buen",
+        "translation_id": "pilih yang bagus"
+      }
+    ],
+    "variants": [],
+    "subentries": [
+      {
+        "label": "mili",
+        "part_of_speech": "verb",
+        "translations": [
+          {
+            "language": "id",
+            "text": "memilih"
+          }
+        ],
+        "examples": [
+          {
+            "text": "ema mili baju bayu",
+            "translation_id": "ibu memilih baju baru"
+          }
+        ],
+        "variants": [],
+        "syllable_form": "mi.li"
+      },
+      {
+        "label": "bepili",
+        "part_of_speech": "verb",
+        "translations": [
+          {
+            "language": "id",
+            "text": "memilih-milih"
+          }
+        ],
+        "examples": [
+          {
+            "text": "nang tuju bepili kawal",
+            "translation_id": "jangan suka memilih-milih teman"
+          }
+        ],
+        "variants": [],
+        "syllable_form": "be.pi.li"
+      },
+      {
+        "label": "sempili",
+        "part_of_speech": "verb",
+        "translations": [
+          {
+            "language": "id",
+            "text": "memilih dari beberapa pilihan"
+          }
+        ],
+        "examples": [
+          {
+            "text": "dero sempili",
+            "translation_id": "mereka memilih dari beberapa pilihan"
+          }
+        ],
+        "variants": [],
+        "syllable_form": "sem.pi.li"
+      },
+      {
+        "label": "penili",
+        "part_of_speech": "verb",
+        "translations": [
+          {
+            "language": "id",
+            "text": "dipilih"
+          }
+        ],
+        "examples": [
+          {
+            "text": "barang ene sundok penili",
+            "translation_id": "barang itu sudah dipilih"
+          }
+        ],
+        "variants": [],
+        "syllable_form": "pe.ni.li"
+      },
+      {
+        "label": "pilihan",
+        "part_of_speech": "noun",
+        "translations": [
+          {
+            "language": "id",
+            "text": "pilihan"
+          }
+        ],
+        "examples": [
+          {
+            "text": "iyo ene ulun pilihan",
+            "translation_id": "dia itu orang pilihan"
+          }
+        ],
+        "variants": [],
+        "syllable_form": "pi.li-han"
+      }
+    ],
+    "notes": "OCR page-219; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-219.txt",
+      "page": 210,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    }
+  },
+  {
+    "id": "paser-002458",
+    "headword": "pilin",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "linting"
+      }
+    ],
+    "examples": [],
+    "variants": [],
+    "subentries": [
+      {
+        "label": "milin",
+        "part_of_speech": "verb",
+        "translations": [
+          {
+            "language": "id",
+            "text": "melinting"
+          }
+        ],
+        "examples": [
+          {
+            "text": "dato empu milin roko",
+            "translation_id": "kakek sedang melinting rokok"
+          }
+        ],
+        "variants": [],
+        "syllable_form": "mi.lin"
+      }
+    ],
+    "notes": "OCR page-219; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-219.txt",
+      "page": 210,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "pi.lin"
+  },
+  {
+    "id": "paser-002459",
+    "headword": "pilis",
+    "language": "paser",
+    "part_of_speech": "adverb",
+    "translations": [
+      {
+        "language": "id",
+        "text": "selalu"
+      }
+    ],
+    "examples": [
+      {
+        "text": "iyo pilis ketine",
+        "translation_id": "dia selalu begitu"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-219; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-219.txt",
+      "page": 210,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "pi.lis"
+  },
+  {
+    "id": "paser-002460",
+    "headword": "pilom",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "kelilipan tentang mata"
+      }
+    ],
+    "examples": [
+      {
+        "text": "matoyo pilom kono debu",
+        "translation_id": "matanya kelilipan kena debu"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-219; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-219.txt",
+      "page": 210,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "pi.lom"
+  },
+  {
+    "id": "paser-002461",
+    "headword": "pilos",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "jarum"
+      }
+    ],
+    "examples": [
+      {
+        "text": "ema ngosot bajuku yo rabak diang pilos",
+        "translation_id": "ibu menjahit bajuku yang robek dengan jarum"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-220; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-220.txt",
+      "page": 211,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "pi.los"
+  },
+  {
+    "id": "paser-002462",
+    "headword": "pimping",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "pimping; Themeda gigantea"
+      }
+    ],
+    "examples": [
+      {
+        "text": "uda ngalek pimping",
+        "translation_id": "paman mengambil pimping"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-220; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-220.txt",
+      "page": 211,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "pim.ping"
+  },
+  {
+    "id": "paser-002463",
+    "headword": "pinang",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "pohon atau buah pinang"
+      }
+    ],
+    "examples": [
+      {
+        "text": "bapa ngulo pinang",
+        "translation_id": "bapak menanam pohon pinang"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-220; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-220.txt",
+      "page": 211,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "pi.nang"
+  },
+  {
+    "id": "paser-002464",
+    "headword": "pindah",
+    "language": "paser",
+    "part_of_speech": "verb",
+    "translations": [
+      {
+        "language": "id",
+        "text": "pindah"
+      }
+    ],
+    "examples": [
+      {
+        "text": "iyo pindah sekola",
+        "translation_id": "dia pindah sekolah"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-220; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-220.txt",
+      "page": 211,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "pin.dah"
+  },
+  {
+    "id": "paser-002465",
+    "headword": "pindir",
+    "language": "paser",
+    "part_of_speech": "verb",
+    "translations": [
+      {
+        "language": "id",
+        "text": "anyam rambut"
+      }
+    ],
+    "examples": [
+      {
+        "text": "pindir balo",
+        "translation_id": "anyam rambut"
+      }
+    ],
+    "variants": [],
+    "subentries": [
+      {
+        "label": "bepindir",
+        "part_of_speech": "verb",
+        "translations": [
+          {
+            "language": "id",
+            "text": "menganyam rambut"
+          }
+        ],
+        "examples": [
+          {
+            "text": "mena bepindir",
+            "translation_id": "bibi menganyam rambut"
+          }
+        ],
+        "variants": [],
+        "syllable_form": "be.pin.dir"
+      },
+      {
+        "label": "penindir",
+        "part_of_speech": "verb",
+        "translations": [
+          {
+            "language": "id",
+            "text": "dianyam rambut"
+          }
+        ],
+        "examples": [
+          {
+            "text": "baloyo penindir",
+            "translation_id": "rambutnya dianyam"
+          }
+        ],
+        "variants": [],
+        "syllable_form": "pe.nin.dir"
+      }
+    ],
+    "notes": "OCR page-220; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-220.txt",
+      "page": 211,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "pin.dir"
+  },
+  {
+    "id": "paser-002466",
+    "headword": "pinggan",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "piring"
+      }
+    ],
+    "examples": [
+      {
+        "text": "ema embui pinggan bias",
+        "translation_id": "ibu mencuci piring nasi"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-220; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-220.txt",
+      "page": 211,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "ping.gan"
+  },
+  {
+    "id": "paser-002467",
+    "headword": "pinggir",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "pinggir"
+      }
+    ],
+    "examples": [
+      {
+        "text": "nang tunge mo pinggir boyan",
+        "translation_id": "jangan duduk di pinggir jalan"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-220; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-220.txt",
+      "page": 211,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "ping.gir"
+  },
+  {
+    "id": "paser-002468",
+    "headword": "pingpong",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "pingpong"
+      }
+    ],
+    "examples": [
+      {
+        "text": "andi pinter main pingpong",
+        "translation_id": "kakak pandai main pingpong"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-220; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-220.txt",
+      "page": 211,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "ping.pong"
+  },
+  {
+    "id": "paser-002469",
+    "headword": "pini’",
+    "language": "paser",
+    "part_of_speech": "adverb",
+    "translations": [
+      {
+        "language": "id",
+        "text": "pernah"
+      }
+    ],
+    "examples": [
+      {
+        "text": "belo pini’",
+        "translation_id": "tidak pernah"
+      }
+    ],
+    "variants": [],
+    "subentries": [
+      {
+        "label": "penini",
+        "part_of_speech": "adverb",
+        "translations": [
+          {
+            "language": "id",
+            "text": "supaya pernah"
+          }
+        ],
+        "examples": [
+          {
+            "text": "iyo kakan malan po Jakarta penini dombo kepal dara",
+            "translation_id": "dia mau pergi ke Jakarta supaya pernah naik pesawat"
+          }
+        ],
+        "variants": [],
+        "syllable_form": "pe.ni.ni"
+      }
+    ],
+    "notes": "OCR page-220; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-220.txt",
+      "page": 211,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "pi.ni’"
+  },
+  {
+    "id": "paser-002470",
+    "headword": "pintar",
+    "language": "paser",
+    "part_of_speech": "adjective",
+    "translations": [
+      {
+        "language": "id",
+        "text": "pintar; pandai; cerdas; ahli"
+      }
+    ],
+    "examples": [
+      {
+        "text": "uda pintar becara",
+        "translation_id": "paman pandai bicara"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-220; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-220.txt",
+      "page": 211,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "pin.tar"
+  },
+  {
+    "id": "paser-002471",
+    "headword": "pios",
+    "language": "paser",
+    "part_of_speech": "verb",
+    "translations": [
+      {
+        "language": "id",
+        "text": "peras"
+      }
+    ],
+    "examples": [],
+    "variants": [],
+    "subentries": [
+      {
+        "label": "mios",
+        "part_of_speech": "verb",
+        "translations": [
+          {
+            "language": "id",
+            "text": "memeras"
+          }
+        ],
+        "examples": [
+          {
+            "text": "eme mios kelapa",
+            "translation_id": "ibu memeras kelapa"
+          }
+        ],
+        "variants": [],
+        "syllable_form": "mi.os"
+      },
+      {
+        "label": "penios",
+        "part_of_speech": "verb",
+        "translations": [
+          {
+            "language": "id",
+            "text": "diperas"
+          }
+        ],
+        "examples": [
+          {
+            "text": "limau ene penios",
+            "translation_id": "jeruk itu diperas"
+          }
+        ],
+        "variants": [],
+        "syllable_form": "pe.ni.os"
+      }
+    ],
+    "notes": "OCR page-220; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-220.txt",
+      "page": 211,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "pi.os"
+  },
+  {
+    "id": "paser-002472",
+    "headword": "pios",
+    "language": "paser",
+    "part_of_speech": "verb",
+    "translations": [
+      {
+        "language": "id",
+        "text": "pecah dengan cara digencet"
+      }
+    ],
+    "examples": [
+      {
+        "text": "potu pios",
+        "translation_id": "pecah karena tergencet"
+      }
+    ],
+    "variants": [],
+    "subentries": [
+      {
+        "label": "mios",
+        "part_of_speech": "verb",
+        "translations": [
+          {
+            "language": "id",
+            "text": "memecah dengan cara digencet; menggencet"
+          }
+        ],
+        "examples": [
+          {
+            "text": "ema mios kacang",
+            "translation_id": "ibu memecah kacang"
+          }
+        ],
+        "variants": [],
+        "syllable_form": "mi.os"
+      },
+      {
+        "label": "penios",
+        "part_of_speech": "verb",
+        "translations": [
+          {
+            "language": "id",
+            "text": "dipencet supaya pecah"
+          }
+        ],
+        "examples": [
+          {
+            "text": "manggis ene penios",
+            "translation_id": "manggis itu dipencet supaya pecah"
+          }
+        ],
+        "variants": [],
+        "syllable_form": "pe.ni.os"
+      }
+    ],
+    "notes": "OCR page-220; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-220.txt",
+      "page": 211,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "pi.os"
+  },
+  {
+    "id": "paser-002473",
+    "headword": "pipa",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "pipa"
+      }
+    ],
+    "examples": [
+      {
+        "text": "pipa rokok buen beta",
+        "translation_id": "pipa rokok itu bagus sekali"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-220; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-220.txt",
+      "page": 211,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "pi.pa"
+  },
+  {
+    "id": "paser-002474",
+    "headword": "pirik",
+    "language": "paser",
+    "part_of_speech": "verb",
+    "translations": [
+      {
+        "language": "id",
+        "text": "pirik"
+      }
+    ],
+    "examples": [
+      {
+        "text": "pirik mo coek",
+        "translation_id": "pirik di cobek"
+      }
+    ],
+    "variants": [],
+    "subentries": [
+      {
+        "label": "mirik",
+        "part_of_speech": "verb",
+        "translations": [
+          {
+            "language": "id",
+            "text": "memirik"
+          }
+        ],
+        "examples": [
+          {
+            "text": "mena mirik cabe",
+            "translation_id": "bibi memirik cabai"
+          }
+        ],
+        "variants": [],
+        "syllable_form": "mi.rik"
+      },
+      {
+        "label": "penirik",
+        "part_of_speech": "verb",
+        "translations": [
+          {
+            "language": "id",
+            "text": "dipirik"
+          }
+        ],
+        "examples": [
+          {
+            "text": "kopi ene penirik",
+            "translation_id": "kopi itu dipirik"
+          }
+        ],
+        "variants": [],
+        "syllable_form": "pe.ni.rik"
+      },
+      {
+        "label": "bepirik",
+        "part_of_speech": "verb",
+        "translations": [
+          {
+            "language": "id",
+            "text": "sudah dipirik"
+          }
+        ],
+        "examples": [
+          {
+            "text": "sang ene bepirik",
+            "translation_id": "lada itu sudah dipirik"
+          }
+        ],
+        "variants": [],
+        "syllable_form": "be.pi.rik"
+      }
+    ],
+    "notes": "OCR page-220; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-220.txt",
+      "page": 211,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "pi-rik"
+  },
+  {
+    "id": "paser-002475",
+    "headword": "pirom",
+    "language": "paser",
+    "part_of_speech": "verb",
+    "translations": [
+      {
+        "language": "id",
+        "text": "pejam"
+      }
+    ],
+    "examples": [],
+    "variants": [],
+    "subentries": [
+      {
+        "label": "penirom",
+        "part_of_speech": "verb",
+        "translations": [
+          {
+            "language": "id",
+            "text": "dipejamkan"
+          }
+        ],
+        "examples": [
+          {
+            "text": "mato okongku sundok penirom",
+            "translation_id": "mata adik sudah dipejamkan"
+          }
+        ],
+        "variants": [],
+        "syllable_form": "pe.ni.rom"
+      }
+    ],
+    "notes": "OCR page-221; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-221.txt",
+      "page": 212,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "pi.rom"
+  },
+  {
+    "id": "paser-002476",
+    "headword": "pisa",
+    "language": "paser",
+    "part_of_speech": "verb",
+    "translations": [
+      {
+        "language": "id",
+        "text": "pisah"
+      }
+    ],
+    "examples": [],
+    "variants": [],
+    "subentries": [
+      {
+        "label": "bepisa",
+        "part_of_speech": "verb",
+        "translations": [
+          {
+            "language": "id",
+            "text": "berpisah"
+          }
+        ],
+        "examples": [
+          {
+            "text": "bepisa dero duo",
+            "translation_id": "berpisah mereka berdua"
+          }
+        ],
+        "variants": [],
+        "syllable_form": "be.pi.sa"
+      },
+      {
+        "label": "penisa",
+        "part_of_speech": "verb",
+        "translations": [
+          {
+            "language": "id",
+            "text": "dipisah"
+          }
+        ],
+        "examples": [
+          {
+            "text": "anak piak ene penisa",
+            "translation_id": "anak ayam itu dipisah"
+          }
+        ],
+        "variants": [],
+        "syllable_form": "pe.ni.sa"
+      }
+    ],
+    "notes": "OCR page-221; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-221.txt",
+      "page": 212,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "pi.sa"
+  },
+  {
+    "id": "paser-002477",
+    "headword": "pisang",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "pohon atau buah pisang"
+      }
+    ],
+    "examples": [
+      {
+        "text": "bapa ngulo pisang",
+        "translation_id": "bapak menanam pisang"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-221; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-221.txt",
+      "page": 212,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "pi.sang"
+  },
+  {
+    "id": "paser-002478",
+    "headword": "pisir",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "fokus pada sasaran"
+      }
+    ],
+    "examples": [
+      {
+        "text": "pisir senapan",
+        "translation_id": "fokus sasaran pada senapan"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-221; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-221.txt",
+      "page": 212,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "pi.sir"
+  },
+  {
+    "id": "paser-002479",
+    "headword": "pisol",
+    "language": "paser",
+    "part_of_speech": "verb",
+    "translations": [
+      {
+        "language": "id",
+        "text": "pencet"
+      }
+    ],
+    "examples": [
+      {
+        "text": "pisol sampe potu",
+        "translation_id": "pencet sampai pecah"
+      }
+    ],
+    "variants": [],
+    "subentries": [
+      {
+        "label": "misol",
+        "part_of_speech": "verb",
+        "translations": [
+          {
+            "language": "id",
+            "text": "memencet"
+          }
+        ],
+        "examples": [
+          {
+            "text": "aku misol knop ene",
+            "translation_id": "saya memencet tombol itu"
+          }
+        ],
+        "variants": [],
+        "syllable_form": "mi.sol"
+      },
+      {
+        "label": "penisol",
+        "part_of_speech": "verb",
+        "translations": [
+          {
+            "language": "id",
+            "text": "dipencet"
+          }
+        ],
+        "examples": [
+          {
+            "text": "sembolotyo penisol",
+            "translation_id": "bisulnya dipencet"
+          }
+        ],
+        "variants": [],
+        "syllable_form": "pe.ni.sol"
+      }
+    ],
+    "notes": "OCR page-221; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-221.txt",
+      "page": 212,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "pi.sol"
+  },
+  {
+    "id": "paser-002480",
+    "headword": "pita",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "pita"
+      }
+    ],
+    "examples": [
+      {
+        "text": "aku moli pita mesin tik",
+        "translation_id": "saya membeli pita mesin tik"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-221; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-221.txt",
+      "page": 212,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    }
+  },
+  {
+    "id": "paser-002481",
+    "headword": "pitamin",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "vitamin"
+      }
+    ],
+    "examples": [
+      {
+        "text": "okongku benie pitamin",
+        "translation_id": "adikku diberi vitamin"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-221; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-221.txt",
+      "page": 212,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    }
+  },
+  {
+    "id": "paser-002482",
+    "headword": "pitis",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "uang"
+      }
+    ],
+    "examples": [
+      {
+        "text": "udaku deo pitis",
+        "translation_id": "pamanku banyak uang"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-221; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-221.txt",
+      "page": 212,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "pi.tis"
+  },
+  {
+    "id": "paser-002483",
+    "headword": "piul",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "biola"
+      }
+    ],
+    "examples": [
+      {
+        "text": "andi pinter main piul",
+        "translation_id": "kakak pandai main biola"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-221; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-221.txt",
+      "page": 212,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "pi.ul"
+  },
+  {
+    "id": "paser-002484",
+    "headword": "piut",
+    "language": "paser",
+    "part_of_speech": "verb",
+    "translations": [
+      {
+        "language": "id",
+        "text": "cubit sambil diputar"
+      }
+    ],
+    "examples": [
+      {
+        "text": "piut mo buntungyo",
+        "translation_id": "cubit di perutnya"
+      }
+    ],
+    "variants": [],
+    "subentries": [
+      {
+        "label": "miut",
+        "part_of_speech": "verb",
+        "translations": [
+          {
+            "language": "id",
+            "text": "mencubit"
+          }
+        ],
+        "examples": [
+          {
+            "text": "ema miut po okong",
+            "translation_id": "ibu mencubit paha adik"
+          }
+        ],
+        "variants": [],
+        "syllable_form": "mi.ut"
+      },
+      {
+        "label": "peniut",
+        "part_of_speech": "verb",
+        "translations": [
+          {
+            "language": "id",
+            "text": "dicubit"
+          }
+        ],
+        "examples": [
+          {
+            "text": "kayangku peniut dato",
+            "translation_id": "lenganku dicubit kakek"
+          }
+        ],
+        "variants": [],
+        "syllable_form": "pe.ni.ut"
+      }
+    ],
+    "notes": "OCR page-221; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-221.txt",
+      "page": 212,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "pi.ut"
+  },
+  {
+    "id": "paser-002485",
+    "headword": "piyah",
+    "language": "paser",
+    "part_of_speech": "adjective",
+    "translations": [
+      {
+        "language": "id",
+        "text": "jelek"
+      }
+    ],
+    "examples": [
+      {
+        "text": "gawianyo piyah",
+        "translation_id": "pekerjaannya jelek"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-221; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-221.txt",
+      "page": 212,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "pi-yah"
+  },
+  {
+    "id": "paser-002486",
+    "headword": "po",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "paha"
+      }
+    ],
+    "examples": [
+      {
+        "text": "botis po yo boar",
+        "translation_id": "kaki pahanya sakit"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-221; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-221.txt",
+      "page": 212,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    }
+  },
+  {
+    "id": "paser-002487",
+    "headword": "po’",
+    "language": "paser",
+    "part_of_speech": "particle",
+    "translations": [
+      {
+        "language": "id",
+        "text": "ke; kepada"
+      }
+    ],
+    "examples": [
+      {
+        "text": "taka po’ lou bayu",
+        "translation_id": "kami pindah ke rumah baru"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-221; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-221.txt",
+      "page": 212,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    }
+  },
+  {
+    "id": "paser-002488",
+    "headword": "pokeng",
+    "language": "paser",
+    "part_of_speech": "adjective",
+    "translations": [
+      {
+        "language": "id",
+        "text": "genit"
+      }
+    ],
+    "examples": [
+      {
+        "text": "pokeng beta ulunyo",
+        "translation_id": "genit sekali orangnya"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-221; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-221.txt",
+      "page": 212,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "po.keng"
+  },
+  {
+    "id": "paser-002489",
+    "headword": "pokngo",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "tokek; cecak besar"
+      }
+    ],
+    "examples": [
+      {
+        "text": "pokngo ene olai beta",
+        "translation_id": "tokek itu besar sekali"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-221; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-221.txt",
+      "page": 212,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "pok.ngo"
+  },
+  {
+    "id": "paser-002490",
+    "headword": "poko",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "pokok; modal"
+      }
+    ],
+    "examples": [
+      {
+        "text": "bapa muli poko",
+        "translation_id": "bapak kembali modal"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-221; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-221.txt",
+      "page": 212,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "po.ko"
+  },
+  {
+    "id": "paser-002491",
+    "headword": "pokung",
+    "language": "paser",
+    "part_of_speech": "adjective",
+    "translations": [
+      {
+        "language": "id",
+        "text": "lumpuh"
+      }
+    ],
+    "examples": [
+      {
+        "text": "ulun ene pokung",
+        "translation_id": "orang itu lumpuh"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-221; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-221.txt",
+      "page": 212,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "po.kung"
+  },
+  {
+    "id": "paser-002492",
+    "headword": "politik",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "politik"
+      }
+    ],
+    "examples": [
+      {
+        "text": "iyo pintar main politik",
+        "translation_id": "dia pandai main politik"
+      }
+    ],
+    "variants": [],
+    "subentries": [
+      {
+        "label": "politikus",
+        "part_of_speech": "noun",
+        "translations": [
+          {
+            "language": "id",
+            "text": "politikus"
+          }
+        ],
+        "examples": [
+          {
+            "text": "udaku politikus",
+            "translation_id": "pamanku politikus"
+          }
+        ],
+        "variants": [],
+        "syllable_form": "po.li.ti.kus"
+      }
+    ],
+    "notes": "OCR page-221; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-221.txt",
+      "page": 212,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "po.li.tik"
   }
 ]
