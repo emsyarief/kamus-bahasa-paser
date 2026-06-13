@@ -1514,7 +1514,7 @@
     "id": "paser-000039",
     "headword": "alamat",
     "language": "paser",
-    "part_of_speech": "unknown",
+    "part_of_speech": "noun",
     "translations": [
       {
         "language": "id",
@@ -1546,7 +1546,7 @@
     "id": "paser-000040",
     "headword": "alas",
     "language": "paser",
-    "part_of_speech": "unknown",
+    "part_of_speech": "noun",
     "translations": [
       {
         "language": "id",
@@ -2096,7 +2096,7 @@
     "id": "paser-000055",
     "headword": "amanat",
     "language": "paser",
-    "part_of_speech": "unknown",
+    "part_of_speech": "noun",
     "translations": [
       {
         "language": "id",
@@ -3220,7 +3220,7 @@
     "id": "paser-000077",
     "headword": "anduk",
     "language": "paser",
-    "part_of_speech": "unknown",
+    "part_of_speech": "noun",
     "translations": [
       {
         "language": "id",
@@ -3343,7 +3343,7 @@
     "id": "paser-000080",
     "headword": "anggur",
     "language": "paser",
-    "part_of_speech": "unknown",
+    "part_of_speech": "noun",
     "translations": [
       {
         "language": "id",
@@ -3521,7 +3521,7 @@
     "id": "paser-000084",
     "headword": "angsa",
     "language": "paser",
-    "part_of_speech": "unknown",
+    "part_of_speech": "noun",
     "translations": [
       {
         "language": "id",
@@ -3889,7 +3889,7 @@
     "id": "paser-000092",
     "headword": "anténa",
     "language": "paser",
-    "part_of_speech": "unknown",
+    "part_of_speech": "noun",
     "translations": [
       {
         "language": "id",
@@ -3957,7 +3957,7 @@
     "id": "paser-000094",
     "headword": "anting-anting",
     "language": "paser",
-    "part_of_speech": "unknown",
+    "part_of_speech": "noun",
     "translations": [
       {
         "language": "id",
@@ -4321,7 +4321,7 @@
     "id": "paser-000103",
     "headword": "apam",
     "language": "paser",
-    "part_of_speech": "unknown",
+    "part_of_speech": "noun",
     "translations": [
       {
         "language": "id",
@@ -5118,7 +5118,7 @@
     "id": "paser-000123",
     "headword": "asap",
     "language": "paser",
-    "part_of_speech": "unknown",
+    "part_of_speech": "noun",
     "translations": [
       {
         "language": "id",
@@ -5181,7 +5181,7 @@
     "id": "paser-000125",
     "headword": "aseli",
     "language": "paser",
-    "part_of_speech": "unknown",
+    "part_of_speech": "adjective",
     "translations": [
       {
         "language": "id",
@@ -5831,7 +5831,7 @@
     "id": "paser-000139",
     "headword": "awas",
     "language": "paser",
-    "part_of_speech": "unknown",
+    "part_of_speech": "adjective",
     "translations": [
       {
         "language": "id",
