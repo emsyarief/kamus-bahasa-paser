@@ -80863,70 +80863,6 @@
     "id": "paser-001941"
   },
   {
-    "headword": "masala",
-    "language": "paser",
-    "part_of_speech": "noun",
-    "translations": [
-      {
-        "language": "id",
-        "text": "masalah"
-      }
-    ],
-    "examples": [
-      {
-        "text": "masalyo sundok tuntas",
-        "translation_id": "masalahnya sudah selesai"
-      }
-    ],
-    "variants": [],
-    "subentries": [],
-    "notes": "OCR page-177; parsed from original dictionary structure.",
-    "source": {
-      "file": "data/raw_ocr/page-177.txt",
-      "page": 168,
-      "ocr_confidence": null
-    },
-    "review": {
-      "status": "needs_review",
-      "reviewed_by": null,
-      "reviewed_at": null
-    },
-    "syllable_form": "ma.sa.la",
-    "id": "paser-001942"
-  },
-  {
-    "headword": "masjid",
-    "language": "paser",
-    "part_of_speech": "noun",
-    "translations": [
-      {
-        "language": "id",
-        "text": "masjid"
-      }
-    ],
-    "examples": [
-      {
-        "text": "peya-peya makai songko po masjid",
-        "translation_id": "anak-anak memakai songkok ke masjid"
-      }
-    ],
-    "variants": [],
-    "subentries": [],
-    "notes": "OCR page-177; parsed from original dictionary structure.",
-    "source": {
-      "file": "data/raw_ocr/page-177.txt",
-      "page": 168,
-      "ocr_confidence": null
-    },
-    "review": {
-      "status": "needs_review",
-      "reviewed_by": null,
-      "reviewed_at": null
-    },
-    "syllable_form": "mas.jid",
-    "id": "paser-001943"
-  },
-  {
     "headword": "Méi",
     "language": "paser",
     "part_of_speech": "noun",
@@ -80956,7 +80892,7 @@
       "reviewed_at": null
     },
     "syllable_form": "Méi",
-    "id": "paser-001944"
+    "id": "paser-001942"
   },
   {
     "headword": "mengkeno",
@@ -80988,6 +80924,6 @@
       "reviewed_at": null
     },
     "syllable_form": "meng.ke’.no",
-    "id": "paser-001945"
+    "id": "paser-001943"
   }
 ]
