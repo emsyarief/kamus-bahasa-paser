@@ -61,6 +61,13 @@ function bindEvents() {
   });
 }
 
+function searchVariant(variant) {
+  els.search.value = variant;
+  els.search.focus();
+  render();
+  els.search.scrollIntoView({ behavior: 'smooth', block: 'start' });
+}
+
 function normalizeEntries(rawEntries) {
   const headwordCounts = rawEntries.reduce((counts, entry) => {
     const key = normalizeHeadwordKey(entry.headword || '(tanpa lema)');
@@ -183,9 +190,12 @@ function renderExamples(examples) {
 
 function renderVariants(variants) {
   return variants.map((variant) => {
-    const chip = document.createElement('span');
+    const chip = document.createElement('button');
+    chip.type = 'button';
     chip.className = 'variant-chip';
     chip.textContent = variant;
+    chip.setAttribute('aria-label', `Cari varian ${variant}`);
+    chip.addEventListener('click', () => searchVariant(variant));
     return chip;
   });
 }
@@ -222,6 +232,7 @@ function formatSource(source) {
 function searchableText(entry) {
   return normalizeText([
     entry.headword,
+    entry.variants.join(' '),
     entry.translations.join(' '),
     entry.definitions.join(' ')
   ].join(' '));

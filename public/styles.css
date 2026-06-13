@@ -130,11 +130,19 @@ dd { margin: 5px 0 0; line-height: 1.55; }
 .variant-chip {
   display: inline-block;
   margin: 0 6px 6px 0;
+  border: 0;
   border-radius: 999px;
   padding: 3px 8px;
   background: var(--chip);
   color: var(--accent-dark);
+  font: inherit;
   font-weight: 700;
+  cursor: pointer;
+}
+.variant-chip:hover,
+.variant-chip:focus-visible {
+  outline: 2px solid var(--accent-dark);
+  outline-offset: 2px;
 }
 .note { margin-top: 24px; padding: 18px; color: var(--muted); }
 .note h2 { color: var(--ink); font-size: 1.1rem; }
