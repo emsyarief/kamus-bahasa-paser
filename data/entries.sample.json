@@ -1,0 +1,35 @@
+[
+  {
+    "id": "paser-000001",
+    "headword": "contoh",
+    "language": "paser",
+    "part_of_speech": "unknown",
+    "translations": [
+      {
+        "language": "id",
+        "text": "contoh terjemahan"
+      }
+    ],
+    "definitions": [
+      "Contoh struktur entri; bukan hasil OCR final."
+    ],
+    "examples": [
+      {
+        "text": "Contoh kalimat Bahasa Paser.",
+        "translation_id": "Contoh terjemahan Bahasa Indonesia."
+      }
+    ],
+    "variants": [],
+    "notes": "Gunakan entri ini sebagai template validasi schema awal.",
+    "source": {
+      "file": "sources/KamusPaser-Indonesia.pdf",
+      "page": null,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "sample",
+      "reviewed_by": null,
+      "reviewed_at": null
+    }
+  }
+]
