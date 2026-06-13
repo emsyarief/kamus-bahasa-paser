@@ -127,28 +127,56 @@ function renderEntry(entry) {
   const fields = node.querySelector('.fields');
   addField(fields, 'Indonesia', entry.translations.join('; '));
   addField(fields, 'Definisi', entry.definitions.join('; '));
-  addField(fields, 'Contoh', formatExamples(entry.examples));
+  addField(fields, 'Contoh', renderExamples(entry.examples));
   addField(fields, 'Varian', entry.variants.join(', '));
   return node;
 }
 
 function addField(parent, label, value) {
-  if (!value) return;
+  if (!value || (Array.isArray(value) && !value.length)) return;
   const wrapper = document.createElement('div');
   wrapper.className = 'field';
   const dt = document.createElement('dt');
   const dd = document.createElement('dd');
   dt.textContent = label;
-  dd.textContent = value;
+  if (Array.isArray(value)) dd.append(...value);
+  else dd.textContent = value;
   wrapper.append(dt, dd);
   parent.appendChild(wrapper);
 }
 
-function formatExamples(examples) {
-  return examples.map((item) => {
-    if (typeof item === 'string') return item;
-    return [item.text, item.translation_id || item.translation].filter(Boolean).join(' — ');
-  }).filter(Boolean).join(' | ');
+function renderExamples(examples) {
+  const nodes = [];
+  examples.forEach((item) => {
+    const example = renderExample(item);
+    if (!example.length) return;
+    if (nodes.length) nodes.push(document.createTextNode(' | '));
+    nodes.push(...example);
+  });
+  return nodes;
+}
+
+function renderExample(item) {
+  if (typeof item === 'string') return renderExampleParts(...splitExample(item));
+  return renderExampleParts(item.text, item.translation_id || item.translation);
+}
+
+function renderExampleParts(paser, indonesia = '') {
+  if (!paser) return [];
+  const nodes = [];
+  const paserText = document.createElement('em');
+  paserText.textContent = paser.trim();
+  nodes.push(paserText);
+  if (indonesia) {
+    nodes.push(document.createTextNode(' — '));
+    nodes.push(document.createTextNode(indonesia.trim()));
+  }
+  return nodes;
+}
+
+function splitExample(text) {
+  const parts = text.split(' — ');
+  return parts.length > 1 ? [parts[0], parts.slice(1).join(' — ')] : [text, ''];
 }
 
 function formatSource(source) {
