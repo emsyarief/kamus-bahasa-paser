@@ -32108,5 +32108,5430 @@
       "reviewed_at": null
     },
     "syllable_form": "é.wés"
+  },
+  {
+    "id": "paser-000689",
+    "headword": "gabung",
+    "language": "paser",
+    "part_of_speech": "verb",
+    "translations": [
+      {
+        "language": "id",
+        "text": "bergabung"
+      }
+    ],
+    "examples": [
+      {
+        "text": "daro’ gabung kain apan rame",
+        "translation_id": "mari bergabung (bersama) kami supaya ramai"
+      }
+    ],
+    "variants": [
+      "begabung"
+    ],
+    "subentries": [
+      {
+        "headword": "genabung",
+        "part_of_speech": "verb",
+        "translations": [
+          {
+            "language": "id",
+            "text": "digabung"
+          }
+        ],
+        "examples": [
+          {
+            "text": "dero genabung moko erai",
+            "translation_id": "mereka digabung menjadi satu"
+          }
+        ],
+        "syllable_form": "ge.na.bung"
+      }
+    ],
+    "notes": "OCR page-092; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-092.txt",
+      "page": 83,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "ga.bung"
+  },
+  {
+    "id": "paser-000690",
+    "headword": "gada",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "palu"
+      }
+    ],
+    "examples": [
+      {
+        "text": "iyo netep paku pakai gada",
+        "translation_id": "dia memukul paku pakai gada"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-092; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-092.txt",
+      "page": 83,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "ga.da"
+  },
+  {
+    "id": "paser-000691",
+    "headword": "galugada",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "palu besar"
+      },
+      {
+        "language": "id",
+        "text": "godam"
+      }
+    ],
+    "examples": [
+      {
+        "text": "galugada ene olai beta",
+        "translation_id": "godam itu besar sekali"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-092; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-092.txt",
+      "page": 83,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "ga.lu.ga.da"
+  },
+  {
+    "id": "paser-000692",
+    "headword": "gado",
+    "language": "paser",
+    "part_of_speech": "verb",
+    "translations": [
+      {
+        "language": "id",
+        "text": "mengurusi"
+      },
+      {
+        "language": "id",
+        "text": "repot"
+      },
+      {
+        "language": "id",
+        "text": "sibuk"
+      }
+    ],
+    "examples": [
+      {
+        "text": "nang tuju gado ulun",
+        "translation_id": "jangan suka mengurusi orang"
+      }
+    ],
+    "variants": [],
+    "subentries": [
+      {
+        "headword": "enggado",
+        "part_of_speech": "verb",
+        "translations": [
+          {
+            "language": "id",
+            "text": "mengurusi"
+          }
+        ],
+        "examples": [
+          {
+            "text": "iyo enggado ulun tingen",
+            "translation_id": "dia mengurusi orang saja"
+          }
+        ],
+        "syllable_form": "eng.ga.do"
+      },
+      {
+        "headword": "genado",
+        "part_of_speech": "verb",
+        "translations": [
+          {
+            "language": "id",
+            "text": "diurusi"
+          }
+        ],
+        "examples": [
+          {
+            "text": "endu nang genado",
+            "translation_id": "yang itu jangan diurusi"
+          }
+        ],
+        "syllable_form": "ge.na.do"
+      }
+    ],
+    "notes": "OCR page-092; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-092.txt",
+      "page": 83,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "ga.do"
+  },
+  {
+    "id": "paser-000693",
+    "headword": "gado-gado",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "gado-gado"
+      }
+    ],
+    "examples": [
+      {
+        "text": "aku tuju kuman gado-gado",
+        "translation_id": "saya suka makan gado-gado"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-092; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-092.txt",
+      "page": 83,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "ga.do-ga.do"
+  },
+  {
+    "id": "paser-000694",
+    "headword": "gadur",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "sejenis baskom yg terbuat dari tanah"
+      }
+    ],
+    "examples": [
+      {
+        "text": "ema moli gadur",
+        "translation_id": "ibu membeli gadur"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-092; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-092.txt",
+      "page": 83,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "ga.dur"
+  },
+  {
+    "id": "paser-000695",
+    "headword": "gaér",
+    "language": "paser",
+    "part_of_speech": "adjective",
+    "translations": [
+      {
+        "language": "id",
+        "text": "gentar"
+      },
+      {
+        "language": "id",
+        "text": "khawatir"
+      },
+      {
+        "language": "id",
+        "text": "perasaan takut"
+      }
+    ],
+    "examples": [
+      {
+        "text": "nang gaér ena belo keo sala",
+        "translation_id": "jangan gentar kalau tidak ada salah"
+      }
+    ],
+    "variants": [],
+    "subentries": [
+      {
+        "headword": "ngenaer",
+        "part_of_speech": "verb",
+        "translations": [
+          {
+            "language": "id",
+            "text": "digentarkan"
+          },
+          {
+            "language": "id",
+            "text": "ditakutkan"
+          }
+        ],
+        "examples": [
+          {
+            "text": "ise ngenaer dero",
+            "translation_id": "apa yang ditakutkan mereka"
+          }
+        ],
+        "syllable_form": "nge.na.er"
+      }
+    ],
+    "notes": "OCR page-092; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-092.txt",
+      "page": 83,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "ga.ér"
+  },
+  {
+    "id": "paser-000696",
+    "headword": "gaga",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "gagap"
+      },
+      {
+        "language": "id",
+        "text": "gaguk"
+      }
+    ],
+    "examples": [
+      {
+        "text": "ulun ene gaga’ ena becara",
+        "translation_id": "orang itu gagap kalau berbicara"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-092; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-092.txt",
+      "page": 83,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "ga.ga’"
+  },
+  {
+    "id": "paser-000697",
+    "headword": "gagah",
+    "language": "paser",
+    "part_of_speech": "adjective",
+    "translations": [
+      {
+        "language": "id",
+        "text": "gagah"
+      },
+      {
+        "language": "id",
+        "text": "tampan"
+      }
+    ],
+    "examples": [
+      {
+        "text": "gagah beta nauyo",
+        "translation_id": "tampan sekali rupanya"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-092; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-092.txt",
+      "page": 83,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "ga.gah"
+  },
+  {
+    "id": "paser-000698",
+    "headword": "gagal",
+    "language": "paser",
+    "part_of_speech": "adjective",
+    "translations": [
+      {
+        "language": "id",
+        "text": "gagal"
+      }
+    ],
+    "examples": [
+      {
+        "text": "iyo gagal usahayo",
+        "translation_id": "dia gagal usahanya"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-092; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-092.txt",
+      "page": 83,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "ga.gal"
+  },
+  {
+    "id": "paser-000699",
+    "headword": "gagut",
+    "language": "paser",
+    "part_of_speech": "verb",
+    "translations": [
+      {
+        "language": "id",
+        "text": "tarik"
+      }
+    ],
+    "examples": [
+      {
+        "text": "gagut ujung tali lane",
+        "translation_id": "tarik ujung tali itu"
+      }
+    ],
+    "variants": [],
+    "subentries": [
+      {
+        "headword": "enggagut",
+        "part_of_speech": "verb",
+        "translations": [
+          {
+            "language": "id",
+            "text": "menarik"
+          }
+        ],
+        "examples": [
+          {
+            "text": "Usman enggagut baju Ali",
+            "translation_id": "Usman menarik baju Ali"
+          }
+        ],
+        "syllable_form": "eng.ga.gut"
+      },
+      {
+        "headword": "genagut",
+        "part_of_speech": "verb",
+        "translations": [
+          {
+            "language": "id",
+            "text": "ditarik"
+          }
+        ],
+        "examples": [
+          {
+            "text": "tali ene genagut koe okongyo",
+            "translation_id": "tali itu ditarik adiknya"
+          }
+        ],
+        "syllable_form": "ge.na.gut"
+      }
+    ],
+    "notes": "OCR page-092; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-092.txt",
+      "page": 83,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "ga.gut"
+  },
+  {
+    "id": "paser-000700",
+    "headword": "gaib",
+    "language": "paser",
+    "part_of_speech": "adjective",
+    "translations": [
+      {
+        "language": "id",
+        "text": "gaib"
+      },
+      {
+        "language": "id",
+        "text": "tidak tampak"
+      }
+    ],
+    "examples": [
+      {
+        "text": "melekat ene gaib",
+        "translation_id": "malaikat termasuk makhluk gaib"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-093; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-093.txt",
+      "page": 84,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "ga.ib"
+  },
+  {
+    "id": "paser-000701",
+    "headword": "gajah",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "gajah"
+      }
+    ],
+    "examples": [
+      {
+        "text": "gajah ene engket Lampung",
+        "translation_id": "gajah itu berasal dari Lampung"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-093; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-093.txt",
+      "page": 84,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "ga.jah"
+  },
+  {
+    "id": "paser-000702",
+    "headword": "gajin",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "gaji"
+      },
+      {
+        "language": "id",
+        "text": "upah"
+      }
+    ],
+    "examples": [
+      {
+        "text": "gajin yo deo",
+        "translation_id": "gajinya banyak"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-093; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-093.txt",
+      "page": 84,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "ga.jin"
+  },
+  {
+    "id": "paser-000703",
+    "headword": "gala",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "udang galah"
+      }
+    ],
+    "examples": [
+      {
+        "text": "gala ene larang unamyo",
+        "translation_id": "udang galah itu mahal harganya"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-093; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-093.txt",
+      "page": 84,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "ga.la"
+  },
+  {
+    "id": "paser-000704",
+    "headword": "galak",
+    "language": "paser",
+    "part_of_speech": "adjective",
+    "translations": [
+      {
+        "language": "id",
+        "text": "kuat"
+      }
+    ],
+    "examples": [
+      {
+        "text": "ulun ene galak beta ngengkat batu",
+        "translation_id": "orang itu kuat sekali mengangkat batu"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-093; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-093.txt",
+      "page": 84,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "ga.lak"
+  },
+  {
+    "id": "paser-000705",
+    "headword": "galang",
+    "language": "paser",
+    "part_of_speech": "verb",
+    "translations": [
+      {
+        "language": "id",
+        "text": "ganjal"
+      },
+      {
+        "language": "id",
+        "text": "mengganjal"
+      }
+    ],
+    "examples": [
+      {
+        "text": "galang apan belo mundur",
+        "translation_id": "ganjal supaya tidak mundur"
+      }
+    ],
+    "variants": [],
+    "subentries": [
+      {
+        "headword": "genalang",
+        "part_of_speech": "verb",
+        "translations": [
+          {
+            "language": "id",
+            "text": "diganjal"
+          }
+        ],
+        "examples": [
+          {
+            "text": "mobelyo genalang kayu",
+            "translation_id": "mobilnya diganjal kayu"
+          }
+        ],
+        "syllable_form": "ge.na.lang"
+      }
+    ],
+    "notes": "OCR page-093; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-093.txt",
+      "page": 84,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "ga.lang"
+  },
+  {
+    "id": "paser-000706",
+    "headword": "galeng",
+    "language": "paser",
+    "part_of_speech": "verb",
+    "translations": [
+      {
+        "language": "id",
+        "text": "tergeletak"
+      }
+    ],
+    "examples": [
+      {
+        "text": "barang ulun ene toyak galeng ka mo boyan",
+        "translation_id": "barang orang itu jatuh tergeletak di jalan"
+      }
+    ],
+    "variants": [],
+    "subentries": [
+      {
+        "headword": "ngarung-galeng",
+        "part_of_speech": "noun",
+        "translations": [
+          {
+            "language": "id",
+            "text": "sesuatu benda bertebaran di mana-mana"
+          }
+        ],
+        "examples": [
+          {
+            "text": "belek ngarung-galeng mo boyan",
+            "translation_id": "kaleng bertebaran di jalan"
+          }
+        ],
+        "syllable_form": "nga.rung-ga.leng"
+      }
+    ],
+    "notes": "OCR page-093; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-093.txt",
+      "page": 84,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "ga.leng"
+  },
+  {
+    "id": "paser-000707",
+    "headword": "galu",
+    "language": "paser",
+    "part_of_speech": "adjective",
+    "translations": [
+      {
+        "language": "id",
+        "text": "bodoh-bodoh pintar"
+      }
+    ],
+    "examples": [
+      {
+        "text": "ulun endo galu ente ite",
+        "translation_id": "orang ini bodoh-bodoh pintar dilihat"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-093; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-093.txt",
+      "page": 84,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "ga.lu"
+  },
+  {
+    "id": "paser-000708",
+    "headword": "galuginting",
+    "language": "paser",
+    "part_of_speech": "verb",
+    "translations": [
+      {
+        "language": "id",
+        "text": "berputar-putar"
+      }
+    ],
+    "examples": [
+      {
+        "text": "barang ene toyak galuginting depo dasoi",
+        "translation_id": "benda itu jatuh berputar-putar ke lantai"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-093; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-093.txt",
+      "page": 84,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "ga.lu.gin.ting"
+  },
+  {
+    "id": "paser-000709",
+    "headword": "galung",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "petak sawah"
+      },
+      {
+        "language": "id",
+        "text": "pematang"
+      }
+    ],
+    "examples": [
+      {
+        "text": "erai galung sundok nulo pare",
+        "translation_id": "satu petak sawah sudah ditanami padi"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-093; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-093.txt",
+      "page": 84,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "ga.lung"
+  },
+  {
+    "id": "paser-000710",
+    "headword": "gambang",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "gambang"
+      }
+    ],
+    "examples": [
+      {
+        "text": "iyo pintar ngemain gambang",
+        "translation_id": "dia pandai memainkan musik gambang"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-093; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-093.txt",
+      "page": 84,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "gam.bang"
+  },
+  {
+    "id": "paser-000711",
+    "headword": "gambar",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "gambar"
+      }
+    ],
+    "examples": [
+      {
+        "text": "gambar ene buen",
+        "translation_id": "gambar itu bagus"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-093; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-093.txt",
+      "page": 84,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "gam.bar"
+  },
+  {
+    "id": "paser-000712",
+    "headword": "gambér",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "gambir"
+      }
+    ],
+    "examples": [
+      {
+        "text": "lewok diang gambér",
+        "translation_id": "sirih dengan gambir"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-093; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-093.txt",
+      "page": 84,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "gam.bér"
+  },
+  {
+    "id": "paser-000713",
+    "headword": "gambus",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "gambus"
+      }
+    ],
+    "examples": [
+      {
+        "text": "bapaku pintar main gambus",
+        "translation_id": "bapakku pandai bermain gambus"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-093; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-093.txt",
+      "page": 84,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "gam.bus"
+  },
+  {
+    "id": "paser-000714",
+    "headword": "gampang",
+    "language": "paser",
+    "part_of_speech": "adjective",
+    "translations": [
+      {
+        "language": "id",
+        "text": "gampang"
+      },
+      {
+        "language": "id",
+        "text": "mudah"
+      }
+    ],
+    "examples": [
+      {
+        "text": "gampang beta iyo becara",
+        "translation_id": "gampang sekali dia bicara"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-093; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-093.txt",
+      "page": 84,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "gam.pang"
+  },
+  {
+    "id": "paser-000715",
+    "headword": "gamper",
+    "language": "paser",
+    "part_of_speech": "verb",
+    "translations": [
+      {
+        "language": "id",
+        "text": "gabung"
+      }
+    ],
+    "examples": [
+      {
+        "text": "kayu gamper duo apan tahan",
+        "translation_id": "kayu digabung dua supaya kuat"
+      }
+    ],
+    "variants": [
+      "gampir"
+    ],
+    "subentries": [
+      {
+        "headword": "genampir",
+        "part_of_speech": "verb",
+        "translations": [
+          {
+            "language": "id",
+            "text": "digabung"
+          },
+          {
+            "language": "id",
+            "text": "disatukan"
+          }
+        ],
+        "examples": [
+          {
+            "text": "genampir apan nang tepok",
+            "translation_id": "digabung supaya tidak patah"
+          }
+        ],
+        "syllable_form": "ge.nam.pir"
+      }
+    ],
+    "notes": "OCR page-094; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-094.txt",
+      "page": 85,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "gam.per"
+  },
+  {
+    "id": "paser-000716",
+    "headword": "gandar",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "tangkai"
+      },
+      {
+        "language": "id",
+        "text": "pegangan"
+      }
+    ],
+    "examples": [
+      {
+        "text": "gandar biwit",
+        "translation_id": "pegangan pancing"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-094; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-094.txt",
+      "page": 85,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "gan.dar"
+  },
+  {
+    "id": "paser-000717",
+    "headword": "gandéng",
+    "language": "paser",
+    "part_of_speech": "verb",
+    "translations": [
+      {
+        "language": "id",
+        "text": "bonceng"
+      },
+      {
+        "language": "id",
+        "text": "gandeng"
+      }
+    ],
+    "examples": [
+      {
+        "text": "gandéng mo sori",
+        "translation_id": "bonceng di belakang"
+      }
+    ],
+    "variants": [],
+    "subentries": [
+      {
+        "headword": "begandéng",
+        "part_of_speech": "verb",
+        "translations": [
+          {
+            "language": "id",
+            "text": "berboncengan"
+          },
+          {
+            "language": "id",
+            "text": "bergandengan"
+          }
+        ],
+        "examples": [
+          {
+            "text": "begandéng kayang dero duo",
+            "translation_id": "bergandengan tangan mereka berdua"
+          }
+        ],
+        "syllable_form": "be.gan.déng"
+      },
+      {
+        "headword": "enggandéng",
+        "part_of_speech": "verb",
+        "translations": [
+          {
+            "language": "id",
+            "text": "membonceng"
+          },
+          {
+            "language": "id",
+            "text": "menggandeng"
+          }
+        ],
+        "examples": [
+          {
+            "text": "enggandéng siyo mo sepeda motor",
+            "translation_id": "dia membonceng di sepeda motor"
+          }
+        ],
+        "syllable_form": "eng.gan.déng"
+      },
+      {
+        "headword": "genandéng",
+        "part_of_speech": "verb",
+        "translations": [
+          {
+            "language": "id",
+            "text": "dibonceng"
+          }
+        ],
+        "examples": [
+          {
+            "text": "genandéng koeyo mosori",
+            "translation_id": "dibonceng olehnya di belakang"
+          }
+        ],
+        "syllable_form": "ge.nan.déng"
+      }
+    ],
+    "notes": "OCR page-094; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-094.txt",
+      "page": 85,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "gan.déng"
+  },
+  {
+    "id": "paser-000718",
+    "headword": "gandom",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "gandum"
+      }
+    ],
+    "examples": [
+      {
+        "text": "erai karung gandom",
+        "translation_id": "satu karung gandum"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-094; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-094.txt",
+      "page": 85,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "gan.dom"
+  },
+  {
+    "id": "paser-000719",
+    "headword": "gangging",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "pergelangan kaki"
+      }
+    ],
+    "examples": [
+      {
+        "text": "ganggingyo olai",
+        "translation_id": "pergelangan kakinya besar"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-094; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-094.txt",
+      "page": 85,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "gang.ging"
+  },
+  {
+    "id": "paser-000720",
+    "headword": "ganggu",
+    "language": "paser",
+    "part_of_speech": "verb",
+    "translations": [
+      {
+        "language": "id",
+        "text": "mengganggu"
+      }
+    ],
+    "examples": [
+      {
+        "text": "okong ganggu siyo kuman",
+        "translation_id": "adik mengganggu dia makan"
+      }
+    ],
+    "variants": [
+      "engganggu"
+    ],
+    "subentries": [
+      {
+        "headword": "genanggu",
+        "part_of_speech": "verb",
+        "translations": [
+          {
+            "language": "id",
+            "text": "diganggu"
+          }
+        ],
+        "examples": [
+          {
+            "text": "nang genanggu dero",
+            "translation_id": "mereka jangan diganggu"
+          }
+        ],
+        "syllable_form": "ge.nang.gu"
+      },
+      {
+        "headword": "saluganggu",
+        "part_of_speech": "verb",
+        "translations": [
+          {
+            "language": "id",
+            "text": "saling ganggu-mengganggu"
+          }
+        ],
+        "examples": [
+          {
+            "text": "dero saluganggu",
+            "translation_id": "mereka saling mengganggu"
+          }
+        ],
+        "syllable_form": "sa.lu.gang.gu"
+      }
+    ],
+    "notes": "OCR page-094; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-094.txt",
+      "page": 85,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "gang.gu"
+  },
+  {
+    "id": "paser-000721",
+    "headword": "ganrung",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "gadung"
+      }
+    ],
+    "examples": [
+      {
+        "text": "aku tuju kuman keropok ganrung",
+        "translation_id": "saya suka makan kerupuk gadung"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-094; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-094.txt",
+      "page": 85,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "gan.rung"
+  },
+  {
+    "id": "paser-000722",
+    "headword": "gantang",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "ukuran takaran beras (4 kaleng susu)"
+      }
+    ],
+    "examples": [
+      {
+        "text": "erai gantang bias",
+        "translation_id": "satu gantang beras"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-094; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-094.txt",
+      "page": 85,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "gan.tang"
+  },
+  {
+    "id": "paser-000723",
+    "headword": "ganti",
+    "language": "paser",
+    "part_of_speech": "verb",
+    "translations": [
+      {
+        "language": "id",
+        "text": "ganti"
+      },
+      {
+        "language": "id",
+        "text": "tukar"
+      }
+    ],
+    "examples": [
+      {
+        "text": "iyo aso ganti baju",
+        "translation_id": "dia masih ganti baju"
+      }
+    ],
+    "variants": [],
+    "subentries": [
+      {
+        "headword": "beganti",
+        "part_of_speech": "verb",
+        "translations": [
+          {
+            "language": "id",
+            "text": "bergantian"
+          },
+          {
+            "language": "id",
+            "text": "bertukar"
+          }
+        ],
+        "examples": [
+          {
+            "text": "beganti malan depo tama penganten",
+            "translation_id": "bergantian pergi menghadiri undangan perkawinan"
+          }
+        ],
+        "syllable_form": "be.gan.ti"
+      },
+      {
+        "headword": "engganti",
+        "part_of_speech": "verb",
+        "translations": [
+          {
+            "language": "id",
+            "text": "mengganti"
+          }
+        ],
+        "examples": [
+          {
+            "text": "aku engganti ban sepeda",
+            "translation_id": "saya mengganti ban sepeda"
+          }
+        ],
+        "syllable_form": "eng.gan.ti"
+      },
+      {
+        "headword": "genanti",
+        "part_of_speech": "verb",
+        "translations": [
+          {
+            "language": "id",
+            "text": "diganti"
+          }
+        ],
+        "examples": [
+          {
+            "text": "barang ene genanti diang yo bayu",
+            "translation_id": "barang itu diganti dengan yang baru"
+          }
+        ],
+        "syllable_form": "ge.nan.ti"
+      }
+    ],
+    "notes": "OCR page-094; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-094.txt",
+      "page": 85,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "gan.ti"
+  },
+  {
+    "id": "paser-000724",
+    "headword": "gapit",
+    "language": "paser",
+    "part_of_speech": "verb",
+    "translations": [
+      {
+        "language": "id",
+        "text": "jepit"
+      }
+    ],
+    "examples": [
+      {
+        "text": "gapit apan tahan",
+        "translation_id": "jepit supaya tahan"
+      }
+    ],
+    "variants": [],
+    "subentries": [
+      {
+        "headword": "enjepit",
+        "part_of_speech": "verb",
+        "translations": [
+          {
+            "language": "id",
+            "text": "menjepit"
+          }
+        ],
+        "examples": [
+          {
+            "text": "iyo enjepit diang gunggum",
+            "translation_id": "dia menjepit dengan tang"
+          }
+        ],
+        "syllable_form": "en.je.pit"
+      },
+      {
+        "headword": "jenepit",
+        "part_of_speech": "verb",
+        "translations": [
+          {
+            "language": "id",
+            "text": "dijepit"
+          }
+        ],
+        "examples": [
+          {
+            "text": "jenepit diang kayu",
+            "translation_id": "dijepit menggunakan kayu"
+          }
+        ],
+        "syllable_form": "je.ne.pit"
+      }
+    ],
+    "notes": "OCR page-094; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-094.txt",
+      "page": 85,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "ga.pit"
+  },
+  {
+    "id": "paser-000725",
+    "headword": "garam",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "garam"
+      }
+    ],
+    "examples": [
+      {
+        "text": "deli ene labo garam apan masin",
+        "translation_id": "sayur itu diberi garam supaya asin"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-095; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-095.txt",
+      "page": 86,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "ga.ram"
+  },
+  {
+    "id": "paser-000726",
+    "headword": "garis",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "garis"
+      }
+    ],
+    "examples": [
+      {
+        "text": "garis ene bujur",
+        "translation_id": "garis itu lurus"
+      }
+    ],
+    "variants": [],
+    "subentries": [
+      {
+        "headword": "enggaris",
+        "part_of_speech": "verb",
+        "translations": [
+          {
+            "language": "id",
+            "text": "menggaris"
+          }
+        ],
+        "examples": [
+          {
+            "text": "iyo enggaris diang paku",
+            "translation_id": "dia menggaris dengan paku"
+          }
+        ],
+        "syllable_form": "eng.ga.ris"
+      },
+      {
+        "headword": "genaris",
+        "part_of_speech": "verb",
+        "translations": [
+          {
+            "language": "id",
+            "text": "digaris"
+          }
+        ],
+        "examples": [
+          {
+            "text": "genaris apan bujur",
+            "translation_id": "digaris supaya lurus"
+          }
+        ],
+        "syllable_form": "ge.na.ris"
+      }
+    ],
+    "notes": "OCR page-095; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-095.txt",
+      "page": 86,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "ga.ris"
+  },
+  {
+    "id": "paser-000727",
+    "headword": "garu",
+    "language": "paser",
+    "part_of_speech": "verb",
+    "translations": [
+      {
+        "language": "id",
+        "text": "garuk"
+      },
+      {
+        "language": "id",
+        "text": "aduk"
+      }
+    ],
+    "examples": [
+      {
+        "text": "garu apan becampur",
+        "translation_id": "aduk supaya bercampur"
+      }
+    ],
+    "variants": [],
+    "subentries": [
+      {
+        "headword": "enggaru",
+        "part_of_speech": "verb",
+        "translations": [
+          {
+            "language": "id",
+            "text": "menggaruk"
+          },
+          {
+            "language": "id",
+            "text": "mengaduk"
+          }
+        ],
+        "examples": [
+          {
+            "text": "dero enggaru parit",
+            "translation_id": "mereka mengaduk parit"
+          }
+        ],
+        "syllable_form": "eng.ga.ru"
+      },
+      {
+        "headword": "genaru",
+        "part_of_speech": "verb",
+        "translations": [
+          {
+            "language": "id",
+            "text": "diaduk"
+          }
+        ],
+        "examples": [
+          {
+            "text": "cenampur bayu genaru",
+            "translation_id": "dicampur baru diaduk"
+          }
+        ],
+        "syllable_form": "ge.na.ru"
+      }
+    ],
+    "notes": "OCR page-095; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-095.txt",
+      "page": 86,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "ga.ru"
+  },
+  {
+    "id": "paser-000728",
+    "headword": "garu",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "kayu gaharu"
+      }
+    ],
+    "examples": [
+      {
+        "text": "garu larang umanyo",
+        "translation_id": "kayu gaharu mahal harganya"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-095; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-095.txt",
+      "page": 86,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "ga.ru"
+  },
+  {
+    "id": "paser-000729",
+    "headword": "gas",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "gas"
+      }
+    ],
+    "examples": [
+      {
+        "text": "endo tu gas larang",
+        "translation_id": "sekarang ini gas mahal"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-095; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-095.txt",
+      "page": 86,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "gas"
+  },
+  {
+    "id": "paser-000730",
+    "headword": "gasa",
+    "language": "paser",
+    "part_of_speech": "adjective",
+    "translations": [
+      {
+        "language": "id",
+        "text": "puas"
+      },
+      {
+        "language": "id",
+        "text": "lega"
+      }
+    ],
+    "examples": [
+      {
+        "text": "okong gasa kuman sampe boting",
+        "translation_id": "adik puas makan sampai kenyang"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-095; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-095.txt",
+      "page": 86,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "ga.sa"
+  },
+  {
+    "id": "paser-000731",
+    "headword": "gasak",
+    "language": "paser",
+    "part_of_speech": "verb",
+    "translations": [
+      {
+        "language": "id",
+        "text": "melakukan sesuatu sekuat tenaga"
+      }
+    ],
+    "examples": [
+      {
+        "text": "iyo gasak monsit",
+        "translation_id": "dia lari sekuat-kuatnya"
+      }
+    ],
+    "variants": [],
+    "subentries": [
+      {
+        "headword": "enggasak",
+        "part_of_speech": "verb",
+        "translations": [
+          {
+            "language": "id",
+            "text": "melakukan dengan sekuatnya"
+          }
+        ],
+        "examples": [
+          {
+            "text": "iyo enggasak gawianyo",
+            "translation_id": "dia melakukan pekerjaannya dengan sekuatnya"
+          }
+        ],
+        "syllable_form": "eng.ga.sak"
+      },
+      {
+        "headword": "genasak",
+        "part_of_speech": "verb",
+        "translations": [
+          {
+            "language": "id",
+            "text": "dilakukan dengan sekuatnya"
+          }
+        ],
+        "examples": [
+          {
+            "text": "gawianyo genasak apa sundok",
+            "translation_id": "pekerjaannya dilakukan dengan sekuatnya agar selesai"
+          }
+        ],
+        "syllable_form": "ge.na.sak"
+      }
+    ],
+    "notes": "OCR page-095; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-095.txt",
+      "page": 86,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "ga.sak"
+  },
+  {
+    "id": "paser-000732",
+    "headword": "gasing",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "gasing"
+      }
+    ],
+    "examples": [
+      {
+        "text": "dero main gasing",
+        "translation_id": "mereka bermain gasing"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-095; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-095.txt",
+      "page": 86,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "ga.sing"
+  },
+  {
+    "id": "paser-000733",
+    "headword": "gau",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "bubur"
+      }
+    ],
+    "examples": [
+      {
+        "text": "okongku aso kuman gau",
+        "translation_id": "adikku masih makan bubur"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-095; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-095.txt",
+      "page": 86,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "gau"
+  },
+  {
+    "id": "paser-000734",
+    "headword": "gawal",
+    "language": "paser",
+    "part_of_speech": "adjective",
+    "translations": [
+      {
+        "language": "id",
+        "text": "senang"
+      }
+    ],
+    "examples": [
+      {
+        "text": "gawal beta iko endo",
+        "translation_id": "senang betul kamu ini"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-095; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-095.txt",
+      "page": 86,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "ga.wal"
+  },
+  {
+    "id": "paser-000735",
+    "headword": "gawi",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "kerja"
+      }
+    ],
+    "examples": [
+      {
+        "text": "ise gawi ko mene",
+        "translation_id": "apa kerja kamu di situ"
+      }
+    ],
+    "variants": [],
+    "subentries": [
+      {
+        "headword": "enggawi",
+        "part_of_speech": "verb",
+        "translations": [
+          {
+            "language": "id",
+            "text": "mengerjakan"
+          }
+        ],
+        "examples": [
+          {
+            "text": "iyo aso enggawi tugas kantor",
+            "translation_id": "dia masih mengerjakan tugas kantor"
+          }
+        ],
+        "syllable_form": "eng.ga.wi"
+      },
+      {
+        "headword": "genawi",
+        "part_of_speech": "verb",
+        "translations": [
+          {
+            "language": "id",
+            "text": "dikerjakan"
+          }
+        ],
+        "examples": [
+          {
+            "text": "ise genawi lane",
+            "translation_id": "apa yang dikerjakan di sana"
+          }
+        ],
+        "syllable_form": "ge.na.wi"
+      },
+      {
+        "headword": "begawi",
+        "part_of_speech": "verb",
+        "translations": [
+          {
+            "language": "id",
+            "text": "bekerja"
+          }
+        ],
+        "examples": [
+          {
+            "text": "mo mone iyo begawi",
+            "translation_id": "di mana dia bekerja"
+          }
+        ],
+        "syllable_form": "be.ga.wi"
+      },
+      {
+        "headword": "penggawi",
+        "part_of_speech": "noun",
+        "translations": [
+          {
+            "language": "id",
+            "text": "pekerja"
+          },
+          {
+            "language": "id",
+            "text": "buruh"
+          }
+        ],
+        "examples": [
+          {
+            "text": "ulun ene penggawi keroi",
+            "translation_id": "orang itu pekerja keras"
+          }
+        ],
+        "syllable_form": "pe.ng.ga.wi"
+      }
+    ],
+    "notes": "OCR page-095; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-095.txt",
+      "page": 86,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "ga.wi"
+  },
+  {
+    "id": "paser-000736",
+    "headword": "gayal",
+    "language": "paser",
+    "part_of_speech": "adjective",
+    "translations": [
+      {
+        "language": "id",
+        "text": "lamban (karena gemuk)"
+      }
+    ],
+    "examples": [
+      {
+        "text": "koe iyo bogol gayal doli",
+        "translation_id": "karena dia gemuk lamban jadinya"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-096; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-096.txt",
+      "page": 87,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "ga.yal"
+  },
+  {
+    "id": "paser-000737",
+    "headword": "gayam",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "pohon/kayu gayam"
+      }
+    ],
+    "examples": [
+      {
+        "text": "bapa mengket gayam",
+        "translation_id": "bapak memanjat pohon gayam"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-096; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-096.txt",
+      "page": 87,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "ga.yam"
+  },
+  {
+    "id": "paser-000738",
+    "headword": "gayong",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "gayung"
+      },
+      {
+        "language": "id",
+        "text": "timba"
+      }
+    ],
+    "examples": [
+      {
+        "text": "danum lang gayong",
+        "translation_id": "air dalam gayung"
+      }
+    ],
+    "variants": [],
+    "subentries": [
+      {
+        "headword": "enggayong",
+        "part_of_speech": "verb",
+        "translations": [
+          {
+            "language": "id",
+            "text": "menggayung"
+          },
+          {
+            "language": "id",
+            "text": "menimba"
+          }
+        ],
+        "examples": [
+          {
+            "text": "aku enggayong danum",
+            "translation_id": "saya menimba air"
+          }
+        ],
+        "syllable_form": "eng.ga.yong"
+      },
+      {
+        "headword": "genayong",
+        "part_of_speech": "verb",
+        "translations": [
+          {
+            "language": "id",
+            "text": "digayung"
+          }
+        ],
+        "examples": [
+          {
+            "text": "danum engket tinan ene genayong",
+            "translation_id": "air dari sumur itu ditimba"
+          }
+        ],
+        "syllable_form": "ge.na.yong"
+      }
+    ],
+    "notes": "OCR page-096; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-096.txt",
+      "page": 87,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "ga.yong"
+  },
+  {
+    "id": "paser-000739",
+    "headword": "gedang",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "kates"
+      },
+      {
+        "language": "id",
+        "text": "pepaya"
+      }
+    ],
+    "examples": [
+      {
+        "text": "aku tuju kuman gedang",
+        "translation_id": "saya suka makan pepaya"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-096; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-096.txt",
+      "page": 87,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "ge.dang"
+  },
+  {
+    "id": "paser-000740",
+    "headword": "gegat",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "gegat"
+      },
+      {
+        "language": "id",
+        "text": "ngengat"
+      }
+    ],
+    "examples": [
+      {
+        "text": "gegat ene kuman buyang",
+        "translation_id": "ngengat itu makan kertas"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-096; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-096.txt",
+      "page": 87,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "ge.gat"
+  },
+  {
+    "id": "paser-000741",
+    "headword": "gégér",
+    "language": "paser",
+    "part_of_speech": "adjective",
+    "translations": [
+      {
+        "language": "id",
+        "text": "gempar"
+      }
+    ],
+    "examples": [
+      {
+        "text": "gégér ulun keringo kesa ene",
+        "translation_id": "gempar orang mendengar berita itu"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-096; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-096.txt",
+      "page": 87,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "gé.gér"
+  },
+  {
+    "id": "paser-000742",
+    "headword": "gégés",
+    "language": "paser",
+    "part_of_speech": "verb",
+    "translations": [
+      {
+        "language": "id",
+        "text": "gesek"
+      }
+    ],
+    "examples": [
+      {
+        "text": "iyo kono gégés",
+        "translation_id": "dia kena gesek"
+      }
+    ],
+    "variants": [],
+    "subentries": [
+      {
+        "headword": "begégés",
+        "part_of_speech": "verb",
+        "translations": [
+          {
+            "language": "id",
+            "text": "bergesekan"
+          }
+        ],
+        "examples": [
+          {
+            "text": "begégés koe dempet balo",
+            "translation_id": "bergesekan karena terlalu dekat"
+          }
+        ],
+        "syllable_form": "be.gé.gés"
+      },
+      {
+        "headword": "enggégés",
+        "part_of_speech": "verb",
+        "translations": [
+          {
+            "language": "id",
+            "text": "menggesekkan"
+          }
+        ],
+        "examples": [
+          {
+            "text": "iyo enggégés ampelas depo kayu",
+            "translation_id": "dia menggesekkan ampelas ke kayu"
+          }
+        ],
+        "syllable_form": "eng.gé.gés"
+      },
+      {
+        "headword": "genégés",
+        "part_of_speech": "verb",
+        "translations": [
+          {
+            "language": "id",
+            "text": "digesekkan"
+          }
+        ],
+        "examples": [
+          {
+            "text": "genégés diang ampelas apan solo",
+            "translation_id": "digesekkan dengan ampelas supaya rata"
+          }
+        ],
+        "syllable_form": "ge.né.gés"
+      }
+    ],
+    "notes": "OCR page-096; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-096.txt",
+      "page": 87,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "gé.gés"
+  },
+  {
+    "id": "paser-000743",
+    "headword": "gelang",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "gelang"
+      }
+    ],
+    "examples": [
+      {
+        "text": "ema makai gelang bulau",
+        "translation_id": "ibu memakai gelang emas"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-096; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-096.txt",
+      "page": 87,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "ge.lang"
+  },
+  {
+    "id": "paser-000744",
+    "headword": "gelagar",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "gelagar"
+      }
+    ],
+    "examples": [
+      {
+        "text": "gelagar jembatan kayu",
+        "translation_id": "gelagar jembatan kayu"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-096; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-096.txt",
+      "page": 87,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "ge.la.gar"
+  },
+  {
+    "id": "paser-000745",
+    "headword": "gelagat",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "gelagat"
+      },
+      {
+        "language": "id",
+        "text": "gejala"
+      },
+      {
+        "language": "id",
+        "text": "tanda-tanda"
+      }
+    ],
+    "examples": [
+      {
+        "text": "ise gelagat belo buen",
+        "translation_id": "ada tanda-tanda tidak baik"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-096; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-096.txt",
+      "page": 87,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "ge.la.gat"
+  },
+  {
+    "id": "paser-000746",
+    "headword": "gelar",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "gelar"
+      },
+      {
+        "language": "id",
+        "text": "nama panggilan"
+      },
+      {
+        "language": "id",
+        "text": "titel"
+      }
+    ],
+    "examples": [
+      {
+        "text": "ise gelar yo",
+        "translation_id": "nama panggilannya apa"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-096; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-096.txt",
+      "page": 87,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "ge.lar"
+  },
+  {
+    "id": "paser-000747",
+    "headword": "gelas",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "gelas"
+      }
+    ],
+    "examples": [
+      {
+        "text": "gelas awa danum",
+        "translation_id": "gelas tempat air"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-096; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-096.txt",
+      "page": 87,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "ge.las"
+  },
+  {
+    "id": "paser-000748",
+    "headword": "gélé",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "ikatan, sambungan yang tidak kuat"
+      }
+    ],
+    "examples": [
+      {
+        "text": "gélé beta siret ene",
+        "translation_id": "tidak kuat ikatan itu"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-097; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-097.txt",
+      "page": 88,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "gé.lé"
+  },
+  {
+    "id": "paser-000749",
+    "headword": "geleda",
+    "language": "paser",
+    "part_of_speech": "verb",
+    "translations": [
+      {
+        "language": "id",
+        "text": "menggeledah"
+      }
+    ],
+    "examples": [
+      {
+        "text": "geleda pelisi depo suang lou ene",
+        "translation_id": "polisi menggeledah di dalam rumah itu"
+      }
+    ],
+    "variants": [],
+    "subentries": [
+      {
+        "headword": "ginaleda",
+        "part_of_speech": "verb",
+        "translations": [
+          {
+            "language": "id",
+            "text": "digeledah"
+          }
+        ],
+        "examples": [
+          {
+            "text": "ulun ene ginaleda pelisi",
+            "translation_id": "orang itu digeledah polisi"
+          }
+        ],
+        "syllable_form": "gi.na.le.da"
+      }
+    ],
+    "notes": "OCR page-097; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-097.txt",
+      "page": 88,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "ge.le.da"
+  },
+  {
+    "id": "paser-000750",
+    "headword": "gelempong",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "rawa"
+      }
+    ],
+    "examples": [
+      {
+        "text": "gelempong awa miwit esa",
+        "translation_id": "rawa tempat memelihara ikan"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-097; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-097.txt",
+      "page": 88,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "ge.lem.pong"
+  },
+  {
+    "id": "paser-000751",
+    "headword": "gelong",
+    "language": "paser",
+    "part_of_speech": "adjective",
+    "translations": [
+      {
+        "language": "id",
+        "text": "goyang"
+      },
+      {
+        "language": "id",
+        "text": "goyah"
+      }
+    ],
+    "examples": [
+      {
+        "text": "biduk ene gelong beta",
+        "translation_id": "perahu itu goyang sekali"
+      }
+    ],
+    "variants": [],
+    "subentries": [
+      {
+        "headword": "enggelong",
+        "part_of_speech": "verb",
+        "translations": [
+          {
+            "language": "id",
+            "text": "menggoyang"
+          }
+        ],
+        "examples": [
+          {
+            "text": "enggelong biduk apan kayom",
+            "translation_id": "menggoyang perahu supaya karam"
+          }
+        ],
+        "syllable_form": "eng.ge.long"
+      },
+      {
+        "headword": "genelong",
+        "part_of_speech": "verb",
+        "translations": [
+          {
+            "language": "id",
+            "text": "digoyang"
+          }
+        ],
+        "examples": [
+          {
+            "text": "nang genelong kedera ene",
+            "translation_id": "jangan digoyang kursi itu"
+          }
+        ],
+        "syllable_form": "ge.ne.long"
+      }
+    ],
+    "notes": "OCR page-097; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-097.txt",
+      "page": 88,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "ge.long"
+  },
+  {
+    "id": "paser-000752",
+    "headword": "gelong",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "gelung"
+      },
+      {
+        "language": "id",
+        "text": "konde"
+      }
+    ],
+    "examples": [
+      {
+        "text": "gelong balo ulun bawe",
+        "translation_id": "gelung rambut perempuan"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-097; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-097.txt",
+      "page": 88,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "ge.long"
+  },
+  {
+    "id": "paser-000753",
+    "headword": "geluk",
+    "language": "paser",
+    "part_of_speech": "adjective",
+    "translations": [
+      {
+        "language": "id",
+        "text": "longgar"
+      },
+      {
+        "language": "id",
+        "text": "tidak kuat"
+      }
+    ],
+    "examples": [
+      {
+        "text": "paku ene geluk belo pereket",
+        "translation_id": "paku itu longgar, tidak lengket"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-097; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-097.txt",
+      "page": 88,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "ge.luk"
+  },
+  {
+    "id": "paser-000754",
+    "headword": "gelun",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "gelombang"
+      }
+    ],
+    "examples": [],
+    "variants": [],
+    "subentries": [
+      {
+        "headword": "ngarung-gelun",
+        "part_of_speech": "adjective",
+        "translations": [
+          {
+            "language": "id",
+            "text": "permukaan bergelombang"
+          }
+        ],
+        "examples": [
+          {
+            "text": "boyan endo ngarung-gelun",
+            "translation_id": "jalan ini bergelombang"
+          }
+        ],
+        "syllable_form": "nga.rung-ge.lun"
+      },
+      {
+        "headword": "renggelun",
+        "part_of_speech": "adjective",
+        "translations": [
+          {
+            "language": "id",
+            "text": "tidak rata"
+          },
+          {
+            "language": "id",
+            "text": "bergelombang"
+          }
+        ],
+        "examples": [
+          {
+            "text": "tana ene renggelun",
+            "translation_id": "tanah itu tidak rata"
+          }
+        ],
+        "syllable_form": "reng.ge.lun"
+      }
+    ],
+    "notes": "OCR page-097; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-097.txt",
+      "page": 88,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "ge.lun"
+  },
+  {
+    "id": "paser-000755",
+    "headword": "gelut",
+    "language": "paser",
+    "part_of_speech": "verb",
+    "translations": [
+      {
+        "language": "id",
+        "text": "bergelut"
+      },
+      {
+        "language": "id",
+        "text": "kerja keras"
+      }
+    ],
+    "examples": [
+      {
+        "text": "iyo gelut ka begawi",
+        "translation_id": "dia bergelut dalam bekerja"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-097; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-097.txt",
+      "page": 88,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "ge.lut"
+  },
+  {
+    "id": "paser-000756",
+    "headword": "gembira",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "senandung"
+      }
+    ],
+    "examples": [
+      {
+        "text": "iyo gembira",
+        "translation_id": "dia bersenandung"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-097; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-097.txt",
+      "page": 88,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "gem.bi.ra"
+  },
+  {
+    "id": "paser-000757",
+    "headword": "gembong",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "kembung"
+      }
+    ],
+    "examples": [
+      {
+        "text": "buntung okongku gembong",
+        "translation_id": "perut adikku kembung"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-097; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-097.txt",
+      "page": 88,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "gem.bong"
+  },
+  {
+    "id": "paser-000758",
+    "headword": "gempar",
+    "language": "paser",
+    "part_of_speech": "adjective",
+    "translations": [
+      {
+        "language": "id",
+        "text": "gempar"
+      }
+    ],
+    "examples": [
+      {
+        "text": "gempar ulun keringo kesa ene",
+        "translation_id": "gempar orang mendengar berita itu"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-097; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-097.txt",
+      "page": 88,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "gem.par"
+  },
+  {
+    "id": "paser-000759",
+    "headword": "genap",
+    "language": "paser",
+    "part_of_speech": "adjective",
+    "translations": [
+      {
+        "language": "id",
+        "text": "genap"
+      }
+    ],
+    "examples": [
+      {
+        "text": "genap epat olo aut",
+        "translation_id": "genap sudah empat hari"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-097; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-097.txt",
+      "page": 88,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "ge.nap"
+  },
+  {
+    "id": "paser-000760",
+    "headword": "gendang",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "gendang"
+      }
+    ],
+    "examples": [
+      {
+        "text": "keo embengen gendang engket lane",
+        "translation_id": "ada suara bunyi gendang dari sana"
+      }
+    ],
+    "variants": [],
+    "subentries": [
+      {
+        "headword": "enggendang",
+        "part_of_speech": "verb",
+        "translations": [
+          {
+            "language": "id",
+            "text": "menggendang"
+          }
+        ],
+        "examples": [
+          {
+            "text": "iyo enggendang meja",
+            "translation_id": "dia menggendang meja"
+          }
+        ],
+        "syllable_form": "eng.gen.dang"
+      },
+      {
+        "headword": "genendang",
+        "part_of_speech": "verb",
+        "translations": [
+          {
+            "language": "id",
+            "text": "digendang"
+          }
+        ],
+        "examples": [
+          {
+            "text": "genendang apan rame",
+            "translation_id": "digendang supaya meriah"
+          }
+        ],
+        "syllable_form": "ge.nen.dang"
+      }
+    ],
+    "notes": "OCR page-097; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-097.txt",
+      "page": 88,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "gen.dang"
+  },
+  {
+    "id": "paser-000761",
+    "headword": "génjér",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "genjer"
+      }
+    ],
+    "examples": [
+      {
+        "text": "deo génjér mo sori lou",
+        "translation_id": "banyak sayur genjer di belakang rumah"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-098; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-098.txt",
+      "page": 89,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "gén.jér"
+  },
+  {
+    "id": "paser-000762",
+    "headword": "genting",
+    "language": "paser",
+    "part_of_speech": "adjective",
+    "translations": [
+      {
+        "language": "id",
+        "text": "genting"
+      }
+    ],
+    "examples": [
+      {
+        "text": "poywyo genting",
+        "translation_id": "keadaannya sakit genting"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-098; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-098.txt",
+      "page": 89,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "gen.ting"
+  },
+  {
+    "id": "paser-000763",
+    "headword": "gentong",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "gentong"
+      },
+      {
+        "language": "id",
+        "text": "tong"
+      }
+    ],
+    "examples": [
+      {
+        "text": "gentong ene ponu danum",
+        "translation_id": "gentong itu penuh air"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-098; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-098.txt",
+      "page": 89,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "gen.tong"
+  },
+  {
+    "id": "paser-000764",
+    "headword": "géntung",
+    "language": "paser",
+    "part_of_speech": "verb",
+    "translations": [
+      {
+        "language": "id",
+        "text": "gantung"
+      },
+      {
+        "language": "id",
+        "text": "cantol"
+      }
+    ],
+    "examples": [
+      {
+        "text": "géntung mo dinding",
+        "translation_id": "gantung di dinding"
+      }
+    ],
+    "variants": [],
+    "subentries": [
+      {
+        "headword": "enggéntung",
+        "part_of_speech": "verb",
+        "translations": [
+          {
+            "language": "id",
+            "text": "menggantung"
+          }
+        ],
+        "examples": [
+          {
+            "text": "peda ene enggéntung mo sapo",
+            "translation_id": "layang-layang itu menggantung di atap"
+          }
+        ],
+        "syllable_form": "eng.gén.tung"
+      },
+      {
+        "headword": "genéntung",
+        "part_of_speech": "verb",
+        "translations": [
+          {
+            "language": "id",
+            "text": "digantung"
+          }
+        ],
+        "examples": [
+          {
+            "text": "genéntung mo ombo",
+            "translation_id": "digantung di atas"
+          }
+        ],
+        "syllable_form": "ge.nén.tung"
+      }
+    ],
+    "notes": "OCR page-098; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-098.txt",
+      "page": 89,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "gén.tung"
+  },
+  {
+    "id": "paser-000765",
+    "headword": "gentung",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "danau"
+      },
+      {
+        "language": "id",
+        "text": "kolam"
+      },
+      {
+        "language": "id",
+        "text": "lubuk"
+      }
+    ],
+    "examples": [
+      {
+        "text": "gentung ene sae",
+        "translation_id": "danau itu luas"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-098; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-098.txt",
+      "page": 89,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "gen.tung"
+  },
+  {
+    "id": "paser-000766",
+    "headword": "gentik",
+    "language": "paser",
+    "part_of_speech": "verb",
+    "translations": [
+      {
+        "language": "id",
+        "text": "sentil"
+      }
+    ],
+    "examples": [
+      {
+        "text": "gentik sergigiyo ena nakal",
+        "translation_id": "sentil jarinya kalau nakal"
+      }
+    ],
+    "variants": [],
+    "subentries": [
+      {
+        "headword": "genentik",
+        "part_of_speech": "verb",
+        "translations": [
+          {
+            "language": "id",
+            "text": "menyentil"
+          },
+          {
+            "language": "id",
+            "text": "disentil"
+          }
+        ],
+        "examples": [
+          {
+            "text": "iyo genentik sergigi okong",
+            "translation_id": "dia menyentil jari adik"
+          }
+        ],
+        "syllable_form": "ge.nen.tik"
+      }
+    ],
+    "notes": "OCR page-098; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-098.txt",
+      "page": 89,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "gen.tik"
+  },
+  {
+    "id": "paser-000767",
+    "headword": "gényel",
+    "language": "paser",
+    "part_of_speech": "adjective",
+    "translations": [
+      {
+        "language": "id",
+        "text": "kenyal"
+      }
+    ],
+    "examples": [
+      {
+        "text": "esa ene gényel ena belo ensak",
+        "translation_id": "ikan itu kenyal bila belum masak"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-098; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-098.txt",
+      "page": 89,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "gé.nyel"
+  },
+  {
+    "id": "paser-000768",
+    "headword": "géong",
+    "language": "paser",
+    "part_of_speech": "verb",
+    "translations": [
+      {
+        "language": "id",
+        "text": "goyang"
+      }
+    ],
+    "examples": [
+      {
+        "text": "lou géong kono riut",
+        "translation_id": "rumah goyang kena angin"
+      }
+    ],
+    "variants": [],
+    "subentries": [
+      {
+        "headword": "enggéong",
+        "part_of_speech": "verb",
+        "translations": [
+          {
+            "language": "id",
+            "text": "menggoyang"
+          }
+        ],
+        "examples": [
+          {
+            "text": "dero enggéong lai belimbing",
+            "translation_id": "mereka menggoyang pohon belimbing"
+          }
+        ],
+        "syllable_form": "eng.gé.ong"
+      },
+      {
+        "headword": "genéong",
+        "part_of_speech": "verb",
+        "translations": [
+          {
+            "language": "id",
+            "text": "digoyang"
+          }
+        ],
+        "examples": [
+          {
+            "text": "lai rembutan genéong peya",
+            "translation_id": "pohon rambutan digoyang anak-anak"
+          }
+        ],
+        "syllable_form": "ge.né.ong"
+      }
+    ],
+    "notes": "OCR page-098; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-098.txt",
+      "page": 89,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "gé.ong"
+  },
+  {
+    "id": "paser-000769",
+    "headword": "gera",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "gerhana"
+      }
+    ],
+    "examples": [
+      {
+        "text": "malom endo gera bulan",
+        "translation_id": "malam ini gerhana bulan"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-098; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-098.txt",
+      "page": 89,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "ge.ra"
+  },
+  {
+    "id": "paser-000770",
+    "headword": "gerak",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "gerak"
+      }
+    ],
+    "examples": [],
+    "variants": [],
+    "subentries": [
+      {
+        "headword": "gegerak",
+        "part_of_speech": "verb",
+        "translations": [
+          {
+            "language": "id",
+            "text": "bergerak"
+          }
+        ],
+        "examples": [
+          {
+            "text": "belo yo pian gegerak engket awa tunge",
+            "translation_id": "belum ada yang bergerak dari tempat duduk"
+          }
+        ],
+        "syllable_form": "ge.ge.rak"
+      }
+    ],
+    "notes": "OCR page-098; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-098.txt",
+      "page": 89,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "ge.rak"
+  },
+  {
+    "id": "paser-000771",
+    "headword": "geragu",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "tengkorak"
+      }
+    ],
+    "examples": [
+      {
+        "text": "potu geragu utokyo",
+        "translation_id": "pecah tengkorak kepalanya"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-098; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-098.txt",
+      "page": 89,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "ge.ra.gu"
+  },
+  {
+    "id": "paser-000772",
+    "headword": "gerame",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "jari hewan"
+      }
+    ],
+    "examples": [
+      {
+        "text": "gerame puya",
+        "translation_id": "jari-jari kepiting"
+      }
+    ],
+    "variants": [
+      "gerime"
+    ],
+    "subentries": [],
+    "notes": "OCR page-098; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-098.txt",
+      "page": 89,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "ge.ra.me"
+  },
+  {
+    "id": "paser-000773",
+    "headword": "gerang",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "geraham"
+      }
+    ],
+    "examples": [
+      {
+        "text": "gerang yo boar",
+        "translation_id": "gigi gerahamnya sakit"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-098; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-098.txt",
+      "page": 89,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "ge.rang"
+  },
+  {
+    "id": "paser-000774",
+    "headword": "gerea",
+    "language": "paser",
+    "part_of_speech": "verb",
+    "translations": [
+      {
+        "language": "id",
+        "text": "mengeluarkan angin karena kenyang"
+      },
+      {
+        "language": "id",
+        "text": "beserdawa"
+      }
+    ],
+    "examples": [
+      {
+        "text": "iyo gerea tiap sundok kuman",
+        "translation_id": "dia beserdawa setiap selesai makan"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-098; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-098.txt",
+      "page": 89,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "ge.re.a"
+  },
+  {
+    "id": "paser-000775",
+    "headword": "geré",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "sayat"
+      },
+      {
+        "language": "id",
+        "text": "iris"
+      }
+    ],
+    "examples": [],
+    "variants": [],
+    "subentries": [
+      {
+        "headword": "enggéré",
+        "part_of_speech": "verb",
+        "translations": [
+          {
+            "language": "id",
+            "text": "mengiris"
+          }
+        ],
+        "examples": [
+          {
+            "text": "ema enggéré esa",
+            "translation_id": "ibu mengiris ikan"
+          }
+        ],
+        "syllable_form": "eng.gé.ré"
+      },
+      {
+        "headword": "genéré",
+        "part_of_speech": "verb",
+        "translations": [
+          {
+            "language": "id",
+            "text": "diiris"
+          }
+        ],
+        "examples": [
+          {
+            "text": "bawang ene genéré pakai lading",
+            "translation_id": "bawang itu diiris menggunakan pisau"
+          }
+        ],
+        "syllable_form": "ge.né.ré"
+      }
+    ],
+    "notes": "OCR page-099; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-099.txt",
+      "page": 90,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "ge’.ré"
+  },
+  {
+    "id": "paser-000776",
+    "headword": "gerdu",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "gardu"
+      }
+    ],
+    "examples": [
+      {
+        "text": "gerdu awa jaga",
+        "translation_id": "gardu tempat jaga"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-099; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-099.txt",
+      "page": 90,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "ger.du"
+  },
+  {
+    "id": "paser-000777",
+    "headword": "geréja",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "gereja"
+      }
+    ],
+    "examples": [
+      {
+        "text": "tukang ene embangun geréja",
+        "translation_id": "pemborong itu membangun gereja"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-099; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-099.txt",
+      "page": 90,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "ge.ré.ja"
+  },
+  {
+    "id": "paser-000778",
+    "headword": "geretak",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "gertakan"
+      }
+    ],
+    "examples": [
+      {
+        "text": "geretak yo tingen ene",
+        "translation_id": "gertakannya saja itu"
+      }
+    ],
+    "variants": [
+      "gertak"
+    ],
+    "subentries": [
+      {
+        "headword": "ginaretak",
+        "part_of_speech": "verb",
+        "translations": [
+          {
+            "language": "id",
+            "text": "digertak"
+          }
+        ],
+        "examples": [
+          {
+            "text": "peya ene ginaretak apan takut",
+            "translation_id": "anak itu digertak supaya takut"
+          }
+        ],
+        "syllable_form": "gi.na.re.tak"
+      }
+    ],
+    "notes": "OCR page-099; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-099.txt",
+      "page": 90,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "ge.re.tak"
+  },
+  {
+    "id": "paser-000779",
+    "headword": "gerepu",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "garpu"
+      }
+    ],
+    "examples": [
+      {
+        "text": "iyo kuman diang gerepu",
+        "translation_id": "dia makan dengan memakai garpu"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-099; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-099.txt",
+      "page": 90,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "ge.re.pu"
+  },
+  {
+    "id": "paser-000780",
+    "headword": "gergaji",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "gergaji"
+      }
+    ],
+    "examples": [
+      {
+        "text": "bapa moli gergaji",
+        "translation_id": "bapak membeli gergaji"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-099; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-099.txt",
+      "page": 90,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "ger.ga.ji"
+  },
+  {
+    "id": "paser-000781",
+    "headword": "gerip",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "gerif"
+      }
+    ],
+    "examples": [
+      {
+        "text": "zaman dene ulun makai gerip ena nulis",
+        "translation_id": "zaman dahulu orang menulis memakai gerif"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-099; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-099.txt",
+      "page": 90,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "ge.rip"
+  },
+  {
+    "id": "paser-000782",
+    "headword": "gerigi",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "jari"
+      }
+    ],
+    "examples": [
+      {
+        "text": "gerigi kayangyo lentik",
+        "translation_id": "jari tangannya lentik"
+      }
+    ],
+    "variants": [
+      "sergigi"
+    ],
+    "subentries": [],
+    "notes": "OCR page-099; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-099.txt",
+      "page": 90,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "ge.ri.gi"
+  },
+  {
+    "id": "paser-000783",
+    "headword": "gerigit",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "rigi-rigi"
+      },
+      {
+        "language": "id",
+        "text": "gerigi"
+      }
+    ],
+    "examples": [
+      {
+        "text": "waja ene tenampa gerigit",
+        "translation_id": "baja itu dibuat rigi-rigi"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-099; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-099.txt",
+      "page": 90,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "ge.rigit"
+  },
+  {
+    "id": "paser-000784",
+    "headword": "gerigiten",
+    "language": "paser",
+    "part_of_speech": "adjective",
+    "translations": [
+      {
+        "language": "id",
+        "text": "gemeretak"
+      },
+      {
+        "language": "id",
+        "text": "menggigil"
+      }
+    ],
+    "examples": [
+      {
+        "text": "peya ene gerigiten iyo koe jeromon",
+        "translation_id": "anak itu gemeretak karena kedinginan"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-099; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-099.txt",
+      "page": 90,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "ge.ri.gi.ten"
+  },
+  {
+    "id": "paser-000785",
+    "headword": "gerinda",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "gurinda"
+      }
+    ],
+    "examples": [
+      {
+        "text": "bapa moli mesin gerinda",
+        "translation_id": "bapak membeli mesin gurinda"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-099; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-099.txt",
+      "page": 90,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "ge.rin.da"
+  },
+  {
+    "id": "paser-000786",
+    "headword": "geriji",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "jari-jari"
+      }
+    ],
+    "examples": [
+      {
+        "text": "geriji ku boar",
+        "translation_id": "jari-jariku sakit"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-099; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-099.txt",
+      "page": 90,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "ge.riji"
+  },
+  {
+    "id": "paser-000787",
+    "headword": "geroa",
+    "language": "paser",
+    "part_of_speech": "adjective",
+    "translations": [
+      {
+        "language": "id",
+        "text": "sembarangan"
+      }
+    ],
+    "examples": [
+      {
+        "text": "iyo geroa begawi",
+        "translation_id": "dia sembarangan bekerja"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-099; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-099.txt",
+      "page": 90,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "ge.ro.a"
+  },
+  {
+    "id": "paser-000788",
+    "headword": "gerobak",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "gerobak"
+      }
+    ],
+    "examples": [
+      {
+        "text": "gerobak awa moit deli",
+        "translation_id": "gerobak tempat membawa sayur"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-099; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-099.txt",
+      "page": 90,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "ge.ro.bak"
+  },
+  {
+    "id": "paser-000789",
+    "headword": "gerut",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "kerutan"
+      }
+    ],
+    "examples": [
+      {
+        "text": "gerut upak wae",
+        "translation_id": "kerutan kulit muka"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-099; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-099.txt",
+      "page": 90,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "ge.rut"
+  },
+  {
+    "id": "paser-000790",
+    "headword": "gésék",
+    "language": "paser",
+    "part_of_speech": "verb",
+    "translations": [
+      {
+        "language": "id",
+        "text": "bergesek"
+      }
+    ],
+    "examples": [],
+    "variants": [],
+    "subentries": [
+      {
+        "headword": "enggésék",
+        "part_of_speech": "verb",
+        "translations": [
+          {
+            "language": "id",
+            "text": "menggesek"
+          }
+        ],
+        "examples": [
+          {
+            "text": "iyo enggésék ngasa otak",
+            "translation_id": "dia menggesek mengasah parang"
+          }
+        ],
+        "syllable_form": "eng.gé.sék"
+      },
+      {
+        "headword": "genésék",
+        "part_of_speech": "verb",
+        "translations": [
+          {
+            "language": "id",
+            "text": "digesek"
+          }
+        ],
+        "examples": [
+          {
+            "text": "amplas ene genésék mo kayu",
+            "translation_id": "ampelas itu digesek ke kayu"
+          }
+        ],
+        "syllable_form": "ge.né.sék"
+      }
+    ],
+    "notes": "OCR page-099; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-099.txt",
+      "page": 90,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "gé.sék"
+  },
+  {
+    "id": "paser-000791",
+    "headword": "gésér",
+    "language": "paser",
+    "part_of_speech": "verb",
+    "translations": [
+      {
+        "language": "id",
+        "text": "bergeser"
+      }
+    ],
+    "examples": [
+      {
+        "text": "gésér apan oro",
+        "translation_id": "bergeser supaya jauh"
+      }
+    ],
+    "variants": [],
+    "subentries": [
+      {
+        "headword": "enggésér",
+        "part_of_speech": "verb",
+        "translations": [
+          {
+            "language": "id",
+            "text": "menggeser"
+          }
+        ],
+        "examples": [
+          {
+            "text": "dero enggésér ngensut awayo",
+            "translation_id": "mereka menggeser memindah tempatnya"
+          }
+        ],
+        "syllable_form": "eng.gé.sér"
+      },
+      {
+        "headword": "genésér",
+        "part_of_speech": "verb",
+        "translations": [
+          {
+            "language": "id",
+            "text": "digeser"
+          }
+        ],
+        "examples": [
+          {
+            "text": "genésér depo diwe",
+            "translation_id": "digeser ke samping"
+          }
+        ],
+        "syllable_form": "ge.né.sér"
+      }
+    ],
+    "notes": "OCR page-100; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-100.txt",
+      "page": 91,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "gé.sér"
+  },
+  {
+    "id": "paser-000792",
+    "headword": "gesik",
+    "language": "paser",
+    "part_of_speech": "adjective",
+    "translations": [
+      {
+        "language": "id",
+        "text": "cepat"
+      },
+      {
+        "language": "id",
+        "text": "gesit"
+      }
+    ],
+    "examples": [
+      {
+        "text": "iyo gesik ena malan",
+        "translation_id": "dia cepat ketika berjalan"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-100; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-100.txt",
+      "page": 91,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "ge.sik"
+  },
+  {
+    "id": "paser-000793",
+    "headword": "geta",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "karet"
+      },
+      {
+        "language": "id",
+        "text": "getah"
+      }
+    ],
+    "examples": [
+      {
+        "text": "geta ente nampa ban",
+        "translation_id": "karet untuk pembuatan ban"
+      }
+    ],
+    "variants": [],
+    "subentries": [
+      {
+        "headword": "begeta",
+        "part_of_speech": "verb",
+        "translations": [
+          {
+            "language": "id",
+            "text": "bergetah"
+          }
+        ],
+        "examples": [
+          {
+            "text": "begeta kayangku kono pulut nangka",
+            "translation_id": "bergetah tanganku kena getah nangka"
+          }
+        ],
+        "syllable_form": "be.ge.ta"
+      }
+    ],
+    "notes": "OCR page-100; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-100.txt",
+      "page": 91,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "ge.ta"
+  },
+  {
+    "id": "paser-000794",
+    "headword": "getel",
+    "language": "paser",
+    "part_of_speech": "verb",
+    "translations": [
+      {
+        "language": "id",
+        "text": "menyentil"
+      }
+    ],
+    "examples": [
+      {
+        "text": "bapa getel kayangku",
+        "translation_id": "bapak menyentil tanganku"
+      }
+    ],
+    "variants": [
+      "enggetel"
+    ],
+    "subentries": [
+      {
+        "headword": "genetel",
+        "part_of_speech": "verb",
+        "translations": [
+          {
+            "language": "id",
+            "text": "disentil"
+          }
+        ],
+        "examples": [
+          {
+            "text": "iyo genetel koe guru",
+            "translation_id": "dia disentil oleh pak guru"
+          }
+        ],
+        "syllable_form": "ge.ne.tel"
+      }
+    ],
+    "notes": "OCR page-100; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-100.txt",
+      "page": 91,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "ge.tel"
+  },
+  {
+    "id": "paser-000795",
+    "headword": "geteng",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "posisi tanggung"
+      }
+    ],
+    "examples": [
+      {
+        "text": "awayo geteng",
+        "translation_id": "tempatnya tanggung"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-100; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-100.txt",
+      "page": 91,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "ge.teng"
+  },
+  {
+    "id": "paser-000796",
+    "headword": "gilik",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "geleng"
+      }
+    ],
+    "examples": [
+      {
+        "text": "iyo gilik utok",
+        "translation_id": "dia geleng kepala"
+      }
+    ],
+    "variants": [],
+    "subentries": [
+      {
+        "headword": "enggilik",
+        "part_of_speech": "verb",
+        "translations": [
+          {
+            "language": "id",
+            "text": "menggeleng"
+          }
+        ],
+        "examples": [
+          {
+            "text": "peya ene tuju enggilik utok",
+            "translation_id": "anak itu suka menggeleng kepala"
+          }
+        ],
+        "syllable_form": "eng.gi.lik"
+      },
+      {
+        "headword": "genilik",
+        "part_of_speech": "verb",
+        "translations": [
+          {
+            "language": "id",
+            "text": "digeleng"
+          }
+        ],
+        "examples": [
+          {
+            "text": "genilik utok yo",
+            "translation_id": "digelengkan kepalanya"
+          }
+        ],
+        "syllable_form": "ge.ni.lik"
+      }
+    ],
+    "notes": "OCR page-100; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-100.txt",
+      "page": 91,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "gi.lik"
+  },
+  {
+    "id": "paser-000797",
+    "headword": "gimbal",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "domba"
+      },
+      {
+        "language": "id",
+        "text": "biri-biri"
+      }
+    ],
+    "examples": [
+      {
+        "text": "bapa moli gimbal",
+        "translation_id": "bapak membeli domba"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-100; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-100.txt",
+      "page": 91,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "gim.bal"
+  },
+  {
+    "id": "paser-000798",
+    "headword": "gimpil",
+    "language": "paser",
+    "part_of_speech": "adjective",
+    "translations": [
+      {
+        "language": "id",
+        "text": "mudah jatuh"
+      }
+    ],
+    "examples": [
+      {
+        "text": "gimpil beta tunge yo",
+        "translation_id": "mudah sekali jatuh posisi duduknya"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-100; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-100.txt",
+      "page": 91,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "gim.pil"
+  },
+  {
+    "id": "paser-000799",
+    "headword": "girik",
+    "language": "paser",
+    "part_of_speech": "verb",
+    "translations": [
+      {
+        "language": "id",
+        "text": "melubangi dengan alat runcing"
+      }
+    ],
+    "examples": [
+      {
+        "text": "iyo girik apan losan depo bika lane",
+        "translation_id": "dia melubangi agar lobangnya tembus ke sebelah sana"
+      }
+    ],
+    "variants": [
+      "enggirik"
+    ],
+    "subentries": [
+      {
+        "headword": "genirik",
+        "part_of_speech": "verb",
+        "translations": [
+          {
+            "language": "id",
+            "text": "dilobangi"
+          }
+        ],
+        "examples": [
+          {
+            "text": "tong ene genirik",
+            "translation_id": "tong itu dilubangi"
+          }
+        ],
+        "syllable_form": "ge.ni.rik"
+      }
+    ],
+    "notes": "OCR page-100; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-100.txt",
+      "page": 91,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "gi.rik"
+  },
+  {
+    "id": "paser-000800",
+    "headword": "gison",
+    "language": "paser",
+    "part_of_speech": "adjective",
+    "translations": [
+      {
+        "language": "id",
+        "text": "gelisah"
+      },
+      {
+        "language": "id",
+        "text": "resah"
+      },
+      {
+        "language": "id",
+        "text": "gerah"
+      }
+    ],
+    "examples": [
+      {
+        "text": "gison pangunanamyo",
+        "translation_id": "gelisah perasaannya"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-100; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-100.txt",
+      "page": 91,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "gis.on"
+  },
+  {
+    "id": "paser-000801",
+    "headword": "gitar",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "gitar"
+      }
+    ],
+    "examples": [
+      {
+        "text": "andiku pintar main gitar",
+        "translation_id": "kakakku pandai bermain gitar"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-100; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-100.txt",
+      "page": 91,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "gi.tar"
+  },
+  {
+    "id": "paser-000802",
+    "headword": "gobang",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "gobang"
+      },
+      {
+        "language": "id",
+        "text": "uang logam kuno"
+      }
+    ],
+    "examples": [
+      {
+        "text": "zaman dene ulun makai gobang ena benoli",
+        "translation_id": "zaman dahulu orang memakai uang gobang kalau berbelanja"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-100; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-100.txt",
+      "page": 91,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "go.bang"
+  },
+  {
+    "id": "paser-000803",
+    "headword": "goda",
+    "language": "paser",
+    "part_of_speech": "verb",
+    "translations": [
+      {
+        "language": "id",
+        "text": "goda"
+      }
+    ],
+    "examples": [
+      {
+        "text": "iyo kono goda",
+        "translation_id": "dia kena goda"
+      }
+    ],
+    "variants": [],
+    "subentries": [
+      {
+        "headword": "enggoda",
+        "part_of_speech": "verb",
+        "translations": [
+          {
+            "language": "id",
+            "text": "menggoda"
+          }
+        ],
+        "examples": [
+          {
+            "text": "iyo tuju enggoda ulun",
+            "translation_id": "dia suka menggoda orang"
+          }
+        ],
+        "syllable_form": "eng.go.da"
+      },
+      {
+        "headword": "genoda",
+        "part_of_speech": "verb",
+        "translations": [
+          {
+            "language": "id",
+            "text": "digoda"
+          }
+        ],
+        "examples": [
+          {
+            "text": "bawe burok ene genoda koe dero",
+            "translation_id": "gadis itu digoda oleh mereka"
+          }
+        ],
+        "syllable_form": "ge.no.da"
+      }
+    ],
+    "notes": "OCR page-100; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-100.txt",
+      "page": 91,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "go.da"
+  },
+  {
+    "id": "paser-000804",
+    "headword": "godang",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "gudang"
+      }
+    ],
+    "examples": [
+      {
+        "text": "godang awa ngona pare",
+        "translation_id": "gudang tempat menyimpan padi"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-101; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-101.txt",
+      "page": 92,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "go.dang"
+  },
+  {
+    "id": "paser-000805",
+    "headword": "godam",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "jenis palu besar"
+      }
+    ],
+    "examples": [
+      {
+        "text": "godam ene boyat beta",
+        "translation_id": "godam itu berat sekali"
+      }
+    ],
+    "variants": [],
+    "subentries": [],
+    "notes": "OCR page-101; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-101.txt",
+      "page": 92,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "go.dam"
+  },
+  {
+    "id": "paser-000806",
+    "headword": "goncang",
+    "language": "paser",
+    "part_of_speech": "adjective",
+    "translations": [
+      {
+        "language": "id",
+        "text": "guncang"
+      }
+    ],
+    "examples": [
+      {
+        "text": "goncang belek ene",
+        "translation_id": "guncang kaleng itu"
+      }
+    ],
+    "variants": [],
+    "subentries": [
+      {
+        "headword": "enggoncang",
+        "part_of_speech": "verb",
+        "translations": [
+          {
+            "language": "id",
+            "text": "mengguncang"
+          }
+        ],
+        "examples": [
+          {
+            "text": "aku enggoncang belek",
+            "translation_id": "saya mengguncang kaleng"
+          }
+        ],
+        "syllable_form": "eng.gon.cang"
+      },
+      {
+        "headword": "genoncang",
+        "part_of_speech": "verb",
+        "translations": [
+          {
+            "language": "id",
+            "text": "diguncang"
+          }
+        ],
+        "examples": [
+          {
+            "text": "ema-ema genoncang kotak arisan",
+            "translation_id": "ibu-ibu mengguncang kotak arisan"
+          }
+        ],
+        "syllable_form": "ge.non.cang"
+      }
+    ],
+    "notes": "OCR page-101; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-101.txt",
+      "page": 92,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "gon.cang"
+  },
+  {
+    "id": "paser-000807",
+    "headword": "gondol",
+    "language": "paser",
+    "part_of_speech": "adjective",
+    "translations": [
+      {
+        "language": "id",
+        "text": "gundul"
+      }
+    ],
+    "examples": [
+      {
+        "text": "utok peya ene gondol",
+        "translation_id": "kepala anak itu gundul"
+      }
+    ],
+    "variants": [],
+    "subentries": [
+      {
+        "headword": "begondol",
+        "part_of_speech": "verb",
+        "translations": [
+          {
+            "language": "id",
+            "text": "begundul"
+          }
+        ],
+        "examples": [
+          {
+            "text": "dero begondol utok",
+            "translation_id": "mereka menggundul kepala"
+          }
+        ],
+        "syllable_form": "be.gon.dol"
+      },
+      {
+        "headword": "genondol",
+        "part_of_speech": "verb",
+        "translations": [
+          {
+            "language": "id",
+            "text": "digundul"
+          }
+        ],
+        "examples": [
+          {
+            "text": "pengako ene genondol",
+            "translation_id": "pencuri itu digundul"
+          }
+        ],
+        "syllable_form": "ge.non.dol"
+      }
+    ],
+    "notes": "OCR page-101; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-101.txt",
+      "page": 92,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "gon.dol"
+  },
+  {
+    "id": "paser-000808",
+    "headword": "gora",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "teriak"
+      }
+    ],
+    "examples": [
+      {
+        "text": "iyo kono gora ulun",
+        "translation_id": "dia kena teriak orang"
+      }
+    ],
+    "variants": [],
+    "subentries": [
+      {
+        "headword": "begora",
+        "part_of_speech": "verb",
+        "translations": [
+          {
+            "language": "id",
+            "text": "berteriak"
+          }
+        ],
+        "examples": [
+          {
+            "text": "keo embengen ulun begora engket lane",
+            "translation_id": "ada suara orang berteriak dari arah sana"
+          }
+        ],
+        "syllable_form": "be.go.ra"
+      },
+      {
+        "headword": "genora",
+        "part_of_speech": "verb",
+        "translations": [
+          {
+            "language": "id",
+            "text": "diteriaki"
+          }
+        ],
+        "examples": [
+          {
+            "text": "pengako ene genora",
+            "translation_id": "pencuri itu diteriaki"
+          }
+        ],
+        "syllable_form": "ge.no.ra"
+      }
+    ],
+    "notes": "OCR page-101; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-101.txt",
+      "page": 92,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "go.ra"
+  },
+  {
+    "id": "paser-000809",
+    "headword": "gorés",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "gores"
+      }
+    ],
+    "examples": [
+      {
+        "text": "kono gorés lading",
+        "translation_id": "terkena gores pisau"
+      }
+    ],
+    "variants": [],
+    "subentries": [
+      {
+        "headword": "begorés",
+        "part_of_speech": "verb",
+        "translations": [
+          {
+            "language": "id",
+            "text": "tergores"
+          }
+        ],
+        "examples": [
+          {
+            "text": "botisyo begorés kono batu",
+            "translation_id": "kakinya tergores kena batu"
+          }
+        ],
+        "syllable_form": "be.go.rés"
+      },
+      {
+        "headword": "enggorés",
+        "part_of_speech": "verb",
+        "translations": [
+          {
+            "language": "id",
+            "text": "menggores"
+          }
+        ],
+        "examples": [
+          {
+            "text": "okong enggorés dinding lou",
+            "translation_id": "adik menggores dinding rumah"
+          }
+        ],
+        "syllable_form": "eng.go.rés"
+      },
+      {
+        "headword": "tegores",
+        "part_of_speech": "verb",
+        "translations": [
+          {
+            "language": "id",
+            "text": "tergores"
+          }
+        ],
+        "examples": [
+          {
+            "text": "kayangyo tegores kono geges mobel ulun",
+            "translation_id": "tangannya tergores kena gesekan mobil orang"
+          }
+        ],
+        "syllable_form": "te.go.res"
+      }
+    ],
+    "notes": "OCR page-101; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-101.txt",
+      "page": 92,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "go.rés"
+  },
+  {
+    "id": "paser-000810",
+    "headword": "gorok",
+    "language": "paser",
+    "part_of_speech": "noun",
+    "translations": [
+      {
+        "language": "id",
+        "text": "suara berisik"
+      }
+    ],
+    "examples": [
+      {
+        "text": "gorok lengan belek",
+        "translation_id": "bunyi kaleng berisik"
+      }
+    ],
+    "variants": [],
+    "subentries": [
+      {
+        "headword": "begorok",
+        "part_of_speech": "verb",
+        "translations": [
+          {
+            "language": "id",
+            "text": "bersuara berisik"
+          }
+        ],
+        "examples": [
+          {
+            "text": "peya-peya ene begorok beta",
+            "translation_id": "anak-anak itu berisik sekali"
+          }
+        ],
+        "syllable_form": "be.go.rok"
+      }
+    ],
+    "notes": "OCR page-101; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-101.txt",
+      "page": 92,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "go.rok"
+  },
+  {
+    "id": "paser-000811",
+    "headword": "gosok",
+    "language": "paser",
+    "part_of_speech": "verb",
+    "translations": [
+      {
+        "language": "id",
+        "text": "gosok"
+      }
+    ],
+    "examples": [
+      {
+        "text": "gosok sampe mengkilap",
+        "translation_id": "gosok sampai mengkilap"
+      }
+    ],
+    "variants": [],
+    "subentries": [
+      {
+        "headword": "begosok",
+        "part_of_speech": "verb",
+        "translations": [
+          {
+            "language": "id",
+            "text": "bergosok"
+          }
+        ],
+        "examples": [
+          {
+            "text": "bembe begosok mo dinding",
+            "translation_id": "kambing bergosok di dinding"
+          }
+        ],
+        "syllable_form": "be.go.sok"
+      },
+      {
+        "headword": "enggosok",
+        "part_of_speech": "verb",
+        "translations": [
+          {
+            "language": "id",
+            "text": "menggosok"
+          },
+          {
+            "language": "id",
+            "text": "menyetrika"
+          }
+        ],
+        "examples": [
+          {
+            "text": "ena undus enggosok kompu apan berese",
+            "translation_id": "kalau mandi menggosok badan supaya bersih"
+          }
+        ],
+        "syllable_form": "eng.go.sok"
+      }
+    ],
+    "notes": "OCR page-101; parsed from original dictionary structure.",
+    "source": {
+      "file": "data/raw_ocr/page-101.txt",
+      "page": 92,
+      "ocr_confidence": null
+    },
+    "review": {
+      "status": "needs_review",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "syllable_form": "go.sok"
   }
 ]
