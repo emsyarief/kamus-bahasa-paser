@@ -26,6 +26,10 @@ async function init() {
     entries = normalizeEntries(loaded.entries);
     bindEvents();
     render();
+    if (window.Motion) {
+      window.Motion.init();
+      window.Motion.attachDetailsMotion(els.results);
+    }
   } catch (error) {
     showStatus(`Data belum bisa dimuat: ${error.message}`, true);
     els.count.textContent = '0 entri';
@@ -102,17 +106,26 @@ function render() {
   if (!query) {
     els.count.textContent = '';
     showStatus('Mulai ketik untuk melihat hasil kamus yang relevan.', false);
-    els.results.appendChild(renderHelperState());
+    const helper = renderHelperState();
+    els.results.appendChild(helper);
+    window.Motion?.animateHelper(helper);
     return;
   }
 
   if (!filtered.length) {
     showStatus('Tidak ada hasil. Coba kata Paser/Indonesia lain.', false);
+    const statusEl = els.status;
+    window.Motion?.animateNoResults(statusEl);
     return;
   }
 
   showStatus(query ? `Hasil untuk “${els.search.value}”` : 'Semua entri ditampilkan.', false);
-  filtered.forEach((entry) => els.results.appendChild(renderEntry(entry)));
+  const nodes = filtered.map((entry) => {
+    const node = renderEntry(entry);
+    els.results.appendChild(node);
+    return node;
+  });
+  window.Motion?.animateEntries(nodes);
 }
 
 function renderHelperState() {
@@ -308,6 +321,10 @@ function asArray(value) {
 }
 
 function showStatus(message, isError) {
+  const previous = els.status.textContent;
   els.status.textContent = message;
   els.status.classList.toggle('error', Boolean(isError));
+  if (message && message !== previous) {
+    window.Motion?.animateStatus(els.status);
+  }
 }
