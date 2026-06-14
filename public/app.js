@@ -1,8 +1,8 @@
 const DATA_CANDIDATES = [
-  '../data/entries.json',
-  '../data/entries.sample.json',
   './data/entries.json',
   './data/entries.sample.json',
+  '../data/entries.json',
+  '../data/entries.sample.json',
   '/data/entries.json',
   '/data/entries.sample.json'
 ];
