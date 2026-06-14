@@ -5,7 +5,6 @@ export default function Footer() {
         Paser
       </div>
       <div className="relative z-10 mx-auto max-w-wrap">
-        <p className="label mb-6">05 / KONTRIBUSI</p>
         <h2 className="max-w-[18ch] font-display text-h2 text-ink">Berkontribusi untuk pelestarian Bahasa Paser.</h2>
         <div className="mt-10 grid gap-8 md:grid-cols-3">
           <Info title="Sumber" body="Kamus cetak Komunitas Adat Paser — dipindai, di-OCR, dan disusun ulang sebagai data terbuka." />

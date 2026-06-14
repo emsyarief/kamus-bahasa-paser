@@ -2,39 +2,48 @@ import { useEffect, useMemo, useRef } from 'react';
 import { gsap } from 'gsap';
 import EntryCard from './EntryCard.jsx';
 
-const LIMIT = 80;
-
-export default function Results({ query, results, motionOk, mode, onModeChange, onPickSuggestion, activeIndex, onActiveIndexChange, nearest }) {
+export default function Results({ query, hasActiveQuery, results, motionOk, mode, onModeChange, activeIndex, onActiveIndexChange, inline = false }) {
+  const sectionRef = useRef(null);
   const containerRef = useRef(null);
   const prevIdsRef = useRef('');
+  const LIMIT = 80;
   const shown = results.slice(0, LIMIT);
+
+  useEffect(() => {
+    if (!motionOk) return;
+    const sectionNode = sectionRef.current;
+    if (!sectionNode || !hasActiveQuery) return;
+
+    gsap.killTweensOf(sectionNode);
+    gsap.fromTo(
+      sectionNode,
+      { autoAlpha: 0, y: 38, rotateX: 10, rotateZ: -2.5, transformOrigin: '50% 100%' },
+      { autoAlpha: 1, y: 0, rotateX: 0, rotateZ: 0, duration: 0.78, delay: 0.12, ease: 'power3.out', clearProps: 'transform,opacity' }
+    );
+  }, [hasActiveQuery, motionOk, query]);
 
   useEffect(() => {
     if (!motionOk) return;
     const node = containerRef.current;
     if (!node) return;
-    const cards = node.querySelectorAll('.card');
+    const cards = Array.from(node.querySelectorAll('.card'));
     if (!cards.length) return;
-    const key = Array.from(cards).map((c) => c.dataset.id).join('|');
+    const key = cards.map((card) => card.dataset.id).join('|');
     if (key === prevIdsRef.current) return;
     prevIdsRef.current = key;
     gsap.killTweensOf(cards);
-    gsap.from(cards, {
-      autoAlpha: 0,
-      y: 14,
-      duration: 0.55,
-      ease: 'power2.out',
-      stagger: 0.04,
-      clearProps: 'transform,opacity',
-    });
+    gsap.fromTo(
+      cards,
+      { autoAlpha: 0, y: 30, rotateZ: -2.75, transformOrigin: '50% 100%' },
+      { autoAlpha: 1, y: 0, rotateZ: 0, duration: 0.64, delay: 0.2, ease: 'power3.out', stagger: 0.06, clearProps: 'transform,opacity' }
+    );
   }, [results, motionOk]);
 
-  const title = useMemo(() => (!query ? 'Hasil pencarian.' : `Hasil untuk “${query}”`), [query]);
+  const title = useMemo(() => `Hasil untuk “${query}”`, [query]);
   const subtitle = useMemo(() => {
-    if (!query) return 'Mulai ketik untuk melihat hasil kamus yang relevan.';
     if (!results.length) return 'Tidak ada hasil yang cocok. Coba kata lain atau ubah mode pencarian.';
     return `${results.length} lema ditemukan`;
-  }, [query, results.length]);
+  }, [results.length]);
 
   const jump = (delta) => {
     if (!shown.length) return;
@@ -43,16 +52,41 @@ export default function Results({ query, results, motionOk, mode, onModeChange, 
     document.getElementById(`entry-${shown[next].id}`)?.scrollIntoView({ behavior: 'smooth', block: 'center' });
   };
 
-  if (!query) return null;
+  if (!hasActiveQuery) return null;
+
+  const sectionClassName = inline
+    ? 'w-full border-t border-ink/15 pt-8'
+    : 'section border-b border-ink/15 px-pad-x py-pad-y';
+  const outerClassName = inline ? 'w-full' : 'mx-auto max-w-wrap';
+  const innerClassName = inline ? 'w-full' : 'mx-auto max-w-content';
+  const headerClassName = inline
+    ? 'mb-8 border border-ink/10 bg-nav-bg/90 px-4 py-3 backdrop-blur-md'
+    : 'reveal sticky top-[74px] z-20 mb-8 border border-ink/10 bg-nav-bg/90 px-4 py-3 backdrop-blur-md';
 
   return (
-    <section id="entri" className="section border-b border-ink/15 px-pad-x py-pad-y">
-      <div className="mx-auto max-w-wrap">
-        <div className="mx-auto max-w-content">
-          <div className="reveal sticky top-[74px] z-20 mb-8 border border-ink/10 bg-nav-bg/90 px-4 py-3 backdrop-blur-md">
+    <section id="entri" ref={sectionRef} className={sectionClassName}>
+      <div className={outerClassName}>
+        <div className={innerClassName}>
+          {results.length ? (
+            <div ref={containerRef} className="results">
+              {shown.map((entry, index) => (
+                <EntryCard key={entry.id} entry={entry} query={query} active={index === activeIndex} />
+              ))}
+              {results.length > LIMIT && (
+                <p className="mt-6 text-center text-[13px] text-ink/50">
+                  Menampilkan {LIMIT} dari {results.length} hasil. Persempit pencarian untuk hasil lebih spesifik.
+                </p>
+              )}
+            </div>
+          ) : (
+            <div className="reveal border border-dashed border-ink/15 px-6 py-8 text-center">
+              <p className="text-[15px] text-ink/60">Coba kata lain.</p>
+            </div>
+          )}
+
+          <div className={`${headerClassName} mt-8`}>
             <div className="flex flex-col gap-3 sm:flex-row sm:items-center sm:justify-between">
               <div>
-                <p className="label text-ink/50">02 / ENTRI</p>
                 <h2 className="font-display text-[clamp(2rem,4vw,3rem)] font-light tracking-[-0.04em] text-ink">{title}</h2>
                 <p className="mt-1 text-[15px] text-ink/60">{subtitle}</p>
               </div>
@@ -86,35 +120,6 @@ export default function Results({ query, results, motionOk, mode, onModeChange, 
               </div>
             </div>
           </div>
-
-          {results.length ? (
-            <div ref={containerRef} className="results">
-              {shown.map((entry, index) => (
-                <EntryCard key={entry.id} entry={entry} query={query} motionOk={motionOk} active={index === activeIndex} />
-              ))}
-              {results.length > LIMIT && (
-                <p className="mt-6 text-center text-[13px] text-ink/50">
-                  Menampilkan {LIMIT} dari {results.length} hasil. Persempit pencarian untuk hasil lebih spesifik.
-                </p>
-              )}
-            </div>
-          ) : (
-            <div className="reveal border border-dashed border-ink/15 px-6 py-8 text-center">
-              <p className="text-[15px] text-ink/60">{query ? 'Coba kata lain.' : 'Masukkan kata Paser atau arti Indonesia.'}</p>
-              {query && nearest && (
-                <p className="mt-3 text-[15px] text-ink/70">
-                  Mungkin maksud Anda:{' '}
-                  <button
-                    type="button"
-                    onClick={() => onPickSuggestion(nearest)}
-                    className="font-display font-light underline decoration-ink/30 underline-offset-4 transition-colors hover:decoration-ink"
-                  >
-                    {nearest}
-                  </button>
-                </p>
-              )}
-            </div>
-          )}
         </div>
       </div>
     </section>

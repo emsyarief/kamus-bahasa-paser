@@ -1,25 +1,19 @@
 import { useEffect, useMemo, useRef, useState } from 'react';
 import { gsap } from 'gsap';
-import { ScrollTrigger } from 'gsap/ScrollTrigger';
 import { useGSAP } from '@gsap/react';
 import Header from './components/Header.jsx';
 import Hero from './components/Hero.jsx';
-import SearchPanel from './components/SearchPanel.jsx';
-import Results from './components/Results.jsx';
 import Band from './components/Band.jsx';
 import Footer from './components/Footer.jsx';
-import { filterEntries, normalizeEntries, sampleHeadwords, suggest, nearestHeadword } from './lib/dictionary.js';
-
-gsap.registerPlugin(ScrollTrigger);
+import { filterEntries, normalizeEntries } from './lib/dictionary.js';
 
 const DATA_URL = '/data/entries.json';
 
 export default function App() {
   const [entries, setEntries] = useState([]);
   const [query, setQuery] = useState('');
+  const [draftQuery, setDraftQuery] = useState('');
   const [mode, setMode] = useState('all');
-  const [status, setStatus] = useState('Mulai ketik untuk melihat hasil kamus yang relevan.');
-  const [error, setError] = useState('');
   const [activeIndex, setActiveIndex] = useState(0);
   const rootRef = useRef(null);
   const motionOk = useMemo(() => {
@@ -41,88 +35,51 @@ export default function App() {
       })
       .catch((err) => {
         if (!alive) return;
-        setError(`Data belum bisa dimuat: ${err.message}`);
-        setStatus('');
+        console.error(`Data belum bisa dimuat: ${err.message}`);
       });
     return () => { alive = false; };
   }, []);
 
   const results = useMemo(() => filterEntries(entries, query, mode), [entries, query, mode]);
-  const randomChips = useMemo(() => sampleHeadwords(entries, 6), [entries]);
-  const suggestions = useMemo(() => (query ? suggest(entries, query, mode, 6) : []), [entries, query, mode]);
-  const nearest = useMemo(
-    () => (query && !results.length ? nearestHeadword(entries, query) : null),
-    [entries, query, results.length]
-  );
-  const entryCount = useMemo(() => {
-    if (!query) return `${entries.length} lema`;
-    const scope = mode === 'all' ? 'semua sisi' : mode === 'paser' ? 'Paser' : 'Indonesia';
-    return `${results.length} hasil · ${scope}`;
-  }, [entries.length, mode, query, results.length]);
+  const hasActiveQuery = useMemo(() => query.trim().length > 0, [query]);
+  const submitSearch = () => {
+    setQuery(draftQuery.trim());
+  };
 
   useEffect(() => {
     setActiveIndex(0);
   }, [results]);
 
-  useEffect(() => {
-    if (!query) {
-      setStatus('Mulai ketik untuk melihat hasil kamus yang relevan.');
-      return;
-    }
-    if (!results.length) {
-      setStatus('Tidak ada hasil. Coba kata lain atau ubah mode pencarian.');
-      return;
-    }
-    setStatus(`Hasil untuk “${query}”`);
-  }, [query, results.length]);
-
   useGSAP(() => {
     if (!motionOk) return;
-    const reveals = rootRef.current ? Array.from(rootRef.current.querySelectorAll('.reveal')) : [];
-    reveals.forEach((el) => {
-      gsap.fromTo(
-        el,
-        { autoAlpha: 0, y: 18 },
-        {
-          autoAlpha: 1,
-          y: 0,
-          duration: 0.7,
-          ease: 'power2.out',
-          scrollTrigger: { trigger: el, start: 'top 88%', once: true },
-        }
-      );
-    });
+    const revealNodes = Array.from(rootRef.current?.querySelectorAll('.reveal') ?? []);
+    if (!revealNodes.length) return;
+
+    gsap.fromTo(
+      revealNodes,
+      { autoAlpha: 0, y: 18 },
+      { autoAlpha: 1, y: 0, duration: 0.85, ease: 'power2.out', stagger: 0.07, clearProps: 'all' }
+    );
   }, { dependencies: [motionOk], scope: rootRef });
 
   return (
     <div ref={rootRef} className="min-h-screen bg-bg text-ink">
       <Header />
       <main>
-        <Hero motionOk={motionOk} />
-        <SearchPanel
-          query={query}
-          onQueryChange={setQuery}
-          onClear={() => setQuery('')}
+        <Hero
+          draftQuery={draftQuery}
+          onDraftQueryChange={setDraftQuery}
+          onSubmitSearch={submitSearch}
           mode={mode}
           onModeChange={setMode}
-          count={entryCount}
-          status={error || status}
-          onPickSuggestion={setQuery}
-          suggestions={suggestions}
-          randomChips={randomChips}
-        />
-        <Results
-          query={query}
-          results={results}
           motionOk={motionOk}
-          mode={mode}
-          onModeChange={setMode}
-          onPickSuggestion={setQuery}
+          query={query}
+          hasActiveQuery={hasActiveQuery}
+          results={results}
           activeIndex={activeIndex}
           onActiveIndexChange={setActiveIndex}
-          nearest={nearest}
         />
-        <Band count={entries.length} />
+        <Band />
       </main>
       <Footer />
     </div>
