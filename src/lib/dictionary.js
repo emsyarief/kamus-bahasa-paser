@@ -125,7 +125,7 @@ export function highlightSegments(text, query) {
   const source = String(text || '');
   const q = normalizeText(query);
   if (!q) return [{ text: source, hit: false }];
-  const lower = normalizeText(source);
+  const lower = source.toLowerCase();
   const out = [];
   let cursor = 0;
   let i = lower.indexOf(q, cursor);

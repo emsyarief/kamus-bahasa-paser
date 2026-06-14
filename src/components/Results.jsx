@@ -7,6 +7,8 @@ const SUGGESTIONS = ['rumah', 'baik', 'air', 'makan', 'pergi'];
 export default function Results({ query, results, motionOk, mode, onModeChange, onPickSuggestion, activeIndex, onActiveIndexChange }) {
   const containerRef = useRef(null);
   const prevIdsRef = useRef('');
+  const LIMIT = 80;
+  const shown = results.slice(0, LIMIT);
 
   useEffect(() => {
     if (!motionOk) return;
@@ -36,10 +38,10 @@ export default function Results({ query, results, motionOk, mode, onModeChange, 
   }, [query, results.length]);
 
   const jump = (delta) => {
-    if (!results.length) return;
-    const next = Math.max(0, Math.min(results.length - 1, activeIndex + delta));
+    if (!shown.length) return;
+    const next = Math.max(0, Math.min(shown.length - 1, activeIndex + delta));
     onActiveIndexChange(next);
-    document.getElementById(`entry-${results[next].id}`)?.scrollIntoView({ behavior: 'smooth', block: 'center' });
+    document.getElementById(`entry-${shown[next].id}`)?.scrollIntoView({ behavior: 'smooth', block: 'center' });
   };
 
   return (
@@ -86,9 +88,14 @@ export default function Results({ query, results, motionOk, mode, onModeChange, 
 
           {results.length ? (
             <div ref={containerRef} className="results">
-              {results.map((entry, index) => (
+              {shown.map((entry, index) => (
                 <EntryCard key={entry.id} entry={entry} query={query} motionOk={motionOk} active={index === activeIndex} />
               ))}
+              {results.length > LIMIT && (
+                <p className="mt-6 text-center text-[13px] text-ink/50">
+                  Menampilkan {LIMIT} dari {results.length} hasil. Persempit pencarian untuk hasil lebih spesifik.
+                </p>
+              )}
             </div>
           ) : (
             <div className="reveal border border-dashed border-ink/15 px-6 py-8 text-center">
