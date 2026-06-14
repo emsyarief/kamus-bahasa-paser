@@ -1,0 +1,335 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Altitude MTL — Design System Proof</title>
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@300;400;500;600&family=Inter:wght@400;500;600&display=swap" rel="stylesheet" />
+<style>
+:root{
+  --color-bg:#E8E6DF; --color-ink:#1A1A1A; --color-reversed:#E8E6DF;
+  --ink-70:rgba(26,26,26,.70); --ink-60:rgba(26,26,26,.60); --ink-50:rgba(26,26,26,.50);
+  --ink-15:rgba(26,26,26,.15); --ink-10:rgba(26,26,26,.10); --ink-04:rgba(26,26,26,.035);
+  --nav-bg:rgba(232,230,223,.9); --dark-bg:#1A1A1A; --dark-hairline:rgba(232,230,223,.15);
+  --font-display:'DM Sans',sans-serif; --font-body:'Inter',sans-serif;
+  --overlay-photo:linear-gradient(to top, rgba(26,26,26,.45), transparent 60%);
+  --overlay-photo-strong:linear-gradient(to top, rgba(26,26,26,.55), transparent 60%);
+  --pad-x:clamp(24px,5vw,48px); --pad-y:clamp(64px,10vw,120px); --max-w:1600px;
+}
+*{margin:0;padding:0;box-sizing:border-box}
+html{scroll-behavior:smooth}
+body{background:var(--color-bg);color:var(--color-ink);font-family:var(--font-body);font-weight:400;-webkit-font-smoothing:antialiased;overflow-x:hidden}
+img{display:block;width:100%;height:100%;object-fit:cover}
+a{color:inherit;text-decoration:none}
+
+/* ---- type tokens ---- */
+.h1{font-family:var(--font-display);font-weight:300;font-size:clamp(3.5rem,11vw,176px);letter-spacing:-.05em;line-height:.85;text-transform:uppercase}
+.h2{font-family:var(--font-display);font-weight:300;font-size:clamp(2.5rem,6vw,72px);letter-spacing:-.05em;line-height:1}
+.h3{font-family:var(--font-display);font-weight:300;font-size:30px;letter-spacing:-.025em;line-height:1.2}
+.stat{font-family:var(--font-display);font-weight:300;font-size:clamp(4rem,8vw,120px);letter-spacing:-.04em;line-height:.9}
+.body{font-size:16px;line-height:1.55;color:var(--ink-70)}
+.label{font-size:12px;font-weight:500;letter-spacing:.14em;text-transform:uppercase;color:var(--ink-70)}
+.wordmark{font-size:18px;font-weight:500;letter-spacing:-.05em;text-transform:uppercase;color:var(--color-ink)}
+.caption{font-size:12px;font-weight:400;letter-spacing:.16em;text-transform:uppercase;color:var(--color-reversed)}
+.pullquote{font-size:clamp(18px,2.2vw,26px);letter-spacing:.06em;text-transform:uppercase;line-height:1.4;color:var(--ink-70)}
+
+/* ---- layout ---- */
+.section{border-bottom:1px solid var(--ink-15);padding:var(--pad-y) var(--pad-x)}
+.wrap{max-width:var(--max-w);margin:0 auto}
+.split{display:grid;gap:48px}
+@media(min-width:860px){.split{grid-template-columns:5fr 7fr;gap:64px}.split .head{position:sticky;top:120px;align-self:start}}
+
+/* ---- buttons ---- */
+.btn{display:inline-flex;align-items:center;gap:10px;font-family:var(--font-body);font-size:14px;font-weight:500;letter-spacing:.14em;text-transform:uppercase;padding:12px 28px;border-radius:9999px;border:1px solid transparent;cursor:pointer;transition:.25s ease}
+.btn:focus-visible{outline:2px solid var(--color-ink);outline-offset:2px}
+.btn-primary{background:var(--color-ink);color:var(--color-reversed)}
+.btn-primary:hover{background:#262626}
+.btn-ghost{background:transparent;color:var(--color-ink);border-color:rgba(26,26,26,.25)}
+.btn-ghost:hover{background:var(--ink-04);border-color:var(--color-ink)}
+.btn-reversed{background:var(--color-reversed);color:var(--color-ink)}
+.btn-ghost-rev{background:transparent;color:var(--color-reversed);border-color:var(--dark-hairline)}
+.btn-ghost-rev:hover{background:rgba(232,230,223,.08)}
+
+/* ---- header ---- */
+header{position:sticky;top:0;z-index:50;background:var(--nav-bg);backdrop-blur:8px;-webkit-backdrop-filter:blur(10px);backdrop-filter:blur(10px);border-bottom:1px solid var(--ink-15)}
+.nav{max-width:var(--max-w);margin:0 auto;display:flex;align-items:center;justify-content:space-between;padding:18px var(--pad-x)}
+.nav .grp{display:flex;gap:28px;flex:1}
+.nav .grp.r{justify-content:flex-end}
+.nav .grp.c{flex:0;justify-content:center}
+.nav a.label{transition:color .2s}
+.nav a.label:hover{color:var(--color-ink)}
+.menu-btn{display:none;background:none;border:none;cursor:pointer}
+@media(max-width:860px){.nav .grp{display:none}.menu-btn{display:block}}
+
+/* ---- hero ---- */
+.hero-mosaic{display:grid;gap:12px;grid-template-columns:1fr;margin-bottom:48px}
+@media(min-width:860px){.hero-mosaic{grid-template-columns:1.6fr 1fr;height:62vh}}
+.photo{position:relative;overflow:hidden;background:#cfccc3}
+.photo .ovl{position:absolute;inset:0;background:var(--overlay-photo)}
+.photo .ovl.strong{background:var(--overlay-photo-strong)}
+.photo .cap{position:absolute;left:20px;bottom:18px;right:20px;display:flex;justify-content:space-between;gap:16px}
+.hero-right{display:grid;gap:12px;grid-template-rows:1fr auto}
+.statblock{border:1px solid var(--ink-10);display:flex;flex-direction:column;justify-content:center;align-items:flex-start;padding:24px;gap:6px}
+.hero-foot{display:grid;gap:32px;align-items:end}
+@media(min-width:860px){.hero-foot{grid-template-columns:1.6fr 1fr}}
+.cta-row{display:flex;gap:14px;flex-wrap:wrap;margin-top:24px}
+.marker{position:absolute;top:16px;left:20px;color:var(--color-reversed);font-size:12px;letter-spacing:.14em}
+
+/* ---- features ---- */
+.feat-grid{display:grid;grid-template-columns:1fr;border-top:1px solid var(--ink-10);border-left:1px solid var(--ink-10)}
+@media(min-width:620px){.feat-grid{grid-template-columns:1fr 1fr}}
+.feat{border-right:1px solid var(--ink-10);border-bottom:1px solid var(--ink-10);padding:32px;display:flex;flex-direction:column;gap:16px;min-height:230px}
+.chip{width:44px;height:44px;border:1px solid var(--ink-10);border-radius:9999px;display:flex;align-items:center;justify-content:center;font-size:18px}
+
+/* ---- testimonials ---- */
+.tcards{display:grid;gap:32px;grid-template-columns:1fr}
+@media(min-width:760px){.tcards{grid-template-columns:repeat(3,1fr)}}
+.tcard{display:flex;flex-direction:column;gap:18px}
+.avatar{width:96px;height:96px;border-radius:9999px;overflow:hidden;background:#cfccc3}
+
+/* ---- journey ---- */
+.steps{display:flex;flex-direction:column}
+.step{display:grid;grid-template-columns:auto 1fr;gap:28px;padding:32px 0;border-bottom:1px solid var(--ink-10);align-items:start}
+.step:first-child{border-top:1px solid var(--ink-10)}
+.step .num{font-family:var(--font-display);font-weight:300;font-size:64px;line-height:1;color:var(--ink-50);letter-spacing:-.04em}
+
+/* ---- dark marquee ---- */
+.band{background:var(--dark-bg);color:var(--color-reversed);padding:40px 0;overflow:hidden}
+.band .label{color:rgba(232,230,223,.6);padding:0 var(--pad-x);margin-bottom:18px}
+.marquee{display:flex;white-space:nowrap;gap:0;will-change:transform;animation:scroll 24s linear infinite}
+.marquee span{font-family:var(--font-display);font-weight:300;font-size:clamp(2rem,5vw,56px);letter-spacing:-.02em;padding:0 28px;text-transform:uppercase}
+@keyframes scroll{from{transform:translateX(0)}to{transform:translateX(-50%)}}
+
+/* ---- story ---- */
+.story{display:grid;gap:48px}
+@media(min-width:860px){.story{grid-template-columns:4fr 6fr;gap:64px;align-items:stretch}}
+.story .ph{min-height:520px;position:relative;overflow:hidden}
+
+/* ---- gallery ---- */
+.gal{display:grid;gap:12px;grid-template-columns:1fr}
+@media(min-width:620px){.gal{grid-template-columns:repeat(3,1fr)}}
+.gal .photo{height:300px}
+.gal .tall{height:412px}
+
+/* ---- footer ---- */
+footer{position:relative;padding:var(--pad-y) var(--pad-x);overflow:hidden}
+.watermark{position:absolute;left:0;right:0;bottom:-2vw;font-family:var(--font-display);font-weight:300;font-size:24vw;line-height:.8;letter-spacing:-.05em;color:rgba(26,26,26,.05);text-transform:uppercase;white-space:nowrap;pointer-events:none;text-align:center}
+.fcols{display:grid;gap:32px;grid-template-columns:1fr;margin-top:48px}
+@media(min-width:620px){.fcols{grid-template-columns:repeat(3,1fr)}}
+.fcol .label{margin-bottom:14px}
+.fcol p{font-size:15px;line-height:1.7;color:var(--ink-70)}
+.fbar{display:flex;flex-direction:column;gap:18px;justify-content:space-between;align-items:center;margin-top:64px;padding-top:28px;border-top:1px solid var(--ink-15)}
+@media(min-width:620px){.fbar{flex-direction:row}}
+.fbar .links{display:flex;gap:12px}
+
+.lbl-row{display:flex;align-items:center;gap:14px;margin-bottom:28px}
+.lbl-row .rule{height:1px;flex:1;background:var(--ink-15)}
+
+/* reveal */
+.reveal{opacity:0;transform:translateY(20px);transition:opacity .8s ease,transform .8s ease}
+.reveal.in{opacity:1;transform:none}
+@media(prefers-reduced-motion:reduce){
+  .reveal{opacity:1;transform:none;transition:none}
+  .marquee{animation:none}
+}
+</style>
+</head>
+<body>
+
+<!-- HEADER -->
+<header>
+  <nav class="nav">
+    <div class="grp l">
+      <a class="label" href="#features">Experience</a>
+      <a class="label" href="#journey">Reserve</a>
+    </div>
+    <div class="grp c"><span class="wordmark">Altitude MTL</span></div>
+    <div class="grp r">
+      <a class="label" href="#gallery">Gallery</a>
+      <a class="label" href="#footer">Contact</a>
+    </div>
+    <button class="menu-btn label">Menu</button>
+  </nav>
+</header>
+
+<main>
+
+<!-- 01 HERO -->
+<section class="section" id="hero">
+  <div class="wrap">
+    <div class="lbl-row reveal"><span class="label">(*01) — Sky Lounge</span><span class="rule"></span><span class="label">Downtown Montréal</span></div>
+    <div class="hero-mosaic reveal">
+      <div class="photo">
+        <span class="marker">01 / HERO</span>
+        <img alt="Plated dish at altitude" src="https://images.unsplash.com/photo-1600891964599-f61ba0e24092?auto=format&fit=crop&w=1400&q=80" />
+        <div class="ovl strong"></div>
+        <div class="cap">
+          <span class="caption">44 floors above downtown — cocktails, skyline dining, midnight vinyl.</span>
+          <span class="caption">45.5017°N / 73.5673°W</span>
+        </div>
+      </div>
+      <div class="hero-right">
+        <div class="photo">
+          <img alt="Cocktail pour" src="https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?auto=format&fit=crop&w=900&q=80" />
+          <div class="ovl"></div>
+        </div>
+        <div class="statblock">
+          <span class="stat">44</span>
+          <span class="label">Floors</span>
+        </div>
+      </div>
+    </div>
+    <div class="hero-foot reveal">
+      <h1 class="h1">Above<br>the city</h1>
+      <div>
+        <p class="body">A monochrome room, warm service, precise drinks, and a panoramic frame around Montreal. Open daily, 5pm til 2am.</p>
+        <div class="cta-row">
+          <a class="btn btn-primary" href="#journey">Reserve a table</a>
+          <a class="btn btn-ghost" href="#gallery">View atmosphere</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- 02 FEATURES -->
+<section class="section" id="features">
+  <div class="wrap split">
+    <div class="head reveal">
+      <p class="label" style="margin-bottom:24px">02 / Features</p>
+      <h2 class="h2">A lounge calibrated for altitude.</h2>
+    </div>
+    <div class="reveal">
+      <div class="feat-grid">
+        <div class="feat"><div class="chip">◷</div><h3 class="h3">Skyline-first seating</h3><p class="body">Every table is angled toward the glass. No bad view, no obstructed hour.</p></div>
+        <div class="feat"><div class="chip">❋</div><h3 class="h3">Quebec seasonal menu</h3><p class="body">Driven by the province's short, bright growing windows and long winters.</p></div>
+        <div class="feat"><div class="chip">☂</div><h3 class="h3">Cocktails by weather</h3><p class="body">The list shifts with the sky. Clarified pours when it's clear, warm builds when it isn't.</p></div>
+        <div class="feat"><div class="chip">♪</div><h3 class="h3">Late sound, low volume</h3><p class="body">Vinyl after ten, kept at a level that still lets the room talk.</p></div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- 03 TESTIMONIALS -->
+<section class="section" id="testimonials">
+  <div class="wrap split">
+    <div class="head reveal">
+      <p class="label" style="margin-bottom:24px">03 / Proof</p>
+      <h2 class="h2">What the city says.</h2>
+    </div>
+    <div class="reveal">
+      <div class="tcards">
+        <div class="tcard">
+          <div class="avatar"><img alt="Camille R." src="https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&w=400&q=80" /></div>
+          <p class="label">Camille R. — Concierge</p>
+          <p class="body">The one rooftop I send guests to without a caveat. The view does half the work, the bar does the rest.</p>
+        </div>
+        <div class="tcard">
+          <div class="avatar"><img alt="Marc L." src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=400&q=80" /></div>
+          <p class="label">Marc L. — Food Editor</p>
+          <p class="body">Restraint everywhere. Two colors in the room, two or three ideas per plate, and it lands.</p>
+        </div>
+        <div class="tcard">
+          <div class="avatar"><img alt="Nadia S." src="https://images.unsplash.com/photo-1438761681033-6461ffad8d80?auto=format&fit=crop&w=400&q=80" /></div>
+          <p class="label">Nadia S. — Event Host</p>
+          <p class="body">We booked it for a brand dinner at blue hour. Nobody looked at their phone for an hour.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- 04 JOURNEY -->
+<section class="section" id="journey">
+  <div class="wrap split">
+    <div class="head reveal">
+      <p class="label" style="margin-bottom:24px">04 / Journey</p>
+      <h2 class="h2">From street level to skyline.</h2>
+      <div class="cta-row"><a class="btn btn-ghost" href="#footer">▦ Request a reservation</a></div>
+    </div>
+    <div class="reveal">
+      <div class="steps">
+        <div class="step"><span class="num">01</span><div><h3 class="h3">Arrive at the base</h3><p class="body">Check in at the lobby desk on Rue Skyline. A host walks you to the express car.</p></div></div>
+        <div class="step"><span class="num">02</span><div><h3 class="h3">Rise 44 floors</h3><p class="body">Ninety seconds up. The city drops away and the room opens into glass.</p></div></div>
+        <div class="step"><span class="num">03</span><div><h3 class="h3">Settle into the hour</h3><p class="body">Seated toward the view, menu calibrated to tonight's weather and season.</p></div></div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- 05 DARK MARQUEE BAND -->
+<section class="band" id="trusted">
+  <p class="label">05 / Trusted by</p>
+  <div class="marquee">
+    <span>Private events</span><span>·</span><span>Brand dinners</span><span>·</span><span>Cultural nights</span><span>·</span>
+    <span>Private events</span><span>·</span><span>Brand dinners</span><span>·</span><span>Cultural nights</span><span>·</span>
+  </div>
+</section>
+
+<!-- 06 STORY -->
+<section class="section" id="story">
+  <div class="wrap story">
+    <div class="reveal">
+      <p class="label" style="margin-bottom:24px">06 / Story</p>
+      <h2 class="h2" style="margin-bottom:28px">Built for the hour when Montreal turns silver.</h2>
+      <p class="body" style="margin-bottom:18px">We built one room and pointed it at the skyline. Everything else, the palette, the service, the sound, recedes so the city can be the loudest thing in the space.</p>
+      <p class="pullquote">A monochrome room, warm service, precise drinks, and a panoramic frame around the city.</p>
+    </div>
+    <div class="ph photo reveal">
+      <img alt="Interior at dusk" src="https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=1200&q=80" />
+      <div class="ovl"></div>
+    </div>
+  </div>
+</section>
+
+<!-- 07 GALLERY -->
+<section class="section" id="gallery">
+  <div class="wrap">
+    <div class="split" style="margin-bottom:40px">
+      <div><p class="label" style="margin-bottom:24px">07 / Gallery</p><h2 class="h2">Frames from the room.</h2></div>
+      <p class="body" style="align-self:end">Dinner service, north view, the bar, clarified pours, the terrace at blue hour, the listening room after ten.</p>
+    </div>
+    <div class="gal reveal">
+      <div class="photo"><img alt="Dinner service" src="https://images.unsplash.com/photo-1559339352-11d035aa65de?auto=format&fit=crop&w=800&q=80" /><div class="ovl"></div><div class="cap"><span class="caption">Dinner service</span></div></div>
+      <div class="photo tall"><img alt="North view" src="https://images.unsplash.com/photo-1470337458703-46ad1756a187?auto=format&fit=crop&w=800&q=80" /><div class="ovl"></div><div class="cap"><span class="caption">North view</span></div></div>
+      <div class="photo"><img alt="The bar" src="https://images.unsplash.com/photo-1572116469696-31de0f17cc34?auto=format&fit=crop&w=800&q=80" /><div class="ovl"></div><div class="cap"><span class="caption">Clarified pours</span></div></div>
+      <div class="photo"><img alt="Terrace blue hour" src="https://images.unsplash.com/photo-1551024601-bec78aea704b?auto=format&fit=crop&w=800&q=80" /><div class="ovl"></div><div class="cap"><span class="caption">Terrace, blue hour</span></div></div>
+      <div class="photo"><img alt="Kitchen seasonal" src="https://images.unsplash.com/photo-1466637574441-749b8f19452f?auto=format&fit=crop&w=800&q=80" /><div class="ovl"></div><div class="cap"><span class="caption">Kitchen, seasonal</span></div></div>
+      <div class="photo tall"><img alt="Listening room" src="https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?auto=format&fit=crop&w=800&q=80" /><div class="ovl"></div><div class="cap"><span class="caption">Listening room, after 10pm</span></div></div>
+    </div>
+  </div>
+</section>
+
+</main>
+
+<!-- 08 FOOTER -->
+<footer id="footer">
+  <div class="watermark">Above MTL</div>
+  <div class="wrap" style="position:relative;z-index:1">
+    <p class="label" style="margin-bottom:24px">08 / Footer</p>
+    <h2 class="h2" style="max-width:14ch">Reserve the evening above downtown.</h2>
+    <div class="fcols">
+      <div class="fcol"><p class="label">Visit</p><p>1188 Rue Skyline<br>Downtown Montreal, QC</p></div>
+      <div class="fcol"><p class="label">Contact</p><p>reservations@altitudemtl.com<br>+1 514 555 0144</p></div>
+      <div class="fcol"><p class="label">Hours</p><p>Sun–Wed · 5pm–12am<br>Thu–Sat · 5pm–2am</p></div>
+    </div>
+    <div class="fbar">
+      <span class="label">Altitude MTL · © 2026 · Downtown Montreal</span>
+      <div class="links">
+        <a class="btn btn-ghost" href="#hero" style="padding:8px 20px;font-size:12px">Back to top</a>
+        <a class="btn btn-ghost" href="#footer" style="padding:8px 20px;font-size:12px">Private events</a>
+      </div>
+    </div>
+  </div>
+</footer>
+
+<script>
+const io = new IntersectionObserver((es)=>{
+  es.forEach(e=>{ if(e.isIntersecting){ e.target.classList.add('in'); io.unobserve(e.target);} });
+},{threshold:.12});
+document.querySelectorAll('.reveal').forEach(el=>io.observe(el));
+</script>
+</body>
+</html>
