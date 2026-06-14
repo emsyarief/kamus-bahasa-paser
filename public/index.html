@@ -3,33 +3,165 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <meta name="description" content="Kamus Bahasa Paser–Indonesia statis ringan." />
-    <title>Kamus Bahasa Paser</title>
+    <meta name="description" content="Kamus digital Bahasa Paser–Indonesia. 3.759 lema, sumber terbuka, kontribusi komunitas." />
+    <title>Kamus Bahasa Paser ↔ Indonesia</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@300;400;500;600&family=Inter:wght@400;500;600&display=swap" rel="stylesheet" />
     <link rel="stylesheet" href="./styles.css" />
   </head>
   <body>
-    <main class="shell">
-      <section class="hero" aria-labelledby="page-title">
-        <p class="eyebrow">Kamus digital</p>
-        <h1 id="page-title">Bahasa Paser ↔ Indonesia</h1>
-        <p class="lede">Cari kata Paser atau arti Indonesia dari data JSON lokal.</p>
+    <!-- HEADER -->
+    <header>
+      <nav class="nav" aria-label="Utama">
+        <div class="grp l">
+          <a class="label" href="#entri">02 / Entri</a>
+          <a class="label" href="#tentang">03 / Tentang</a>
+        </div>
+        <div class="grp c"><span class="wordmark">Kamus Paser</span></div>
+        <div class="grp r">
+          <a class="label" href="#kontribusi">05 / Kontribusi</a>
+          <a class="label" href="https://github.com/emsyarief/kamus-bahasa-paser" rel="noopener" target="_blank">GitHub ↗</a>
+        </div>
+      </nav>
+    </header>
+
+    <main>
+      <!-- 01 / PENCARIAN -->
+      <section class="section" id="pencarian" aria-labelledby="hero-title">
+        <div class="wrap">
+          <div class="lbl-row reveal">
+            <span class="label">(*01) — Pencarian</span>
+            <span class="rule" aria-hidden="true"></span>
+            <span class="label">3.759 lema · Sumber terbuka</span>
+          </div>
+
+          <div class="hero-foot reveal">
+            <h1 class="h1" id="hero-title">Bahasa<br>Paser<br>↔ Indonesia</h1>
+            <div class="hero-side">
+              <p class="lede">Cari lema Bahasa Paser atau padanan Bahasa Indonesia. Data berasal dari kamus cetak Komunitas Adat Paser, hasil OCR dan review bertahap.</p>
+              <div class="search-panel" aria-label="Pencarian kamus">
+                <label class="label" for="searchInput">Cari entri</label>
+                <div class="search-row">
+                  <input id="searchInput" type="search" autocomplete="off" spellcheck="false" placeholder="Mis. aba, baik, rumah…" />
+                  <button id="clearSearch" class="btn btn-primary" type="button">Bersihkan</button>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
       </section>
 
-      <section class="panel search-panel" aria-label="Pencarian kamus">
-        <label for="searchInput">Cari entri</label>
-        <div class="search-row">
-          <input id="searchInput" type="search" autocomplete="off" placeholder="Mis. aba, baik, rumah..." />
-          <button id="clearSearch" type="button">Bersihkan</button>
-        </div>
-        <div class="meta-row" aria-live="polite">
-          <span id="entryCount">Memuat data…</span>
+      <!-- 02 / ENTRI -->
+      <section class="section" id="entri" aria-labelledby="entri-title">
+        <div class="wrap split">
+          <div class="head reveal">
+            <p class="label" style="margin-bottom:24px">02 / Entri</p>
+            <h2 class="h2" id="entri-title">Hasil pencarian.</h2>
+            <p class="body" id="entryCount" aria-live="polite"></p>
+            <p class="status" id="status" role="status" aria-live="polite"></p>
+          </div>
+          <div>
+            <div id="results" class="results" aria-label="Daftar entri"></div>
+          </div>
         </div>
       </section>
 
-      <section id="status" class="status" role="status"></section>
-      <section id="results" class="results" aria-label="Daftar entri"></section>
+      <!-- 03 / TENTANG -->
+      <section class="section" id="tentang" aria-labelledby="tentang-title">
+        <div class="wrap split">
+          <div class="head reveal">
+            <p class="label" style="margin-bottom:24px">03 / Tentang</p>
+            <h2 class="h2" id="tentang-title">Tentang proyek</h2>
+            <p class="pullquote" style="margin-top:24px">Sebuah kamus digital yang dibangun oleh komunitas, untuk komunitas.</p>
+          </div>
+          <div class="reveal">
+            <p class="body" style="margin-bottom:18px">Proyek ini menyiapkan kamus web Bahasa Paser berbasis data terstruktur. Sumber awal adalah kamus cetak Komunitas Adat Paser, lalu diproses melalui OCR menjadi entri terstruktur yang bisa dicari lewat web.</p>
+            <p class="body" style="margin-bottom:32px">Semua entri berstatus <em>needs review</em> dan dapat disunting siapa pun lewat pull request. Tujuan akhirnya: melestarikan kosakata Bahasa Paser sebagai bagian dari kekayaan budaya Indonesia.</p>
+            <div class="steps">
+              <div class="step">
+                <span class="num">01</span>
+                <div>
+                  <h3 class="h3">Sumber</h3>
+                  <p class="body">Kamus cetak PDF dipindai dan diarsipkan utuh. PDF asli tidak pernah dimodifikasi.</p>
+                </div>
+              </div>
+              <div class="step">
+                <span class="num">02</span>
+                <div>
+                  <h3 class="h3">Ekstraksi &amp; OCR</h3>
+                  <p class="body">Setiap halaman diekstrak menjadi gambar, lalu teks kasar dihasilkan oleh OCR dan disimpan terpisah di <code>data/raw_ocr/</code>.</p>
+                </div>
+              </div>
+              <div class="step">
+                <span class="num">03</span>
+                <div>
+                  <h3 class="h3">Review komunitas</h3>
+                  <p class="body">Kontributor memeriksa kandidat entri: koreksi ejaan, pisahkan lema yang tercampur, tambahkan kelas kata. Hanya entri lolos review yang masuk data final.</p>
+                </div>
+              </div>
+              <div class="step">
+                <span class="num">04</span>
+                <div>
+                  <h3 class="h3">Publikasi</h3>
+                  <p class="body">Data final diterbitkan sebagai web statis dengan pencarian langsung, dan dapat diimpor ke <code>dictpress</code> untuk pencarian skala besar.</p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
 
+      <!-- 04 / DARK BAND — STATISTIK -->
+      <section class="band" id="statistik" aria-labelledby="stat-title">
+        <p class="label" id="stat-title" style="padding:0 var(--pad-x);margin-bottom:18px">04 / Statistik</p>
+        <div class="marquee" aria-hidden="true">
+          <span>3.759 entri</span><span>·</span>
+          <span>Bahasa Paser</span><span>·</span>
+          <span>↔ Indonesia</span><span>·</span>
+          <span>Sumber terbuka</span><span>·</span>
+          <span>OCR bertahap</span><span>·</span>
+          <span>Kontribusi komunitas</span><span>·</span>
+          <!-- duplicate set for seamless loop -->
+          <span>3.759 entri</span><span>·</span>
+          <span>Bahasa Paser</span><span>·</span>
+          <span>↔ Indonesia</span><span>·</span>
+          <span>Sumber terbuka</span><span>·</span>
+          <span>OCR bertahap</span><span>·</span>
+          <span>Kontribusi komunitas</span><span>·</span>
+        </div>
+      </section>
     </main>
+
+    <!-- 05 / KONTRIBUSI — FOOTER -->
+    <footer id="kontribusi" aria-labelledby="kontribusi-title">
+      <div class="watermark" aria-hidden="true">Paser</div>
+      <div class="wrap" style="position:relative;z-index:1">
+        <p class="label" style="margin-bottom:24px">05 / Kontribusi</p>
+        <h2 class="h2" id="kontribusi-title" style="max-width:18ch">Berkontribusi untuk pelestarian Bahasa Paser.</h2>
+        <div class="fcols">
+          <div class="fcol">
+            <p class="label">Sumber</p>
+            <p>Kamus cetak Komunitas Adat Paser — dipindai, di-OCR, dan disusun ulang sebagai data terbuka.</p>
+          </div>
+          <div class="fcol">
+            <p class="label">Kontribusi</p>
+            <p>Pull request terbuka untuk siapa pun. Mulai dari satu lema, koreksi ejaan, atau tambah contoh pemakaian.</p>
+          </div>
+          <div class="fcol">
+            <p class="label">Lisensi</p>
+            <p>Data: CC&nbsp;BY-SA 4.0. Kode: MIT. PDF sumber tetap milik Komunitas Adat Paser.</p>
+          </div>
+        </div>
+        <div class="fbar">
+          <span class="label">Kamus Paser · © 2026 · Sumber terbuka</span>
+          <div class="links">
+            <a class="btn btn-ghost" href="#pencarian" style="padding:8px 20px;font-size:12px">Kembali ke atas</a>
+            <a class="btn btn-ghost" href="https://github.com/emsyarief/kamus-bahasa-paser" rel="noopener" target="_blank" style="padding:8px 20px;font-size:12px">Lihat di GitHub</a>
+          </div>
+        </div>
+      </div>
+    </footer>
 
     <template id="entryTemplate">
       <article class="card">
@@ -38,7 +170,7 @@
             <h2 class="headword"></h2>
             <p class="subline"></p>
           </div>
-          <span class="badge"></span>
+          <span class="chip">lema</span>
         </div>
         <dl class="fields"></dl>
       </article>

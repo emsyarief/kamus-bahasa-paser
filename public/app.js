@@ -29,6 +29,7 @@ async function init() {
     if (window.Motion) {
       window.Motion.init();
       window.Motion.attachDetailsMotion(els.results);
+      window.Motion.attachRevealOnScroll(document);
     }
   } catch (error) {
     showStatus(`Data belum bisa dimuat: ${error.message}`, true);
@@ -143,12 +144,11 @@ function renderEntry(entry) {
   const node = els.template.content.cloneNode(true);
   renderHeadword(node.querySelector('.headword'), entry);
   node.querySelector('.subline').textContent = [entry.language, entry.partOfSpeech].filter(Boolean).join(' · ');
-  node.querySelector('.badge').remove();
 
   const fields = node.querySelector('.fields');
   addField(fields, 'Indonesia', entry.translations.join('; '));
   addField(fields, 'Contoh', renderExamples(entry.examples));
-  addField(fields, 'Sublema/Varian', renderSubentriesAndVariants(entry.subentries, entry.variants));
+  addField(fields, 'Sublema / Varian', renderSubentriesAndVariants(entry.subentries, entry.variants));
   return node;
 }
 
