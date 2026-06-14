@@ -14,8 +14,10 @@ const DATA_URL = '/data/entries.json';
 export default function App() {
   const [entries, setEntries] = useState([]);
   const [query, setQuery] = useState('');
+  const [mode, setMode] = useState('all');
   const [status, setStatus] = useState('Mulai ketik untuk melihat hasil kamus yang relevan.');
   const [error, setError] = useState('');
+  const [activeIndex, setActiveIndex] = useState(0);
   const rootRef = useRef(null);
   const motionOk = useMemo(() => {
     if (typeof window === 'undefined' || !window.matchMedia) return true;
@@ -42,8 +44,16 @@ export default function App() {
     return () => { alive = false; };
   }, []);
 
-  const results = useMemo(() => filterEntries(entries, query), [entries, query]);
-  const entryCount = useMemo(() => (query ? `${results.length} hasil` : `${entries.length} lema`), [entries.length, query, results.length]);
+  const results = useMemo(() => filterEntries(entries, query, mode), [entries, query, mode]);
+  const entryCount = useMemo(() => {
+    if (!query) return `${entries.length} lema`;
+    const scope = mode === 'all' ? 'semua sisi' : mode === 'paser' ? 'Paser' : 'Indonesia';
+    return `${results.length} hasil · ${scope}`;
+  }, [entries.length, mode, query, results.length]);
+
+  useEffect(() => {
+    setActiveIndex(0);
+  }, [results]);
 
   useEffect(() => {
     if (!query) {
@@ -51,7 +61,7 @@ export default function App() {
       return;
     }
     if (!results.length) {
-      setStatus('Tidak ada hasil. Coba kata Paser/Indonesia lain.');
+      setStatus('Tidak ada hasil. Coba kata lain atau ubah mode pencarian.');
       return;
     }
     setStatus(`Hasil untuk “${query}”`);
@@ -61,8 +71,8 @@ export default function App() {
     if (!motionOk) return;
     gsap.fromTo(
       rootRef.current?.querySelectorAll('.reveal'),
-      { autoAlpha: 0, y: 16 },
-      { autoAlpha: 1, y: 0, duration: 0.8, ease: 'power2.out', stagger: 0.08, clearProps: 'all' }
+      { autoAlpha: 0, y: 18 },
+      { autoAlpha: 1, y: 0, duration: 0.85, ease: 'power2.out', stagger: 0.07, clearProps: 'all' }
     );
   }, { dependencies: [motionOk], scope: rootRef });
 
@@ -75,10 +85,22 @@ export default function App() {
           query={query}
           onQueryChange={setQuery}
           onClear={() => setQuery('')}
+          mode={mode}
+          onModeChange={setMode}
           count={entryCount}
           status={error || status}
+          onPickSuggestion={setQuery}
         />
-        <Results query={query} results={results} motionOk={motionOk} />
+        <Results
+          query={query}
+          results={results}
+          motionOk={motionOk}
+          mode={mode}
+          onModeChange={setMode}
+          onPickSuggestion={setQuery}
+          activeIndex={activeIndex}
+          onActiveIndexChange={setActiveIndex}
+        />
         <Band />
       </main>
       <Footer />

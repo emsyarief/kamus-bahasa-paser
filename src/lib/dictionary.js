@@ -84,8 +84,57 @@ export function searchableText(entry) {
   return normalizeText([entry.headword, entry.translations.join(' ')].join(' '));
 }
 
-export function filterEntries(entries, query) {
+// Filter mode:
+//   'all'  — match any text on entry (headword or translation)
+//   'paser' — match only headword (Paser side)
+//   'indo'  — match only translation (Indonesian side)
+export function filterEntries(entries, query, mode = 'all') {
   const q = normalizeText(query);
   if (!q) return [];
-  return entries.filter((entry) => searchableText(entry).includes(q));
+  return entries
+    .map((entry) => {
+      const haystack = mode === 'indo'
+        ? normalizeText(entry.translations.join(' '))
+        : mode === 'paser'
+          ? normalizeText(entry.headword)
+          : searchableText(entry);
+      if (!haystack.includes(q)) return null;
+      return { entry, score: scoreEntry(entry, q, mode) };
+    })
+    .filter(Boolean)
+    .sort((a, b) => b.score - a.score)
+    .map((x) => x.entry);
+}
+
+function scoreEntry(entry, q, mode) {
+  const head = normalizeText(entry.headword);
+  const transl = normalizeText(entry.translations.join(' '));
+  let score = 0;
+  if (head === q) score += 100;
+  if (head.startsWith(q)) score += 40;
+  if (head.includes(q)) score += 20;
+  if (transl.includes(q)) score += 8;
+  if (mode === 'paser' && !head.includes(q)) score -= 50;
+  if (mode === 'indo' && !transl.includes(q)) score -= 50;
+  return score;
+}
+
+// Split a text into segments, marking where `query` appears.
+// Returns an array of { text, hit } segments so callers can render <mark> on hit segments.
+export function highlightSegments(text, query) {
+  const source = String(text || '');
+  const q = normalizeText(query);
+  if (!q) return [{ text: source, hit: false }];
+  const lower = normalizeText(source);
+  const out = [];
+  let cursor = 0;
+  let i = lower.indexOf(q, cursor);
+  while (i !== -1) {
+    if (i > cursor) out.push({ text: source.slice(cursor, i), hit: false });
+    out.push({ text: source.slice(i, i + q.length), hit: true });
+    cursor = i + q.length;
+    i = lower.indexOf(q, cursor);
+  }
+  if (cursor < source.length) out.push({ text: source.slice(cursor), hit: false });
+  return out;
 }
