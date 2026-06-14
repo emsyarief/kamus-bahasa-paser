@@ -43,6 +43,8 @@ export default function Results({ query, results, motionOk, mode, onModeChange, 
     document.getElementById(`entry-${shown[next].id}`)?.scrollIntoView({ behavior: 'smooth', block: 'center' });
   };
 
+  if (!query) return null;
+
   return (
     <section id="entri" className="section border-b border-ink/15 px-pad-x py-pad-y">
       <div className="mx-auto max-w-wrap">
