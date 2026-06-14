@@ -2,12 +2,11 @@ import { useEffect, useMemo, useRef } from 'react';
 import { gsap } from 'gsap';
 import EntryCard from './EntryCard.jsx';
 
-const SUGGESTIONS = ['rumah', 'baik', 'air', 'makan', 'pergi'];
+const LIMIT = 80;
 
-export default function Results({ query, results, motionOk, mode, onModeChange, onPickSuggestion, activeIndex, onActiveIndexChange }) {
+export default function Results({ query, results, motionOk, mode, onModeChange, onPickSuggestion, activeIndex, onActiveIndexChange, nearest }) {
   const containerRef = useRef(null);
   const prevIdsRef = useRef('');
-  const LIMIT = 80;
   const shown = results.slice(0, LIMIT);
 
   useEffect(() => {
@@ -100,18 +99,18 @@ export default function Results({ query, results, motionOk, mode, onModeChange, 
           ) : (
             <div className="reveal border border-dashed border-ink/15 px-6 py-8 text-center">
               <p className="text-[15px] text-ink/60">{query ? 'Coba kata lain.' : 'Masukkan kata Paser atau arti Indonesia.'}</p>
-              <div className="mt-4 flex flex-wrap justify-center gap-2">
-                {SUGGESTIONS.map((word) => (
+              {query && nearest && (
+                <p className="mt-3 text-[15px] text-ink/70">
+                  Mungkin maksud Anda:{' '}
                   <button
-                    key={word}
                     type="button"
-                    onClick={() => onPickSuggestion(word)}
-                    className="rounded-pill border border-ink/15 px-3 py-1.5 text-[13px] text-ink/70 transition-colors hover:border-ink/40 hover:bg-ink/04"
+                    onClick={() => onPickSuggestion(nearest)}
+                    className="font-display font-light underline decoration-ink/30 underline-offset-4 transition-colors hover:decoration-ink"
                   >
-                    {word}
+                    {nearest}
                   </button>
-                ))}
-              </div>
+                </p>
+              )}
             </div>
           )}
         </div>

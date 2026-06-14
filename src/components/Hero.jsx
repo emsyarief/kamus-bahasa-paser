@@ -1,13 +1,31 @@
-export default function Hero() {
+import { useRef } from 'react';
+import { gsap } from 'gsap';
+import { useGSAP } from '@gsap/react';
+
+export default function Hero({ motionOk = true }) {
+  const headingRef = useRef(null);
+
+  useGSAP(() => {
+    if (!motionOk) return;
+    const lines = headingRef.current?.querySelectorAll('.hero-line');
+    if (!lines?.length) return;
+    gsap.from(lines, {
+      yPercent: 110,
+      duration: 0.9,
+      ease: 'power3.out',
+      stagger: 0.12,
+    });
+  }, { dependencies: [motionOk], scope: headingRef });
+
   return (
     <section id="pencarian" className="section border-b border-ink/15 px-pad-x py-pad-y">
       <div className="mx-auto grid max-w-wrap gap-10 lg:grid-cols-[1.55fr_1fr] lg:items-end lg:gap-16">
-        <div className="reveal">
-          <p className="label mb-6">(*01) — PENCARIAN</p>
-          <h1 className="font-display text-h1 uppercase text-ink">
-            BAHASA
-            <br />PASER
-            <br />↔ INDONESIA
+        <div>
+          <p className="reveal label mb-6">(*01) — PENCARIAN</p>
+          <h1 ref={headingRef} className="font-display text-h1 uppercase text-ink">
+            <span className="block overflow-hidden"><span className="hero-line block">BAHASA</span></span>
+            <span className="block overflow-hidden"><span className="hero-line block">PASER</span></span>
+            <span className="block overflow-hidden"><span className="hero-line block">↔ INDONESIA</span></span>
           </h1>
         </div>
         <div className="reveal flex flex-col gap-7">

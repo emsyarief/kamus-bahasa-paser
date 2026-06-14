@@ -138,3 +138,63 @@ export function highlightSegments(text, query) {
   if (cursor < source.length) out.push({ text: source.slice(cursor), hit: false });
   return out;
 }
+
+// Top-N matches for the live typeahead, reusing the same scoring as the full search.
+export function suggest(entries, query, mode = 'all', n = 6) {
+  return filterEntries(entries, query, mode).slice(0, n);
+}
+
+// A few random real headwords for the "Coba:" chips, refreshed each load.
+export function sampleHeadwords(entries, n = 6) {
+  if (!entries.length) return [];
+  const seen = new Set();
+  const out = [];
+  let guard = 0;
+  while (out.length < n && guard < n * 40 && seen.size < entries.length) {
+    guard += 1;
+    const i = Math.floor(Math.random() * entries.length);
+    if (seen.has(i)) continue;
+    seen.add(i);
+    const hw = entries[i].headword;
+    if (hw && hw !== '(tanpa lema)' && !out.includes(hw)) out.push(hw);
+  }
+  return out;
+}
+
+function editDistance(a, b) {
+  const m = a.length;
+  const n = b.length;
+  if (!m) return n;
+  if (!n) return m;
+  let prev = Array.from({ length: n + 1 }, (_, i) => i);
+  let curr = new Array(n + 1);
+  for (let i = 1; i <= m; i += 1) {
+    curr[0] = i;
+    for (let j = 1; j <= n; j += 1) {
+      const cost = a[i - 1] === b[j - 1] ? 0 : 1;
+      curr[j] = Math.min(prev[j] + 1, curr[j - 1] + 1, prev[j - 1] + cost);
+    }
+    [prev, curr] = [curr, prev];
+  }
+  return prev[n];
+}
+
+// Nearest headword by edit distance — powers the "Mungkin maksud Anda…" hint.
+export function nearestHeadword(entries, query) {
+  const q = normalizeText(query);
+  if (q.length < 2) return null;
+  let best = null;
+  let bestScore = Infinity;
+  for (const entry of entries) {
+    const head = normalizeText(entry.headword);
+    if (!head || Math.abs(head.length - q.length) > 3) continue;
+    const d = editDistance(q, head);
+    if (d < bestScore) {
+      bestScore = d;
+      best = entry.headword;
+      if (bestScore === 1) break;
+    }
+  }
+  const limit = q.length <= 4 ? 2 : 3;
+  return bestScore <= limit ? best : null;
+}
