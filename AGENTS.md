@@ -69,8 +69,9 @@ If a PR contains any of these, request changes. Do not merge.
 ### Code style
 - **Works over elegant.** Plain approaches win (per user preference). If there is a one-liner and a clever one-liner, prefer the readable one.
 - **No premature abstraction.** Three usages, then refactor. Two usages, leave it.
-- **No new dependencies** for what vanilla web platform already does well. GSAP is allowed for motion; do not add another animation library.
-- **Keep the static site static.** No bundlers, no build step. CDN imports are fine. If you find yourself reaching for a framework, propose first.
+- **Use the current build stack for the live app.** The repository now uses Vite + React + Tailwind in `src/` for the web UI. Keep `data/entries.json` as the canonical validator source, and serve a copy from `public/data/entries.json` for preview/build output.
+- **No extra frontend frameworks.** React is the framework here; do not add Next.js, Remix, Astro, or a second UI runtime. GSAP is allowed for motion; do not add another animation library.
+- **Keep build scripts simple.** Use `npm run dev`, `npm run build`, and `npm test`. If you need to change the web surface, update the Vite entry (`index.html` + `src/main.jsx`) and keep the token contract in sync with `docs/DESIGN.md`.
 
 ### Data discipline (per `docs/ARCHITECTURE.md` and `OCR_PIPELINE.md`)
 - **Never modify, move, or overwrite** `sources/KamusPaser-Indonesia.pdf` (not in repo, but referenced). The original is the source of truth.

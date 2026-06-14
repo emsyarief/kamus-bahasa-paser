@@ -378,4 +378,58 @@ Every page follows this root structure:
   --pad-y: clamp(64px, 10vw, 120px);
   --max-w: 1600px;
 }
+
+## 13. Tailwind Mapping (kamus-bahasa-paser)
+
+The web app uses Vite + React + Tailwind v3. The token values in `tailwind.config.js` are **1:1 identical** to the CSS custom properties in §12. If a value disagrees, fix both. Do not introduce new values in one place that don't appear in the other.
+
+### 13.1 Theme extension keys
+
+| Token | CSS variable | Tailwind class | Value |
+|---|---|---|---|
+| bg | `--color-bg` | `bg-bg` | `#E8E6DF` |
+| ink | `--color-ink` | `text-ink` / `bg-ink` | `#1A1A1A` |
+| ink 70 | `--color-ink-70` | `text-ink/70` | `rgba(26,26,26,0.70)` |
+| ink 60 | `--color-ink-60` | `text-ink/60` | `rgba(26,26,26,0.60)` |
+| ink 50 | `--color-ink-50` | `text-ink/50` | `rgba(26,26,26,0.50)` |
+| ink 15 | `--color-ink-15` | `border-ink/15` | `rgba(26,26,26,0.15)` |
+| ink 10 | `--color-ink-10` | `border-ink/10` | `rgba(26,26,26,0.10)` |
+| ink 04 | `--color-ink-04` | `bg-ink/04` | `rgba(26,26,26,0.035)` |
+| reversed | `--color-reversed` | `text-reversed` | `#E8E6DF` |
+| nav-bg | `--nav-bg` | `bg-nav-bg/90` | `rgba(232,230,223,0.90)` |
+| dark-bg | `--dark-bg` | `bg-dark-bg` | `#1A1A1A` |
+| dark-hairline | `--dark-hairline` | (not used yet) | `rgba(232,230,223,0.15)` |
+
+### 13.2 Type scale
+
+`text-h1` / `text-h2` / `text-h3` / `text-stat` already bake in `font-display` + `font-weight: 300` + letter-spacing + line-height. **Do not** override `font-weight` on h1/h2/h3 elements.
+
+```jsx
+<h1 className="font-display text-h1 uppercase text-ink">BAHASA PASER</h1>
+```
+
+### 13.3 Radius, spacing, layout
+
+- `rounded-pill` → `9999px` (only for buttons, chips, avatars)
+- `rounded-none` → `0px` (all structural elements)
+- `max-w-wrap` → `1600px`
+- `max-w-content` → `960px` (centered single-column sections like Hasil pencarian)
+- `px-pad-x` / `py-pad-y` → `clamp()` rhythm
+
+### 13.4 CSS-layer utilities (not in Tailwind)
+
+These live in `src/index.css` and must stay in sync with §8 motion:
+
+- `.reveal` / `.reveal.in` — page-load entrance
+- `.marquee` + `@keyframes marquee-scroll` — dark band animation
+- `@media (prefers-reduced-motion: reduce)` — disables all of the above
+
+### 13.5 Forbidden Tailwind classes
+
+Reject in review (same as §10):
+- `rounded-lg`, `rounded-md`, `rounded-xl`, `rounded-2xl`, `rounded-3xl` — use `rounded-none` or `rounded-pill`
+- `shadow-*` (any) — no drop shadows anywhere
+- `bg-gradient-*` — no gradients (except photo overlays in §2.3)
+- `text-blue-*`, `text-red-*`, `text-green-*` — no accent colors
+- `border-blue-*`, `border-red-*`, `border-green-*` — no accent colors
 ```
