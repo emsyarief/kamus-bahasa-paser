@@ -12,7 +12,7 @@ export default function Footer() {
           <Info title="Lisensi" body="Data: CC BY-SA 4.0. Kode: MIT. PDF sumber tetap milik Komunitas Adat Paser." />
         </div>
         <div className="mt-16 flex flex-col items-center justify-between gap-4 border-t border-ink/15 pt-7 md:flex-row">
-          <span className="label text-ink/70">Kamus Paser · © 2026 · Sumber terbuka</span>
+          <span className="label text-ink/70"><strong className="font-semibold text-ink">Kamus Paser</strong> · karena Syarif belum bisa bahasa Paser · © 2026 · Sumber terbuka</span>
           <div className="flex flex-wrap gap-3">
             <a className="rounded-pill border border-ink/25 px-5 py-2 text-[12px] uppercase tracking-[0.14em] text-ink transition-colors hover:bg-ink/04" href="#pencarian">Kembali ke atas</a>
             <a className="rounded-pill border border-ink/25 px-5 py-2 text-[12px] uppercase tracking-[0.14em] text-ink transition-colors hover:bg-ink/04" href="https://github.com/emsyarief/kamus-bahasa-paser" target="_blank" rel="noreferrer">Lihat di GitHub</a>
