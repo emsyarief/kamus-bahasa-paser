@@ -127,44 +127,44 @@ export default function EntryCard({ entry, query, active = false }) {
     <article
       id={`entry-${entry.id}`}
       data-id={entry.id}
-      className={`card scroll-mt-32 border border-ink/10 px-6 py-6 sm:px-7 sm:py-7 transition-shadow ${
+      className={`card scroll-mt-28 border border-ink/10 px-4 py-5 transition-shadow sm:scroll-mt-32 sm:px-7 sm:py-7 ${
         active ? 'shadow-[inset_0_0_0_2px_#1A1A1A]' : ''
       }`}
     >
-      <div className="card-head flex items-start justify-between gap-4">
+      <div className="card-head flex items-start justify-between gap-3 sm:gap-4">
         <div>
-          <h2 className="headword font-display text-[clamp(1.8rem,4vw,2.4rem)] font-light leading-[1.05] tracking-[-0.03em] text-ink">
+          <h2 className="headword font-display text-[clamp(1.65rem,8vw,2.4rem)] font-light leading-[1.05] tracking-[-0.03em] text-ink">
             <RichText text={entry.headword} query={query} />
             {entry.homonymNumber ? <sup className="homonym-number ml-1 text-[0.55em] text-ink/50">{entry.homonymNumber}</sup> : null}
           </h2>
-          {subline && <p className="subline mt-1.5 text-label text-ink/60">{subline}</p>}
+          {subline && <p className="subline mt-1.5 text-[10px] uppercase tracking-[0.14em] text-ink/60 sm:text-label">{subline}</p>}
         </div>
-        <span className="chip whitespace-nowrap rounded-pill border border-ink/10 px-3 py-1.5 text-[10px] font-medium uppercase tracking-[0.14em] text-ink/60">
+        <span className="chip whitespace-nowrap rounded-pill border border-ink/10 px-2.5 py-1 text-[9px] font-medium uppercase tracking-[0.14em] text-ink/60 sm:px-3 sm:py-1.5 sm:text-[10px]">
           lema
         </span>
       </div>
 
-      <dl className="fields mt-4 grid gap-3.5">
+      <dl className="fields mt-4 grid gap-3 sm:gap-3.5">
         {entry.translations.length > 0 && (
-          <div className="field grid grid-cols-1 gap-1.5 border-t border-ink/10 pt-3.5 sm:grid-cols-[140px_1fr] sm:gap-4">
+          <div className="field grid grid-cols-1 gap-1.5 border-t border-ink/10 pt-3 sm:grid-cols-[140px_1fr] sm:gap-4 sm:pt-3.5">
             <dt className="text-label text-ink/60">Indonesia</dt>
-            <dd className="text-base leading-[1.65] text-ink/70">
+            <dd className="text-[15px] leading-[1.65] text-ink/70 sm:text-base">
               <RichText text={entry.translations.join('; ')} query={query} />
             </dd>
           </div>
         )}
         {entry.examples.length > 0 && (
-          <div className="field grid grid-cols-1 gap-1.5 border-t border-ink/10 pt-3.5 sm:grid-cols-[140px_1fr] sm:gap-4">
+          <div className="field grid grid-cols-1 gap-1.5 border-t border-ink/10 pt-3 sm:grid-cols-[140px_1fr] sm:gap-4 sm:pt-3.5">
             <dt className="text-label text-ink/60">Contoh</dt>
-            <dd className="text-base leading-[1.65] text-ink/70">
+            <dd className="text-[15px] leading-[1.65] text-ink/70 sm:text-base">
               <Examples list={entry.examples} query={query} />
             </dd>
           </div>
         )}
         {hasVariants && (
-          <div className="field grid grid-cols-1 gap-1.5 border-t border-ink/10 pt-3.5 sm:grid-cols-[140px_1fr] sm:gap-4">
+          <div className="field grid grid-cols-1 gap-1.5 border-t border-ink/10 pt-3 sm:grid-cols-[140px_1fr] sm:gap-4 sm:pt-3.5">
             <dt className="text-label text-ink/60">Sublema / Varian</dt>
-            <dd className="text-base leading-[1.65] text-ink/70">
+            <dd className="text-[15px] leading-[1.65] text-ink/70 sm:text-base">
               <div className="variant-list grid gap-2">
                 {variants.map((v, i) => (
                   <VariantItem key={`${v.label}-${i}`} variant={v} query={query} />

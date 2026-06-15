@@ -58,28 +58,28 @@ export default function Hero({ draftQuery, onDraftQueryChange, onSubmitSearch, m
   }, [isSticky, motionOk]);
 
   return (
-    <section id="pencarian" ref={heroRef} className="section flex min-h-[calc(100vh-73px)] items-center border-b border-ink/15 px-pad-x py-12 lg:py-16">
-      <div className="mx-auto flex w-full max-w-wrap flex-1 flex-col justify-center gap-12 lg:gap-16">
-        <div className="grid gap-12 lg:grid-cols-[minmax(0,1.35fr)_minmax(18rem,28rem)] lg:items-end lg:gap-20">
+    <section id="pencarian" ref={heroRef} className="section flex min-h-[calc(100svh-65px)] items-start border-b border-ink/15 px-pad-x py-8 sm:min-h-[calc(100vh-73px)] sm:items-center sm:py-12 lg:py-16">
+      <div className="mx-auto flex w-full max-w-wrap flex-1 flex-col justify-center gap-7 sm:gap-12 lg:gap-16">
+        <div className="grid gap-6 sm:gap-12 lg:grid-cols-[minmax(0,1.35fr)_minmax(18rem,28rem)] lg:items-end lg:gap-20">
           <div className="max-w-[15ch] lg:self-end">
-            <p data-hero-label className="label mb-5 text-ink/50">Kamus Bahasa</p>
-            <h1 className="font-display text-[clamp(4.5rem,10vw,9.5rem)] uppercase leading-[0.9] tracking-[-0.07em] text-ink">
+            <p data-hero-label className="label mb-3 text-ink/50 sm:mb-5">Kamus Bahasa</p>
+            <h1 className="font-display text-[clamp(3.45rem,18vw,9.5rem)] uppercase leading-[0.88] tracking-[-0.075em] text-ink sm:text-[clamp(4.5rem,10vw,9.5rem)] sm:leading-[0.9]">
               <span data-hero-line className="block whitespace-nowrap">Paser ↔</span>
               <span data-hero-line className="block">Indonesia</span>
             </h1>
           </div>
 
-          <div className="flex flex-col gap-8 pt-2 lg:self-end lg:pt-0">
-            <p data-hero-copy className="max-w-[32ch] text-[clamp(1rem,1.45vw,1.22rem)] leading-[1.7] text-ink/70">
+          <div className="flex flex-col gap-5 pt-0 sm:gap-8 sm:pt-2 lg:self-end lg:pt-0">
+            <p data-hero-copy className="max-w-[34ch] text-[15px] leading-[1.65] text-ink/70 sm:text-[clamp(1rem,1.45vw,1.22rem)] sm:leading-[1.7]">
               Cari lema Bahasa Paser atau padanan Bahasa Indonesia. Data berasal dari kamus cetak Komunitas Adat Paser, hasil OCR dan review bertahap.
             </p>
             <div data-hero-copy className="h-px w-full bg-ink/15" />
           </div>
         </div>
 
-        <div ref={stickyRef} data-hero-panel className={`w-full ${isSticky ? 'sticky top-[73px] z-30' : ''}`}>
+        <div ref={stickyRef} data-hero-panel className={`w-full ${isSticky ? 'sticky top-[65px] z-30 sm:top-[73px]' : ''}`}>
           <div className={`w-full border-y border-ink/15 bg-nav-bg/90 backdrop-blur-md ${isSticky ? 'shadow-none' : ''}`}>
-            <div className="mx-auto w-full max-w-wrap px-pad-x py-3">
+            <div className="mx-auto w-full max-w-wrap px-0 py-2.5 sm:px-pad-x sm:py-3">
               <SearchPanel
                 draftQuery={draftQuery}
                 onDraftQueryChange={onDraftQueryChange}

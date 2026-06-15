@@ -55,12 +55,12 @@ export default function Results({ query, hasActiveQuery, results, motionOk, mode
   if (!hasActiveQuery) return null;
 
   const sectionClassName = inline
-    ? 'w-full border-t border-ink/15 pt-8'
+    ? 'w-full border-t border-ink/15 pt-5 sm:pt-8'
     : 'section border-b border-ink/15 px-pad-x py-pad-y';
   const outerClassName = inline ? 'w-full' : 'mx-auto max-w-wrap';
   const innerClassName = inline ? 'w-full' : 'mx-auto max-w-content';
   const headerClassName = inline
-    ? 'mb-8 border border-ink/10 bg-nav-bg/90 px-4 py-3 backdrop-blur-md'
+    ? 'mb-5 border border-ink/10 bg-nav-bg/90 px-3 py-3 backdrop-blur-md sm:mb-8 sm:px-4'
     : 'reveal sticky top-[74px] z-20 mb-8 border border-ink/10 bg-nav-bg/90 px-4 py-3 backdrop-blur-md';
 
   return (
@@ -87,16 +87,16 @@ export default function Results({ query, hasActiveQuery, results, motionOk, mode
           <div className={`${headerClassName} mt-8`}>
             <div className="flex flex-col gap-3 sm:flex-row sm:items-center sm:justify-between">
               <div>
-                <h2 className="font-display text-[clamp(2rem,4vw,3rem)] font-light tracking-[-0.04em] text-ink">{title}</h2>
+                <h2 className="font-display text-[clamp(1.6rem,8vw,3rem)] font-light leading-[1.05] tracking-[-0.04em] text-ink">{title}</h2>
                 <p className="mt-1 text-[15px] text-ink/60">{subtitle}</p>
               </div>
-              <div className="flex flex-wrap items-center gap-2">
+              <div className="flex flex-nowrap items-center gap-1.5 overflow-x-auto pb-1 no-scrollbar sm:flex-wrap sm:gap-2 sm:overflow-visible sm:pb-0">
                 {['all', 'paser', 'indo'].map((item) => (
                   <button
                     key={item}
                     type="button"
                     onClick={() => onModeChange(item)}
-                    className={`rounded-pill border px-3.5 py-1.5 text-[11px] uppercase tracking-[0.12em] transition-all ${
+                    className={`shrink-0 rounded-pill border px-3 py-1.5 text-[10px] uppercase tracking-[0.12em] transition-all sm:px-3.5 sm:text-[11px] ${
                       mode === item ? 'border-ink bg-ink text-reversed' : 'border-ink/15 bg-transparent text-ink/60 hover:border-ink/40 hover:text-ink'
                     }`}
                   >
@@ -106,14 +106,14 @@ export default function Results({ query, hasActiveQuery, results, motionOk, mode
                 <button
                   type="button"
                   onClick={() => jump(-1)}
-                  className="rounded-pill border border-ink/15 px-3.5 py-1.5 text-[11px] uppercase tracking-[0.12em] text-ink/60 transition-colors hover:border-ink/40 hover:text-ink"
+                  className="shrink-0 rounded-pill border border-ink/15 px-3 py-1.5 text-[10px] uppercase tracking-[0.12em] text-ink/60 transition-colors hover:border-ink/40 hover:text-ink sm:px-3.5 sm:text-[11px]"
                 >
                   Prev
                 </button>
                 <button
                   type="button"
                   onClick={() => jump(1)}
-                  className="rounded-pill border border-ink/15 px-3.5 py-1.5 text-[11px] uppercase tracking-[0.12em] text-ink/60 transition-colors hover:border-ink/40 hover:text-ink"
+                  className="shrink-0 rounded-pill border border-ink/15 px-3 py-1.5 text-[10px] uppercase tracking-[0.12em] text-ink/60 transition-colors hover:border-ink/40 hover:text-ink sm:px-3.5 sm:text-[11px]"
                 >
                   Next
                 </button>
