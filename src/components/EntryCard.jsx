@@ -42,14 +42,14 @@ function ExampleText({ paser, indonesia, query }) {
 function Examples({ list, query }) {
   if (!list?.length) return null;
   return (
-    <p className="space-y-1">
+    <div className="space-y-1">
       {list.map((ex, i) => (
         <span key={i} className="block">
           {renderExample(ex, query)}
           {i < list.length - 1 && <span className="mt-1 block h-px w-full bg-ink/08" />}
         </span>
       ))}
-    </p>
+    </div>
   );
 }
 
@@ -118,7 +118,7 @@ function VariantItem({ variant, query }) {
   );
 }
 
-export default function EntryCard({ entry, query, motionOk, active = false }) {
+export default function EntryCard({ entry, query, active = false }) {
   const subline = [entry.language, entry.partOfSpeech].filter(Boolean).join(' · ');
   const hasVariants = entry.subentries.length > 0 || entry.variants.length > 0;
   const variants = [...entry.subentries, ...entry.variants];
