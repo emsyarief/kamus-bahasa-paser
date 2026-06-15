@@ -90,7 +90,7 @@ export default function Results({ query, hasActiveQuery, results, motionOk, mode
                 <h2 className="font-display text-[clamp(1.6rem,8vw,3rem)] font-light leading-[1.05] tracking-[-0.04em] text-ink">{title}</h2>
                 <p className="mt-1 text-[15px] text-ink/60">{subtitle}</p>
               </div>
-              <div className="flex flex-nowrap items-center gap-1.5 overflow-x-auto pb-1 no-scrollbar sm:flex-wrap sm:gap-2 sm:overflow-visible sm:pb-0">
+              <div className="flex flex-wrap items-center gap-1.5 sm:gap-2">
                 {['all', 'paser', 'indo'].map((item) => (
                   <button
                     key={item}

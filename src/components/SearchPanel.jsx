@@ -35,7 +35,7 @@ export default function SearchPanel({ draftQuery, onDraftQueryChange, onSubmitSe
             Cari kata
           </button>
         </div>
-        <div className={`flex flex-nowrap items-center gap-1.5 overflow-x-auto pb-1 transition-all no-scrollbar sm:flex-wrap sm:gap-2 sm:overflow-visible sm:pb-0 ${compact ? 'hidden' : ''}`}>
+        <div className={`flex flex-wrap items-center gap-1.5 transition-all sm:gap-2 ${compact ? 'hidden' : ''}`}>
           <span className="text-[11px] uppercase tracking-[0.12em] text-ink/50">Mode:</span>
           {modes.map((m) => (
             <button

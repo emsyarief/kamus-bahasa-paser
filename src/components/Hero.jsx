@@ -58,7 +58,7 @@ export default function Hero({ draftQuery, onDraftQueryChange, onSubmitSearch, m
   }, [isSticky, motionOk]);
 
   return (
-    <section id="pencarian" ref={heroRef} className="section flex min-h-[calc(100svh-65px)] items-start border-b border-ink/15 px-pad-x py-8 sm:min-h-[calc(100vh-73px)] sm:items-center sm:py-12 lg:py-16">
+    <section id="pencarian" ref={heroRef} className="section flex min-h-[calc(100svh-65px)] w-full min-w-0 items-start overflow-hidden border-b border-ink/15 px-4 py-8 sm:min-h-[calc(100vh-73px)] sm:items-center sm:px-pad-x sm:py-12 lg:py-16">
       <div className="mx-auto flex w-full max-w-wrap flex-1 flex-col justify-center gap-7 sm:gap-12 lg:gap-16">
         <div className="grid gap-6 sm:gap-12 lg:grid-cols-[minmax(0,1.35fr)_minmax(18rem,28rem)] lg:items-end lg:gap-20">
           <div className="max-w-[15ch] lg:self-end">
